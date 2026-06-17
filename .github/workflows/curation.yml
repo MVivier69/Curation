@@ -1,1 +1,37 @@
-.github/workflows/curation.yml
+name: Curation PV mensuelle
+
+on:
+  schedule:
+    - cron: "0 6 1 * *"   # le 1er de chaque mois à 06:00 UTC
+  workflow_dispatch:       # bouton "Run workflow" pour lancer à la main
+
+permissions:
+  contents: write
+
+jobs:
+  generer:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: pip install feedparser
+
+      - name: Générer la page
+        run: python generate.py
+
+      - name: Publier si la page a changé
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add veille-pv.html
+          if git diff --staged --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "Curation PV : mise à jour mensuelle"
+            git push
+          fi
