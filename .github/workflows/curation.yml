@@ -1,37 +1,50 @@
-name: Curation PV mensuelle
+name: Veille PV
 
+# ─────────────────────────────────────────────────────────────────────
+#  AUTOMATISATION
+#  Le bloc "schedule" lance le workflow tout seul : AUCUN lancement manuel
+#  n'est nécessaire. "workflow_dispatch" n'est qu'un bouton de test optionnel.
+#
+#  GESTION DE LA FRÉQUENCE
+#  Décommentez UNE seule ligne "cron" ci-dessous (heures en UTC ; la France
+#  est UTC+1 en hiver, UTC+2 en été — 6:00 UTC ≈ 7 h ou 8 h locale).
+# ─────────────────────────────────────────────────────────────────────
 on:
   schedule:
-    - cron: "0 6 1 * *"   # le 1er de chaque mois à 06:00 UTC
-  workflow_dispatch:       # bouton "Run workflow" pour lancer à la main
+    - cron: "0 6 * * *"        # quotidien à 06:00 UTC  ← ACTIF
+    # - cron: "0 6,18 * * *"   # deux fois par jour (06:00 et 18:00 UTC)
+    # - cron: "0 6 * * 1"      # hebdomadaire, le lundi
+    # - cron: "0 6 1 * *"      # mensuel, le 1er du mois
+    # - cron: "0 */6 * * *"    # toutes les 6 heures
+  workflow_dispatch: {}        # bouton "Run workflow" (test manuel facultatif)
 
 permissions:
   contents: write
+
+concurrency:
+  group: veille-pv
+  cancel-in-progress: false
 
 jobs:
   generer:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-
       - name: Installer les dépendances
-        run: pip install feedparser
-
-      - name: Générer la page
+        run: pip install feedparser requests
+      - name: Générer la page (et mettre à jour l'historique)
         run: python generate.py
-
-      - name: Publier si la page a changé
+      - name: Publier si changement
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add veille-pv.html
+          git add veille-pv.html historique.json
           if git diff --staged --quiet; then
             echo "Aucun changement."
           else
-            git commit -m "Curation PV : mise à jour mensuelle"
+            git commit -m "Veille PV : mise à jour automatique ($(date -u +%Y-%m-%d_%H:%M))"
             git push
           fi
