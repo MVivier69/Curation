@@ -6,79 +6,414 @@
 <title>Veille photovoltaïque</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Hanken+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Hanken+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
   :root{
-    --papier:#F6F0E6; --papier2:#FBF7F0; --encre:#2C2620;
-    --terra:#C0613E; --terra-fonce:#9E4A2C; --trait:#E4D9C8; --gris:#7A7064;
+    --paper:#FBFAF7; --paper-2:#F4F1EA; --ink:#1C1917; --ink-soft:#57534E; --ink-faint:#8A8178;
+    --line:#E7E2D8; --line-strong:#D8D1C4; --card:#FFFFFF;
+    --accent:#C2410C; --accent-2:#EA8A3E; --accent-soft:#FBEAD9; --accent-ink:#7C2D12;
+    --slate:#64748B; --good:#15803D; --bad:#B91C1C;
+    --shadow:0 1px 2px rgba(28,25,23,.04), 0 14px 30px -18px rgba(28,25,23,.18);
+    --radius:16px;
+    --font-display:"Fraunces", Georgia, "Times New Roman", serif;
+    --font-body:"Hanken Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   }
   *{box-sizing:border-box}
-  body{margin:0;background:var(--papier);color:var(--encre);
-    font-family:"Hanken Grotesk",system-ui,sans-serif;line-height:1.55;padding:18px}
-  .entete{max-width:920px;margin:0 auto 6px}
-  .entete h1{font-family:"Fraunces",Georgia,serif;font-weight:600;font-size:1.7rem;margin:.2rem 0}
-  .entete .sous{color:var(--gris);font-size:.9rem;margin:0}
-  .grille{max-width:920px;margin:18px auto 0;display:grid;gap:16px;
-    grid-template-columns:repeat(auto-fill,minmax(280px,1fr))}
-  .carte{background:var(--papier2);border:1px solid var(--trait);border-radius:14px;
-    padding:18px 18px 16px;display:flex;flex-direction:column}
-  .src{display:inline-block;align-self:flex-start;font-size:.72rem;font-weight:600;
-    letter-spacing:.04em;text-transform:uppercase;color:var(--terra-fonce);
-    background:rgba(192,97,62,.10);border-radius:20px;padding:3px 10px;margin-bottom:10px}
-  .carte h2{font-family:"Fraunces",Georgia,serif;font-weight:600;font-size:1.12rem;
-    line-height:1.3;margin:0 0 6px}
-  .carte h2 a{color:var(--encre);text-decoration:none}
-  .carte h2 a:hover{color:var(--terra-fonce);text-decoration:underline}
-  .meta{font-size:.78rem;color:var(--gris);margin-bottom:10px}
-  .resume{font-size:.92rem;margin:0 0 14px}
-  .resume.vide{font-style:italic;color:var(--gris)}
-  .lire{margin-top:auto;align-self:flex-start;font-size:.85rem;font-weight:600;
-    color:#fff;background:var(--terra);text-decoration:none;border-radius:8px;padding:8px 14px}
-  .lire:hover{background:var(--terra-fonce)}
-  .pied{max-width:920px;margin:24px auto 0;font-size:.74rem;color:var(--gris);
-    border-top:1px solid var(--trait);padding-top:12px}
-  .pied a{color:var(--terra-fonce)}
+  body{margin:0;font-family:var(--font-body);color:var(--ink);
+    background:
+      radial-gradient(1100px 480px at 78% -8%, var(--accent-soft) 0%, transparent 60%),
+      linear-gradient(180deg, var(--paper) 0%, var(--paper) 70%, var(--paper-2) 100%);
+    background-attachment:fixed;line-height:1.5;font-variant-numeric:tabular-nums}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 22px 60px}
+  .masthead{padding:46px 0 24px;border-bottom:1px solid var(--line);margin-bottom:8px}
+  .kicker{display:flex;align-items:center;gap:12px;margin-bottom:18px;flex-wrap:wrap}
+  .badge{display:inline-flex;align-items:center;gap:8px;padding:6px 12px;border-radius:999px;
+    background:var(--accent-soft);color:var(--accent-ink);border:1px solid #F1D8C2;
+    font-size:12.5px;font-weight:600;letter-spacing:.02em}
+  .badge svg{width:15px;height:15px}
+  .eyebrow{font-size:12px;font-weight:600;letter-spacing:.22em;text-transform:uppercase;color:var(--ink-faint)}
+  h1{font-family:var(--font-display);font-weight:500;font-size:clamp(30px,5vw,46px);
+    line-height:1.05;letter-spacing:-.015em;margin:0}
+  h1 em{font-style:italic;color:var(--accent)}
+  .lead{margin:14px 0 0;max-width:60ch;color:var(--ink-soft);font-size:16px}
+  .jour{font-family:var(--font-display);font-weight:500;font-size:22px;letter-spacing:-.01em;
+    margin:38px 0 14px;display:flex;align-items:baseline;gap:12px}
+  .jour .jcount{font-family:var(--font-body);font-size:12.5px;font-weight:600;color:var(--ink-faint);
+    text-transform:uppercase;letter-spacing:.06em}
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(290px,1fr));gap:16px}
+  .article{position:relative;display:flex;flex-direction:column;background:var(--card);
+    border:1px solid var(--line);border-radius:var(--radius);padding:22px 20px 20px;
+    box-shadow:var(--shadow);overflow:hidden}
+  .article::before{content:"";position:absolute;top:0;left:0;right:0;height:3px;background:var(--accent)}
+  .src{display:inline-flex;align-self:flex-start;align-items:center;padding:5px 11px;border-radius:999px;
+    background:var(--accent-soft);color:var(--accent-ink);border:1px solid #F1D8C2;
+    font-size:11.5px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;margin-bottom:12px}
+  .article h2{font-family:var(--font-display);font-weight:500;font-size:18px;line-height:1.25;
+    letter-spacing:-.01em;margin:0 0 6px}
+  .article h2 a{color:var(--ink);text-decoration:none}
+  .article h2 a:hover{color:var(--accent)}
+  .meta{font-size:12px;color:var(--ink-faint);margin-bottom:12px}
+  .resume{font-size:14px;color:var(--ink-soft);margin:0 0 18px}
+  .resume.vide{font-style:italic;color:var(--ink-faint)}
+  .lire{margin-top:auto;align-self:flex-start;font-family:var(--font-body);font-size:13px;font-weight:600;
+    color:#fff;background:var(--ink);border-radius:11px;padding:9px 16px;text-decoration:none;
+    box-shadow:var(--shadow);transition:transform .12s ease, background .2s ease}
+  .lire:hover{background:#000;transform:translateY(-1px)}
+  .note{display:flex;gap:14px;margin-top:34px;padding:16px 18px;background:var(--card);
+    border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:12px;
+    box-shadow:var(--shadow);font-size:13px;color:var(--ink-soft)}
+  .note strong{color:var(--ink)}
 </style>
 </head>
 <body>
-  <header class="entete">
-    <h1>Veille photovoltaïque</h1>
-    <p class="sous">Sélection d’articles issus de sources spécialisées — mise à jour le 17/06/2026.</p>
-  </header>
-  <main class="grille">
-      <article class="carte">
-        <div class="src">L&#x27;Écho du Solaire</div>
-        <h2><a href="https://www.lechodusolaire.fr/centrales-solaires-au-sol-le-seuil-devaluation-environnementale-pourrait-passer-de-1-a-3-mwc/" target="_blank" rel="noopener nofollow">Centrales solaires au sol : le seuil d’évaluation environnementale pourrait passer de 1 à 3 MWc</a></h2>
-        <div class="meta">L&#x27;Écho du Solaire · 16 juin 2026 · Frédéric Fassot</div>
-        <p class="resume">Le gouvernement veut alléger les procédures applicables aux centrales photovoltaïques de taille intermédiaire. Un projet de décret, en consultation publique jusqu’au 2 juillet 2026, relève de 1 à 3 mégawatts-crête (MWc) le seuil au-delà duquel une évaluation environnementale est […]</p>
-        <a class="lire" href="https://www.lechodusolaire.fr/centrales-solaires-au-sol-le-seuil-devaluation-environnementale-pourrait-passer-de-1-a-3-mwc/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
-      </article>
-      <article class="carte">
-        <div class="src">les-energies-renouvelables.eu</div>
-        <h2><a href="https://www.les-energies-renouvelables.eu/enercoop-forme-les-acteurs-du-territoire-a-la-transition-energetique/" target="_blank" rel="noopener nofollow">Enercoop forme les acteurs du territoire à la transition énergétique</a></h2>
-        <div class="meta">les-energies-renouvelables.eu · 15 juin 2026 · Risna Beapami</div>
-        <p class="resume">Fournisseur d’électricité 100 % renouvelable en contrat direct depuis vingt ans, Enercoop est aussi un acteur de terrain de la transition énergétique : bureaux d’études solaires et thermiques, développement de sites de production, accompagnement des collectivités et des […]</p>
-        <a class="lire" href="https://www.les-energies-renouvelables.eu/enercoop-forme-les-acteurs-du-territoire-a-la-transition-energetique/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
-      </article>
-      <article class="carte">
-        <div class="src">INES</div>
-        <h2><a href="https://www.ines-solaire.org/news/7-mg-dargent-le-cea-prend-une-belle-avance/" target="_blank" rel="noopener nofollow">7 mg d’argent : le CEA prend une belle avance !</a></h2>
-        <div class="meta">INES · 29 mai 2026</div>
-        <p class="resume vide">Résumé non fourni par la source — consultez l’article original.</p>
-        <a class="lire" href="https://www.ines-solaire.org/news/7-mg-dargent-le-cea-prend-une-belle-avance/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
-      </article>
-      <article class="carte">
-        <div class="src">Enerplan</div>
-        <h2><a href="https://www.enerplan.asso.fr/gt-flexibilites-stockage-marches-denerplan-replay-de-la-reunion-du-16-juin/" target="_blank" rel="noopener nofollow">GT Flexibilités, stockage &amp; marchés d’Enerplan : replay de la réunion du 16 juin</a></h2>
-        <div class="meta">Enerplan · 16 juin 2026 · Mickaël Marie</div>
-        <p class="resume vide">Résumé non fourni par la source — consultez l’article original.</p>
-        <a class="lire" href="https://www.enerplan.asso.fr/gt-flexibilites-stockage-marches-denerplan-replay-de-la-reunion-du-16-juin/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
-      </article>
-  </main>
-  <footer class="pied">
-    Curation automatique. Les titres, extraits et liens renvoient vers les sites éditeurs,
-    seuls détenteurs des droits sur leurs contenus. Aucun article n’est reproduit en intégralité.
-    Sources : L’Écho du Solaire, les-energies-renouvelables.eu, INES, Enerplan.
-  </footer>
+  <div class="wrap">
+    <header class="masthead">
+      <div class="kicker">
+        <span class="badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg> Veille quotidienne</span>
+        <span class="eyebrow">Photovoltaïque · 10 jours</span>
+      </div>
+      <h1>Veille <em>photovoltaïque</em></h1>
+      <p class="lead">44 articles sur les 10 derniers jours,
+      issus de 13 sources — mise à jour le 18/06/2026.</p>
+    </header>
+
+      <h2 class="jour">Hier <span class="jcount">13 articles</span></h2>
+      <div class="grid">
+        <article class="article">
+          <span class="src">Enerzine</span>
+          <h2><a href="https://www.enerzine.com/exolum-ajoute-laeroport-de-madere-a-son-reseau-mondial/188610-2026-06" target="_blank" rel="noopener nofollow">Exolum ajoute l’aéroport de Madère à son réseau mondial</a></h2>
+          <div class="meta">Enerzine · 17 juin 2026 · La rédaction</div>
+          <p class="resume">L’entreprise espagnole Exolum a démarré l’exploitation des installations de stockage et de distribution de carburants d’aviation à l’aéroport international Cristiano Ronaldo de Madère, au Portugal. Le contrat, signé avec ANA (groupe VINCI), court sur sept ans et mobilisera plus […]</p>
+          <a class="lire" href="https://www.enerzine.com/exolum-ajoute-laeroport-de-madere-a-son-reseau-mondial/188610-2026-06" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">Futura Sciences</span>
+          <h2><a href="https://www.futura-sciences.com/conso/bons-plans/guides-pc-tablettes-lenovo-legion-y700-3rd-moins-400-snapdragon-8-gen-3-ecran-165-hz-format-88-pouces-tablette-gaming-change-donne-10358/" target="_blank" rel="noopener nofollow">La Lenovo Legion Y700 3rd à moins de 400 € : Snapdragon 8 Gen 3, écran 165 Hz et format 8,8 pouces pour la tablette gaming qui change la donne</a></h2>
+          <div class="meta">Futura Sciences · 17 juin 2026 · Benoit Baylé, Rédacteur web</div>
+          <p class="resume">La Lenovo Legion Y700 3rd génération ne ressemble pas aux tablettes Android classiques, et c&#x27;est précisément ce qui la rend intéressante. Snapdragon 8 Gen 3 dernière génération, écran 8,8 pouces en 2,5K à 165 Hz, batterie de 6 550 mAh et un format compact pensé spécifiquement […]</p>
+          <a class="lire" href="https://www.futura-sciences.com/conso/bons-plans/guides-pc-tablettes-lenovo-legion-y700-3rd-moins-400-snapdragon-8-gen-3-ecran-165-hz-format-88-pouces-tablette-gaming-change-donne-10358/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">GreenUnivers</span>
+          <h2><a href="https://www.greenunivers.com/2026/06/lespoir-fait-vivre-la-chaleur-solaire-426911/" target="_blank" rel="noopener nofollow">L’espoir fait vivre la chaleur solaire</a></h2>
+          <div class="meta">GreenUnivers · 17 juin 2026 · Jean-Philippe Pié</div>
+          <p class="resume">Ca ira mieux demain ! Chaque année, les acteurs de la chaleur solaire espèrent que leur secteur va retrouver des couleurs. L’état d’esprit est le même en 2026, comme en témoignent les participants rencontrés aux « Etats généraux du solaire thermique » organisés aujourd’hui par […]</p>
+          <a class="lire" href="https://www.greenunivers.com/2026/06/lespoir-fait-vivre-la-chaleur-solaire-426911/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">Enerzine</span>
+          <h2><a href="https://www.enerzine.com/comment-les-energies-vertes-changent-notre-quotidien-en-mieux/188751-2026-06" target="_blank" rel="noopener nofollow">Comment les énergies vertes changent notre quotidien en mieux</a></h2>
+          <div class="meta">Enerzine · 17 juin 2026 · La rédaction</div>
+          <p class="resume">Les énergies renouvelables ne sont plus un truc du futur, elles font maintenant partie de notre quotidien. Entre les panneaux solaires sur les toits, les éoliennes au loin et les voitures électriques qui se multiplient dans les rues, la transition écologique avance à grands pas […]</p>
+          <a class="lire" href="https://www.enerzine.com/comment-les-energies-vertes-changent-notre-quotidien-en-mieux/188751-2026-06" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">pv magazine France</span>
+          <h2><a href="https://www.pv-magazine.fr/2026/06/17/lespagne-a-enregistre-397-heures-de-prix-negatifs-de-lelectricite-au-premier-trimestre/" target="_blank" rel="noopener nofollow">L’Espagne a enregistré 397 heures de prix négatifs de l’électricité au premier trimestre</a></h2>
+          <div class="meta">pv magazine France · 17 juin 2026 · Gwénaëlle Deboutte</div>
+          <p class="resume">Le pays fait face à une forte augmentation des périodes de prix négatifs de l’électricité, conséquence d’une croissance rapide de la production solaire qui dépasse, à court terme, la demande. Cette situation met en lumière la vulnérabilité des projets renouvelables exposés au […]</p>
+          <a class="lire" href="https://www.pv-magazine.fr/2026/06/17/lespagne-a-enregistre-397-heures-de-prix-negatifs-de-lelectricite-au-premier-trimestre/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">pv magazine France</span>
+          <h2><a href="https://www.pv-magazine.fr/2026/06/17/photovoltaique-tandem-a-perovskite-pour-lagrivoltaisme/" target="_blank" rel="noopener nofollow">Photovoltaïque tandem à pérovskite pour l’agrivoltaïsme</a></h2>
+          <div class="meta">pv magazine France · 17 juin 2026 · Gwénaëlle Deboutte</div>
+          <p class="resume">Une analyse du cycle de vie « de la ferme à l’assiette » menée par des chercheurs de l’Université Cornell évalue le potentiel des technologies photovoltaïques tandem à pérovskite appliquées à l’agrivoltaïsme. Les résultats indiquent que ces systèmes pourraient améliorer la […]</p>
+          <a class="lire" href="https://www.pv-magazine.fr/2026/06/17/photovoltaique-tandem-a-perovskite-pour-lagrivoltaisme/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">pv magazine France</span>
+          <h2><a href="https://www.pv-magazine.fr/2026/06/17/de-nouvelles-ombrieres-solaires-sur-le-parking-p3-de-laeroport-de-marseille/" target="_blank" rel="noopener nofollow">De nouvelles ombrières solaires sur le parking P3 de l’aéroport de Marseille</a></h2>
+          <div class="meta">pv magazine France · 17 juin 2026 · Francois Puthod</div>
+          <p class="resume">Avec l’installation de nouvelles ombrières photovoltaïques de parking capables de produire jusqu’à 4 GWh par an, l’aéroport Marseille-Provence renforce son autonomie énergétique.</p>
+          <a class="lire" href="https://www.pv-magazine.fr/2026/06/17/de-nouvelles-ombrieres-solaires-sur-le-parking-p3-de-laeroport-de-marseille/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">pv magazine</span>
+          <h2><a href="https://www.pv-magazine.com/2026/06/17/dunext-releases-261kwh-ci-storage-system/" target="_blank" rel="noopener nofollow">Dunext releases 261 kWh C&amp;I storage system</a></h2>
+          <div class="meta">pv magazine · 17 juin 2026 · Lior Kahana</div>
+          <p class="resume">Dunext has launched a 261 kWh PowerHill C&amp;I energy storage system with LiFePO4 batteries, liquid cooling, 125 kW power output, IP55 protection, and scalable deployment of up to 10 units in parallel.</p>
+          <a class="lire" href="https://www.pv-magazine.com/2026/06/17/dunext-releases-261kwh-ci-storage-system/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">pv magazine</span>
+          <h2><a href="https://www.pv-magazine.com/2026/06/17/korean-scientists-build-shingled-solar-module-for-thermoelectric-generators/" target="_blank" rel="noopener nofollow">Korean scientists build shingled solar module for thermoelectric generators</a></h2>
+          <div class="meta">pv magazine · 17 juin 2026 · Emiliano Bellini</div>
+          <p class="resume">Researchers at the Korea Institute of Energy Research developed a shingled photovoltaic module designed for efficient integration with thermoelectric generators (TEGs) to harvest waste heat via the Seebeck effect. The series-connected strip architecture enables high-voltage […]</p>
+          <a class="lire" href="https://www.pv-magazine.com/2026/06/17/korean-scientists-build-shingled-solar-module-for-thermoelectric-generators/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">Révolution Énergétique</span>
+          <h2><a href="https://www.revolution-energetique.com/actus/leurope-ne-veut-plus-donduleurs-chinois-sur-ses-panneaux-solaires/" target="_blank" rel="noopener nofollow">L’Europe ne veut plus d’onduleurs chinois sur ses panneaux solaires</a></h2>
+          <div class="meta">Révolution Énergétique · 17 juin 2026 · Kevin CHAMPEAU</div>
+          <p class="resume">Il va maintenant falloir assumer cette décision. La Commission européenne a annoncé le financement de nouveaux onduleurs chinois pour des projets photovoltaïques. Cette décision, bien que […] L’article L’Europe ne veut plus d’onduleurs chinois sur ses panneaux solaires est […]</p>
+          <a class="lire" href="https://www.revolution-energetique.com/actus/leurope-ne-veut-plus-donduleurs-chinois-sur-ses-panneaux-solaires/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">pv magazine France</span>
+          <h2><a href="https://www.pv-magazine.fr/2026/06/17/avis-de-marches-publics-dans-le-pv-en-france-125/" target="_blank" rel="noopener nofollow">Avis de marchés publics dans le PV en France</a></h2>
+          <div class="meta">pv magazine France · 17 juin 2026 · Francois Puthod</div>
+          <p class="resume">Retrouvez chaque semaine dans pv magazine les appels d’offres publiés relatifs aux projets photovoltaïques en France.</p>
+          <a class="lire" href="https://www.pv-magazine.fr/2026/06/17/avis-de-marches-publics-dans-le-pv-en-france-125/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">pv magazine France</span>
+          <h2><a href="https://www.pv-magazine.fr/2026/06/17/avec-greenunits-nerius-invest-cible-les-projets-de-decarbonation-de-2-a-10-me/" target="_blank" rel="noopener nofollow">Avec GreenUnits, Nerius Invest cible les projets de décarbonation de 2 à 10 M€</a></h2>
+          <div class="meta">pv magazine France · 17 juin 2026 · Gwénaëlle Deboutte</div>
+          <p class="resume">La greentech lyonnaise crée une filiale dédiée à la maîtrise d&#x27;ouvrage déléguée afin d&#x27;accompagner les PME dans leurs projets de transition énergétique. Nerius Invest est notamment engagée dans le programme Hyguane en Guyane, qui vise à remplacer 10 à 15 % de l’hydrogène gris […]</p>
+          <a class="lire" href="https://www.pv-magazine.fr/2026/06/17/avec-greenunits-nerius-invest-cible-les-projets-de-decarbonation-de-2-a-10-me/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">pv magazine France</span>
+          <h2><a href="https://www.pv-magazine.fr/2026/06/17/le-retournement-du-marche-solaire-plonge-okwind-dans-le-rouge/" target="_blank" rel="noopener nofollow">Le retournement du marché solaire plonge OKWind dans le rouge</a></h2>
+          <div class="meta">pv magazine France · 17 juin 2026 · Gwénaëlle Deboutte</div>
+          <p class="resume">Fragilisé par la crise du marché solaire et la chute de ses revenus, le groupe OKWind a recentré son offre autour des trackers, du stockage d&#x27;énergie et des logiciels de pilotage. Une augmentation de capital de quatre millions d&#x27;euros est à l&#x27;étude pour soutenir cette nouvelle […]</p>
+          <a class="lire" href="https://www.pv-magazine.fr/2026/06/17/le-retournement-du-marche-solaire-plonge-okwind-dans-le-rouge/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+      </div>
+      <h2 class="jour">16 juin 2026 <span class="jcount">18 articles</span></h2>
+      <div class="grid">
+        <article class="article">
+          <span class="src">Enerplan</span>
+          <h2><a href="https://www.enerplan.asso.fr/gt-flexibilites-stockage-marches-denerplan-replay-de-la-reunion-du-16-juin/" target="_blank" rel="noopener nofollow">GT Flexibilités, stockage &amp; marchés d’Enerplan : replay de la réunion du 16 juin</a></h2>
+          <div class="meta">Enerplan · 16 juin 2026 · Mickaël Marie</div>
+          <p class="resume vide">Résumé non fourni par la source — voir l’article original.</p>
+          <a class="lire" href="https://www.enerplan.asso.fr/gt-flexibilites-stockage-marches-denerplan-replay-de-la-reunion-du-16-juin/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">GreenUnivers</span>
+          <h2><a href="https://www.greenunivers.com/2026/06/comment-poweend-veut-valoriser-ses-petites-eoliennes-en-autoconsommation-426802/" target="_blank" rel="noopener nofollow">Comment Poweend veut valoriser ses petites éoliennes en autoconsommation</a></h2>
+          <div class="meta">GreenUnivers · 16 juin 2026 · Jacopo Landi</div>
+          <p class="resume">Alors que les éoliennes semblent destinées à devenir de plus en plus grandes, le fabricant français Poweend, détenu par le fondateur L’article Comment Poweend veut valoriser ses petites éoliennes en autoconsommation est apparu en premier sur GreenUnivers .</p>
+          <a class="lire" href="https://www.greenunivers.com/2026/06/comment-poweend-veut-valoriser-ses-petites-eoliennes-en-autoconsommation-426802/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">L&#x27;EnerGeek</span>
+          <h2><a href="https://lenergeek.com/2026/06/16/byd-recharge-rapide-voiture-electrique/" target="_blank" rel="noopener nofollow">Voiture électrique : BYD va déployer une recharge rapide, à moindre coût</a></h2>
+          <div class="meta">L&#x27;EnerGeek · 16 juin 2026 · Jean-Baptiste Giraud</div>
+          <p class="resume">BYD déploie en Europe son réseau de recharge ultra-rapide &quot;Flash Charging&quot; avec un tarif inférieur à 0,58 €/kWh, permettant de recharger une voiture électrique de 10 % à 70 % en cinq minutes. Grâce à des bornes délivrant jusqu&#x27;à 1 500 kW et un système de stockage énergétique […]</p>
+          <a class="lire" href="https://lenergeek.com/2026/06/16/byd-recharge-rapide-voiture-electrique/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">L&#x27;Écho du Solaire</span>
+          <h2><a href="https://www.lechodusolaire.fr/centrales-solaires-au-sol-le-seuil-devaluation-environnementale-pourrait-passer-de-1-a-3-mwc/" target="_blank" rel="noopener nofollow">Centrales solaires au sol : le seuil d’évaluation environnementale pourrait passer de 1 à 3 MWc</a></h2>
+          <div class="meta">L&#x27;Écho du Solaire · 16 juin 2026 · Frédéric Fassot</div>
+          <p class="resume">Le gouvernement veut alléger les procédures applicables aux centrales photovoltaïques de taille intermédiaire. Un projet de décret, en consultation publique jusqu’au 2 juillet 2026, relève de 1 à 3 mégawatts-crête (MWc) le seuil au-delà duquel une évaluation environnementale est […]</p>
+          <a class="lire" href="https://www.lechodusolaire.fr/centrales-solaires-au-sol-le-seuil-devaluation-environnementale-pourrait-passer-de-1-a-3-mwc/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">L&#x27;Écho du Solaire</span>
+          <h2><a href="https://www.lechodusolaire.fr/souverainete-de-la-france-en-matiere-dia-la-filiere-renouvelable-interpelle-le-gouvernement/" target="_blank" rel="noopener nofollow">Souveraineté de la France en matière d’IA : la filière renouvelable interpelle le gouvernement</a></h2>
+          <div class="meta">L&#x27;Écho du Solaire · 16 juin 2026 · Frédéric Fassot</div>
+          <p class="resume">Dans une tribune collective publiée dans Les Echos, quatre dirigeants de la filière des énergies renouvelables alertent : sans déploiement rapide et massif de capacités électriques bas carbone, la France ne pourra pas bâtir une intelligence artificielle souveraine. Signé par […]</p>
+          <a class="lire" href="https://www.lechodusolaire.fr/souverainete-de-la-france-en-matiere-dia-la-filiere-renouvelable-interpelle-le-gouvernement/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">L&#x27;Écho du Solaire</span>
+          <h2><a href="https://www.lechodusolaire.fr/mylight150-lance-une-levee-de-fonds-participative-et-revendique-sa-croissance-malgre-la-fin-des-aides/" target="_blank" rel="noopener nofollow">Mylight150 lance une levée de fonds participative et revendique sa croissance malgré la fin des aides</a></h2>
+          <div class="meta">L&#x27;Écho du Solaire · 16 juin 2026 · Frédéric Fassot</div>
+          <p class="resume">Mylight150, spécialiste français de l’autoconsommation solaire et fournisseur d’électricité, ouvre une campagne de financement participatif sur la plateforme Lita. L’entreprise vise un objectif minimum de 1 million d’euros et un objectif cible de 2 millions d’euros en […]</p>
+          <a class="lire" href="https://www.lechodusolaire.fr/mylight150-lance-une-levee-de-fonds-participative-et-revendique-sa-croissance-malgre-la-fin-des-aides/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">L&#x27;Écho du Solaire</span>
+          <h2><a href="https://www.lechodusolaire.fr/jackery-et-homey-allient-batterie-domestique-et-pilotage-energetique-en-temps-reel/" target="_blank" rel="noopener nofollow">Jackery et Homey allient batterie domestique et pilotage énergétique en temps réel</a></h2>
+          <div class="meta">L&#x27;Écho du Solaire · 16 juin 2026 · Frédéric Fassot</div>
+          <p class="resume">Jackery et Homey ont noué un partenariat stratégique pour intégrer la nouvelle gamme de batteries domestiques plug-and-play SolarVault 3 du premier à la plateforme de gestion énergétique du second, plateforme de maison intelligente développée par le Néerlandais Athom, filiale de […]</p>
+          <a class="lire" href="https://www.lechodusolaire.fr/jackery-et-homey-allient-batterie-domestique-et-pilotage-energetique-en-temps-reel/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">L&#x27;Écho du Solaire</span>
+          <h2><a href="https://www.lechodusolaire.fr/ja-solar-devient-ja-et-se-positionne-en-partenaire-integre-de-lenergie-verte/" target="_blank" rel="noopener nofollow">JA Solar devient « JA » et se positionne en partenaire intégré de l’énergie verte</a></h2>
+          <div class="meta">L&#x27;Écho du Solaire · 16 juin 2026 · Frédéric Fassot</div>
+          <p class="resume">Le Chinois JA Solar a annoncé le 10 juin 2026 un changement de marque mondial pour devenir « JA », marquant son évolution de fabricant de modules solaires vers un partenaire d’écosystème énergétique vert intégré. La nouvelle identité a été dévoilée le 2 juin à Shanghai, lors de […]</p>
+          <a class="lire" href="https://www.lechodusolaire.fr/ja-solar-devient-ja-et-se-positionne-en-partenaire-integre-de-lenergie-verte/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">L&#x27;Écho du Solaire</span>
+          <h2><a href="https://www.lechodusolaire.fr/photovoltaique-vertical-over-easy-solar-et-next2sun-nouent-un-partenariat-commercial-en-europe/" target="_blank" rel="noopener nofollow">Photovoltaïque vertical : Over Easy Solar et Next2Sun nouent un partenariat commercial en Europe</a></h2>
+          <div class="meta">L&#x27;Écho du Solaire · 16 juin 2026 · Frédéric Fassot</div>
+          <p class="resume">Le Norvégien Over Easy Solar et l’Allemand Next2Sun, deux spécialistes du photovoltaïque vertical, ont annoncé la mise en place d’un partenariat stratégique en matière de vente et de marketing. L’objectif est d’accélérer la commercialisation de cette technologie sur plusieurs […]</p>
+          <a class="lire" href="https://www.lechodusolaire.fr/photovoltaique-vertical-over-easy-solar-et-next2sun-nouent-un-partenariat-commercial-en-europe/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">L&#x27;Écho du Solaire</span>
+          <h2><a href="https://www.lechodusolaire.fr/sungrow-et-sunotec-mettent-en-service-un-systeme-de-stockage-de-150-mw-600-mwh-en-bulgarie/" target="_blank" rel="noopener nofollow">Sungrow et Sunotec mettent en service un système de stockage de 150 MW / 600 MWh en Bulgarie</a></h2>
+          <div class="meta">L&#x27;Écho du Solaire · 16 juin 2026 · Frédéric Fassot</div>
+          <p class="resume">Sungrow et Sunotec ont mis en service un système de stockage par batteries (BESS) de 150 MW / 600 MWh à Nova Zagora, en Bulgarie. Le projet, développé et détenu par Enery, l’un des principaux producteurs indépendants d’électricité d’Europe centrale et orientale, repose sur la […]</p>
+          <a class="lire" href="https://www.lechodusolaire.fr/sungrow-et-sunotec-mettent-en-service-un-systeme-de-stockage-de-150-mw-600-mwh-en-bulgarie/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">L&#x27;Écho du Solaire</span>
+          <h2><a href="https://www.lechodusolaire.fr/ze-energy-et-octopus-sassocient-pour-construire-lune-des-plus-grandes-batteries-ditalie/" target="_blank" rel="noopener nofollow">ZE Energy et Octopus s’associent pour construire l’une des plus grandes batteries d’Italie</a></h2>
+          <div class="meta">L&#x27;Écho du Solaire · 16 juin 2026 · Frédéric Fassot</div>
+          <p class="resume">ZE Energy, producteur indépendant d’électricité renouvelable et acteur des solutions européennes de stockage par batteries, s’associe au britannique Octopus Energy Generation pour développer en Italie le projet Sessa Aurunca. Cette batterie autonome de 98,5 MW et 895 MWh sera […]</p>
+          <a class="lire" href="https://www.lechodusolaire.fr/ze-energy-et-octopus-sassocient-pour-construire-lune-des-plus-grandes-batteries-ditalie/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">L&#x27;Écho du Solaire</span>
+          <h2><a href="https://www.lechodusolaire.fr/totalenergies-inaugure-a-cere-sa-plus-grande-centrale-solaire-de-nouvelle-aquitaine/" target="_blank" rel="noopener nofollow">TotalEnergies inaugure à Cère sa plus grande centrale solaire de Nouvelle-Aquitaine</a></h2>
+          <div class="meta">L&#x27;Écho du Solaire · 16 juin 2026 · Frédéric Fassot</div>
+          <p class="resume">TotalEnergies a inauguré le 12 juin 2026 la centrale solaire de Cère, dans les Landes, sa plus importante installation solaire en Nouvelle-Aquitaine. D’une puissance de 45 MWc, elle produira chaque année 56,7 GWh d’électricité renouvelable, soit l’équivalent de la consommation […]</p>
+          <a class="lire" href="https://www.lechodusolaire.fr/totalenergies-inaugure-a-cere-sa-plus-grande-centrale-solaire-de-nouvelle-aquitaine/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">Enerplan</span>
+          <h2><a href="https://www.enerplan.asso.fr/valorisation-du-surplus-delectricite-renouvelable-de-letat-consultation-prealable-a-la-procedure-de-mise-en-concurrence/" target="_blank" rel="noopener nofollow">Valorisation du surplus d’électricité renouvelable de l’État : consultation préalable à la procédure de mise en concurrence</a></h2>
+          <div class="meta">Enerplan · 16 juin 2026 · Mickaël Marie</div>
+          <p class="resume vide">Résumé non fourni par la source — voir l’article original.</p>
+          <a class="lire" href="https://www.enerplan.asso.fr/valorisation-du-surplus-delectricite-renouvelable-de-letat-consultation-prealable-a-la-procedure-de-mise-en-concurrence/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">Futura Sciences</span>
+          <h2><a href="https://www.futura-sciences.com/sciences/actualites/venus-venus-tourne-envers-catastrophe-cosmique-pourrait-enfin-expliquer-135390/" target="_blank" rel="noopener nofollow">Vénus tourne à l’envers : une catastrophe cosmique pourrait enfin expliquer pourquoi</a></h2>
+          <div class="meta">Futura Sciences · 16 juin 2026 · Gaspard Salomon, Journaliste</div>
+          <p class="resume">Vénus est la seule planète du Système solaire à tourner aussi lentement et dans le sens opposé à celui de la plupart de ses voisines. Selon une nouvelle étude, cette étrange rotation pourrait être l&#x27;héritage d&#x27;un impact titanesque survenu aux débuts du Système solaire.</p>
+          <a class="lire" href="https://www.futura-sciences.com/sciences/actualites/venus-venus-tourne-envers-catastrophe-cosmique-pourrait-enfin-expliquer-135390/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">Futura Sciences</span>
+          <h2><a href="https://www.futura-sciences.com/tech/actualites/batterie-canicule-chaleurs-extremes-affectent-batterie-vos-appareils-134801/" target="_blank" rel="noopener nofollow">Canicule : comment les chaleurs extrêmes affectent la batterie de vos appareils ?</a></h2>
+          <div class="meta">Futura Sciences · 16 juin 2026 · Naïm BADA, Rédacteur web High-Tech</div>
+          <p class="resume">Le froid ralentit votre batterie, la chaleur la tue. Sous l’effet des températures élevées, vos appareils électroniques risquent bien plus qu&#x27;une simple baisse de performance.</p>
+          <a class="lire" href="https://www.futura-sciences.com/tech/actualites/batterie-canicule-chaleurs-extremes-affectent-batterie-vos-appareils-134801/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">Enerplan</span>
+          <h2><a href="https://www.enerplan.asso.fr/quel-impact-du-stockage-batteries-sur-les-prix-spot-une-etude-clean-horizon-commandee-par-enerplan/" target="_blank" rel="noopener nofollow">Quel impact du stockage batteries sur les prix SPOT ? Une étude Clean Horizon commandée par Enerplan</a></h2>
+          <div class="meta">Enerplan · 16 juin 2026 · Mickaël Marie</div>
+          <p class="resume vide">Résumé non fourni par la source — voir l’article original.</p>
+          <a class="lire" href="https://www.enerplan.asso.fr/quel-impact-du-stockage-batteries-sur-les-prix-spot-une-etude-clean-horizon-commandee-par-enerplan/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">Futura Sciences</span>
+          <h2><a href="https://www.futura-sciences.com/conso/bons-plans/guides-energie-renouvelable-si-vous-reduisiez-votre-facture-electricite-grace-cette-promo-batterie-solaire-jackery-solarvault-3-10305/" target="_blank" rel="noopener nofollow">Et si vous réduisiez votre facture d&#x27;électricité grâce à cette promo sur la batterie solaire Jackery SolarVault 3 ?</a></h2>
+          <div class="meta">Futura Sciences · 16 juin 2026 · Futura Partenariats, Contenu sponsorisé</div>
+          <p class="resume">Le soleil ne se contente plus d&#x27;éclairer les journées : il peut aussi alléger la facture d&#x27;électricité. Avec l&#x27;arrivée de la gamme SolarVault 3 en France, Jackery rend le stockage solaire domestique plus accessible grâce à des batteries résidentielles proposées à partir de 839 […]</p>
+          <a class="lire" href="https://www.futura-sciences.com/conso/bons-plans/guides-energie-renouvelable-si-vous-reduisiez-votre-facture-electricite-grace-cette-promo-batterie-solaire-jackery-solarvault-3-10305/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">Energy-Storage.news</span>
+          <h2><a href="https://www.energy-storage.news/western-power-begins-work-on-18-new-community-batteries-in-western-australia/" target="_blank" rel="noopener nofollow">Western Power begins work on 18 new community batteries in Western Australia</a></h2>
+          <div class="meta">Energy-Storage.news · 16 juin 2026 · George Heynes</div>
+          <p class="resume">Western Power has started construction on 18 community battery energy storage systems across Perth and Bunbury in Western Australia.</p>
+          <a class="lire" href="https://www.energy-storage.news/western-power-begins-work-on-18-new-community-batteries-in-western-australia/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+      </div>
+      <h2 class="jour">15 juin 2026 <span class="jcount">4 articles</span></h2>
+      <div class="grid">
+        <article class="article">
+          <span class="src">les-energies-renouvelables.eu</span>
+          <h2><a href="https://www.les-energies-renouvelables.eu/enercoop-forme-les-acteurs-du-territoire-a-la-transition-energetique/" target="_blank" rel="noopener nofollow">Enercoop forme les acteurs du territoire à la transition énergétique</a></h2>
+          <div class="meta">les-energies-renouvelables.eu · 15 juin 2026 · Risna Beapami</div>
+          <p class="resume">Fournisseur d’électricité 100 % renouvelable en contrat direct depuis vingt ans, Enercoop est aussi un acteur de terrain de la transition énergétique : bureaux d’études solaires et thermiques, développement de sites de production, accompagnement des collectivités et des […]</p>
+          <a class="lire" href="https://www.les-energies-renouvelables.eu/enercoop-forme-les-acteurs-du-territoire-a-la-transition-energetique/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">Révolution Énergétique</span>
+          <h2><a href="https://www.revolution-energetique.com/actus/pour-financer-les-nouveaux-reacteurs-nucleaires-francais-edf-va-vendre-ses-eoliennes-americaines/" target="_blank" rel="noopener nofollow">Pour financer les nouveaux réacteurs nucléaires français, EDF va vendre ses éoliennes américaines</a></h2>
+          <div class="meta">Révolution Énergétique · 15 juin 2026 · Kevin CHAMPEAU</div>
+          <p class="resume">EDF n’aura bientôt plus d’éoliennes ni de panneaux solaires en Amérique du Nord ! L’électricien français serait en discussion avancée avec une compagnie américaine pour […] L’article Pour financer les nouveaux réacteurs nucléaires français, EDF va vendre ses éoliennes […]</p>
+          <a class="lire" href="https://www.revolution-energetique.com/actus/pour-financer-les-nouveaux-reacteurs-nucleaires-francais-edf-va-vendre-ses-eoliennes-americaines/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">Energy-Storage.news</span>
+          <h2><a href="https://www.energy-storage.news/inside-south-australias-ferm-tender-why-a-technology-neutral-process-produced-an-all-battery-outcome/" target="_blank" rel="noopener nofollow">Inside South Australia’s FERM tender: Why a technology-neutral process produced an all-battery outcome</a></h2>
+          <div class="meta">Energy-Storage.news · 15 juin 2026 · George Heynes</div>
+          <p class="resume">ESN Premium speaks with ASL on the latest FERM tender results in South Australia and why batteries excelled.</p>
+          <a class="lire" href="https://www.energy-storage.news/inside-south-australias-ferm-tender-why-a-technology-neutral-process-produced-an-all-battery-outcome/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">Transitions &amp; Énergies</span>
+          <h2><a href="https://www.transitionsenergies.com/tribune-appel-offre-ao10-eolien-mer-associations-cout-reel-eolien-en-mer/" target="_blank" rel="noopener nofollow">Tribune: Lancement de l’appel d’offre AO10 sur l’éolien en mer, les associations alertent sur le coût réel de l’éolien en mer</a></h2>
+          <div class="meta">Transitions &amp; Énergies · 15 juin 2026 · La rédaction</div>
+          <p class="resume">L&#x27;appel d&#x27;offres AO10 porte sur plusieurs gigawatts d&#x27;éolien en mer supplémentaires. Au-delà du débat sur le réalisme économique de l’éolien et du solaire, la question centrale est celle de leur coût complet pour la collectivité, de leur utilité dans un contexte de surproduction […]</p>
+          <a class="lire" href="https://www.transitionsenergies.com/tribune-appel-offre-ao10-eolien-mer-associations-cout-reel-eolien-en-mer/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+      </div>
+      <h2 class="jour">14 juin 2026 <span class="jcount">1 article</span></h2>
+      <div class="grid">
+        <article class="article">
+          <span class="src">Révolution Énergétique</span>
+          <h2><a href="https://www.revolution-energetique.com/actus/panneaux-solaires-chauffage-fatal-isolation-au-bois-ce-batiment-serait-le-plus-ecologique-de-france/" target="_blank" rel="noopener nofollow">Panneaux solaires, chauffage fatal, isolation au bois : ce bâtiment serait le plus écologique de France</a></h2>
+          <div class="meta">Révolution Énergétique · 14 juin 2026 · Kevin CHAMPEAU</div>
+          <p class="resume">Quoi de plus logique que l’un des bâtiments les plus écologiques de France pour une école d’ingénieur à la pointe de la technologie ? L’ESIEA […] L’article Panneaux solaires, chauffage fatal, isolation au bois : ce bâtiment serait le plus écologique de France est apparu en […]</p>
+          <a class="lire" href="https://www.revolution-energetique.com/actus/panneaux-solaires-chauffage-fatal-isolation-au-bois-ce-batiment-serait-le-plus-ecologique-de-france/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+      </div>
+      <h2 class="jour">12 juin 2026 <span class="jcount">3 articles</span></h2>
+      <div class="grid">
+        <article class="article">
+          <span class="src">Energy-Storage.news</span>
+          <h2><a href="https://www.energy-storage.news/panasonic-to-convert-kansas-ev-battery-factory-for-data-centre-applications/" target="_blank" rel="noopener nofollow">Panasonic to convert Kansas EV battery factory for data centre applications</a></h2>
+          <div class="meta">Energy-Storage.news · 12 juin 2026 · April Bonner</div>
+          <p class="resume">Japanese consumer electronics giant Panasonic intends to convert its electric vehicle (EV) battery cell manufacturing facility in Kansas, US, to produce batteries for data centre applications, beginning Q3 of 2029.</p>
+          <a class="lire" href="https://www.energy-storage.news/panasonic-to-convert-kansas-ev-battery-factory-for-data-centre-applications/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">Révolution Énergétique</span>
+          <h2><a href="https://www.revolution-energetique.com/actus/panneaux-solaires-les-litiges-se-multiplient-pour-les-particuliers/" target="_blank" rel="noopener nofollow">Panneaux solaires : les litiges se multiplient pour les particuliers</a></h2>
+          <div class="meta">Révolution Énergétique · 12 juin 2026 · Kevin CHAMPEAU</div>
+          <p class="resume">L’augmentation du nombre de panneaux solaires chez les particuliers donne du travail supplémentaire au Médiateur de l’énergie. Dans un récent rapport, celui-ci révèle que le […] L’article Panneaux solaires : les litiges se multiplient pour les particuliers est apparu en premier […]</p>
+          <a class="lire" href="https://www.revolution-energetique.com/actus/panneaux-solaires-les-litiges-se-multiplient-pour-les-particuliers/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">Transitions &amp; Énergies</span>
+          <h2><a href="https://www.transitionsenergies.com/anti-modernes-populaires-ignorants/" target="_blank" rel="noopener nofollow">Pourquoi les anti-modernes sont si populaires… et si ignorants</a></h2>
+          <div class="meta">Transitions &amp; Énergies · 12 juin 2026 · La rédaction</div>
+          <p class="resume">Ce n’est pas en rêvant d’un retour à un passé mythique où l’homme vivait dans une harmonie imaginaire avec la nature que l’on réglera la question de la transition énergétique. C’est même le meilleur moyen de ne pas convaincre les populations des efforts à faire. Le progrès […]</p>
+          <a class="lire" href="https://www.transitionsenergies.com/anti-modernes-populaires-ignorants/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+      </div>
+      <h2 class="jour">11 juin 2026 <span class="jcount">1 article</span></h2>
+      <div class="grid">
+        <article class="article">
+          <span class="src">Enerplan</span>
+          <h2><a href="https://www.enerplan.asso.fr/photovoltaique-sur-batiment-autoconsommation-replay-et-documents-de-la-reunion-du-11-juin-2026/" target="_blank" rel="noopener nofollow">Photovoltaïque sur bâtiment &amp; autoconsommation : replay et documents de la réunion du 11 juin 2026</a></h2>
+          <div class="meta">Enerplan · 11 juin 2026 · Mickaël Marie</div>
+          <p class="resume vide">Résumé non fourni par la source — voir l’article original.</p>
+          <a class="lire" href="https://www.enerplan.asso.fr/photovoltaique-sur-batiment-autoconsommation-replay-et-documents-de-la-reunion-du-11-juin-2026/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+      </div>
+      <h2 class="jour">10 juin 2026 <span class="jcount">1 article</span></h2>
+      <div class="grid">
+        <article class="article">
+          <span class="src">Energy-Storage.news</span>
+          <h2><a href="https://www.energy-storage.news/us-roundup-edp-800mwh-arizona-project-pathway-targets-spp-miso-waymo-second-life-partnership/" target="_blank" rel="noopener nofollow">US ROUNDUP: EDP 800MWh Arizona project, Pathway targets SPP &amp; MISO, Waymo second-life partnership</a></h2>
+          <div class="meta">Energy-Storage.news · 10 juin 2026 · George Heynes</div>
+          <p class="resume">EDP and SRP complete 200MW/800MWh Arizona BESS, Pathway Power closes $150m facility, and B2U secures Waymo supply deal for second-life EV batteries in grid storage.</p>
+          <a class="lire" href="https://www.energy-storage.news/us-roundup-edp-800mwh-arizona-project-pathway-targets-spp-miso-waymo-second-life-partnership/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+      </div>
+      <h2 class="jour">9 juin 2026 <span class="jcount">3 articles</span></h2>
+      <div class="grid">
+        <article class="article">
+          <span class="src">Révolution Énergétique</span>
+          <h2><a href="https://www.revolution-energetique.com/actus/installer-une-batterie-domestique-cest-rentable-decouvrez-le-avec-notre-simulateur-gratuit/" target="_blank" rel="noopener nofollow">Installer une batterie domestique, c’est rentable ? Découvrez-le avec notre simulateur gratuit</a></h2>
+          <div class="meta">Révolution Énergétique · 9 juin 2026 · Hugo LARA</div>
+          <p class="resume">Chez Révolution Energétique, notre mission depuis 2018 est de rendre la transition énergétique accessible à toutes et à tous. C’est dans cet esprit que nous […] L’article Installer une batterie domestique, c’est rentable ? Découvrez-le avec notre simulateur gratuit est apparu en […]</p>
+          <a class="lire" href="https://www.revolution-energetique.com/actus/installer-une-batterie-domestique-cest-rentable-decouvrez-le-avec-notre-simulateur-gratuit/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">Energy-Storage.news</span>
+          <h2><a href="https://www.energy-storage.news/energy-storage-needs-to-last-longer-as-heatwaves-and-data-centres-strain-infrastructure/" target="_blank" rel="noopener nofollow">Energy storage ‘needs to last longer as heatwaves and data centres strain infrastructure’</a></h2>
+          <div class="meta">Energy-Storage.news · 9 juin 2026 · April Bonner</div>
+          <p class="resume">ESN Premium speaks with Dr Thomas Sisto, of flow battery developer XL Batteries, about using LDES to combat grid strain from heatwaves and data centres.</p>
+          <a class="lire" href="https://www.energy-storage.news/energy-storage-needs-to-last-longer-as-heatwaves-and-data-centres-strain-infrastructure/" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+        <article class="article">
+          <span class="src">Connaissance des Énergies</span>
+          <h2><a href="https://www.connaissancedesenergies.org/solaire-photovoltaique-filiere-tire-sonnette-alarme" target="_blank" rel="noopener nofollow">Solaire photovoltaïque : la filière tire la « sonnette d’alarme »</a></h2>
+          <div class="meta">Connaissance des Énergies · 9 juin 2026 · mael-dancette</div>
+          <p class="resume">Le colloque national photovoltaïque, organisé par le Syndicat des énergies renouvelables (SER), s’est tenu ce 9 juin à Strasbourg. Les acteurs de la filière ont pu y exprimer leurs très fortes inquiétudes, face à la révision des dispositifs de soutien et au manque de visibilité.</p>
+          <a class="lire" href="https://www.connaissancedesenergies.org/solaire-photovoltaique-filiere-tire-sonnette-alarme" target="_blank" rel="noopener nofollow">Lire l’article complet ↗</a>
+        </article>
+      </div>
+
+    <div class="note">
+      <div>Curation automatique. Les titres, extraits et liens renvoient vers les sites éditeurs,
+      <strong>seuls détenteurs des droits</strong> sur leurs contenus ; aucun article n’est reproduit en intégralité.</div>
+    </div>
+  </div>
 </body>
 </html>

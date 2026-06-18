@@ -1,0 +1,104 @@
+{
+  "retention_jours": 10,
+  "theme_filter": true,
+  "affichage_max": 150,
+  "resume_max": 280,
+  "mots_cles": [
+    "photovolta",
+    "panneau",
+    "solaire",
+    "autoconsommation",
+    "batterie",
+    "stockage",
+    "onduleur",
+    "agrivolta",
+    "kwc",
+    "tarif de rachat",
+    "arrete",
+    "s21",
+    "renouvelable",
+    "transition energetique"
+  ],
+  "sources": [
+    {
+      "nom": "pv magazine France",
+      "url": "https://www.pv-magazine.fr/feed/"
+    },
+    {
+      "nom": "L'Écho du Solaire",
+      "url": "https://www.lechodusolaire.fr/feed/"
+    },
+    {
+      "nom": "PV Tech",
+      "url": "https://www.pv-tech.org/feed/"
+    },
+    {
+      "nom": "pv magazine",
+      "url": "https://www.pv-magazine.com/feed/"
+    },
+    {
+      "nom": "INES",
+      "url": "https://www.ines-solaire.org/feed/"
+    },
+    {
+      "nom": "Enerplan",
+      "url": "https://www.enerplan.asso.fr/feed/"
+    },
+    {
+      "nom": "les-energies-renouvelables.eu",
+      "url": "https://www.les-energies-renouvelables.eu/feed/"
+    },
+    {
+      "nom": "Energy-Storage.news",
+      "url": "https://www.energy-storage.news/feed/"
+    },
+    {
+      "nom": "Révolution Énergétique",
+      "url": "https://www.revolution-energetique.com/feed/"
+    },
+    {
+      "nom": "Connaissance des Énergies",
+      "url": "https://www.connaissancedesenergies.org/rss.xml"
+    },
+    {
+      "nom": "Enerzine",
+      "url": "https://www.enerzine.com/feed"
+    },
+    {
+      "nom": "Transitions & Énergies",
+      "url": "https://www.transitionsenergies.com/feed/"
+    },
+    {
+      "nom": "L'EnerGeek",
+      "url": "https://lenergeek.com/feed/"
+    },
+    {
+      "nom": "GreenUnivers",
+      "url": "https://www.greenunivers.com/feed/"
+    },
+    {
+      "nom": "CLER",
+      "url": "https://www.cler.org/feed/"
+    },
+    {
+      "nom": "négaWatt",
+      "url": "https://negawatt.org/spip.php?page=backend"
+    },
+    {
+      "nom": "CleanTechnica",
+      "url": "https://cleantechnica.com/feed/"
+    },
+    {
+      "nom": "Actu-Environnement",
+      "url": "https://www.actu-environnement.com/ae/news/archives/rss.php4"
+    },
+    {
+      "nom": "Futura Sciences",
+      "url": "https://www.futura-sciences.com/rss/actualites.xml"
+    },
+    {
+      "nom": "Batiactu",
+      "url": "https://www.batiactu.com/accueil.rss"
+    }
+  ]
+}
