@@ -30,6 +30,46 @@
   "vu": "2026-06-17"
  },
  {
+  "source": "Enerzine",
+  "titre": "BYD parie sur le sodium-ion pour le stockage réseau mondial",
+  "lien": "https://www.enerzine.com/byd-parie-sur-le-sodium-ion-pour-le-stockage-reseau-mondial/188836-2026-06",
+  "auteur": "La rédaction",
+  "resume": "BYD a annoncé l’inauguration au Chili la station Elena, la plus grande installation de stockage des Amériques avec ses 3,5 GWh, confirmant une stratégie de réorientation des batteries sodium-ion vers le stockage stationnaire plutôt que les véhicules électriques. Le géant chinois […]",
+  "pub": "2026-06-20",
+  "ts": 1781925000.0,
+  "vu": "2026-06-20"
+ },
+ {
+  "source": "Batiactu",
+  "titre": "Énergies renouvelables : Valorem annonce une réduction d'effectifs",
+  "lien": "https://www.batiactu.com/edito/energies-renouvelables-valorem-annonce-reduction-effectifs-74777.php",
+  "auteur": "Batiactu",
+  "resume": "ÉNERGIES. Évoquant un ralentissement des projets d'énergies renouvelables en France et l'évolution des objectifs de la PPE 3, Valorem lance un plan de restructuration prévoyant une réduction des effectifs et des coûts.",
+  "pub": "2026-06-19",
+  "ts": 1781882039.0,
+  "vu": "2026-06-20"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "[entretien] Comment l’obligation de contribution au mécanisme d’ajustement transforme le raccordement solaire en France",
+  "lien": "https://www.pv-magazine.fr/2026/06/19/entretien/",
+  "auteur": "Marie Beyer",
+  "resume": "Depuis le 1er janvier 2026, l'obligation d'équilibrage pour les centrales de plus de 10 MW impose aux exploitants de gérer la flexibilité en temps réel, créant de nouvelles contraintes physiques et de gestion. pv magazine France a interrogé Jean-Sébastien Pelland, directeur […]",
+  "pub": "2026-06-19",
+  "ts": 1781875800.0,
+  "vu": "2026-06-20"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "GreenYellow réalise une centrale solaire de 700 kWc en Italie",
+  "lien": "https://www.pv-magazine.fr/2026/06/19/greenyellow-realise-une-centrale-solaire-de-700-kwc-en-italie/",
+  "auteur": "Francois Puthod",
+  "resume": "Le producteur GreenYellow annonce la mise en service une centrale photovoltaïque de 700 kWc en autoconsommation sur le site de production de Dupol Next (Groupe Sacchital), spécialisé dans l’emballage flexible, à Zanica (Italie).",
+  "pub": "2026-06-19",
+  "ts": 1781870400.0,
+  "vu": "2026-06-20"
+ },
+ {
   "source": "L'Écho du Solaire",
   "titre": "APsystems dévoile sa gamme complète de solutions de stockage d’énergie à Intersolar Europe 2026",
   "lien": "https://www.lechodusolaire.fr/apsystems-devoile-sa-gamme-complete-de-solutions-de-stockage-denergie-a-intersolar-europe-2026/",
@@ -707,36 +747,6 @@
   "resume": "EDP and SRP complete 200MW/800MWh Arizona BESS, Pathway Power closes $150m facility, and B2U secures Waymo supply deal for second-life EV batteries in grid storage.",
   "pub": "2026-06-10",
   "ts": 1781095048.0,
-  "vu": "2026-06-17"
- },
- {
-  "source": "Révolution Énergétique",
-  "titre": "Installer une batterie domestique, c’est rentable ? Découvrez-le avec notre simulateur gratuit",
-  "lien": "https://www.revolution-energetique.com/actus/installer-une-batterie-domestique-cest-rentable-decouvrez-le-avec-notre-simulateur-gratuit/",
-  "auteur": "Hugo LARA",
-  "resume": "Chez Révolution Energétique, notre mission depuis 2018 est de rendre la transition énergétique accessible à toutes et à tous. C’est dans cet esprit que nous […] L’article Installer une batterie domestique, c’est rentable ? Découvrez-le avec notre simulateur gratuit est apparu en […]",
-  "pub": "2026-06-09",
-  "ts": 1781016706.0,
-  "vu": "2026-06-17"
- },
- {
-  "source": "Energy-Storage.news",
-  "titre": "Energy storage ‘needs to last longer as heatwaves and data centres strain infrastructure’",
-  "lien": "https://www.energy-storage.news/energy-storage-needs-to-last-longer-as-heatwaves-and-data-centres-strain-infrastructure/",
-  "auteur": "April Bonner",
-  "resume": "ESN Premium speaks with Dr Thomas Sisto, of flow battery developer XL Batteries, about using LDES to combat grid strain from heatwaves and data centres.",
-  "pub": "2026-06-09",
-  "ts": 1781007053.0,
-  "vu": "2026-06-17"
- },
- {
-  "source": "Connaissance des Énergies",
-  "titre": "Solaire photovoltaïque : la filière tire la « sonnette d’alarme »",
-  "lien": "https://www.connaissancedesenergies.org/solaire-photovoltaique-filiere-tire-sonnette-alarme",
-  "auteur": "mael-dancette",
-  "resume": "Le colloque national photovoltaïque, organisé par le Syndicat des énergies renouvelables (SER), s’est tenu ce 9 juin à Strasbourg. Les acteurs de la filière ont pu y exprimer leurs très fortes inquiétudes, face à la révision des dispositifs de soutien et au manque de visibilité.",
-  "pub": "2026-06-09",
-  "ts": 1780963200.0,
   "vu": "2026-06-17"
  }
 ]
