@@ -30,6 +30,36 @@
   "vu": "2026-06-17"
  },
  {
+  "source": "L'EnerGeek",
+  "titre": "DPE : l’outil phare de la transition énergétique est-il en train de manquer sa cible ?",
+  "lien": "https://lenergeek.com/2026/06/21/dpe-fragilise-classes-moyennes-patrimoine/",
+  "auteur": "La Rédaction",
+  "resume": "Présenté comme un levier majeur de la transition énergétique du parc immobilier français, le DPE occupe désormais une place centrale dans les politiques publiques du logement. Pourtant, alors que les interdictions de location se multiplient et que les obligations de travaux se […]",
+  "pub": "2026-06-21",
+  "ts": 1782031119.0,
+  "vu": "2026-06-21"
+ },
+ {
+  "source": "CleanTechnica",
+  "titre": "India Needs 10 GWh of Battery Storage Now to Stop Coal’s Inflexibility Wasting Clean Power",
+  "lien": "https://cleantechnica.com/2026/06/20/india-needs-10-gwh-of-battery-storage-now-to-stop-coals-inflexibility-wasting-clean-power/",
+  "auteur": "Press Release",
+  "resume": "Batteries are the fastest fix to make room for India’s midday solar surge as coal-based power plants are unable to ramp down far enough for the same India needs around 10 gigawatt-hours (GWh) of battery storage immediately to stop renewable energy curtailment when the s coal […]",
+  "pub": "2026-06-21",
+  "ts": 1782014024.0,
+  "vu": "2026-06-21"
+ },
+ {
+  "source": "CleanTechnica",
+  "titre": "Perovskite-Silicon Solar Cells Meet Matrix Shingled Interconnection Collaboration between Oxford PV & Fraunhofer ISE",
+  "lien": "https://cleantechnica.com/2026/06/20/perovskite-silicon-solar-cells-meet-matrix-shingled-interconnection-collaboration-between-oxford-pv-fraunhofer-ise/",
+  "auteur": "Press Release",
+  "resume": "Oxford PV and the Fraunhofer Institute for Solar Energy Systems ISE have combined two high-efficiency technologies in a single photovoltaic module. To achieve this, they used perovskite-silicon solar cells from Oxford PV and connected them using the Matrix Shingle technology […]",
+  "pub": "2026-06-21",
+  "ts": 1782013801.0,
+  "vu": "2026-06-21"
+ },
+ {
   "source": "Enerzine",
   "titre": "BYD parie sur le sodium-ion pour le stockage réseau mondial",
   "lien": "https://www.enerzine.com/byd-parie-sur-le-sodium-ion-pour-le-stockage-reseau-mondial/188836-2026-06",
@@ -38,6 +68,16 @@
   "pub": "2026-06-20",
   "ts": 1781925000.0,
   "vu": "2026-06-20"
+ },
+ {
+  "source": "Transitions & Énergies",
+  "titre": "La transition énergétique n’est pas qu’une question de ressources",
+  "lien": "https://www.transitionsenergies.com/transition-energetique-pas-qu-une-question-ressources/",
+  "auteur": "La rédaction",
+  "resume": "La transition énergétique est souvent présentée comme une course aux minerais critiques. Lithium, cobalt, nickel ou terres rares sont désormais au cœur des inquiétudes liées à la décarbonation, alimentant l’idée que l’enjeu central réside dans l’accès à ces ressources […]",
+  "pub": "2026-06-19",
+  "ts": 1781908622.0,
+  "vu": "2026-06-21"
  },
  {
   "source": "Batiactu",
@@ -50,6 +90,16 @@
   "vu": "2026-06-20"
  },
  {
+  "source": "GreenUnivers",
+  "titre": "Bruxelles lance une place de marché pour le biométhane",
+  "lien": "https://www.greenunivers.com/2026/06/bruxelles-lance-une-place-de-marche-pour-le-biomethane-427228/",
+  "auteur": "Jacopo Landi",
+  "resume": "Comme elle a déjà fait pour l’hydrogène renouvelable, la Commission européenne lance une plateforme dédiée à faire rencontrer L’article Bruxelles lance une place de marché pour le biométhane est apparu en premier sur GreenUnivers .",
+  "pub": "2026-06-19",
+  "ts": 1781881039.0,
+  "vu": "2026-06-21"
+ },
+ {
   "source": "pv magazine France",
   "titre": "[entretien] Comment l’obligation de contribution au mécanisme d’ajustement transforme le raccordement solaire en France",
   "lien": "https://www.pv-magazine.fr/2026/06/19/entretien/",
@@ -58,6 +108,16 @@
   "pub": "2026-06-19",
   "ts": 1781875800.0,
   "vu": "2026-06-20"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Les documents de la semaine",
+  "lien": "https://www.greenunivers.com/2026/06/les-documents-de-la-semaine-381215/",
+  "auteur": "GreenUnivers",
+  "resume": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de […]",
+  "pub": "2026-06-19",
+  "ts": 1781872872.0,
+  "vu": "2026-06-21"
  },
  {
   "source": "pv magazine France",
@@ -131,7 +191,7 @@
  },
  {
   "source": "GreenUnivers",
-  "titre": "Prix négatifs : l’impact financier de l’arrêté “échelonnement” reste incertain",
+  "titre": "Prix négatifs : l’impact financier de l’arrêté « échelonnement » reste incertain",
   "lien": "https://www.greenunivers.com/2026/06/prix-negatifs-limpact-financier-de-larrete-echelonnement-reste-incertain-427078/",
   "auteur": "Romain Chicheportiche",
   "resume": "Premier bilan 45 jours après la mise en oeuvre de l’arrêté “échelonnement” du 19 avril 2026. Le texte, entré en vigueur le 1er mai, impose aux énergies renouvelables sous complément de rémunération de décaler leurs arrêts pour toucher pleinement leur prime de non production en […]",
@@ -737,16 +797,6 @@
   "resume": "",
   "pub": "2026-06-11",
   "ts": 1781180769.0,
-  "vu": "2026-06-17"
- },
- {
-  "source": "Energy-Storage.news",
-  "titre": "US ROUNDUP: EDP 800MWh Arizona project, Pathway targets SPP & MISO, Waymo second-life partnership",
-  "lien": "https://www.energy-storage.news/us-roundup-edp-800mwh-arizona-project-pathway-targets-spp-miso-waymo-second-life-partnership/",
-  "auteur": "George Heynes",
-  "resume": "EDP and SRP complete 200MW/800MWh Arizona BESS, Pathway Power closes $150m facility, and B2U secures Waymo supply deal for second-life EV batteries in grid storage.",
-  "pub": "2026-06-10",
-  "ts": 1781095048.0,
   "vu": "2026-06-17"
  }
 ]
