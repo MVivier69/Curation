@@ -20,6 +20,16 @@
   "vu": "2026-06-17"
  },
  {
+  "source": "Batiactu",
+  "titre": "Les fortes économies liées à une bonne isolation",
+  "lien": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=154242",
+  "auteur": "Batiactu",
+  "resume": "Tout réservoir de stockage se doit d'être qualitatif et bien dimensionné. Toutefois, sans une isolation performante, ses performances théoriques chutent et les surcouts énergétiques sont ...",
+  "pub": "2026-06-23",
+  "ts": 1782208712.0,
+  "vu": "2026-06-22"
+ },
+ {
   "source": "négaWatt",
   "titre": "La transition énergétique, pilier de la santé pour tous",
   "lien": "https://negawatt.org/La-transition-energetique-pilier-de-la-sante-pour-tous",
@@ -30,14 +40,174 @@
   "vu": "2026-06-17"
  },
  {
+  "source": "pv magazine France",
+  "titre": "Jackery présente ses solutions de stockage d’énergie domestique SolarVault 3 au salon The smarter E Europe 2026",
+  "lien": "https://www.pv-magazine.fr/2026/06/23/jackery-presente-ses-solutions-de-stockage-denergie-domestique-solarvault-3-au-salon-the-smarter-e-europe-2026/",
+  "auteur": "Bernadette Geyer",
+  "resume": "Lors du salon de Munich, l'entreprise a présenté trois modèles de systèmes de stockage d'énergie résidentiels rechargeables, ainsi qu'une gamme d'accessoires intelligents et un « Solar Gazebo », soulignant ainsi son évolution des solutions d'alimentation portables vers des […]",
+  "pub": "2026-06-23",
+  "ts": 1782205200.0,
+  "vu": "2026-06-23"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Grids, solar and BESS – Balancing the buildout",
+  "lien": "https://www.pv-magazine.com/2026/06/23/balancing-the-buildout/",
+  "auteur": "Mark Hutchins",
+  "resume": "Solar installations in Europe have begun to slow, as markets struggle with high levels of variable generation. Batteries and grid infrastructure need time to catch up, and Bernhard Suchland, CEO at energy infrastructure developer Sunotec, sees the need for a more integrated […]",
+  "pub": "2026-06-23",
+  "ts": 1782205200.0,
+  "vu": "2026-06-23"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Penumbra-aware irradiance modeling for agrivoltaic orchards",
+  "lien": "https://www.pv-magazine.com/2026/06/23/penumbra-aware-irradiance-modeling-for-agrivoltaic-orchards/",
+  "auteur": "Lior Kahana",
+  "resume": "A Delft University of Technology team has improved agrivoltaic light-simulation methods by making atmospheric and canopy representations more realistic and computationally efficient. Their work enhances the accuracy of predictions for crop growth and solar energy yield in shared […]",
+  "pub": "2026-06-23",
+  "ts": 1782205200.0,
+  "vu": "2026-06-23"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "UK startup presents sodium-ion storage solution for rooftop PV",
+  "lien": "https://www.pv-magazine.com/2026/06/23/uk-startup-presents-sodium-ion-storage-solution-for-rooftop-pv/",
+  "auteur": "Emiliano Bellini",
+  "resume": "Eleven Energy has launched its residential sodium-ion storage system at The smarter E in Munich. The fully integrated platform combines sodium-optimized batteries, inverters, and AI energy management to improve safety, flexibility, and tariff-driven optimization.",
+  "pub": "2026-06-23",
+  "ts": 1782203400.0,
+  "vu": "2026-06-23"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Un bâtiment à énergie positive au service de la flexibilité électrique",
+  "lien": "https://www.pv-magazine.fr/2026/06/23/un-batiment-a-energie-positive-au-service-de-la-flexibilite-electrique/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Mis en service en 2023, le siège du SDEM50 à Agneaux (Manche) expérimente de nouveaux usages énergétiques en associant production locale d’électricité, stockage et interaction avec le réseau. Une approche qui préfigure l’évolution des bâtiments à énergie positive vers un rôle […]",
+  "pub": "2026-06-23",
+  "ts": 1782201600.0,
+  "vu": "2026-06-23"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Comment les subventions massives ont contribué à une chute de 90 % des coûts du solaire",
+  "lien": "https://www.pv-magazine.fr/2026/06/23/comment-les-subventions-massives-ont-contribue-a-une-chute-de-90-des-couts-du-solaire/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Selon les données de l’Organisation de coopération et de développement économiques (OCDE), la Chine a représenté ainsi 81 % des subventions sur la période 2010-2024, un écart qui tend toutefois à se réduire. Dans le même temps, le coût de l’électricité solaire a chuté de plus de […]",
+  "pub": "2026-06-23",
+  "ts": 1782199800.0,
+  "vu": "2026-06-23"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Octopus Energy développe ses propres batteries résidentielles",
+  "lien": "https://www.pv-magazine.fr/2026/06/23/octopus-energy-developpe-ses-propres-batteries-residentielles/",
+  "auteur": "Francois Puthod",
+  "resume": "Le fournisseur d’énergie Octopus lance ses batteries domestiques « Nook ». Elles seront disponibles, dès l’année prochaine, au Royaume-Uni, en France, en Allemagne, en Italie et en Espagne.",
+  "pub": "2026-06-23",
+  "ts": 1782196200.0,
+  "vu": "2026-06-23"
+ },
+ {
+  "source": "CleanTechnica",
+  "titre": "Jackery Launches Latest, Versatile HomePower Batteries",
+  "lien": "https://cleantechnica.com/2026/06/23/jackery-launches-latest-versatile-homepower-batteries/",
+  "auteur": "Larry Evans",
+  "resume": "Jackery is launching its latest generation of HomePower batteries, including the HomePower 1000 v2, HomePower 2000 Plus v2 and HomePower 3600 Pro Max. All are being offered with limited-time promotion pricing on the Jackery website from today, June 23rd, through to June 26th. In […]",
+  "pub": "2026-06-23",
+  "ts": 1782193567.0,
+  "vu": "2026-06-23"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Ce jeune Finlandais a construit un bateau solaire dans son cabanon et rejoint Ibiza sans une goutte de carburant",
+  "lien": "https://lenergeek.com/2026/06/23/ce-jeune-finlandais-a-construit-un-bateau-solaire-dans-son-cabanon-et-rejoint-ibiza-sans-une-goutte-de-carburant/",
+  "auteur": "Claire Moreau",
+  "resume": "Lukas Sjöman a traversé 5 700 km à bord de son bateau solaire, le Helios 11. L’article Ce jeune Finlandais a construit un bateau solaire dans son cabanon et rejoint Ibiza sans une goutte de carburant est apparu en premier sur L'EnerGeek .",
+  "pub": "2026-06-23",
+  "ts": 1782192000.0,
+  "vu": "2026-06-23"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Un BMS capable de sonder l’intérieur des batteries pour prévenir les pannes",
+  "lien": "https://www.enerzine.com/un-bms-capable-de-sonder-linterieur-des-batteries-pour-prevenir-les-pannes/188991-2026-06",
+  "auteur": "La rédaction",
+  "resume": "Un consortium européen réunissant la TU Graz, la Vrije Universiteit Brussel et des partenaires industriels a dévoilé un système de gestion de batterie avancé dans le cadre du projet Nemo. Exploitant la spectroscopie d’impédance électrochimique, le BMS sonde l’intérieur des […]",
+  "pub": "2026-06-23",
+  "ts": 1782191400.0,
+  "vu": "2026-06-23"
+ },
+ {
+  "source": "PV Tech",
+  "titre": "Australian Centre for Advanced Photovoltaics ranked first globally for solar research",
+  "lien": "https://www.pv-tech.org/australian-centre-for-advanced-photovoltaics-ranked-first-globally-for-solar-research/",
+  "auteur": "George Heynes",
+  "resume": "Australia's ACAP was ranked first globally for photovoltaics research quality in 2025 for the second consecutive year.",
+  "pub": "2026-06-23",
+  "ts": 1782173527.0,
+  "vu": "2026-06-23"
+ },
+ {
   "source": "Batiactu",
-  "titre": "Les fortes économies liées à une bonne isolation",
-  "lien": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=154242",
+  "titre": "Un nouveau président pour la Fédération française des tuiles et briques",
+  "lien": "https://www.batiactu.com/edito/un-nouveau-president-federation-francaise-tuiles-et-74789.php",
   "auteur": "Batiactu",
-  "resume": "Tout réservoir de stockage se doit d'être qualitatif et bien dimensionné. Toutefois, sans une isolation performante, ses performances théoriques chutent et les surcouts énergétiques sont ...",
+  "resume": "CARNET-NOMINATION. Le président d'Edilians, Pascal Casanova, a été élu à la tête de la Fédération française des tuiles et briques (FFTB). Il a pour ambition d'accélérer la transition énergétique de la filière et de promouvoir une construction plus durable.",
   "pub": "2026-06-22",
-  "ts": 1782130884.0,
-  "vu": "2026-06-22"
+  "ts": 1782143519.0,
+  "vu": "2026-06-23"
+ },
+ {
+  "source": "Batiactu",
+  "titre": "Électrification : le gouvernement veut convaincre professionnels et particuliers",
+  "lien": "https://www.batiactu.com/edito/electrification-gouvernement-veut-convaincre-professionnels-74787.php",
+  "auteur": "Batiactu",
+  "resume": "TRANSITION ÉNERGÉTIQUE. Les pouvoirs publics ont lancé une campagne de communication dédiée à la mobilité et au chauffage électrique.",
+  "pub": "2026-06-22",
+  "ts": 1782142583.0,
+  "vu": "2026-06-23"
+ },
+ {
+  "source": "Actu-Environnement",
+  "titre": "Expérimentation animale : l'agrément du centre n'était finalement pas soumis à participation du public",
+  "lien": "https://www.actu-environnement.com/ae/news/experimentation-animale-agrement-participation-public-48189.php4",
+  "auteur": "",
+  "resume": "L'arrêté préfectoral renouvelant l'agrément d'un centre d'expérimentation animale ne devait pas être soumis à l'organisation préalable d'une procédure de participation du public. C'est ce qui ressort d'une décision de la cour administrative d'appe...",
+  "pub": "2026-06-22",
+  "ts": 1782139708.0,
+  "vu": "2026-06-23"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "Le HillMiles MileTrail à moins de 500 € avec coupon : moteur 250W conforme, suspension avant et 7 vitesses pour un VTT électrique d'entrée de gamme honnête",
+  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-velos-trottinettes-hillmiles-miletrail-moins-500-coupon-moteur-250w-conforme-suspension-avant-7-vitesses-vtt-electrique-entree-gamme-honnete-10411/",
+  "auteur": "Benoit Baylé, Rédacteur web",
+  "resume": "Le HillMiles MileTrail joue la carte du VTT électrique accessible et conforme à la réglementation française. Moteur brushless de 250W calibré pour la limite légale française, batterie 36V 13Ah amovible pour une autonomie correcte, suspension avant pour les sentiers, dérailleur 7 […]",
+  "pub": "2026-06-22",
+  "ts": 1782138600.0,
+  "vu": "2026-06-23"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "RWE France va réduire de près de moitié ses effectifs onshore",
+  "lien": "https://www.greenunivers.com/2026/06/rwe-france-va-reduire-de-pres-de-moitie-ses-effectifs-onshore-427330/",
+  "auteur": "Paul Messad",
+  "resume": "Exclusif – Après l’activité en mer, le terrestre. Selon nos informations, l’énergéticien allemand RWE vient de lancer la procédure d’un plan de sauvegarde de l’emploi (PSE) sur le périmètre des renouvelables onshore en France. A date, L’article RWE France va réduire de près de […]",
+  "pub": "2026-06-22",
+  "ts": 1782137590.0,
+  "vu": "2026-06-23"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Suiveur solaire et fondations intégrées : Nextpower présente ses nouveautés à Intersolar",
+  "lien": "https://www.pv-magazine.fr/2026/06/22/suiveur-solaire-et-fondations-integrees-nextpower-presente-ses-nouveautes-a-intersolar/",
+  "auteur": "Francois Puthod",
+  "resume": "Nextpower lance sur le marché mondial un nouveau système de « tracker » à deux modules en orientation portrait (2P), ainsi qu’une solution de fondation intégrée répondant à une large gamme d’exigences en matière d’implantation et d’utilisation des terrains.",
+  "pub": "2026-06-22",
+  "ts": 1782133200.0,
+  "vu": "2026-06-23"
  },
  {
   "source": "GreenUnivers",
@@ -847,36 +1017,6 @@
   "resume": "Quoi de plus logique que l’un des bâtiments les plus écologiques de France pour une école d’ingénieur à la pointe de la technologie ? L’ESIEA […] L’article Panneaux solaires, chauffage fatal, isolation au bois : ce bâtiment serait le plus écologique de France est apparu en […]",
   "pub": "2026-06-14",
   "ts": 1781417302.0,
-  "vu": "2026-06-17"
- },
- {
-  "source": "Energy-Storage.news",
-  "titre": "Panasonic to convert Kansas EV battery factory for data centre applications",
-  "lien": "https://www.energy-storage.news/panasonic-to-convert-kansas-ev-battery-factory-for-data-centre-applications/",
-  "auteur": "April Bonner",
-  "resume": "Japanese consumer electronics giant Panasonic intends to convert its electric vehicle (EV) battery cell manufacturing facility in Kansas, US, to produce batteries for data centre applications, beginning Q3 of 2029.",
-  "pub": "2026-06-12",
-  "ts": 1781265129.0,
-  "vu": "2026-06-17"
- },
- {
-  "source": "Révolution Énergétique",
-  "titre": "Panneaux solaires : les litiges se multiplient pour les particuliers",
-  "lien": "https://www.revolution-energetique.com/actus/panneaux-solaires-les-litiges-se-multiplient-pour-les-particuliers/",
-  "auteur": "Kevin CHAMPEAU",
-  "resume": "L’augmentation du nombre de panneaux solaires chez les particuliers donne du travail supplémentaire au Médiateur de l’énergie. Dans un récent rapport, celui-ci révèle que le […] L’article Panneaux solaires : les litiges se multiplient pour les particuliers est apparu en premier […]",
-  "pub": "2026-06-12",
-  "ts": 1781256541.0,
-  "vu": "2026-06-17"
- },
- {
-  "source": "Transitions & Énergies",
-  "titre": "Pourquoi les anti-modernes sont si populaires… et si ignorants",
-  "lien": "https://www.transitionsenergies.com/anti-modernes-populaires-ignorants/",
-  "auteur": "La rédaction",
-  "resume": "Ce n’est pas en rêvant d’un retour à un passé mythique où l’homme vivait dans une harmonie imaginaire avec la nature que l’on réglera la question de la transition énergétique. C’est même le meilleur moyen de ne pas convaincre les populations des efforts à faire. Le progrès […]",
-  "pub": "2026-06-12",
-  "ts": 1781228705.0,
   "vu": "2026-06-17"
  }
 ]
