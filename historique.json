@@ -2,22 +2,222 @@
  {
   "source": "Batiactu",
   "titre": "Les fortes économies liées à une bonne isolation",
-  "lien": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=154242",
+  "lien": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=156157",
   "auteur": "Batiactu",
   "resume": "Tout réservoir de stockage se doit d'être qualitatif et bien dimensionné. Toutefois, sans une isolation performante, ses performances théoriques chutent et les surcouts énergétiques sont ...",
-  "pub": "2026-06-25",
-  "ts": 1782380232.0,
-  "vu": "2026-06-22"
+  "pub": "2026-06-26",
+  "ts": 1782467045.0,
+  "vu": "2026-06-24"
  },
  {
   "source": "Batiactu",
   "titre": "Les fortes économies liées à une bonne isolation",
-  "lien": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=156157",
+  "lien": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=154242",
   "auteur": "Batiactu",
   "resume": "Tout réservoir de stockage se doit d'être qualitatif et bien dimensionné. Toutefois, sans une isolation performante, ses performances théoriques chutent et les surcouts énergétiques sont ...",
+  "pub": "2026-06-26",
+  "ts": 1782467044.0,
+  "vu": "2026-06-22"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "Le télescope James-Webb révèle l’âge vertigineux du visiteur interstellaire 3I/Atlas, un fossile venu d’un autre système solaire",
+  "lien": "https://www.futura-sciences.com/sciences/actualites/3i-atlas-telescope-james-webb-revele-age-vertigineux-visiteur-interstellaire-3i-atlas-fossile-venu-autre-systeme-solaire-135569/",
+  "auteur": "Laurent Sacco, Journaliste scientifique",
+  "resume": "Les observations de la troisième comète interstellaire identifiée dans l'histoire de l'humanité continuent à montrer qu'elle présente une composition chimique surprenante et à nous donner des informations sur son origine. Ces observations continuent aussi à soulever des […]",
+  "pub": "2026-06-26",
+  "ts": 1782465301.0,
+  "vu": "2026-06-26"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Dinto Solar lance un module photovoltaïque à hétérojonction de 775 W affichant un rendement de 25,05 %",
+  "lien": "https://www.pv-magazine.fr/2026/06/26/dinto-solar-lance-un-module-photovoltaique-a-heterojonction-de-775-w-affichant-un-rendement-de-2505/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Le fabricant chinois de modules photovoltaïques à hétérojonction (HJT) Dinto Solar présentera son nouveau module solaire DT198G-FZ HJT destiné aux applications à grande échelle lors du salon Intersolar Europe 2026 à Munich. Ce panneau utilisant une technologie sans busbar (0BB) […]",
+  "pub": "2026-06-26",
+  "ts": 1782464400.0,
+  "vu": "2026-06-26"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Longi showcases portable containerized photovoltaic station",
+  "lien": "https://www.pv-magazine.com/2026/06/26/longi-showcases-portable-containerized-photovoltaic-station/",
+  "auteur": "Emiliano Bellini",
+  "resume": "Longi's containerized Block PV station integrates modules, structure and GoodWe GT Series inverters into a rapidly deployable off-grid system. It reportedly achieves an LCOE of around €0.0413–€0.045/kWh in European markets such as Ukraine and Poland.",
+  "pub": "2026-06-26",
+  "ts": 1782462174.0,
+  "vu": "2026-06-26"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "SMA commercialise sa première solution pour les grandes centrales hybrides (PV+BESS), à couplage Courant Continu",
+  "lien": "https://www.pv-magazine.fr/2026/06/26/sma-commercialise-sa-premiere-solution-pour-les-grandes-centrales-hybrides-pvbess-a-couplage-courant-continu/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "SMA Solar Technology lance une solution hybride à couplage DC destinée aux grandes centrales photovoltaïques avec stockage. Elle combine conversion de puissance, stockage par batteries et capacités de formation de réseau afin de renforcer la stabilité des réseaux et la […]",
+  "pub": "2026-06-26",
+  "ts": 1782460800.0,
+  "vu": "2026-06-26"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Nextpower acquiert Zimmermann PV Steel pour 330 millions d’euros",
+  "lien": "https://www.pv-magazine.fr/2026/06/26/nextpower-acquiert-zimmermann-pv-steel-pour-330-millions-deuros/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "L’entreprise américaine Nextpower a annoncé son intention d’acquérir le fournisseur allemand de structures de montage photovoltaïques Zimmermann PV Steel dans le cadre d’une transaction évaluée à environ 330 millions d’euros (378 millions de dollars), réglée en numéraire et en […]",
+  "pub": "2026-06-26",
+  "ts": 1782459000.0,
+  "vu": "2026-06-26"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Neoen remporte un contrat long terme pour une batterie de 200 MW/8 heures en Ontario",
+  "lien": "https://www.pv-magazine.fr/2026/06/26/neoen-remporte-un-contrat-long-terme-pour-une-batterie-de-200-mw-8-heures-en-ontario/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "La batterie, détenue conjointement par Neoen et la communauté autochtone Eagle Lake First Nation, présent une puissance de 200 MW/1 600 MWh. Sa construction devrait débuter en 2028 pour une mise en service prévue pour 2030.",
+  "pub": "2026-06-26",
+  "ts": 1782455400.0,
+  "vu": "2026-06-26"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Pilot study targets solar and battery access for apartments",
+  "lien": "https://www.pv-magazine.com/2026/06/26/pilot-study-targets-solar-and-battery-access-for-apartments/",
+  "auteur": "Ev Foley",
+  "resume": "A Sydney-based pilot study aims to energize the dormant uptake of solar and batteries for apartment buildings by applying AI strategies to an existing modular power portal system.",
+  "pub": "2026-06-26",
+  "ts": 1782454596.0,
+  "vu": "2026-06-26"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "ZE Energy et Octopus financent une batterie de 895 MWh en Italie",
+  "lien": "https://www.enerzine.com/ze-energy-et-octopus-financent-une-batterie-de-895-mwh-en-italie/189075-2026-06",
+  "auteur": "La rédaction",
+  "resume": "ZE Energy et Octopus Energy Generation annoncent un co-investissement pour la batterie Sessa Aurunca, un projet de 98,5 MW et 895 MWh dans le Centre-Sud de l’Italie. Lauréat de l’appel d’offres MACSE de Terna, l’actif bénéficie d’un contrat à revenus fixes sur 15 ans et entrera […]",
+  "pub": "2026-06-26",
+  "ts": 1782454200.0,
+  "vu": "2026-06-26"
+ },
+ {
+  "source": "CleanTechnica",
+  "titre": "Anker SOLIX S2000 Review — CleanTechnica Tested",
+  "lien": "https://cleantechnica.com/2026/06/25/anker-solix-s2000-review-cleantechnica-tested/",
+  "auteur": "Kyle Field",
+  "resume": "Anker was one of the earliest brands to establish itself as reliable in the consumer electronics space, so when they moved into portable power stations, we knew it was going to be good. Since then, they have filled in their lineup with an array of batteries that has continued to […]",
   "pub": "2026-06-25",
-  "ts": 1782380232.0,
-  "vu": "2026-06-24"
+  "ts": 1782419996.0,
+  "vu": "2026-06-26"
+ },
+ {
+  "source": "Actu-Environnement",
+  "titre": "ENR : Terra Nova propose de généraliser les rabais sur facture pour les riverains de parcs",
+  "lien": "https://www.actu-environnement.com/ae/news/terra-nova-rabais-facture-riverains-enr-48212.php4",
+  "auteur": "",
+  "resume": "Dans une note sur la transition énergétique, publiée le 25 juin, le cercle de réflexion Terra Nova identifie les points de blocage et de réussite des projets d'énergies renouvelables. « Sur 603 conflits recensés dans la presse quotidienne régional...",
+  "pub": "2026-06-25",
+  "ts": 1782398772.0,
+  "vu": "2026-06-26"
+ },
+ {
+  "source": "Révolution Énergétique",
+  "titre": "L’Europe compte 100 milliards d’euros de projets renouvelables en attente",
+  "lien": "https://www.revolution-energetique.com/actus/leurope-compte-100-milliards-deuros-de-projets-renouvelables-en-attente/",
+  "auteur": "Kevin CHAMPEAU",
+  "resume": "Si l’Europe met l’accent sur la multiplication des sites de production d’électricité renouvelable, encore faut-il pouvoir la distribuer. Un rapport indépendant indique que dans une […] L’article L’Europe compte 100 milliards d’euros de projets renouvelables en attente est apparu […]",
+  "pub": "2026-06-25",
+  "ts": 1782398046.0,
+  "vu": "2026-06-26"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "[Intersolar] Trois nouveaux fabricants obtiennent la certification ouvrant droit à la TVA à 5,5 %",
+  "lien": "https://www.pv-magazine.fr/2026/06/25/intersolar-trois-nouveaux-fabricants-obtiennent-la-certification-ouvrant-droit-a-la-tva-a-55/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Bisol, DualSun et Sonnenkraft rejoignent la liste des fabricants dont certains modules photovoltaïques sont certifiés par Certisolis pour bénéficier du taux de TVA réduit à 5,5 % sur les installations résidentielles de moins de 9 kWc.",
+  "pub": "2026-06-25",
+  "ts": 1782397800.0,
+  "vu": "2026-06-26"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "La TODIMART T3 à moins de 148 € : moteur 350W conforme, application mobile et 8,5 pouces pour une trottinette urbaine sans mauvaise surprise",
+  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-velos-trottinettes-todimart-t3-moins-148-moteur-350w-conforme-application-mobile-85-pouces-trottinette-urbaine-mauvaise-surprise-10470/",
+  "auteur": "Benoit Baylé, Rédacteur web",
+  "resume": "La TODIMART T3 va à l'essentiel sans détour superflu, et c'est précisément ce qu'on lui demande à ce niveau de prix. Moteur brushless de 350W calibré pour respecter la limite légale française des 25 km/h, batterie 36V 7,8 Ah, pneus de 8,5 pouces, écran LED intégré et […]",
+  "pub": "2026-06-25",
+  "ts": 1782397800.0,
+  "vu": "2026-06-26"
+ },
+ {
+  "source": "Enerplan",
+  "titre": "Réforme de la facturation électronique : précisions sur le solaire résidentiel",
+  "lien": "https://www.enerplan.asso.fr/reforme-de-la-facturation-electronique-precisions-sur-le-solaire-residentiel/",
+  "auteur": "Mickaël Marie",
+  "resume": "",
+  "pub": "2026-06-25",
+  "ts": 1782397597.0,
+  "vu": "2026-06-26"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Lancement d’un appel d’offres pour des projets de stockage par batterie en Guyane",
+  "lien": "https://www.pv-magazine.fr/2026/06/25/lancement-dun-appel-doffres-pour-des-projets-de-stockage-par-batterie-en-guyane/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Doté d’un volume maximal de 30 MW de batteries, le nouveau guichet stockage vise à renforcer l’intégration des énergies renouvelables et la stabilité du réseau électrique tout en limitant le recours aux moyens de production thermiques. Les porteurs de projets ont jusqu'au 15 […]",
+  "pub": "2026-06-25",
+  "ts": 1782396000.0,
+  "vu": "2026-06-26"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "[En images] Saint-Romans conjugue transition énergétique et biodiversité",
+  "lien": "https://www.pv-magazine.fr/2026/06/25/en-images-saint-romans-conjugue-transition-energetique-et-biodiversite/",
+  "auteur": "Francois Puthod",
+  "resume": "La semaine dernière a eu lieu l’inauguration de « La Claix du Soleil », centrale photovoltaïque au sol d’une puissance de 1,6 MWc implantée une surface de 2 hectares à proximité du Massif du Vercors.",
+  "pub": "2026-06-25",
+  "ts": 1782394200.0,
+  "vu": "2026-06-26"
+ },
+ {
+  "source": "Révolution Énergétique",
+  "titre": "Débuter dans le solaire avec batterie pour moins de 1500 € : c’est possible avec ce kit soldé",
+  "lien": "https://www.revolution-energetique.com/actus/debuter-dans-le-solaire-avec-batterie-pour-moins-de-1500-e-cest-possible-avec-ce-kit-solde/",
+  "auteur": "Hugo LARA",
+  "resume": "À l’occasion des Prime Days, les soldes d’été sauce Amazon, le géant du e-commerce affiche à moins de 1500 € un kit solaire composé d’une […] L’article Débuter dans le solaire avec batterie pour moins de 1500 € : c’est possible avec ce kit soldé est apparu en premier sur […]",
+  "pub": "2026-06-25",
+  "ts": 1782393351.0,
+  "vu": "2026-06-26"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Trina Solar présente un module TOPCon de 670 W destiné aux installations photovoltaïques à grande échelle",
+  "lien": "https://www.pv-magazine.fr/2026/06/25/trina-solar-presente-un-module-topcon-de-670-w-destine-aux-installations-photovoltaiques-a-grande-echelle/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Le nouveau module peut atteindre un rendement de conversion de 24,8 % et un facteur de bifacialité supérieur à 85 %.",
+  "pub": "2026-06-25",
+  "ts": 1782392400.0,
+  "vu": "2026-06-26"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "A huis clos, la filière solaire cartographie l’écodélinquance pour reconstruire un cadre durable",
+  "lien": "https://www.pv-magazine.fr/2026/06/25/a-huis-clos-la-filiere-solaire-cartographie-ses-fraudes-pour-reconstruire-un-cadre-durable/",
+  "auteur": "Marie Beyer",
+  "resume": "Fin des aides et instabilité réglementaire profitent aux écodélinquants. La jeune Fédération Nationale de l'Énergie Solaire (FNES), portée par les petits installateurs, lance un groupe de travail « à huit clos » pour cartographier les fraudes sur l'ensemble du cycle de vie d'une […]",
+  "pub": "2026-06-25",
+  "ts": 1782388800.0,
+  "vu": "2026-06-26"
+ },
+ {
+  "source": "Révolution Énergétique",
+  "titre": "Avec ses puissantes batteries, Zendure veut redéfinir l’autoconsommation résidentielle",
+  "lien": "https://www.revolution-energetique.com/actus/avec-ses-puissantes-batteries-zendure-veut-redefinir-lautoconsommation-residentielle/",
+  "auteur": "Contenu sponsorisé",
+  "resume": "ℹ️ Communication commerciale pour Zendure. Zendure lance simultanément trois systèmes de stockage d’énergie résidentielle en Europe sous le nom de série SolarFlow Mix. Disponibles depuis […] L’article Avec ses puissantes batteries, Zendure veut redéfinir l’autoconsommation […]",
+  "pub": "2026-06-25",
+  "ts": 1782381553.0,
+  "vu": "2026-06-26"
  },
  {
   "source": "Révolution Énergétique",
@@ -243,7 +443,7 @@
   "source": "Connaissance des Énergies",
   "titre": "Le parc de batteries de l’UE pourrait quadrupler d’ici 2030 selon Ember",
   "lien": "https://www.connaissancedesenergies.org/le-parc-de-batteries-de-l-ue-pourrait-quadrupler-d-ici-2030-selon-ember",
-  "auteur": "",
+  "auteur": "mael-dancette",
   "resume": "« Les batteries et la flexibilité de la demande, issues du déploiement accéléré des véhicules électriques et des pompes à chaleur, sont prêtes à monter en puissance et offrent une alternative aux solutions de flexibilité fondées sur les énergies fossiles dans l’UE », assure le […]",
   "pub": "2026-06-24",
   "ts": 1782259200.0,
@@ -1387,46 +1587,6 @@
   "resume": "Western Power has started construction on 18 community battery energy storage systems across Perth and Bunbury in Western Australia.",
   "pub": "2026-06-16",
   "ts": 1781573573.0,
-  "vu": "2026-06-17"
- },
- {
-  "source": "les-energies-renouvelables.eu",
-  "titre": "Enercoop forme les acteurs du territoire à la transition énergétique",
-  "lien": "https://www.les-energies-renouvelables.eu/enercoop-forme-les-acteurs-du-territoire-a-la-transition-energetique/",
-  "auteur": "Risna Beapami",
-  "resume": "Fournisseur d’électricité 100 % renouvelable en contrat direct depuis vingt ans, Enercoop est aussi un acteur de terrain de la transition énergétique : bureaux d’études solaires et thermiques, développement de sites de production, accompagnement des collectivités et des […]",
-  "pub": "2026-06-15",
-  "ts": 1781516597.0,
-  "vu": "2026-06-17"
- },
- {
-  "source": "Révolution Énergétique",
-  "titre": "Pour financer les nouveaux réacteurs nucléaires français, EDF va vendre ses éoliennes américaines",
-  "lien": "https://www.revolution-energetique.com/actus/pour-financer-les-nouveaux-reacteurs-nucleaires-francais-edf-va-vendre-ses-eoliennes-americaines/",
-  "auteur": "Kevin CHAMPEAU",
-  "resume": "EDF n’aura bientôt plus d’éoliennes ni de panneaux solaires en Amérique du Nord ! L’électricien français serait en discussion avancée avec une compagnie américaine pour […] L’article Pour financer les nouveaux réacteurs nucléaires français, EDF va vendre ses éoliennes […]",
-  "pub": "2026-06-15",
-  "ts": 1781499552.0,
-  "vu": "2026-06-17"
- },
- {
-  "source": "Energy-Storage.news",
-  "titre": "Inside South Australia’s FERM tender: Why a technology-neutral process produced an all-battery outcome",
-  "lien": "https://www.energy-storage.news/inside-south-australias-ferm-tender-why-a-technology-neutral-process-produced-an-all-battery-outcome/",
-  "auteur": "George Heynes",
-  "resume": "ESN Premium speaks with ASL on the latest FERM tender results in South Australia and why batteries excelled.",
-  "pub": "2026-06-15",
-  "ts": 1781493418.0,
-  "vu": "2026-06-17"
- },
- {
-  "source": "Transitions & Énergies",
-  "titre": "Tribune: Lancement de l’appel d’offre AO10 sur l’éolien en mer, les associations alertent sur le coût réel de l’éolien en mer",
-  "lien": "https://www.transitionsenergies.com/tribune-appel-offre-ao10-eolien-mer-associations-cout-reel-eolien-en-mer/",
-  "auteur": "La rédaction",
-  "resume": "L'appel d'offres AO10 porte sur plusieurs gigawatts d'éolien en mer supplémentaires. Au-delà du débat sur le réalisme économique de l’éolien et du solaire, la question centrale est celle de leur coût complet pour la collectivité, de leur utilité dans un contexte de surproduction […]",
-  "pub": "2026-06-15",
-  "ts": 1781484245.0,
   "vu": "2026-06-17"
  }
 ]
