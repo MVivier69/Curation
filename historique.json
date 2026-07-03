@@ -5,9 +5,239 @@
   "lien": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=156157",
   "auteur": "Batiactu",
   "resume": "Tout réservoir de stockage se doit d'être qualitatif et bien dimensionné. Toutefois, sans une isolation performante, ses performances théoriques chutent et les surcouts énergétiques sont ...",
-  "pub": "2026-07-02",
-  "ts": 1782984450.0,
+  "pub": "2026-07-03",
+  "ts": 1783071069.0,
   "vu": "2026-06-24"
+ },
+ {
+  "source": "Energy-Storage.news",
+  "titre": "Defying the residential storage shakeout: MOVA LumeGret bets on AI differentiation in crowded European market",
+  "lien": "https://www.energy-storage.news/defying-the-residential-storage-shakeout-mova-lumegret-bets-on-ai-differentiation-in-crowded-european-market/",
+  "auteur": "William Norman",
+  "resume": "As hardware margins compress and consolidation accelerates, smart appliance brand's energy division argues that intelligent software—not just batteries—will determine who survives",
+  "pub": "2026-07-03",
+  "ts": 1783068417.0,
+  "vu": "2026-07-03"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Pourquoi la maintenance devient l’un des grands défis de la transition énergétique",
+  "lien": "https://www.enerzine.com/pourquoi-la-maintenance-devient-lun-des-grands-defis-de-la-transition-energetique/189919-2026-07",
+  "auteur": "La rédaction",
+  "resume": "La transition énergétique est souvent abordée sous l’angle des installations : pompes à chaleur, climatisations réversibles, panneaux photovoltaïques ou encore bornes de recharge. Pourtant, un enjeu majeur reste encore largement sous-estimé : la maintenance de ces équipements […]",
+  "pub": "2026-07-03",
+  "ts": 1783068300.0,
+  "vu": "2026-07-03"
+ },
+ {
+  "source": "les-energies-renouvelables.eu",
+  "titre": "K2 Systems a présenté son portfolio complet de solutions pour toiture, façade, ombrière et plein champ à Intersolar Europe 2026",
+  "lien": "https://www.les-energies-renouvelables.eu/k2-systems-a-presente-son-portfolio-complet-de-solutions-pour-toiture-facade-ombriere-et-plein-champ-a-intersolar-europe-2026/",
+  "auteur": "k2-systems",
+  "resume": "Des projets de plus en plus complexes, une diversité croissante de types de toitures et de nouveaux marchés font monter les exigences envers les systèmes de montage photovoltaïque. K2 Systems a répondu à l'Intersolar Europe 2026 avec un portfolio élargi : des solutions […]",
+  "pub": "2026-07-03",
+  "ts": 1783065683.0,
+  "vu": "2026-07-03"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Une brasserie autrichienne optimise la recharge de sa flotte de poids lourds avec du photovoltaïque et du stockage",
+  "lien": "https://www.pv-magazine.fr/2026/07/03/une-brasserie-autrichienne-optimise-la-recharge-de-sa-flotte-de-poids-lourds-avec-du-photovoltaique-et-du-stockage/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Pour accompagner l'électrification des flottes, l'Autrichien Keba eMobility a déployé une infrastructure de recharge au sein de la brasserie autrichienne Braucommune Freistadt. L'installation combine recharge rapide, pilotage dynamique, photovoltaïque et stockage afin […]",
+  "pub": "2026-07-03",
+  "ts": 1783065600.0,
+  "vu": "2026-07-03"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Agrivoltaic cold frame system for controlled-environment crop cultivation",
+  "lien": "https://www.pv-magazine.com/2026/07/03/agrivoltaic-cold-frame-system-for-controlled-environment-crop-cultivation/",
+  "auteur": "Lior Kahana",
+  "resume": "Researchers developed an agrivoltaic cold frame system that integrates semi-transparent PV modules to create controlled microclimates for crop cultivation. Field trials in Canada showed significantly increased lettuce yields alongside small-scale on-site solar electricity […]",
+  "pub": "2026-07-03",
+  "ts": 1783063739.0,
+  "vu": "2026-07-03"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "ARaymond et Longi entament une collaboration dans le photovoltaïque et le stockage d’énergie",
+  "lien": "https://www.pv-magazine.fr/2026/07/03/araymond-et-longi-entament-une-collaboration-dans-le-photovoltaique-et-le-stockage-denergie/",
+  "auteur": "Francois Puthod",
+  "resume": "Fabricant français de systèmes de fixation et d’assemblage, ARaymond a signé avec Longi Solar un protocole d’accord, afin d’identifier des axes potentiels de collaboration dans les domaines du solaire photovoltaïque et des systèmes de stockage par batteries.",
+  "pub": "2026-07-03",
+  "ts": 1783062000.0,
+  "vu": "2026-07-03"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Boralex refinance ses activités françaises avec une dette de 1,45 Md€",
+  "lien": "https://www.pv-magazine.fr/2026/07/03/boralex-refinance-ses-activites-francaises-avec-une-dette-de-145-mde/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Le producteur d'énergies renouvelables, détenu en France par Boralex et Energy Infrastructure Partners, refinance l'ensemble de ses actifs français au travers d'une dette unique de 1,45 milliard d'euros. L'opération doit lui offrir davantage de flexibilité pour financer sa […]",
+  "pub": "2026-07-03",
+  "ts": 1783060200.0,
+  "vu": "2026-07-03"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Powering fertilizer production with agrivoltaics",
+  "lien": "https://www.pv-magazine.com/2026/07/03/powering-fertiliser-production-with-agrivoltaics/",
+  "auteur": "Uma Gupta",
+  "resume": "Co-locating agrivoltaics, maize cultivation, ethanol production, and urea manufacturing can create an integrated system in which energy, carbon, and agricultural outputs support one another.",
+  "pub": "2026-07-03",
+  "ts": 1783059066.0,
+  "vu": "2026-07-03"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "On voit déjà de l’espace la « Grande Muraille photovoltaïque » que la Chine construit dans le désert",
+  "lien": "https://www.futura-sciences.com/tech/actualites/desert-on-voit-deja-espace-grande-muraille-photovoltaique-chine-construit-desert-135848/",
+  "auteur": "Cécile Breton, Journaliste",
+  "resume": "Et si une immense centrale solaire pouvait aussi transformer un désert ? En Chine, un projet aux dimensions colossales promet de produire une quantité d'électricité vertigineuse tout en ralentissant la progression des dunes.",
+  "pub": "2026-07-03",
+  "ts": 1783055004.0,
+  "vu": "2026-07-03"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Stockage d’énergie : 22 États de l’UE signent un accord tripartite",
+  "lien": "https://www.enerzine.com/stockage-denergie-22-etats-de-lue-signent-un-accord-tripartite/189490-2026-07",
+  "auteur": "La rédaction",
+  "resume": "Réunis à Luxembourg le 26 juin, 22 États membres de l’Union européenne ont signé le premier accord tripartite communautaire consacré au stockage d’énergie. Industriels et institutions financières se joignent à la feuille de route 2026-2028 pour accélérer le déploiement des […]",
+  "pub": "2026-07-03",
+  "ts": 1783051800.0,
+  "vu": "2026-07-03"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Onduleurs solaires : la production occidentale couvre déjà la demande européenne",
+  "lien": "https://www.enerzine.com/onduleurs-solaires-la-production-occidentale-couvre-deja-la-demande-europeenne/189853-2026-07",
+  "auteur": "Philippe Thepaut",
+  "resume": "Alors que l’Union européenne s’apprête à exclure les onduleurs issus de pays à haut risque des financements publics, les données de S&P Global Energy confirment que les capacités de production occidentales dépassent déjà la demande annuelle d’installation du marché […]",
+  "pub": "2026-07-03",
+  "ts": 1783044600.0,
+  "vu": "2026-07-03"
+ },
+ {
+  "source": "CleanTechnica",
+  "titre": "Residential Batteries Are Becoming An Active Grid Management Tool",
+  "lien": "https://cleantechnica.com/2026/07/02/residential-batteries-are-becoming-an-active-grid-management-tool/",
+  "auteur": "Steve Hanley",
+  "resume": "Residential storage batteries are soaring in popularity in the US and other countries as their use in virtual power plants increases.",
+  "pub": "2026-07-03",
+  "ts": 1783040501.0,
+  "vu": "2026-07-03"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "Ces robots autonomes construisent à toute vitesse la centrale solaire du futur data center géant de Meta",
+  "lien": "https://www.futura-sciences.com/tech/actualites/technologie-ces-robots-autonomes-construisent-toute-vitesse-centrale-solaire-futur-data-center-geant-meta-135857/",
+  "auteur": "Sylvain Biget, Journaliste, télépilote professionnel de drones et réalisateur de documentaires",
+  "resume": "Pour construire les infrastructures solaires censées alimenter Hyperion, son mégacentre de données dédié à l'intelligence artificielle en Louisiane, Meta s'appuie sur des engins de chantier autonomes. Une automatisation qui répond à l'urgence du calendrier et à la pénurie […]",
+  "pub": "2026-07-02",
+  "ts": 1783015418.0,
+  "vu": "2026-07-03"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Malgré la crise, Photosol concrétise le 2e plus grand parc solaire de France",
+  "lien": "https://www.greenunivers.com/2026/07/malgre-la-crise-photosol-concretise-le-2e-plus-grand-parc-solaire-de-france-428388/",
+  "auteur": "Paul Messad",
+  "resume": "Reportage – Sur le tarmac de la base aérienne 110 de Creil (Oise), un parterre de 150 personnes invitées à regarder un court-métrage promotionnel sur l’histoire de ce lieu mythique de l’aviation française. Construite en 1910, occupée par la Luftwaffe en 40, puis transformée […]",
+  "pub": "2026-07-02",
+  "ts": 1783007086.0,
+  "vu": "2026-07-03"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Flexibilités : ce qu’il faut retenir du colloque de France Renouvelables",
+  "lien": "https://www.greenunivers.com/2026/07/flexibilites-ce-quil-faut-retenir-du-colloque-de-france-renouvelables-428379/",
+  "auteur": "Jacopo Landi",
+  "resume": "L’association France Renouvelables organisait aujourd’hui son deuxième colloque annuel dédié à la flexibilité et au stockage, dans une salle plus grande cette année du fait de l’affluence. Notre sélection d’informations collectées lors des débats et dans les couloirs. L’article […]",
+  "pub": "2026-07-02",
+  "ts": 1783006488.0,
+  "vu": "2026-07-03"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "[Enquête 1/2] Électrification du transport : où en est vraiment la synergie entre solaire et recharge des véhicules ?",
+  "lien": "https://www.pv-magazine.fr/2026/07/02/enquete-1-2-electrification-du-transport-ou-en-est-vraiment-la-synergie-entre-solaire-et-recharge-des-vehicules/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "L'essor des véhicules électriques ouvre un nouveau marché au photovoltaïque. Mais au-delà des promesses, où en est réellement la synergie entre production solaire, infrastructures de recharge et stockage ? Tour d'horizon des solutions qui émergent et des verrous qui restent à […]",
+  "pub": "2026-07-02",
+  "ts": 1783002600.0,
+  "vu": "2026-07-03"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "EnR : les financeurs sont plus attentifs à la solidité des sociétés",
+  "lien": "https://www.greenunivers.com/2026/07/enr-les-financeurs-sont-plus-attentifs-a-la-solidite-des-societes-428326/",
+  "auteur": "Natasha Laporte",
+  "resume": "[Compte-rendu] – Entre les incertitudes économiques et la récente crise géopolitique, le contexte n’est pas de tout repos. Mais les acteurs des énergies renouvelables (EnR), réunis le 1er juillet lors de la 12èmeconférence GreenUnivers sur le Financement des infrastructures […]",
+  "pub": "2026-07-02",
+  "ts": 1783002486.0,
+  "vu": "2026-07-03"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "Ce générateur solaire ALLPOWERS passe à un prix qui vaut le détour pendant les soldes",
+  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-energie-ce-generateur-solaire-allpowers-passe-prix-vaut-detour-pendant-soldes-10596/",
+  "auteur": "Mohamed El Alami, Rédacteur Web",
+  "resume": "Partir en vacances avec une réserve d'énergie devient beaucoup plus simple grâce à ce générateur avec panneau solaire ALLPOWERS. En ce moment, Cdiscount le propose à prix réduit à l'occasion des soldes, une offre idéale pour préparer sereinement vos escapades estivales.",
+  "pub": "2026-07-02",
+  "ts": 1783000800.0,
+  "vu": "2026-07-03"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "Le Xiaomi Redmi Note 15 Pro 5G à moins de 258 € avec coupon : Dimensity 7400-Ultra, capteur 200 MP et batterie 6 580 mAh pour un milieu de gamme redoutable",
+  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-smartphones-xiaomi-redmi-note-15-pro-5g-moins-258-coupon-dimensity-7400-ultra-capteur-200-mp-batterie-6-580-mah-milieu-gamme-redoutable-10588/",
+  "auteur": "Benoit Baylé, Rédacteur web",
+  "resume": "Le Xiaomi Redmi Note 15 Pro 5G ne cherche pas à réinventer la roue, mais à proposer une équation technique quasi imbattable dans sa tranche de prix. Avec sa MediaTek Dimensity 7400-Ultra, son écran de 6,83 pouces à 120 Hz, son capteur principal de 200 mégapixels avec […]",
+  "pub": "2026-07-02",
+  "ts": 1782999005.0,
+  "vu": "2026-07-03"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Le réseau Powered by Solarock intègre son quatrième installateur",
+  "lien": "https://www.pv-magazine.fr/2026/07/02/powered-by-solarock-integre-son-quatrieme-installateur/",
+  "auteur": "Francois Puthod",
+  "resume": "Pour accélérer son développement, Boubat Eco-Energie rejoint le réseau national de franchisés sur le marché du solaire résidentiel créé par Solarock.",
+  "pub": "2026-07-02",
+  "ts": 1782997200.0,
+  "vu": "2026-07-03"
+ },
+ {
+  "source": "Energy-Storage.news",
+  "titre": "Calculating state of charge (SOC) in BESS",
+  "lien": "https://www.energy-storage.news/calculating-state-of-charge-soc-in-bess/",
+  "auteur": "Liam Critchley",
+  "resume": "State of charge (SOC) is on the face of it a straightforward measurement for batteries and BESS. But in reality, it's highly complex and under- or over-reporting still happens in the industry, leading to under-performance and losses in revenue.",
+  "pub": "2026-07-02",
+  "ts": 1782994947.0,
+  "vu": "2026-07-03"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "L’éclairage solaire s’impose sur les sites commerciaux et industriels",
+  "lien": "https://www.pv-magazine.fr/2026/07/02/leclairage-solaire-simpose-sur-les-sites-commerciaux-et-industriels/",
+  "auteur": "Marie Beyer",
+  "resume": "Fonroche Lighting s'est associé à Carrefour Property pour équiper en éclairage solaire le parking du centre commercial de Labège en Haute-Garonne. Le site a opté pour ce nouvel équipement dans le cadre d'un vaste programme d'aménagement.",
+  "pub": "2026-07-02",
+  "ts": 1782993600.0,
+  "vu": "2026-07-03"
+ },
+ {
+  "source": "Enerplan",
+  "titre": "Produire, partager, consommer : déployer l’autoconsommation collective sur le territoire",
+  "lien": "https://www.enerplan.asso.fr/produire-partager-consommer-deployer-lautoconsommation-collective-sur-le-territoire/",
+  "auteur": "Mickaël Marie",
+  "resume": "",
+  "pub": "2026-07-02",
+  "ts": 1782993262.0,
+  "vu": "2026-07-03"
  },
  {
   "source": "pv magazine France",
@@ -1598,135 +1828,5 @@
   "pub": "2026-06-23",
   "ts": 1782173527.0,
   "vu": "2026-06-23"
- },
- {
-  "source": "Batiactu",
-  "titre": "Un nouveau président pour la Fédération française des tuiles et briques",
-  "lien": "https://www.batiactu.com/edito/un-nouveau-president-federation-francaise-tuiles-et-74789.php",
-  "auteur": "Batiactu",
-  "resume": "CARNET-NOMINATION. Le président d'Edilians, Pascal Casanova, a été élu à la tête de la Fédération française des tuiles et briques (FFTB). Il a pour ambition d'accélérer la transition énergétique de la filière et de promouvoir une construction plus durable.",
-  "pub": "2026-06-22",
-  "ts": 1782143519.0,
-  "vu": "2026-06-23"
- },
- {
-  "source": "Batiactu",
-  "titre": "Électrification : le gouvernement veut convaincre professionnels et particuliers",
-  "lien": "https://www.batiactu.com/edito/electrification-gouvernement-veut-convaincre-professionnels-74787.php",
-  "auteur": "Batiactu",
-  "resume": "TRANSITION ÉNERGÉTIQUE. Les pouvoirs publics ont lancé une campagne de communication dédiée à la mobilité et au chauffage électrique.",
-  "pub": "2026-06-22",
-  "ts": 1782142583.0,
-  "vu": "2026-06-23"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Expérimentation animale : l'agrément du centre n'était finalement pas soumis à participation du public",
-  "lien": "https://www.actu-environnement.com/ae/news/experimentation-animale-agrement-participation-public-48189.php4",
-  "auteur": "",
-  "resume": "L'arrêté préfectoral renouvelant l'agrément d'un centre d'expérimentation animale ne devait pas être soumis à l'organisation préalable d'une procédure de participation du public. C'est ce qui ressort d'une décision de la cour administrative d'appe...",
-  "pub": "2026-06-22",
-  "ts": 1782139708.0,
-  "vu": "2026-06-23"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Le HillMiles MileTrail à moins de 500 € avec coupon : moteur 250W conforme, suspension avant et 7 vitesses pour un VTT électrique d'entrée de gamme honnête",
-  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-velos-trottinettes-hillmiles-miletrail-moins-500-coupon-moteur-250w-conforme-suspension-avant-7-vitesses-vtt-electrique-entree-gamme-honnete-10411/",
-  "auteur": "Benoit Baylé, Rédacteur web",
-  "resume": "Le HillMiles MileTrail joue la carte du VTT électrique accessible et conforme à la réglementation française. Moteur brushless de 250W calibré pour la limite légale française, batterie 36V 13Ah amovible pour une autonomie correcte, suspension avant pour les sentiers, dérailleur 7 […]",
-  "pub": "2026-06-22",
-  "ts": 1782138600.0,
-  "vu": "2026-06-23"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "RWE France va réduire de près de moitié ses effectifs onshore",
-  "lien": "https://www.greenunivers.com/2026/06/rwe-france-va-reduire-de-pres-de-moitie-ses-effectifs-onshore-427330/",
-  "auteur": "Paul Messad",
-  "resume": "Exclusif – Après l’activité en mer, le terrestre. Selon nos informations, l’énergéticien allemand RWE vient de lancer la procédure d’un plan de sauvegarde de l’emploi (PSE) sur le périmètre des renouvelables onshore en France. A date, L’article RWE France va réduire de près de […]",
-  "pub": "2026-06-22",
-  "ts": 1782137590.0,
-  "vu": "2026-06-23"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Suiveur solaire et fondations intégrées : Nextpower présente ses nouveautés à Intersolar",
-  "lien": "https://www.pv-magazine.fr/2026/06/22/suiveur-solaire-et-fondations-integrees-nextpower-presente-ses-nouveautes-a-intersolar/",
-  "auteur": "Francois Puthod",
-  "resume": "Nextpower lance sur le marché mondial un nouveau système de « tracker » à deux modules en orientation portrait (2P), ainsi qu’une solution de fondation intégrée répondant à une large gamme d’exigences en matière d’implantation et d’utilisation des terrains.",
-  "pub": "2026-06-22",
-  "ts": 1782133200.0,
-  "vu": "2026-06-23"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Sienna met la flexibilité en priorité d’investissement",
-  "lien": "https://www.greenunivers.com/2026/06/sienna-met-la-flexibilite-en-priorite-dinvestissement-427269/",
-  "auteur": "Natasha Laporte",
-  "resume": "Sienna garde le cap. « Nous avons toujours essayé de financer ce qu’il y a de plus novateur en matière de complexité dans la transition énergétique », affirme Philippe Garrel, directeur des fonds transition énergétique crédit privé chez Sienna Investment Managers. Et […]",
-  "pub": "2026-06-22",
-  "ts": 1782127887.0,
-  "vu": "2026-06-22"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Samduo arrive en Europe avec la batterie résidentielle la plus fine du marché",
-  "lien": "https://www.pv-magazine.fr/2026/06/22/samduo-arrive-en-europe-avec-la-batterie-residentielle-la-plus-fine-du-marche/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Le marché européen du stockage résidentiel compte un nouvel acteur. Le groupe chinois Samduo lance sa propre marque sur le continent. En ciblant les Pays-Bas, l'Allemagne et la France au moment même où le marché de l'autoconsommation est en pleine mutation eu Europe, le […]",
-  "pub": "2026-06-22",
-  "ts": 1782118800.0,
-  "vu": "2026-06-22"
- },
- {
-  "source": "pv magazine",
-  "titre": "Circuitor unveils reactive energy controller for PV self-consumption",
-  "lien": "https://www.pv-magazine.com/2026/06/22/circuitor-unveils-reactive-energy-controller-for-pv-self-consumption/",
-  "auteur": "Emiliano Bellini",
-  "resume": "The Computer PV-12 is a reactive energy controller for photovoltaic self-consumption systems that can manage up to three current sources on a single phase. It reportedly simplifies installation and improves power factor accuracy by internally summing measurements and eliminating […]",
-  "pub": "2026-06-22",
-  "ts": 1782117000.0,
-  "vu": "2026-06-22"
- },
- {
-  "source": "Energy-Storage.news",
-  "titre": "Multi-day energy storage startup Ore Energy signs 1GWh iron-air battery deal with Dutch utility",
-  "lien": "https://www.energy-storage.news/multi-day-energy-storage-startup-ore-energy-signs-1gwh-iron-air-battery-deal-with-dutch-utility/",
-  "auteur": "Andy Colthorpe",
-  "resume": "Startup Ore Energy has signed an agreement with a utility in the Netherlands to deploy up to 1,000MWh of multi-day-duration iron-air batteries.",
-  "pub": "2026-06-22",
-  "ts": 1782115637.0,
-  "vu": "2026-06-22"
- },
- {
-  "source": "pv magazine France",
-  "titre": "PPA : plaidoyer pour un tarif d’accise nul applicable aux consommateurs",
-  "lien": "https://www.pv-magazine.fr/2026/06/22/ppa-plaidoyer-pour-un-tarif-daccise-nul-applicable-aux-consommateurs/",
-  "auteur": "Francois Puthod",
-  "resume": "La Plateforme Verte, association professionnelle dédiée à la transition énergétique, propose d’inscrire dans le projet de Loi de finances 2027 l’application d’un tarif nul d’accise aux volumes couverts par des PPA renouvelables additionnels.",
-  "pub": "2026-06-22",
-  "ts": 1782115200.0,
-  "vu": "2026-06-22"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Quand une tempête permet le repowering d’une centrale solaire",
-  "lien": "https://www.pv-magazine.fr/2026/06/22/quand-une-tempete-permet-le-repowering-dune-centrale-solaire/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Détruite en grande partie par la tempête Domingos en novembre 2023, la centrale photovoltaïque Ychoux 2, dans les Landes, a été reconstruite avec des équipements plus puissants. Cette opération de rénovation a permis de doubler la puissance installée pour une surface identique.",
-  "pub": "2026-06-22",
-  "ts": 1782109800.0,
-  "vu": "2026-06-22"
- },
- {
-  "source": "Enerzine",
-  "titre": "Batteries zinc-air : le fer supplante le platine dans un catalyseur japonais",
-  "lien": "https://www.enerzine.com/batteries-zinc-air-le-fer-supplante-le-platine-dans-un-catalyseur-japonais/188812-2026-06",
-  "auteur": "La rédaction",
-  "resume": "Des chercheurs de l’Université Tohoku au Japon ont conçu un catalyseur associant oxyde de fer et oxyde de samarium, capable d’accélérer la réaction chimique au cœur des batteries zinc-air. Publiée dans Angewandte Chemie International Edition, cette percée écarte le recours au […]",
-  "pub": "2026-06-22",
-  "ts": 1782101400.0,
-  "vu": "2026-06-22"
  }
 ]
