@@ -1,5 +1,175 @@
 [
  {
+  "source": "pv magazine France",
+  "titre": "Galileo présente 5 nouveaux projets agrivoltaïques en Lot-et-Garonne",
+  "lien": "https://www.pv-magazine.fr/2026/07/07/galileo-presente-5-nouveaux-projets-agrivoltaiques-en-lot-et-garonne/",
+  "auteur": "Marie Beyer",
+  "resume": "D'une puissance cumulée de 69 MW, le portefeuille en développement comprend cinq projets photovoltaïques couplés à de l'élevage bovin. Les demandes d'autorisation seront déposées à la fin de l'été, avec un passage devant la CDPENAF d'ici la fin de l'année.",
+  "pub": "2026-07-07",
+  "ts": 1783416600.0,
+  "vu": "2026-07-07"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Enphase targets 800 V DC data centers with distributed solid-state transformers",
+  "lien": "https://www.pv-magazine.com/2026/07/07/enphase-targets-800-v-dc-data-centers-with-distributed-solid-state-transformers/",
+  "auteur": "Blathnaid O'Dea",
+  "resume": "Enphase Energy representative Andy Newbold told pv magazine the company sees its distributed solid-state transformer model supporting utility-scale solar, batteries, and high-power EV charging eventually. The initial focus, however, will be on data centers.",
+  "pub": "2026-07-07",
+  "ts": 1783414194.0,
+  "vu": "2026-07-07"
+ },
+ {
+  "source": "CLER",
+  "titre": "Énergies renouvelables : en finir avec trois idées reçues",
+  "lien": "https://cler.org/energies-renouvelables-en-finir-avec-trois-idees-recues/",
+  "auteur": "Julien Ferdinand",
+  "resume": "Pas fiables, trop chères, néfastes pour le paysage… Les énergies renouvelables sont l’objet d’idées reçues fermement ancrées dans certains esprits. Voici des clés pour démêler le vrai du faux. L’article Énergies renouvelables : en finir avec trois idées reçues est apparu en […]",
+  "pub": "2026-07-07",
+  "ts": 1783411254.0,
+  "vu": "2026-07-07"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "[EnerGaïa 2026] La 20e édition du rendez-vous de référence des EnR pour bâtir ensemble le nouveau système énergétique",
+  "lien": "https://www.pv-magazine.fr/2026/07/07/energaia-2026-la-20e-edition-du-rendez-vous-de-reference-des-enr-pour-batir-ensemble-le-nouveau-systeme-energetique/",
+  "auteur": "Francois Puthod",
+  "resume": "Après une 19e édition marquée par une fréquentation record et une mobilisation de l’ensemble de la filière des énergies renouvelables, le Forum EnerGaïa donne rendez-vous aux professionnels les 9 et 10 décembre 2026 au Parc des Expositions de Montpellier.",
+  "pub": "2026-07-07",
+  "ts": 1783411200.0,
+  "vu": "2026-07-07"
+ },
+ {
+  "source": "Enerplan",
+  "titre": "Etats Généraux de la Chaleur Solaire 2026 : les replays",
+  "lien": "https://www.enerplan.asso.fr/etats-generaux-de-la-chaleur-solaire-2026-les-replays/",
+  "auteur": "Marlène CHALVIN",
+  "resume": "",
+  "pub": "2026-07-07",
+  "ts": 1783410716.0,
+  "vu": "2026-07-07"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Transition énergétique : les métaux critiques, angle mort de la décarbonation",
+  "lien": "https://lenergeek.com/2026/07/07/transition-energetique-les-metaux-critiques-angle-mort-de-la-decarbonation/",
+  "auteur": "La Rédaction",
+  "resume": "On parle volontiers d’électrification, de batteries et d’éoliennes. Beaucoup moins des matières premières sans lesquelles rien de tout cela n’existerait. Or c’est là que se joue une part décisive de ... L’article Transition énergétique : les métaux critiques, angle mort de la […]",
+  "pub": "2026-07-07",
+  "ts": 1783407300.0,
+  "vu": "2026-07-07"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Le marché européen du photovoltaïque B2C manque d’acteurs dominants",
+  "lien": "https://www.pv-magazine.fr/2026/07/07/le-marche-europeen-du-photovoltaique-b2c-en-manque-dacteurs-dominants/",
+  "auteur": "Francois Puthod",
+  "resume": "En analysant le marché européen des systèmes photovoltaïques destinés aux consommateurs finaux, le Centre berlinois pour la transformation durable contrevient à la supposée domination des grands acteurs sur le marché.",
+  "pub": "2026-07-07",
+  "ts": 1783405800.0,
+  "vu": "2026-07-07"
+ },
+ {
+  "source": "Révolution Énergétique",
+  "titre": "Hydroélectricité : EDF compte sur la Dordogne pour augmenter ses capacités de stockage",
+  "lien": "https://www.revolution-energetique.com/actus/hydroelectricite-edf-compte-sur-la-dordogne-pour-augmenter-ses-capacites-de-stockage/",
+  "auteur": "Kevin CHAMPEAU",
+  "resume": "La Dordogne et ses vallées encaissées pourraient bien constituer le nouvel eldorado d’EDF. L’électricien français rêve d’y installer de nouvelles STEP pour stocker de l’énergie. […] L’article Hydroélectricité : EDF compte sur la Dordogne pour augmenter ses capacités de stockage […]",
+  "pub": "2026-07-07",
+  "ts": 1783403860.0,
+  "vu": "2026-07-07"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "L’Italie veut copier la Suisse et ses trains solaires : le pilote sera lancé dans quelques mois",
+  "lien": "https://lenergeek.com/2026/07/07/litalie-veut-copier-la-suisse-et-ses-trains-solaires-le-pilote-sera-lance-dans-quelques-mois/",
+  "auteur": "Gabin Laurent",
+  "resume": "Imaginez des trains alimentés par l'énergie solaire directement depuis les rails ! L’article L’Italie veut copier la Suisse et ses trains solaires : le pilote sera lancé dans quelques mois est apparu en premier sur L'EnerGeek .",
+  "pub": "2026-07-07",
+  "ts": 1783403400.0,
+  "vu": "2026-07-07"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "A Vouneuil-sous-Biard, une ancienne décharge devient centrale solaire",
+  "lien": "https://www.enerzine.com/a-vouneuil-sous-biard-une-ancienne-decharge-devient-centrale-solaire/189860-2026-07",
+  "auteur": "La rédaction",
+  "resume": "Le 1er juillet, le Groupe Sorégies et Grand Poitiers ont inauguré la centrale photovoltaïque de Vouneuil-sous-Biard, dans la Vienne. Troisième installation du partenariat Grand Poitiers Photovoltaïque, elle reconvertit une ancienne décharge en site de production d’électricité […]",
+  "pub": "2026-07-07",
+  "ts": 1783390200.0,
+  "vu": "2026-07-07"
+ },
+ {
+  "source": "Transitions & Énergies",
+  "titre": "Les investissements dans les énergies bas carbone dépassent ceux dans les combustibles fossiles depuis dix ans",
+  "lien": "https://www.transitionsenergies.com/investissements-energies-bas-carbone-depassent-ceux-combustibles-fossiles-dix-ans/",
+  "auteur": "La rédaction",
+  "resume": "Cela fait maintenant dix ans que les investissements dans le monde dans les sources d’énergies bas carbone, renouvelables et nucléaire, dépassent ceux dans les combustibles fossiles, pétrole, gaz et charbon. Il s’agit clairement d’une tendance de fond renforcée par la succession […]",
+  "pub": "2026-07-07",
+  "ts": 1783389094.0,
+  "vu": "2026-07-07"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Revenus des batteries : le trading va remplacer les services système dès 2029",
+  "lien": "https://www.greenunivers.com/2026/07/revenus-des-batteries-le-trading-va-remplacer-les-services-systeme-428611/",
+  "auteur": "GreenUnivers",
+  "resume": "[Compte-rendu] A mesure que le nombre de batteries stationnaires augmente sur le réseau, leurs revenus vont diminuer. C’est le constat établi par Michael Salomon, fondateur et PDG de Clean Horizon, lors de la 12ème conférence sur le Financement des infrastructures de […]",
+  "pub": "2026-07-06",
+  "ts": 1783352048.0,
+  "vu": "2026-07-07"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Pourquoi Rive investit dans la chaleur renouvelable industrielle",
+  "lien": "https://www.greenunivers.com/2026/07/pourquoi-rive-investit-dans-la-chaleur-renouvelable-industrielle-428677/",
+  "auteur": "Jean-Philippe Pié",
+  "resume": "Rive Private Investment fait son entrée dans la chaleur renouvelable, surtout industrielle. Il passe par l’Espagne pour cela, entrant en minoritaire aux côtés des fondateurs de Rebi (Recursos de la biomasa), un créateur de réseaux de chaleur surtout à base de biomasse basé à […]",
+  "pub": "2026-07-06",
+  "ts": 1783351311.0,
+  "vu": "2026-07-07"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Reflect10 promet une augmentation de production record des modules solaires",
+  "lien": "https://www.greenunivers.com/2026/07/reflect10-promet-une-augmentation-de-production-record-des-modules-solaires-428664/",
+  "auteur": "GreenUnivers",
+  "resume": "Du jamais vu. La startup québécoise Reflect10 va dévoiler officiellement demain 7 juillet sa nouvelle technologie dite de « réflectricité ». Concrètement, la réflectricité L’article Reflect10 promet une augmentation de production record des modules solaires est apparu en premier […]",
+  "pub": "2026-07-06",
+  "ts": 1783350805.0,
+  "vu": "2026-07-07"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "[En images] Inauguration à Creil du deuxième parc solaire français",
+  "lien": "https://www.pv-magazine.fr/2026/07/06/en-images-inauguration-a-creil-du-deuxieme-parc-solaire-francais/",
+  "auteur": "Francois Puthod",
+  "resume": "Développée par Photosol sur l’ancienne base aérienne 110, la centrale photovoltaïque de Creil (Oise), 2e parc solaire de France en terme de puissance, a été inaugurée le 2 juillet.",
+  "pub": "2026-07-06",
+  "ts": 1783346400.0,
+  "vu": "2026-07-07"
+ },
+ {
+  "source": "Batiactu",
+  "titre": "A Creil, le deuxième plus puissant parc solaire de France est mis en service",
+  "lien": "https://www.batiactu.com/edito/a-creil-deuxieme-plus-puissant-parc-solaire-france-74909.php",
+  "auteur": "Batiactu",
+  "resume": "ÉNERGIE SOLAIRE. L'installation déployée en partie sur l'ancienne base aérienne de la commune de l'Oise permettra une production moyenne annuelle de 202 GWh grâce à une puissance installée de 202 MWc. La centrale fait partie des 32 sites sélectionnés dans le cadre du plan […]",
+  "pub": "2026-07-06",
+  "ts": 1783344719.0,
+  "vu": "2026-07-07"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "ACC : rectificatif sur le décret encadrant les règles de répartition de l’énergie",
+  "lien": "https://www.pv-magazine.fr/2026/07/06/autoconsommation-collective-le-decret-sur-les-regles-de-repartition-deja-rectifie/",
+  "auteur": "Francois Puthod",
+  "resume": "Le gouvernement anticipe d’un an l’entrée en vigueur des nouvelles règles de répartition de l’énergie entre participants d’une opération d’autoconsommation collective.",
+  "pub": "2026-07-06",
+  "ts": 1783342800.0,
+  "vu": "2026-07-07"
+ },
+ {
   "source": "Révolution Énergétique",
   "titre": "Ce fournisseur veut installer une batterie chez vous pour trader l’électricité sur les marchés",
   "lien": "https://www.revolution-energetique.com/actus/ce-fournisseur-veut-installer-une-batterie-chez-vous-pour-trader-lelectricite-sur-les-marches/",
@@ -1218,215 +1388,5 @@
   "pub": "2026-06-27",
   "ts": 1782531680.0,
   "vu": "2026-06-27"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Le Redmi 15 5G à moins de 150 € : Snapdragon 6s Gen 3, écran 6,9 pouces 144 Hz et batterie 7000 mAh pour un modèle d'entrée de gamme qui frappe fort",
-  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-smartphones-redmi-15-5g-moins-150-snapdragon-6s-gen-3-ecran-69-pouces-144-hz-batterie-7000-mah-modele-entree-gamme-frappe-fort-10524/",
-  "auteur": "Benoit Baylé, Rédacteur web",
-  "resume": "Le Redmi 15 5G poursuit la tradition de Xiaomi avec une rigueur impressionnante : proposer le maximum de caractéristiques techniques pour le minimum d'euros dépensés. Processeur Qualcomm Snapdragon 6s Gen 3, écran de 6,9 pouces à 144 Hz, batterie monumentale de 7000 mAh, charge […]",
-  "pub": "2026-06-26",
-  "ts": 1782493205.0,
-  "vu": "2026-06-27"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Une étude révèle qu'il n'est jamais vraiment trop tard pour arrêter de fumer pour préserver son cerveau",
-  "lien": "https://www.futura-sciences.com/sante/actualites/tabac-etude-revele-quil-nest-jamais-vraiment-trop-tard-arreter-fumer-preserver-son-cerveau-k2m6-135645/",
-  "auteur": "la rédaction, Futura",
-  "resume": "Et s'il n'était jamais trop tard pour protéger son cerveau ? Une vaste étude révèle que les anciens fumeurs voient leur risque de démence reculer, jusqu'à rejoindre celui des personnes n'ayant jamais touché à une cigarette. Une bonne nouvelle pour tous ceux qui pensaient avoir […]",
-  "pub": "2026-06-26",
-  "ts": 1782489600.0,
-  "vu": "2026-06-27"
- },
- {
-  "source": "Batiactu",
-  "titre": "RGE : la réforme attendue franchit un nouveau cap",
-  "lien": "https://www.batiactu.com/edito/validation-rge-74831.php",
-  "auteur": "Batiactu",
-  "resume": "ARTISANS. L'obtention de la qualification Reconnu garant de l'environnement (RGE) va être rendue plus simple grâce à la publication d'un arrêté au Journal officiel du 26 juin 2026. Cette réforme, promise par le ministre Vincent Jeanbrun, devrait ouvrir plus grand les portes du […]",
-  "pub": "2026-06-26",
-  "ts": 1782488699.0,
-  "vu": "2026-06-27"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Les documents de la semaine",
-  "lien": "https://www.greenunivers.com/2026/06/les-documents-de-la-semaine-381215/",
-  "auteur": "GreenUnivers",
-  "resume": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de […]",
-  "pub": "2026-06-26",
-  "ts": 1782488681.0,
-  "vu": "2026-06-21"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Un décret modifie les règles relatives à la prévention des risques concernant le sol et le sous-sol",
-  "lien": "https://www.actu-environnement.com/ae/news/decret-prevention-risques-sol-sous-sol-48221.php4",
-  "auteur": "",
-  "resume": "Développement de la géothermie, mise en sécurité des stockages souterrains de gaz naturel, modalités d'appel des garanties financières et meilleure connaissance des déchets des industries extractives sont au menu de ce nouveau texte réglementaire.",
-  "pub": "2026-06-26",
-  "ts": 1782488221.0,
-  "vu": "2026-06-27"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "La France encore insatisfaite des négociations européennes sur les réseaux",
-  "lien": "https://www.greenunivers.com/2026/06/la-france-encore-insatisfaite-des-negociations-europeennes-sur-les-reseaux-427872/",
-  "auteur": "Paul Messad",
-  "resume": "Mi-figue mi-raisin. Les Etats membres de l’Union européenne ont arrêté leur position, disponible en fin d’article, sur le « paquet réseau » consacré aux interconnexions européennes lors du Conseil européen de ce vendredi 26 juin. La France n’a pas réussi à faire valoir […]",
-  "pub": "2026-06-26",
-  "ts": 1782488122.0,
-  "vu": "2026-06-27"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "SAMDUO lance la batterie solaire domestique la plus fine au monde",
-  "lien": "https://www.futura-sciences.com/tech/actualites/panneaux-solaires-samduo-lance-batterie-solaire-domestique-plus-fine-monde-135675/",
-  "auteur": "Arnaud Pagès, Journaliste",
-  "resume": "Avec la batterie domestique Nex E6000, actuellement la plus fine au monde, SAMDUO entend bousculer le marché européen du stockage résidentiel avec un équipement au design discret et élégant, simple à installer, et compatible avec les panneaux solaires existants.",
-  "pub": "2026-06-26",
-  "ts": 1782487871.0,
-  "vu": "2026-06-27"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Reden inaugure sa première serre agrivoltaïque en Maine-et-Loire",
-  "lien": "https://www.pv-magazine.fr/2026/06/26/reden-inaugure-sa-premiere-serre-agrivoltaique-en-maine-et-loire/",
-  "auteur": "Francois Puthod",
-  "resume": "À Chenillé-Champteussé (49), le producteur Reden a réalisé une serre agrivoltaïque sur les terres de l’EARL Lallaouret. Objectif : sécuriser et diversifier la production de l’exploitation maraîchère.",
-  "pub": "2026-06-26",
-  "ts": 1782478800.0,
-  "vu": "2026-06-27"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Une mine hors réseau fonctionne pendant 155 heures consécutives avec 100 % d’énergie renouvelable",
-  "lien": "https://www.pv-magazine.fr/2026/06/26/une-mine-hors-reseau-fonctionne-pendant-155-heures-consecutives-avec-100-denergie-renouvelable/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "La décarbonation du secteur minier australien a franchi une nouvelle étape avec la mine d'or Bellevue, en Australie-Occidentale, qui a fonctionné pendant plus de six jours consécutifs en étant alimentée à 100 % par des énergies renouvelables.",
-  "pub": "2026-06-26",
-  "ts": 1782475200.0,
-  "vu": "2026-06-27"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Bohr Energie collecte 9,5 M€, va franchir 1 GW agrégé",
-  "lien": "https://www.greenunivers.com/2026/06/bohr-energie-collecte-95-me-va-franchir-1-gw-agrege-427457/",
-  "auteur": "Jacopo Landi",
-  "resume": "Jeune agrégateur d’actifs de production d’électricité renouvelable, Bohr Energie boucle une levée de fonds de série A de 9,5 M€ en fonds propres, après un premier tour de 4 M€ en seed en 2024. Les actionnaires historiques L’article Bohr Energie collecte 9,5 M€, va franchir 1 GW […]",
-  "pub": "2026-06-26",
-  "ts": 1782471202.0,
-  "vu": "2026-06-27"
- },
- {
-  "source": "pv magazine",
-  "titre": "How storage is reshaping Italy’s energy system",
-  "lien": "https://www.pv-magazine.com/2026/06/26/how-storage-is-reshaping-italys-energy-system/",
-  "auteur": "Emiliano Bellini",
-  "resume": "pv magazine has spoken with Federico Brucciani, secretary of Italian PV association Italia Solare, about the rapid expansion of residential solar-plus-storage in Italy, where 80% of new PV systems now include batteries. He also discussed the structural weaknesses of the C&I […]",
-  "pub": "2026-06-26",
-  "ts": 1782469308.0,
-  "vu": "2026-06-27"
- },
- {
-  "source": "pv magazine",
-  "titre": "Agrivoltaics moving from niche concept to structured market segment",
-  "lien": "https://www.pv-magazine.com/2026/06/26/agrivoltaics-moving-from-niche-concept-to-structured-market-segment/",
-  "auteur": "Emiliano Bellini",
-  "resume": "pv magazine has spoken with Jochen Hauff, Senior Advisor for agrivoltaics to the Global Solar Council at the Smarter E trade show. He says agrivoltaics is rapidly evolving from a niche workaround into a standalone industry with its own technical, agricultural and social […]",
-  "pub": "2026-06-26",
-  "ts": 1782467572.0,
-  "vu": "2026-06-27"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Le télescope James-Webb révèle l’âge vertigineux du visiteur interstellaire 3I/Atlas, un fossile venu d’un autre système solaire",
-  "lien": "https://www.futura-sciences.com/sciences/actualites/3i-atlas-telescope-james-webb-revele-age-vertigineux-visiteur-interstellaire-3i-atlas-fossile-venu-autre-systeme-solaire-135569/",
-  "auteur": "Laurent Sacco, Journaliste scientifique",
-  "resume": "Les observations de la troisième comète interstellaire identifiée dans l'histoire de l'humanité continuent à montrer qu'elle présente une composition chimique surprenante et à nous donner des informations sur son origine. Ces observations continuent aussi à soulever des […]",
-  "pub": "2026-06-26",
-  "ts": 1782465301.0,
-  "vu": "2026-06-26"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Dinto Solar lance un module photovoltaïque à hétérojonction de 775 W affichant un rendement de 25,05 %",
-  "lien": "https://www.pv-magazine.fr/2026/06/26/dinto-solar-lance-un-module-photovoltaique-a-heterojonction-de-775-w-affichant-un-rendement-de-2505/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Le fabricant chinois de modules photovoltaïques à hétérojonction (HJT) Dinto Solar présentera son nouveau module solaire DT198G-FZ HJT destiné aux applications à grande échelle lors du salon Intersolar Europe 2026 à Munich. Ce panneau utilisant une technologie sans busbar (0BB) […]",
-  "pub": "2026-06-26",
-  "ts": 1782464400.0,
-  "vu": "2026-06-26"
- },
- {
-  "source": "pv magazine",
-  "titre": "Longi showcases portable containerized photovoltaic station",
-  "lien": "https://www.pv-magazine.com/2026/06/26/longi-showcases-portable-containerized-photovoltaic-station/",
-  "auteur": "Emiliano Bellini",
-  "resume": "Longi's containerized Block PV station integrates modules, structure and GoodWe GT Series inverters into a rapidly deployable off-grid system. It reportedly achieves an LCOE of around €0.0413–€0.045/kWh in European markets such as Ukraine and Poland.",
-  "pub": "2026-06-26",
-  "ts": 1782462174.0,
-  "vu": "2026-06-26"
- },
- {
-  "source": "pv magazine France",
-  "titre": "SMA commercialise sa première solution pour les grandes centrales hybrides (PV+BESS), à couplage Courant Continu",
-  "lien": "https://www.pv-magazine.fr/2026/06/26/sma-commercialise-sa-premiere-solution-pour-les-grandes-centrales-hybrides-pvbess-a-couplage-courant-continu/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "SMA Solar Technology lance une solution hybride à couplage DC destinée aux grandes centrales photovoltaïques avec stockage. Elle combine conversion de puissance, stockage par batteries et capacités de formation de réseau afin de renforcer la stabilité des réseaux et la […]",
-  "pub": "2026-06-26",
-  "ts": 1782460800.0,
-  "vu": "2026-06-26"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Nextpower acquiert Zimmermann PV Steel pour 330 millions d’euros",
-  "lien": "https://www.pv-magazine.fr/2026/06/26/nextpower-acquiert-zimmermann-pv-steel-pour-330-millions-deuros/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "L’entreprise américaine Nextpower a annoncé son intention d’acquérir le fournisseur allemand de structures de montage photovoltaïques Zimmermann PV Steel dans le cadre d’une transaction évaluée à environ 330 millions d’euros (378 millions de dollars), réglée en numéraire et en […]",
-  "pub": "2026-06-26",
-  "ts": 1782459000.0,
-  "vu": "2026-06-26"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "L’agenda de la transition énergétique",
-  "lien": "https://www.greenunivers.com/2026/06/lagenda-de-la-transition-energetique-280-424554/",
-  "auteur": "GreenUnivers",
-  "resume": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique […]",
-  "pub": "2026-06-26",
-  "ts": 1782456999.0,
-  "vu": "2026-06-19"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Neoen remporte un contrat long terme pour une batterie de 200 MW/8 heures en Ontario",
-  "lien": "https://www.pv-magazine.fr/2026/06/26/neoen-remporte-un-contrat-long-terme-pour-une-batterie-de-200-mw-8-heures-en-ontario/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "La batterie, détenue conjointement par Neoen et la communauté autochtone Eagle Lake First Nation, présent une puissance de 200 MW/1 600 MWh. Sa construction devrait débuter en 2028 pour une mise en service prévue pour 2030.",
-  "pub": "2026-06-26",
-  "ts": 1782455400.0,
-  "vu": "2026-06-26"
- },
- {
-  "source": "pv magazine",
-  "titre": "Pilot study targets solar and battery access for apartments",
-  "lien": "https://www.pv-magazine.com/2026/06/26/pilot-study-targets-solar-and-battery-access-for-apartments/",
-  "auteur": "Ev Foley",
-  "resume": "A Sydney-based pilot study aims to energize the dormant uptake of solar and batteries for apartment buildings by applying AI strategies to an existing modular power portal system.",
-  "pub": "2026-06-26",
-  "ts": 1782454596.0,
-  "vu": "2026-06-26"
- },
- {
-  "source": "Enerzine",
-  "titre": "ZE Energy et Octopus financent une batterie de 895 MWh en Italie",
-  "lien": "https://www.enerzine.com/ze-energy-et-octopus-financent-une-batterie-de-895-mwh-en-italie/189075-2026-06",
-  "auteur": "La rédaction",
-  "resume": "ZE Energy et Octopus Energy Generation annoncent un co-investissement pour la batterie Sessa Aurunca, un projet de 98,5 MW et 895 MWh dans le Centre-Sud de l’Italie. Lauréat de l’appel d’offres MACSE de Terna, l’actif bénéficie d’un contrat à revenus fixes sur 15 ans et entrera […]",
-  "pub": "2026-06-26",
-  "ts": 1782454200.0,
-  "vu": "2026-06-26"
  }
 ]
