@@ -1,5 +1,45 @@
 [
  {
+  "source": "Enerplan",
+  "titre": "Enerplan au Premier Ministre : le solaire français est prêt, il a besoin de visibilité",
+  "lien": "https://www.enerplan.asso.fr/enerplan-au-premier-ministre-le-solaire-francais-est-pret-il-a-besoin-de-visibilite/",
+  "auteur": "Mickaël Marie",
+  "resume": "",
+  "pub": "2026-07-12",
+  "ts": 1783832442.0,
+  "vu": "2026-07-12"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Batteries : comment la pression mécanique freine la dégradation cellulaire",
+  "lien": "https://lenergeek.com/2026/07/11/batteries-pression-mecanique-freine-usure/",
+  "auteur": "La Rédaction",
+  "resume": "Des chercheurs de Cambridge révèlent qu'une pression mécanique constante de 12,5 bars double la durée de vie des batteries lithium-ion commerciales en stabilisant les interfaces électrochimiques et en supprimant la fissuration de la cathode, sans modification chimique. L’article […]",
+  "pub": "2026-07-11",
+  "ts": 1783772460.0,
+  "vu": "2026-07-12"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "L’UFC-Que Choisir lance l’alerte : les crèmes solaires de Shein, Temu et AliExpress exposent à de vrais risques",
+  "lien": "https://www.futura-sciences.com/sante/actualites/creme-solaire-ufc-choisir-lance-alerte-cremes-solaires-shein-temu-aliexpress-exposent-vrais-risques-136119/",
+  "auteur": "Destination Santé et Futura",
+  "resume": "Vous pouvez toutes les mettre à la poubelle si vous avez acheté votre crème solaire sur les sites de vente en ligne chinois. Sur 10 références analysées, une seule offre une protection conforme… mais contient des substances nocives, selon l’UFC-Que Choisir. Le constat est […]",
+  "pub": "2026-07-11",
+  "ts": 1783760840.0,
+  "vu": "2026-07-12"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "China could produce more batteries than global demand by 2030, says US think tank",
+  "lien": "https://www.pv-magazine.com/2026/07/11/china-could-produce-more-batteries-than-global-demand-by-2030-says-us-think-tank/",
+  "auteur": "Emiliano Bellini",
+  "resume": "China’s battery cell manufacturing capacity could exceed projected global demand by 2030, according to a new Carnegie Endowment report, which recommends selective cooperation with Chinese companies to reduce supply chain risks.",
+  "pub": "2026-07-11",
+  "ts": 1783760400.0,
+  "vu": "2026-07-12"
+ },
+ {
   "source": "Révolution Énergétique",
   "titre": "La deuxième plus grande centrale solaire de France vient d’être inaugurée",
   "lien": "https://www.revolution-energetique.com/actus/la-deuxieme-centrale-pv-la-plus-puissante-de-france-inauguree/",
@@ -234,7 +274,7 @@
   "titre": "Stockage d'électricité : « la batterie à eau » bat de nouveaux records",
   "lien": "https://www.connaissancedesenergies.org/stockage-electricite-la-batterie-a-eau-bat-de-nouveaux-records",
   "auteur": "mael-dancette",
-  "resume": "Les STEP hydroélectriques sont devenues « une priorité stratégique sur les principaux marchés de l'électricité à travers le monde », souligne l'International Hydropower Association (IHA) dans son bilan annuel. Les capacités hydroélectriques mondiales atteignent près de 1 470 GW […]",
+  "resume": "Les STEP hydroélectriques sont devenus « une priorité stratégique sur les principaux marchés de l'électricité à travers le monde », souligne l'International hydropower association (IHA) dans son bilan annuel publié le 24 juin dernier.",
   "pub": "2026-07-10",
   "ts": 1783641600.0,
   "vu": "2026-07-11"
@@ -1468,175 +1508,5 @@
   "pub": "2026-07-02",
   "ts": 1782973800.0,
   "vu": "2026-07-02"
- },
- {
-  "source": "Enerzine",
-  "titre": "Un réacteur solaire convertit les déchets plastiques en hydrogène",
-  "lien": "https://www.enerzine.com/un-reacteur-solaire-convertit-les-dechets-plastiques-en-hydrogene/189379-2026-07",
-  "auteur": "La rédaction",
-  "resume": "Des chercheurs de l’Université de Cambridge ont présenté un réacteur solaire d’un mètre carré capable de produire de l’hydrogène à partir de déchets plastiques. Testé pour la première fois en conditions extérieures, ce dispositif utilise un procédé de fabrication par […]",
-  "pub": "2026-07-01",
-  "ts": 1782943800.0,
-  "vu": "2026-07-02"
- },
- {
-  "source": "INES",
-  "titre": "[Projet CACTUS] rendre le photovoltaïque plus fiable et durable, et coopérer avec l’Amérique latine",
-  "lien": "https://www.ines-solaire.org/news/projet-cactus-rendre-le-photovoltaique-plus-fiable-et-durable-et-cooperer-avec-lamerique-latine/",
-  "auteur": "",
-  "resume": "",
-  "pub": "2026-07-01",
-  "ts": 1782918162.0,
-  "vu": "2026-07-02"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Le tribunal administratif de Nantes annule un permis d'aménager pour absence d'étude d'impact",
-  "lien": "https://www.actu-environnement.com/ae/news/tribunal-nantes-annulation-permis-amenager-etude-impact-48246.php4",
-  "auteur": "",
-  "resume": "Par un jugement du 30 juin&#8239;2026, le tribunal administratif de Nantes a annulé un arrêté municipal accordant un permis d'aménager un lotissement. La raison&#8239;? Le projet avait été dispensé d'une évaluation environnementale, alor...",
-  "pub": "2026-07-01",
-  "ts": 1782917883.0,
-  "vu": "2026-07-02"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Stockage par batteries : la filière française s'organise face au boom attendu du marché",
-  "lien": "https://www.actu-environnement.com/ae/news/stockage-batteries-stationnaires-association-france-48244.php4",
-  "auteur": "",
-  "resume": "La première association professionnelle française exclusivement dédiée au stockage stationnaire par batteries vient de voir le jour. Créée à l'initiative de Corsica Sole et d'Eclipse, l'association baptisée Stockage Énergie France bénéficie du sou...",
-  "pub": "2026-07-01",
-  "ts": 1782916120.0,
-  "vu": "2026-07-02"
- },
- {
-  "source": "Enerplan",
-  "titre": "L’ADEME publie un nouveau Cahier des Charges pour les AMO Solaire Thermique",
-  "lien": "https://www.enerplan.asso.fr/lademe-publie-un-nouveau-cahier-des-charges-pour-les-amo-solaire-thermique/",
-  "auteur": "Marlène CHALVIN",
-  "resume": "",
-  "pub": "2026-07-01",
-  "ts": 1782911770.0,
-  "vu": "2026-07-02"
- },
- {
-  "source": "Enerplan",
-  "titre": "N’attendez plus pour vous former au solaire thermique !",
-  "lien": "https://www.enerplan.asso.fr/nattendez-plus-pour-vous-former-au-solaire-thermique/",
-  "auteur": "Marlène CHALVIN",
-  "resume": "",
-  "pub": "2026-07-01",
-  "ts": 1782911745.0,
-  "vu": "2026-07-02"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Diméo Invest, tiers investisseur dans 36 centrales solaires",
-  "lien": "https://www.pv-magazine.fr/2026/07/01/dimeo-invest-tiers-investisseur-dans-36-centrales-solaires/",
-  "auteur": "Francois Puthod",
-  "resume": "L’entreprise lyonnaise Diméo Invest, filiale de Diméo Énergie, met en place sa première opération en tiers investissement. Structuré par la Caisse d’Epargne Rhône Alpes et Bpifrance, ce financement permettra la construction et l’exploitation de 36 centrales photovoltaïques […]",
-  "pub": "2026-07-01",
-  "ts": 1782910800.0,
-  "vu": "2026-07-02"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Le solaire flottant repensé avec des flotteurs en aluminium fabriqués directement sur site",
-  "lien": "https://www.pv-magazine.fr/2026/07/01/le-solaire-flottant-repense-avec-des-flotteurs-en-aluminium-fabriques-directement-sur-site/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "La solution développée par ARaymond repose sur des usines conteneurisées installées à proximité des projets, capables de transformer des bobines d’aluminium en flotteurs assemblés sur site. L’entreprise vise ainsi à optimiser la logistique et à réduire le coût global des […]",
-  "pub": "2026-07-01",
-  "ts": 1782909000.0,
-  "vu": "2026-07-02"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Alpiq obtient le feu vert de Swissgrid pour son projet de batterie de 300 MW en Suisse",
-  "lien": "https://www.pv-magazine.fr/2026/07/01/alpiq-obtient-le-feu-vert-de-swissgrid-pour-son-projet-de-batterie-de-300-mw-en-suisse/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Le groupe suisse Alpiq a obtenu un accord de principe de Swissgrid pour raccorder au réseau national son projet de stockage par batteries de 300 MW à Niedergösgen. Prévue pour entrer en service en 2029, l'installation de 1,2 GWh de capacité comptera parmi les plus importantes de […]",
-  "pub": "2026-07-01",
-  "ts": 1782907200.0,
-  "vu": "2026-07-02"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Fiat Multiplina : l’entreprise lance un quadricycle lourd bridé à 15 kW",
-  "lien": "https://lenergeek.com/2026/07/01/fiat-multiplina-sortie-2028/",
-  "auteur": "Nicolas Egon",
-  "resume": "Fiat officialise le Multiplina, un quadricycle électrique quatre places homologué L7e, bridé à 15 kW et 90 km/h. Attendu en 2028 à moins de 10 000 euros, ce véhicule doit respecter une masse maximale de 450 kg hors batterie, imposant des compromis techniques radicaux sur les […]",
-  "pub": "2026-07-01",
-  "ts": 1782906886.0,
-  "vu": "2026-07-02"
- },
- {
-  "source": "pv magazine France",
-  "titre": "« On en est encore loin » : A l’heure de la première échéance de la loi APER, la solarisation des parkings accuse du retard",
-  "lien": "https://www.pv-magazine.fr/2026/07/01/on-en-est-encore-loin-a-lheure-de-la-premiere-echeance-de-la-loi-aper-la-solarisation-des-parkings-accuse-du-retard/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "À partir du 1er juillet 2026, les parkings extérieurs de plus de 10 000 m² devront être équipés d'ombrières photovoltaïques en application de la loi APER. La filière estime toutefois qu'une part importante des sites concernés ne sera pas en conformité, en raison notamment des […]",
-  "pub": "2026-07-01",
-  "ts": 1782896400.0,
-  "vu": "2026-07-01"
- },
- {
-  "source": "pv magazine France",
-  "titre": "La filière française du stockage par batteries se structure et se dote d’une association professionnelle",
-  "lien": "https://www.pv-magazine.fr/2026/07/01/la-filiere-francaise-du-stockage-par-batteries-se-structure-et-se-dote-dune-association-professionnelle/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Les principaux développeurs et exploitants français de stockage stationnaire par batteries créent Stockage Énergie France, la première organisation professionnelle dédiée au secteur. Objectif : défendre les intérêts de la filière, accélérer son développement et faire du stockage […]",
-  "pub": "2026-07-01",
-  "ts": 1782894600.0,
-  "vu": "2026-07-01"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Solaire : Washington et Londres préparent l’interdiction des onduleurs chinois",
-  "lien": "https://lenergeek.com/2026/07/01/solaire-washington-londres-preparent-interdiction-onduleurs-chinois/",
-  "auteur": "La Rédaction",
-  "resume": "Washington et Londres envisagent d'interdire les onduleurs solaires chinois pour protéger leurs réseaux électriques. La FCC américaine prépare une réglementation qui pourrait être annoncée fin 2026, après la décision européenne de mai dernier d'exclure ces équipements des […]",
-  "pub": "2026-07-01",
-  "ts": 1782894258.0,
-  "vu": "2026-07-01"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Avis de marchés publics dans le PV en France",
-  "lien": "https://www.pv-magazine.fr/2026/07/01/avis-de-marches-publics-dans-le-pv-en-france-127/",
-  "auteur": "Francois Puthod",
-  "resume": "Retrouvez chaque semaine dans pv magazine les appels d’offres publiés relatifs aux projets photovoltaïques en France.",
-  "pub": "2026-07-01",
-  "ts": 1782892800.0,
-  "vu": "2026-07-01"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Les exploitants de grosses batteries lancent leur association",
-  "lien": "https://www.greenunivers.com/2026/07/les-exploitants-de-grosses-batteries-lancent-leur-association-428226/",
-  "auteur": "Jacopo Landi",
-  "resume": "Une nouvelle association professionnelle dans la transition énergétique, cette fois pour les spécialistes du stockage raccordé au réseau haute tension de RTE. Baptisée Stockage Energie France, elle a été lancée L’article Les exploitants de grosses batteries lancent leur […]",
-  "pub": "2026-07-01",
-  "ts": 1782889320.0,
-  "vu": "2026-07-01"
- },
- {
-  "source": "pv magazine",
-  "titre": "Vertical agrivoltaics for oats",
-  "lien": "https://www.pv-magazine.com/2026/07/01/vertical-agrivoltaics-for-oats/",
-  "auteur": "Emiliano Bellini",
-  "resume": "Researchers in Sweden studied oat production under a vertical agrivoltaic system during the 2024 growing season, comparing it with ground-mounted and open-field conditions. Results showed that crop performance was generally higher under agrivoltaic systems, highlighting their […]",
-  "pub": "2026-07-01",
-  "ts": 1782889277.0,
-  "vu": "2026-07-01"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Adieu le trou béant laissé par l’A75 : la zone accueille maintenant des milliers de panneaux solaires, et les élus locaux jubilent",
-  "lien": "https://lenergeek.com/2026/07/01/adieu-le-trou-beant-laisse-par-la75-la-zone-accueille-maintenant-des-milliers-de-panneaux-solaires-et-les-elus-locaux-jubilent/",
-  "auteur": "Gabin Laurent",
-  "resume": "La reconversion d'une friche en parc photovoltaïque à La Couvertoirade offre une production d'électricité pour 1 560 foyers et réduit les émissions de 2 700 tonnes de CO₂ par an. L’article Adieu le trou béant laissé par l’A75 : la zone accueille maintenant des milliers de […]",
-  "pub": "2026-07-01",
-  "ts": 1782883200.0,
-  "vu": "2026-07-01"
  }
 ]
