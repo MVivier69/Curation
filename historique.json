@@ -1,5 +1,55 @@
 [
  {
+  "source": "pv magazine France",
+  "titre": "Une centrale solaire flottante à la vente",
+  "lien": "https://www.pv-magazine.fr/2026/07/13/une-centrale-solaire-flottante-a-la-vente/",
+  "auteur": "Francois Puthod",
+  "resume": "Energiter et Urbasolar finalisent la cession la cession du projet de Vougon, une centrale solaire flottante de 4,94 MWc au stade ready-to-build.",
+  "pub": "2026-07-13",
+  "ts": 1783935000.0,
+  "vu": "2026-07-13"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Reden cesse son activité de production de panneaux photovoltaïques",
+  "lien": "https://www.pv-magazine.fr/2026/07/13/reden-cesse-son-activite-de-production-de-panneaux-photovoltaiques/",
+  "auteur": "Francois Puthod",
+  "resume": "L'entreprise photovoltaïque agenaise annonce la fermeture de sa filiale Reden Industrie, qui emploie à ce jour neuf personnes, faute de compétitivité.",
+  "pub": "2026-07-13",
+  "ts": 1783932300.0,
+  "vu": "2026-07-13"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "Meilleurs hébergeurs web écologiques : lesquels tiennent vraiment leurs promesses ?",
+  "lien": "https://www.futura-sciences.com/conso/guides-achat/guides-tech-meilleurs-hebergeurs-web-ecologiques-lesquels-tiennent-vraiment-leurs-promesses-1503/",
+  "auteur": "Stanislas SAMUEL, Rédacteur web",
+  "resume": "Hébergeur web écologique 2026 : PlanetHoster, OVHcloud, Infomaniak. Énergies renouvelables, PUE, empreinte carbone, datacenters France Canada. Guide complet et avantages limites.",
+  "pub": "2026-07-13",
+  "ts": 1783929600.0,
+  "vu": "2026-07-13"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Strasbourg : l’Hôtel d’Alsace se dote d’une centrale photovoltaïque de 130 kWc",
+  "lien": "https://www.enerzine.com/strasbourg-lhotel-dalsace-se-dote-dune-centrale-photovoltaique-de-130-kwc/190189-2026-07",
+  "auteur": "La rédaction",
+  "resume": "La Collectivité européenne d’Alsace (CeA) a mis en service une centrale solaire en autoconsommation sur les toits de son siège, l’Hôtel d’Alsace, situé en plein centre de Strasbourg. Atteignant un taux d’autoconsommation de 100 %, l’installation couvre près de 10 % des besoins […]",
+  "pub": "2026-07-13",
+  "ts": 1783919400.0,
+  "vu": "2026-07-13"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Canicule : EDF met à l’arrêt 3 réacteurs nucléaires",
+  "lien": "https://lenergeek.com/2026/07/13/reacteurs-nucleaires-canicule-edf-met-arret-3/",
+  "auteur": "La Rédaction",
+  "resume": "Le 12 juillet 2026, EDF a arrêté trois réacteurs nucléaires et réduit la puissance de huit autres en raison de la canicule. Décryptage des mécanismes réglementaires imposés par l'ASN, de la dérogation gouvernementale pour Bugey et des implications sur la capacité du parc […]",
+  "pub": "2026-07-13",
+  "ts": 1783913600.0,
+  "vu": "2026-07-13"
+ },
+ {
   "source": "Enerplan",
   "titre": "Enerplan au Premier Ministre : le solaire français est prêt, il a besoin de visibilité",
   "lien": "https://www.enerplan.asso.fr/enerplan-au-premier-ministre-le-solaire-francais-est-pret-il-a-besoin-de-visibilite/",
@@ -1348,165 +1398,5 @@
   "pub": "2026-07-03",
   "ts": 1783040501.0,
   "vu": "2026-07-03"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Ces robots autonomes construisent à toute vitesse la centrale solaire du futur data center géant de Meta",
-  "lien": "https://www.futura-sciences.com/tech/actualites/technologie-ces-robots-autonomes-construisent-toute-vitesse-centrale-solaire-futur-data-center-geant-meta-135857/",
-  "auteur": "Sylvain Biget, Journaliste, télépilote professionnel de drones et réalisateur de documentaires",
-  "resume": "Pour construire les infrastructures solaires censées alimenter Hyperion, son mégacentre de données dédié à l'intelligence artificielle en Louisiane, Meta s'appuie sur des engins de chantier autonomes. Une automatisation qui répond à l'urgence du calendrier et à la pénurie […]",
-  "pub": "2026-07-02",
-  "ts": 1783015418.0,
-  "vu": "2026-07-03"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Malgré la crise, Photosol concrétise le 2e plus grand parc solaire de France",
-  "lien": "https://www.greenunivers.com/2026/07/malgre-la-crise-photosol-concretise-le-2e-plus-grand-parc-solaire-de-france-428388/",
-  "auteur": "Paul Messad",
-  "resume": "Reportage – Sur le tarmac de la base aérienne 110 de Creil (Oise), un parterre de 150 personnes invitées à regarder un court-métrage promotionnel sur l’histoire de ce lieu mythique de l’aviation française. Construite en 1910, occupée par la Luftwaffe en 40, puis transformée […]",
-  "pub": "2026-07-02",
-  "ts": 1783007086.0,
-  "vu": "2026-07-03"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Flexibilités : ce qu’il faut retenir du colloque de France Renouvelables",
-  "lien": "https://www.greenunivers.com/2026/07/flexibilites-ce-quil-faut-retenir-du-colloque-de-france-renouvelables-428379/",
-  "auteur": "Jacopo Landi",
-  "resume": "L’association France Renouvelables organisait aujourd’hui son deuxième colloque annuel dédié à la flexibilité et au stockage, dans une salle plus grande cette année du fait de l’affluence. Notre sélection d’informations collectées lors des débats et dans les couloirs. L’article […]",
-  "pub": "2026-07-02",
-  "ts": 1783006488.0,
-  "vu": "2026-07-03"
- },
- {
-  "source": "pv magazine France",
-  "titre": "[Enquête 1/2] Électrification du transport : où en est vraiment la synergie entre solaire et recharge des véhicules ?",
-  "lien": "https://www.pv-magazine.fr/2026/07/02/enquete-1-2-electrification-du-transport-ou-en-est-vraiment-la-synergie-entre-solaire-et-recharge-des-vehicules/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "L'essor des véhicules électriques ouvre un nouveau marché au photovoltaïque. Mais au-delà des promesses, où en est réellement la synergie entre production solaire, infrastructures de recharge et stockage ? Tour d'horizon des solutions qui émergent et des verrous qui restent à […]",
-  "pub": "2026-07-02",
-  "ts": 1783002600.0,
-  "vu": "2026-07-03"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "EnR : les financeurs sont plus attentifs à la solidité des sociétés",
-  "lien": "https://www.greenunivers.com/2026/07/enr-les-financeurs-sont-plus-attentifs-a-la-solidite-des-societes-428326/",
-  "auteur": "Natasha Laporte",
-  "resume": "[Compte-rendu] – Entre les incertitudes économiques et la récente crise géopolitique, le contexte n’est pas de tout repos. Mais les acteurs des énergies renouvelables (EnR), réunis le 1er juillet lors de la 12èmeconférence GreenUnivers sur le Financement des infrastructures […]",
-  "pub": "2026-07-02",
-  "ts": 1783002486.0,
-  "vu": "2026-07-03"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Ce générateur solaire ALLPOWERS passe à un prix qui vaut le détour pendant les soldes",
-  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-energie-ce-generateur-solaire-allpowers-passe-prix-vaut-detour-pendant-soldes-10596/",
-  "auteur": "Mohamed El Alami, Rédacteur Web",
-  "resume": "Partir en vacances avec une réserve d'énergie devient beaucoup plus simple grâce à ce générateur avec panneau solaire ALLPOWERS. En ce moment, Cdiscount le propose à prix réduit à l'occasion des soldes, une offre idéale pour préparer sereinement vos escapades estivales.",
-  "pub": "2026-07-02",
-  "ts": 1783000800.0,
-  "vu": "2026-07-03"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Le Xiaomi Redmi Note 15 Pro 5G à moins de 258 € avec coupon : Dimensity 7400-Ultra, capteur 200 MP et batterie 6 580 mAh pour un milieu de gamme redoutable",
-  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-smartphones-xiaomi-redmi-note-15-pro-5g-moins-258-coupon-dimensity-7400-ultra-capteur-200-mp-batterie-6-580-mah-milieu-gamme-redoutable-10588/",
-  "auteur": "Benoit Baylé, Rédacteur web",
-  "resume": "Le Xiaomi Redmi Note 15 Pro 5G ne cherche pas à réinventer la roue, mais à proposer une équation technique quasi imbattable dans sa tranche de prix. Avec sa MediaTek Dimensity 7400-Ultra, son écran de 6,83 pouces à 120 Hz, son capteur principal de 200 mégapixels avec […]",
-  "pub": "2026-07-02",
-  "ts": 1782999005.0,
-  "vu": "2026-07-03"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Le réseau Powered by Solarock intègre son quatrième installateur",
-  "lien": "https://www.pv-magazine.fr/2026/07/02/powered-by-solarock-integre-son-quatrieme-installateur/",
-  "auteur": "Francois Puthod",
-  "resume": "Pour accélérer son développement, Boubat Eco-Energie rejoint le réseau national de franchisés sur le marché du solaire résidentiel créé par Solarock.",
-  "pub": "2026-07-02",
-  "ts": 1782997200.0,
-  "vu": "2026-07-03"
- },
- {
-  "source": "Energy-Storage.news",
-  "titre": "Calculating state of charge (SOC) in BESS",
-  "lien": "https://www.energy-storage.news/calculating-state-of-charge-soc-in-bess/",
-  "auteur": "Liam Critchley",
-  "resume": "State of charge (SOC) is on the face of it a straightforward measurement for batteries and BESS. But in reality, it's highly complex and under- or over-reporting still happens in the industry, leading to under-performance and losses in revenue.",
-  "pub": "2026-07-02",
-  "ts": 1782994947.0,
-  "vu": "2026-07-03"
- },
- {
-  "source": "pv magazine France",
-  "titre": "L’éclairage solaire s’impose sur les sites commerciaux et industriels",
-  "lien": "https://www.pv-magazine.fr/2026/07/02/leclairage-solaire-simpose-sur-les-sites-commerciaux-et-industriels/",
-  "auteur": "Marie Beyer",
-  "resume": "Fonroche Lighting s'est associé à Carrefour Property pour équiper en éclairage solaire le parking du centre commercial de Labège en Haute-Garonne. Le site a opté pour ce nouvel équipement dans le cadre d'un vaste programme d'aménagement.",
-  "pub": "2026-07-02",
-  "ts": 1782993600.0,
-  "vu": "2026-07-03"
- },
- {
-  "source": "Enerplan",
-  "titre": "Produire, partager, consommer : déployer l’autoconsommation collective sur le territoire",
-  "lien": "https://www.enerplan.asso.fr/produire-partager-consommer-deployer-lautoconsommation-collective-sur-le-territoire/",
-  "auteur": "Mickaël Marie",
-  "resume": "",
-  "pub": "2026-07-02",
-  "ts": 1782993262.0,
-  "vu": "2026-07-03"
- },
- {
-  "source": "pv magazine France",
-  "titre": "[L’installation du jour] Un parc solaire au-dessus d’un site archéologique",
-  "lien": "https://www.pv-magazine.fr/2026/07/02/linstallation-du-jour-un-parc-solaire-au-dessus-dun-site-archeologique/",
-  "auteur": "Francois Puthod",
-  "resume": "Reposant sur des vestiges historiques, la centrale solaire de Brandes (Dordogne) montre comment les développeurs s’adaptent à l'environnement dans lequel une installation est réalisée.",
-  "pub": "2026-07-02",
-  "ts": 1782982800.0,
-  "vu": "2026-07-02"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Hydroélectricité : la réforme qui tourne la page du régime des concessions",
-  "lien": "https://www.actu-environnement.com/ae/news/loi-hydroelectricite-reforme-concessions-autorisation-48243.php4",
-  "auteur": "",
-  "resume": "La loi visant à relancer les investissements dans le secteur de l'hydroélectricité pour contribuer à la transition énergétique est parue au Journal officiel du 30 juin 2026. Tour d'horizon des modifications qu'elle induit.",
-  "pub": "2026-07-02",
-  "ts": 1782981000.0,
-  "vu": "2026-07-02"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Ne laissez pas filer cette batterie Tefal à prix cassé durant les soldes",
-  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-petit-electromenager-ne-laissez-pas-filer-cette-batterie-tefal-prix-casse-durant-soldes-10584/",
-  "auteur": "Mohamed El Alami, Rédacteur Web",
-  "resume": "Cuisiner au quotidien devient tout de suite plus simple avec des casseroles et des poêles aussi pratiques que polyvalentes. À l'occasion des soldes, Cdiscount fait baisser le prix de la batterie de cuisine 13 pièces Tefal Ingenio Emotion et propose la livraison offerte. Une […]",
-  "pub": "2026-07-02",
-  "ts": 1782979204.0,
-  "vu": "2026-07-02"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Socomec dévoile deux systèmes BESS pour le C&I et le stockage réseau",
-  "lien": "https://www.pv-magazine.fr/2026/07/02/socomec-devoile-deux-systemes-bess-pour-le-ci-et-le-stockage-reseau/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "L’accélération de l’électrification des usages et la hausse des besoins de flexibilité énergétique stimulent la demande en solutions de stockage. Socomec entend tirer parti de cette dynamique avec le lancement de deux nouveaux systèmes BESS ciblant à la fois les segments C&I et […]",
-  "pub": "2026-07-02",
-  "ts": 1782979200.0,
-  "vu": "2026-07-02"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Mise en service au Maroc de la plus grande centrale solaire flottante d’Afrique",
-  "lien": "https://www.pv-magazine.fr/2026/07/02/mise-en-service-au-maroc-de-la-plus-grande-centrale-solaire-flottante-dafrique/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Le constructeur français H2air PX a coordonné la réalisation d'une centrale photovoltaïque flottante de 13 MWc sur une retenue d'eau alimentant le port de Tanger Med, au Maroc. Développé au sein d'un consortium international, le projet a dû s'adapter à des variations importantes […]",
-  "pub": "2026-07-02",
-  "ts": 1782973800.0,
-  "vu": "2026-07-02"
  }
 ]
