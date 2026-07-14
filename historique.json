@@ -1,7 +1,87 @@
 [
  {
+  "source": "pv magazine",
+  "titre": "Hydraulic storage proves more cost-effective than batteries for PV irrigation",
+  "lien": "https://www.pv-magazine.com/2026/07/14/hydraulic-storage-proves-more-cost-effective-than-batteries-for-pv-irrigation/",
+  "auteur": "Emiliano Bellini",
+  "resume": "Researchers in Spain found that hydraulic storage can be more cost-effective than batteries for photovoltaic irrigation systems, while combined storage maximizes self-sufficiency. The study shows that the optimal solution depends on whether the priority is reducing grid […]",
+  "pub": "2026-07-14",
+  "ts": 1784007867.0,
+  "vu": "2026-07-14"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Blular connecte climatisation et solaire sans batterie ni onduleur",
+  "lien": "https://www.enerzine.com/blular-connecte-climatisation-et-solaire-sans-batterie-ni-onduleur/190198-2026-07",
+  "auteur": "La rédaction",
+  "resume": "Fondée en 2019 par Serge Toulzac, la société française Blular a mis au point un climatiseur réversible alimenté directement par des panneaux photovoltaïques. Sans batterie ni onduleur externe, la technologie brevetée vise à réduire la facture énergétique des ménages tout en […]",
+  "pub": "2026-07-14",
+  "ts": 1784005800.0,
+  "vu": "2026-07-14"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Recherches de climatisation en hausse de 380 %, le solaire comme réponse",
+  "lien": "https://www.enerzine.com/recherches-de-climatisation-en-hausse-de-380-le-solaire-comme-reponse/190192-2026-07",
+  "auteur": "La rédaction",
+  "resume": "Ensol, spécialiste du solaire résidentiel, enregistre une progression de 380 % des requêtes liées à la climatisation entre avril et mai 2026, alors qu’une vague de canicule frappe la France. L’entreprise défend une approche conciliant rafraîchissement des logements et transition […]",
+  "pub": "2026-07-14",
+  "ts": 1784002200.0,
+  "vu": "2026-07-14"
+ },
+ {
+  "source": "CleanTechnica",
+  "titre": "Are the EV Tariffs Working? Western Carmakers Shifted Production to EU, but Chinese Brands Continue to Grow — Analysis",
+  "lien": "https://cleantechnica.com/2026/07/13/are-the-ev-tariffs-working-western-carmakers-shifted-production-to-eu-but-chinese-brands-continue-to-grow-analysis/",
+  "auteur": "Transport & Environment (T&E)",
+  "resume": "Imports of Chinese batteries, which face virtually no tariffs, increased seven fold. The EU’s electric car tariffs succeeded in reducing the market share of EVs made in China, according to T&E analysis of the trade measures. But while the share of electric cars produced in China […]",
+  "pub": "2026-07-14",
+  "ts": 1783987322.0,
+  "vu": "2026-07-14"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Solaire : « la situation a un goût de moratoire déguisé » [Daniel Bour, Enerplan]",
+  "lien": "https://www.greenunivers.com/2026/07/solaire-la-situation-a-le-gout-dun-moratoire-deguise-daniel-bour-enerplan-429456/",
+  "auteur": "Paul Messad",
+  "resume": "Entretien – Mécontent du sort réservé au photovoltaïque, le syndicat professionnel de la filière, Enerplan, a décidé de se faire entendre des pouvoirs publics. Pour ce faire, il s’est offert une pleine page dans La Tribune Dimanche du 12 juillet sur laquelle il est indiqué, en […]",
+  "pub": "2026-07-13",
+  "ts": 1783959207.0,
+  "vu": "2026-07-14"
+ },
+ {
   "source": "pv magazine France",
-  "titre": "Une centrale solaire flottante à la vente",
+  "titre": "Corsica Sole active Hertz 2, doublant la capacité de stockage en Estonie",
+  "lien": "https://www.pv-magazine.fr/2026/07/13/corsica-sole-active-hertz-2-doublant-la-capacite-de-stockage-en-estonie/",
+  "auteur": "Marie Beyer",
+  "resume": "La mise en service de la deuxième phase du système de stockage d’énergie par batteries (BESS), à Aruküla, porte à 200 MW / 400 MWh la capacité totale du projet, qui aura mobilisé 170 millions d'euros d'investissement.",
+  "pub": "2026-07-13",
+  "ts": 1783951200.0,
+  "vu": "2026-07-14"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "Quand va s’arrêter cette troisième canicule ? Les prévisions quasi certaines pour les trois prochains mois inquiètent",
+  "lien": "https://www.futura-sciences.com/planete/actualites/canicule-va-arreter-cette-troisieme-canicule-previsions-quasi-certaines-trois-prochains-mois-inquietent-136168/",
+  "auteur": "Karine Durand, Spécialiste météo extrême et environnement",
+  "resume": "À quand la fin de cette troisième canicule et que nous réserve la suite de l'été ? Les prévisions saisonnières avaient vu juste pour l'été 2026, et une fois de plus, la situation risque de se répéter.",
+  "pub": "2026-07-13",
+  "ts": 1783948103.0,
+  "vu": "2026-07-14"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Unigrid dévoile son système de stockage d’énergie résidentiel à ions sodium",
+  "lien": "https://www.pv-magazine.fr/2026/07/13/unigrid-devoile-des-systemes-de-stockage-denergie-residentiels-a-ions-sodium/",
+  "auteur": "Francois Puthod",
+  "resume": "Unigrid a lancé Na+Casa, un système de stockage d'énergie résidentiel à ions sodium utilisant sa technologie de cathode exclusive NaCrO₂. D'une capacité de 9,25 kWh, il a déjà fait l'objet de premières installations en Europe.",
+  "pub": "2026-07-13",
+  "ts": 1783944000.0,
+  "vu": "2026-07-14"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Une future centrale solaire flottante à la vente",
   "lien": "https://www.pv-magazine.fr/2026/07/13/une-centrale-solaire-flottante-a-la-vente/",
   "auteur": "Francois Puthod",
   "resume": "Energiter et Urbasolar finalisent la cession la cession du projet de Vougon, une centrale solaire flottante de 4,94 MWc au stade ready-to-build.",
@@ -1228,175 +1308,5 @@
   "pub": "2026-07-04",
   "ts": 1783138200.0,
   "vu": "2026-07-04"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Solmeria (ex Ferme Solaire) veut proposer des projets EnR à l’unité",
-  "lien": "https://www.greenunivers.com/2026/07/solmeria-ex-ferme-solaire-veut-proposer-des-projets-enr-a-lunite-428542/",
-  "auteur": "Jacopo Landi",
-  "resume": "Initialement concentrée sur la prospection foncière pour les développeurs solaires, la plateforme Ferme Solaire change de nom à l’occasion d’une diversification. Elle s’appellera désormais Solmeria et va L’article Solmeria (ex Ferme Solaire) veut proposer des projets EnR à […]",
-  "pub": "2026-07-03",
-  "ts": 1783091560.0,
-  "vu": "2026-07-05"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Sur Intersolar, le photovoltaïque est entré définitivement dans l’ère du stockage",
-  "lien": "https://www.pv-magazine.fr/2026/07/03/sur-intersolar-le-photovoltaique-est-entre-definitivement-dans-lere-du-stockage/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Le salon Intersolar 2026 a confirmé le basculement de l’industrie photovoltaïque. Longtemps centrée sur la performance des modules solaires, la filière s’organise désormais autour du stockage et de la flexibilité, briques essentielles à la rentabilité des projets et à […]",
-  "pub": "2026-07-03",
-  "ts": 1783087200.0,
-  "vu": "2026-07-04"
- },
- {
-  "source": "Batiactu",
-  "titre": "Suppression des mono-gestes MaPrimeRénov' : le Conseil national de l'habitat dit non !",
-  "lien": "https://www.batiactu.com/edito/maprimerenov--conseil-national-habitat-dit-non-a-suppression-74896.php",
-  "auteur": "Batiactu",
-  "resume": "POLITIQUE DU LOGEMENT. Le Conseil national de l'habitat (CNH) a donné un avis défavorable au décret et à l'arrêté du gouvernement réduisant la liste des travaux par geste éligibles à l'aide publique.",
-  "pub": "2026-07-03",
-  "ts": 1783081439.0,
-  "vu": "2026-07-04"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Paris met en service les deux premières centrales solaires citoyennes du projet « Energieculteurs »",
-  "lien": "https://www.pv-magazine.fr/2026/07/03/paris-met-en-service-les-deux-premieres-centrales-solaires-citoyennes-du-projet-energieculteurs/",
-  "auteur": "Marie Beyer",
-  "resume": "Le lauréat du projet, Enercitif, a mis en service deux centrales photovoltaïques de 21 kW et 113 kW en autoconsommation collective sur les toits de bâtiments scolaires dans la capitale.",
-  "pub": "2026-07-03",
-  "ts": 1783080000.0,
-  "vu": "2026-07-04"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Les financeurs se préparent aux modèles d’affaires plus risqués",
-  "lien": "https://www.greenunivers.com/2026/07/les-financeurs-se-preparent-aux-modeles-daffaires-plus-risques-428465/",
-  "auteur": "Natasha Laporte",
-  "resume": "[Compte-rendu] Après des années d’un schéma fondé sur les aides publiques, le secteur des énergies renouvelables (EnR) en France est lancé dans la quête de nouveaux modèles économiques – et de financements pour les soutenir. Des modèles plus risqués auxquels L’article Les […]",
-  "pub": "2026-07-03",
-  "ts": 1783078350.0,
-  "vu": "2026-07-05"
- },
- {
-  "source": "Energy-Storage.news",
-  "titre": "Defying the residential storage shakeout: MOVA LumeGret bets on AI differentiation in crowded European market",
-  "lien": "https://www.energy-storage.news/defying-the-residential-storage-shakeout-mova-lumegret-bets-on-ai-differentiation-in-crowded-european-market/",
-  "auteur": "William Norman",
-  "resume": "As hardware margins compress and consolidation accelerates, smart appliance brand's energy division argues that intelligent software—not just batteries—will determine who survives",
-  "pub": "2026-07-03",
-  "ts": 1783068417.0,
-  "vu": "2026-07-03"
- },
- {
-  "source": "Enerzine",
-  "titre": "Pourquoi la maintenance devient l’un des grands défis de la transition énergétique",
-  "lien": "https://www.enerzine.com/pourquoi-la-maintenance-devient-lun-des-grands-defis-de-la-transition-energetique/189919-2026-07",
-  "auteur": "La rédaction",
-  "resume": "La transition énergétique est souvent abordée sous l’angle des installations : pompes à chaleur, climatisations réversibles, panneaux photovoltaïques ou encore bornes de recharge. Pourtant, un enjeu majeur reste encore largement sous-estimé : la maintenance de ces équipements […]",
-  "pub": "2026-07-03",
-  "ts": 1783068300.0,
-  "vu": "2026-07-03"
- },
- {
-  "source": "les-energies-renouvelables.eu",
-  "titre": "K2 Systems a présenté son portfolio complet de solutions pour toiture, façade, ombrière et plein champ à Intersolar Europe 2026",
-  "lien": "https://www.les-energies-renouvelables.eu/k2-systems-a-presente-son-portfolio-complet-de-solutions-pour-toiture-facade-ombriere-et-plein-champ-a-intersolar-europe-2026/",
-  "auteur": "k2-systems",
-  "resume": "Des projets de plus en plus complexes, une diversité croissante de types de toitures et de nouveaux marchés font monter les exigences envers les systèmes de montage photovoltaïque. K2 Systems a répondu à l'Intersolar Europe 2026 avec un portfolio élargi : des solutions […]",
-  "pub": "2026-07-03",
-  "ts": 1783065683.0,
-  "vu": "2026-07-03"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Une brasserie autrichienne optimise la recharge de sa flotte de poids lourds avec du photovoltaïque et du stockage",
-  "lien": "https://www.pv-magazine.fr/2026/07/03/une-brasserie-autrichienne-optimise-la-recharge-de-sa-flotte-de-poids-lourds-avec-du-photovoltaique-et-du-stockage/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Pour accompagner l'électrification des flottes, l'Autrichien Keba eMobility a déployé une infrastructure de recharge au sein de la brasserie autrichienne Braucommune Freistadt. L'installation combine recharge rapide, pilotage dynamique, photovoltaïque et stockage afin […]",
-  "pub": "2026-07-03",
-  "ts": 1783065600.0,
-  "vu": "2026-07-03"
- },
- {
-  "source": "pv magazine",
-  "titre": "Agrivoltaic cold frame system for controlled-environment crop cultivation",
-  "lien": "https://www.pv-magazine.com/2026/07/03/agrivoltaic-cold-frame-system-for-controlled-environment-crop-cultivation/",
-  "auteur": "Lior Kahana",
-  "resume": "Researchers developed an agrivoltaic cold frame system that integrates semi-transparent PV modules to create controlled microclimates for crop cultivation. Field trials in Canada showed significantly increased lettuce yields alongside small-scale on-site solar electricity […]",
-  "pub": "2026-07-03",
-  "ts": 1783063739.0,
-  "vu": "2026-07-03"
- },
- {
-  "source": "pv magazine France",
-  "titre": "ARaymond et Longi entament une collaboration dans le photovoltaïque et le stockage d’énergie",
-  "lien": "https://www.pv-magazine.fr/2026/07/03/araymond-et-longi-entament-une-collaboration-dans-le-photovoltaique-et-le-stockage-denergie/",
-  "auteur": "Francois Puthod",
-  "resume": "Fabricant français de systèmes de fixation et d’assemblage, ARaymond a signé avec Longi Solar un protocole d’accord, afin d’identifier des axes potentiels de collaboration dans les domaines du solaire photovoltaïque et des systèmes de stockage par batteries.",
-  "pub": "2026-07-03",
-  "ts": 1783062000.0,
-  "vu": "2026-07-03"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Boralex refinance ses activités françaises avec une dette de 1,45 Md€",
-  "lien": "https://www.pv-magazine.fr/2026/07/03/boralex-refinance-ses-activites-francaises-avec-une-dette-de-145-mde/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Le producteur d'énergies renouvelables, détenu en France par Boralex et Energy Infrastructure Partners, refinance l'ensemble de ses actifs français au travers d'une dette unique de 1,45 milliard d'euros. L'opération doit lui offrir davantage de flexibilité pour financer sa […]",
-  "pub": "2026-07-03",
-  "ts": 1783060200.0,
-  "vu": "2026-07-03"
- },
- {
-  "source": "pv magazine",
-  "titre": "Powering fertilizer production with agrivoltaics",
-  "lien": "https://www.pv-magazine.com/2026/07/03/powering-fertiliser-production-with-agrivoltaics/",
-  "auteur": "Uma Gupta",
-  "resume": "Co-locating agrivoltaics, maize cultivation, ethanol production, and urea manufacturing can create an integrated system in which energy, carbon, and agricultural outputs support one another.",
-  "pub": "2026-07-03",
-  "ts": 1783059066.0,
-  "vu": "2026-07-03"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "On voit déjà de l’espace la « Grande Muraille photovoltaïque » que la Chine construit dans le désert",
-  "lien": "https://www.futura-sciences.com/tech/actualites/desert-on-voit-deja-espace-grande-muraille-photovoltaique-chine-construit-desert-135848/",
-  "auteur": "Cécile Breton, Journaliste",
-  "resume": "Et si une immense centrale solaire pouvait aussi transformer un désert ? En Chine, un projet aux dimensions colossales promet de produire une quantité d'électricité vertigineuse tout en ralentissant la progression des dunes.",
-  "pub": "2026-07-03",
-  "ts": 1783055004.0,
-  "vu": "2026-07-03"
- },
- {
-  "source": "Enerzine",
-  "titre": "Stockage d’énergie : 22 États de l’UE signent un accord tripartite",
-  "lien": "https://www.enerzine.com/stockage-denergie-22-etats-de-lue-signent-un-accord-tripartite/189490-2026-07",
-  "auteur": "La rédaction",
-  "resume": "Réunis à Luxembourg le 26 juin, 22 États membres de l’Union européenne ont signé le premier accord tripartite communautaire consacré au stockage d’énergie. Industriels et institutions financières se joignent à la feuille de route 2026-2028 pour accélérer le déploiement des […]",
-  "pub": "2026-07-03",
-  "ts": 1783051800.0,
-  "vu": "2026-07-03"
- },
- {
-  "source": "Enerzine",
-  "titre": "Onduleurs solaires : la production occidentale couvre déjà la demande européenne",
-  "lien": "https://www.enerzine.com/onduleurs-solaires-la-production-occidentale-couvre-deja-la-demande-europeenne/189853-2026-07",
-  "auteur": "Philippe Thepaut",
-  "resume": "Alors que l’Union européenne s’apprête à exclure les onduleurs issus de pays à haut risque des financements publics, les données de S&P Global Energy confirment que les capacités de production occidentales dépassent déjà la demande annuelle d’installation du marché […]",
-  "pub": "2026-07-03",
-  "ts": 1783044600.0,
-  "vu": "2026-07-03"
- },
- {
-  "source": "CleanTechnica",
-  "titre": "Residential Batteries Are Becoming An Active Grid Management Tool",
-  "lien": "https://cleantechnica.com/2026/07/02/residential-batteries-are-becoming-an-active-grid-management-tool/",
-  "auteur": "Steve Hanley",
-  "resume": "Residential storage batteries are soaring in popularity in the US and other countries as their use in virtual power plants increases.",
-  "pub": "2026-07-03",
-  "ts": 1783040501.0,
-  "vu": "2026-07-03"
  }
 ]
