@@ -1,5 +1,175 @@
 [
  {
+  "source": "pv magazine",
+  "titre": "VSL PowerHive launches LFP batteries for residential, small commercial applications",
+  "lien": "https://www.pv-magazine.com/2026/07/16/vsl-powerhive-launches-10-kwh-and-15-kwh-residential-small-commercial-energy-storage-systems/",
+  "auteur": "Uma Gupta",
+  "resume": "The systems can be charged from the grid to provide backup power and can also be paired with rooftop solar installations to store excess generation for later use, reducing grid dependence.",
+  "pub": "2026-07-16",
+  "ts": 1784188286.0,
+  "vu": "2026-07-16"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Une pompe à chaleur de toiture à onduleur pour les bâtiments commerciaux légers",
+  "lien": "https://www.pv-magazine.fr/2026/07/16/une-pompe-a-chaleur-de-toiture-a-onduleur-pour-les-batiments-commerciaux-legers/",
+  "auteur": "Francois Puthod",
+  "resume": "Daikin a dévoilé une pompe à chaleur de toiture à entraînement Inverter offrant des capacités de 7,5 à 10 tonnes. Ce système utilise du difluorométhane comme fluide frigorigène et affiche un coefficient de performance (COP) pouvant atteindre 3,85 à 8,3 °C.",
+  "pub": "2026-07-16",
+  "ts": 1784183400.0,
+  "vu": "2026-07-16"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "40 moutons lâchés sous des panneaux solaires : les éleveurs ont découvert un effet que personne n’avait prévu sur la production d’énergie",
+  "lien": "https://lenergeek.com/2026/07/16/40-moutons-laches-sous-des-panneaux-solaires-les-eleveurs-ont-decouvert-un-effet-que-personne-navait-prevu-sur-la-production-denergie/",
+  "auteur": "Claire Moreau",
+  "resume": "Quarante moutons, des panneaux solaires et un rendement du sol qui grimpe jusqu'à 60%. Comment un simple troupeau transforme un parc solaire britannique en véritable refuge de biodiversité, sans rien coûter à la production d'électricité. L’article 40 moutons lâchés sous des […]",
+  "pub": "2026-07-16",
+  "ts": 1784182801.0,
+  "vu": "2026-07-16"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "L’UE renonce finalement aux batteries remplaçables dans les montres connectées",
+  "lien": "https://lenergeek.com/2026/07/16/lue-renonce-finalement-aux-batteries-remplacables-dans-les-montres-connectees/",
+  "auteur": "Claire Moreau",
+  "resume": "Bruxelles fait volte-face : vos montres connectées garderont leurs batteries scellées. Risque d'incendie, étanchéité menacée... la Commission justifie ce revirement surprenant. Une exception qui en cache une autre, du côté des smartphones haut de gamme. L’article L’UE renonce […]",
+  "pub": "2026-07-16",
+  "ts": 1784182800.0,
+  "vu": "2026-07-16"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Carburant renouvelable Nexa 95 : l’infrastructure technique d’une énergie décarbonée traçable",
+  "lien": "https://lenergeek.com/2026/07/16/carburant-renouvelable-nexa-95-infrastructure-technique-energie-decarbonee/",
+  "auteur": "La Rédaction",
+  "resume": "Toyota, BMW, Bosch et Repsol testent depuis juillet 2024 l'essence 100% renouvelable Nexa 95 sur 20 véhicules en Espagne. Ce projet pilote de six mois repose sur une infrastructure technique inédite : un carburant compatible avec les moteurs existants, certifié par le système […]",
+  "pub": "2026-07-16",
+  "ts": 1784181087.0,
+  "vu": "2026-07-16"
+ },
+ {
+  "source": "Révolution Énergétique",
+  "titre": "Cette entreprise mise sur la « réflectricité » pour augmenter la production d’énergie solaire",
+  "lien": "https://www.revolution-energetique.com/actus/cette-entreprise-mise-sur-la-reflectricite-pour-augmenter-la-production-denergie-solaire/",
+  "auteur": "Kevin CHAMPEAU",
+  "resume": "Augmenter la production photovoltaïque grâce à un simple film réfléchissant, c’est en substance ce que propose une startup canadienne. Bien décidée à révolutionner le secteur […] L’article Cette entreprise mise sur la « réflectricité » pour augmenter la production d’énergie […]",
+  "pub": "2026-07-15",
+  "ts": 1784130135.0,
+  "vu": "2026-07-16"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Les raccordements électriques des EnR sont saturés sur 10% du territoire",
+  "lien": "https://www.greenunivers.com/2026/07/les-raccordements-electriques-des-enr-sont-satures-sur-10-du-territoire-429596/",
+  "auteur": "Thomas Blosseville",
+  "resume": "Article modifié le 16/07/2026 avec une précision sur le rythme de mise à jour de la cartographie – Les gestionnaires de réseaux ont un message pour les développeurs de projets solaires et éoliens : « écoutez le réseau. On a utilisé au maximum les marges dont on disposait […]",
+  "pub": "2026-07-15",
+  "ts": 1784130032.0,
+  "vu": "2026-07-16"
+ },
+ {
+  "source": "Batiactu",
+  "titre": "Usin Lyon Parilly mise sur le solaire et l'autoconsommation",
+  "lien": "https://www.batiactu.com/edito/usin-lyon-parilly-mise-sur-solaire-et-autoconsommation-74974.php",
+  "auteur": "Batiactu",
+  "resume": "ÉNERGIES. Usin Lyon Parilly, pôle industriel moderne, place l'énergie solaire au cœur de sa stratégie énergétique. Pour cela, plusieurs centrales photovoltaïques sont installées sur le site, dont deux nouveaux projets viennent d'être lancés.",
+  "pub": "2026-07-15",
+  "ts": 1784127585.0,
+  "vu": "2026-07-16"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Une batterie de 700 MW/2 800 MWh financée en Belgique",
+  "lien": "https://www.greenunivers.com/2026/07/une-batterie-de-700-mw-2-800-mwh-financee-en-belgique-429525/",
+  "auteur": "Jacopo Landi",
+  "resume": "Giga Storage, spécialiste du stockage de l’électricité par batterie détenu par le français InfraVia, boucle le financement de son plus important projet à date, et un des plus puissants en Europe : le L’article Une batterie de 700 MW/2 800 MWh financée en Belgique est apparu en […]",
+  "pub": "2026-07-15",
+  "ts": 1784126015.0,
+  "vu": "2026-07-16"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "DS N°7 Elysée : la nouvelle voiture présidentielle 100% électrique",
+  "lien": "https://lenergeek.com/2026/07/15/citroen-ds-n7-elysee-emmanuel-macron/",
+  "auteur": "Nicolas Egon",
+  "resume": "Emmanuel Macron inaugure le 14 juillet 2026 la première voiture présidentielle 100 % électrique de la Ve République : une DS N°7 Élysée équipée d'une batterie de 97,2 kWh fabriquée en France par Automotive Cells Company. Avec 740 km d'autonomie, ce véhicule blindé démontre que […]",
+  "pub": "2026-07-15",
+  "ts": 1784122882.0,
+  "vu": "2026-07-16"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Radiance Energy rachète 105 MW de projets solaires et agrivoltaïques en France",
+  "lien": "https://www.pv-magazine.fr/2026/07/15/radiance-energy-rachete-105-mw-de-projets-solaires-et-agrivoltaiques-en-france/",
+  "auteur": "Marie Beyer",
+  "resume": "La filiale d'Eurazeo a signé l'acquisition de ce portefeuille auprès d'AMDA Energies afin de poursuivre son développement en France et de devenir, à terme, un producteur indépendant d’énergie solaire européen.",
+  "pub": "2026-07-15",
+  "ts": 1784116800.0,
+  "vu": "2026-07-16"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Pourquoi JPEE et Générale du solaire vont fusionner",
+  "lien": "https://www.greenunivers.com/2026/07/pourquoi-jpee-et-generale-du-solaire-vont-fusionner-429536/",
+  "auteur": "Jean-Philippe Pié",
+  "resume": "Entretien – JP Energie Environnement (JPEE) et Générale du Solaire vont fusionner, comme l’a dévoilé GreenUnivers la semaine dernière. La Banque des Territoires se projette comme partenaire et actionnaire. Une opération encore rarissime parmi les producteurs indépendants […]",
+  "pub": "2026-07-15",
+  "ts": 1784114695.0,
+  "vu": "2026-07-16"
+ },
+ {
+  "source": "Révolution Énergétique",
+  "titre": "Toiture photovoltaïque : transformer son toit en actif patrimonial",
+  "lien": "https://www.revolution-energetique.com/actus/toiture-photovoltaique-transformer-son-toit-en-actif-patrimonial/",
+  "auteur": "Contenu sponsorisé",
+  "resume": "Longtemps perçu comme une charge, le toit devient aujourd’hui un levier de valorisation immobilière concret. La toiture photovoltaïque s’impose comme une solution prisée des propriétaires […] L’article Toiture photovoltaïque : transformer son toit en actif patrimonial est apparu […]",
+  "pub": "2026-07-15",
+  "ts": 1784113247.0,
+  "vu": "2026-07-16"
+ },
+ {
+  "source": "Batiactu",
+  "titre": "Géothermie profonde : soutien massif du fonds chaleur en Seine-Saint-Denis",
+  "lien": "https://www.batiactu.com/edito/geothermie-profonde-soutien-massif-fonds-chaleur-seine-74965.php",
+  "auteur": "Batiactu",
+  "resume": "ÉNERGIE RENOUVELABLE. Le préfet de Seine-Saint-Denis et la directrice régionale de l'Ademe Île-de-France ont signé une convention d'aide autour du projet de réseau Clichy-Livry chaleur.",
+  "pub": "2026-07-15",
+  "ts": 1784112707.0,
+  "vu": "2026-07-16"
+ },
+ {
+  "source": "Energy-Storage.news",
+  "titre": "Google projects are evidence that long-duration CO2 Batteries are ‘reliable capacity assets,’ Energy Dome says",
+  "lien": "https://www.energy-storage.news/google-projects-are-evidence-that-long-duration-co2-batteries-are-reliable-capacity-assets-energy-dome-says/",
+  "auteur": "Andy Colthorpe",
+  "resume": "ESN Premium speaks with Ben Potter at CO2 Battery startup Energy Dome about the company’s latest project with Google and why the market is turning in favour of long-duration energy storage (LDES).",
+  "pub": "2026-07-15",
+  "ts": 1784109076.0,
+  "vu": "2026-07-16"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "EcoFlow et Octopus Energy France s’associent sur le solaire résidentiel",
+  "lien": "https://www.pv-magazine.fr/2026/07/15/ecoflow-et-octopus-energy-france-sassocient-sur-le-solaire-residentiel/",
+  "auteur": "Bernadette Geyer",
+  "resume": "Ce partenariat s’articulera autour du programme « Solar Boost », récemment lancé pour soutenir les ménages français.",
+  "pub": "2026-07-15",
+  "ts": 1784106000.0,
+  "vu": "2026-07-16"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Le stockage couvre un tiers des transactions M&A en Europe [Tevali]",
+  "lien": "https://www.greenunivers.com/2026/07/le-stockage-couvre-un-tiers-des-transactions-ma-en-europe-tevali-429461/",
+  "auteur": "Paul Messad",
+  "resume": "Le conseil en M&A Tevali Partners a identifié L’article Le stockage couvre un tiers des transactions M&A en Europe [Tevali] est apparu en premier sur GreenUnivers .",
+  "pub": "2026-07-15",
+  "ts": 1784105666.0,
+  "vu": "2026-07-16"
+ },
+ {
   "source": "pv magazine France",
   "titre": "Avis de marchés publics dans le PV en France",
   "lien": "https://www.pv-magazine.fr/2026/07/15/avis-de-marches-publics-dans-le-pv-en-france-129/",
@@ -38,6 +208,16 @@
   "pub": "2026-07-15",
   "ts": 1784094300.0,
   "vu": "2026-07-15"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Énergie solaire, terrains et infrastructures énergétiques : pourquoi l’immobilier devient un élément clé de la transition énergétique",
+  "lien": "https://lenergeek.com/2026/07/15/energie-solaire-terrains-et-infrastructures-energetiques-pourquoi-limmobilier-devient-un-element-cle-de-la-transition-energetique/",
+  "auteur": "La Rédaction",
+  "resume": "On parle surtout de la transition énergétique en termes de technologie, des panneaux plus performants, des batteries moins chères, des réseaux plus intelligents, mais une contrainte plus discrète se cache ... L’article Énergie solaire, terrains et infrastructures énergétiques  […]",
+  "pub": "2026-07-15",
+  "ts": 1784080800.0,
+  "vu": "2026-07-16"
  },
  {
   "source": "CleanTechnica",
@@ -93,7 +273,7 @@
   "source": "GreenUnivers",
   "titre": "Solaire : « la situation a un goût de moratoire déguisé » [Daniel Bour, Enerplan]",
   "lien": "https://www.greenunivers.com/2026/07/solaire-la-situation-a-le-gout-dun-moratoire-deguise-daniel-bour-enerplan-429456/",
-  "auteur": "Paul Messad",
+  "auteur": "GreenUnivers",
   "resume": "Entretien – Mécontent du sort réservé au photovoltaïque, le syndicat professionnel de la filière, Enerplan, a décidé de se faire entendre des pouvoirs publics. Pour ce faire, il s’est offert une pleine page dans La Tribune Dimanche du 12 juillet sur laquelle il est indiqué, en […]",
   "pub": "2026-07-13",
   "ts": 1783959207.0,
@@ -1248,55 +1428,5 @@
   "pub": "2026-07-06",
   "ts": 1783307400.0,
   "vu": "2026-07-06"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Voici le métal essentiel à nos appareils dont l'extraction soulève des problèmes humanitaires majeurs",
-  "lien": "https://www.futura-sciences.com/tech/actualites/erres-rares-voici-metal-essentiel-nos-appareils-extraction-souleve-problemes-humanitaires-majeurs-k2m6-135885/",
-  "auteur": "la rédaction, Futura",
-  "resume": "Plus de 70 % du cobalt mondial sort des mines de la République démocratique du Congo. Derrière chaque batterie de smartphone ou de voiture électrique se cache une réalité bien moins reluisante. Ce métal bleu argenté est à la fois indispensable à la transition énergétique et au […]",
-  "pub": "2026-07-05",
-  "ts": 1783267200.0,
-  "vu": "2026-07-06"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Un événement cosmique il y a 2,5 millions d’années aurait bousculé le nuage d’Oort et lancé des comètes vers nous !",
-  "lien": "https://www.futura-sciences.com/sciences/actualites/systeme-solaire-evenement-cosmique-il-y-25-millions-annees-aurait-bouscule-nuage-oort-lance-cometes-vers-nous-135833/",
-  "auteur": "Laurent Sacco, Journaliste scientifique",
-  "resume": "La mission Gaia permet de faire de l'archéologie galactique en remontant dans le temps en ce qui concerne les positions et trajectoires passées de bien des étoiles. Elle nous renseigne indirectement sur l'histoire passée du Système solaire et notamment celle des comètes à […]",
-  "pub": "2026-07-05",
-  "ts": 1783256632.0,
-  "vu": "2026-07-06"
- },
- {
-  "source": "Batiactu",
-  "titre": "Les fortes économies liées à une bonne isolation",
-  "lien": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=156157",
-  "auteur": "Batiactu",
-  "resume": "Tout réservoir de stockage se doit d'être qualitatif et bien dimensionné. Toutefois, sans une isolation performante, ses performances théoriques chutent et les surcouts énergétiques sont ...",
-  "pub": "2026-07-05",
-  "ts": 1783243103.0,
-  "vu": "2026-06-24"
- },
- {
-  "source": "Enerzine",
-  "titre": "CATL dévoile Tener, son stockage sodium-ion sans lithium à Munich",
-  "lien": "https://www.enerzine.com/catl-devoile-tener-son-stockage-sodium-ion-sans-lithium-a-munich/189451-2026-07",
-  "auteur": "La rédaction",
-  "resume": "CATL a présenté lundi à Munich son système de stockage d’énergie Tener, une batterie sodium-ion destinée aux installations à grande échelle. Affichant une durée de vie de 25 à 30 ans et 15 000 cycles, ce produit sans lithium vise le marché mondial à partir de 2027. Quinze mille […]",
-  "pub": "2026-07-05",
-  "ts": 1783221000.0,
-  "vu": "2026-07-05"
- },
- {
-  "source": "CleanTechnica",
-  "titre": "Electric School Buses Put Batteries To Work To Stabilize Grids",
-  "lien": "https://cleantechnica.com/2026/07/04/electric-school-buses-put-batteries-to-work-to-stabilize-grids/",
-  "auteur": "Steve Hanley",
-  "resume": "Electric school bus batteries are the perfect candidates for vehicle to grid technology to help stabilize the grid.",
-  "pub": "2026-07-05",
-  "ts": 1783212729.0,
-  "vu": "2026-07-05"
  }
 ]
