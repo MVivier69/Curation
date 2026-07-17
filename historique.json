@@ -1,5 +1,185 @@
 [
  {
+  "source": "pv magazine France",
+  "titre": "Le Quebec publie sa feuille de route énergétique",
+  "lien": "https://www.pv-magazine.fr/2026/07/17/le-quebec-publie-sa-feuille-de-route-energetique/",
+  "auteur": "Marie Beyer",
+  "resume": "Le Plan de gestion intégrée des ressources énergétiques (PGIRE) présente la vision du Quebec pour assurer sa sécurité énergétique d'ici à 2050. En ce qui concerne le solaire, la province a annoncé vouloir atteindre les 5 GW répartis entre des centrales à grande échelle et des […]",
+  "pub": "2026-07-17",
+  "ts": 1784275200.0,
+  "vu": "2026-07-17"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Giving away excess daytime solar for free",
+  "lien": "https://www.pv-magazine.com/2026/07/17/giving-away-excess-daytime-solar-for-free/",
+  "auteur": "Emiliano Bellini",
+  "resume": "Australia is turning excess midday solar into a consumer benefit through free “solar sharer” electricity tariffs, enabling households to shift loads, charge batteries and EVs, and cut energy bills dramatically. With rooftop solar, storage, electrification, and smarter tariffs […]",
+  "pub": "2026-07-17",
+  "ts": 1784273268.0,
+  "vu": "2026-07-17"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Longi établit un nouveau record mondial avec une cellule tandem pérovskite-silicium à 35,5 % d’efficacité",
+  "lien": "https://www.pv-magazine.fr/2026/07/17/longi-etablit-un-nouveau-record-mondial-avec-une-cellule-tandem-perovskite-silicium-a-355-defficacite/",
+  "auteur": "Francois Puthod",
+  "resume": "Le résultat a été certifié par l'Installation d'essai solaire européenne (ESTI).",
+  "pub": "2026-07-17",
+  "ts": 1784269800.0,
+  "vu": "2026-07-17"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Panneaux solaires : le démarchage téléphonique est déjà interdit, mais avec la fin de Bloctel le 11 août 2026, voici ce qui change vraiment pour vous",
+  "lien": "https://lenergeek.com/2026/07/17/panneaux-solaires-le-demarchage-telephonique-est-deja-interdit-mais-avec-la-fin-de-bloctel-le-11-aout-2026-voici-ce-qui-change-vraiment-pour-vous/",
+  "auteur": "Gabin Laurent",
+  "resume": "Bloctel, c'est bientôt terminé. Dès le 11 août 2026, les entreprises devront obtenir votre accord explicite avant de vous appeler. Amendes jusqu'à 375 000 euros, contrats annulables : la fin du démarchage sauvage se précise. L’article Panneaux solaires : le démarchage […]",
+  "pub": "2026-07-17",
+  "ts": 1784267442.0,
+  "vu": "2026-07-17"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Construction begins on 31 MW agrivoltaic project in New Zealand",
+  "lien": "https://www.pv-magazine.com/2026/07/17/31-mw-agrovoltaic-project-kicks-off-construction-in-new-zealand/",
+  "auteur": "Ev Foley",
+  "resume": "New Zealand solar farm developer Lodestone has conducted a ceremonial groundbreaking and blessing to kick start the construction of the Central Hawke's Bay solar farm project.",
+  "pub": "2026-07-17",
+  "ts": 1784266925.0,
+  "vu": "2026-07-17"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Corsica Sole double sa capacité de stockage en Estonie avec Hertz 2",
+  "lien": "https://www.enerzine.com/corsica-sole-double-sa-capacite-de-stockage-en-estonie-avec-hertz-2/190663-2026-07",
+  "auteur": "La rédaction",
+  "resume": "Corsica Sole met en service Hertz 2, un système de stockage d’énergie par batteries de 100 MW et 200 MWh à Aruküla, en Estonie. Avec Hertz 1, inauguré en février dernier à Kiisa, le complexe atteint désormais 200 MW et 400 MWh, formant l’un des plus puissants ensembles de […]",
+  "pub": "2026-07-17",
+  "ts": 1784265000.0,
+  "vu": "2026-07-17"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Holistic approach wins for agrivoltaics",
+  "lien": "https://www.pv-magazine.com/2026/07/17/holistic-approach-wins-for-agrivoltaics/",
+  "auteur": "Mark Hutchins",
+  "resume": "There is growing interest across many regions in integrating solar installations into land already being used for agriculture. Lessons learned from early projects in both livestock and crop farming are stacking up. While best practices are emerging, it’s clear that each project […]",
+  "pub": "2026-07-17",
+  "ts": 1784260800.0,
+  "vu": "2026-07-17"
+ },
+ {
+  "source": "CleanTechnica",
+  "titre": "China’s Batteries Move Beyond Capacity Scale-up: Utility-Scale Storage Could Have Shifted 23 TWh More Clean Power in 2025",
+  "lien": "https://cleantechnica.com/2026/07/16/chinas-batteries-move-beyond-capacity-scale-up-utility-scale-storage-could-have-shifted-23-twh-more-clean-power-in-2025/",
+  "auteur": "Press Release",
+  "resume": "Beijing, 16 July – China now operates the world’s largest battery energy storage fleet, and new analysis from Ember shows there is still headroom to do more with it. Used to its full potential, China’s utility-scale batteries could have shifted an additional 23 TWh of clean […]",
+  "pub": "2026-07-17",
+  "ts": 1784257889.0,
+  "vu": "2026-07-17"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Une gestion plus intelligente des micro-réseaux pourrait réduire les coûts énergétiques des ménages et les émissions de diesel",
+  "lien": "https://www.enerzine.com/une-gestion-plus-intelligente-des-micro-reseaux-pourrait-reduire-les-couts-energetiques-des-menages-et-les-emissions-de-diesel/190292-2026-07",
+  "auteur": "La rédaction",
+  "resume": "Une nouvelle étude montre qu’une stratégie d’optimisation intelligente peut rendre les micro-réseaux hybrides résidentiels plus propres, moins chers et plus fiables en coordonnant l’énergie solaire, l’énergie éolienne, le générateur diesel de secours et le stockage par batterie […]",
+  "pub": "2026-07-17",
+  "ts": 1784257800.0,
+  "vu": "2026-07-17"
+ },
+ {
+  "source": "Transitions & Énergies",
+  "titre": "Le solaire crée le chaos sur le marché de l’électricité en Europe",
+  "lien": "https://www.transitionsenergies.com/solaire-chaos-marche-electricite-europe/",
+  "auteur": "La rédaction",
+  "resume": "La surproduction incontrôlée d’électricité solaire en Europe en milieu de journée, prioritaire sur les réseaux, fait s’effondrer les prix de l’électricité sur le marché de gros et a des conséquences désastreuses techniques comme économiques. Et en fin de journée quand […]",
+  "pub": "2026-07-17",
+  "ts": 1784247524.0,
+  "vu": "2026-07-17"
+ },
+ {
+  "source": "Enerplan",
+  "titre": "Coup de pouce SSC et chauffe-eau solaire à appoint décarboné",
+  "lien": "https://www.enerplan.asso.fr/coup-de-pouce-ssc-et-chauffe-eau-solaire-a-appoint-decarbone/",
+  "auteur": "Mickaël Marie",
+  "resume": "",
+  "pub": "2026-07-16",
+  "ts": 1784231467.0,
+  "vu": "2026-07-17"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Lauréat du dernier AO solaire sur bâtiment, Diméo Énergie ouvre son capital",
+  "lien": "https://www.greenunivers.com/2026/07/laureat-du-dernier-ao-solaire-batiment-dimeo-energie-ouvre-son-capital-429738/",
+  "auteur": "Paul Messad",
+  "resume": "Exclusif – Le développeur photovoltaïque Diméo Energie, lauréat de la dernière session de l’appel d’offres (AO) solaire sur bâtiment, cherche des investisseurs. Selon nos informations, le dossier circule L’article Lauréat du dernier AO solaire sur bâtiment, Diméo Énergie ouvre […]",
+  "pub": "2026-07-16",
+  "ts": 1784216760.0,
+  "vu": "2026-07-17"
+ },
+ {
+  "source": "Batiactu",
+  "titre": "Nouvelle baisse du coefficient d'énergie primaire du DPE : le projet d'arrêté mis en consultation",
+  "lien": "https://www.batiactu.com/edito/baisse-coefficient-energie-primaire-electricite-texte-74982.php",
+  "auteur": "Batiactu",
+  "resume": "RÉGLEMENTATION. Annoncée dans le plan national d'électrification des usages, la nouvelle modification du coefficient d'énergie primaire (CEP) de l'électricité pour le diagnostic de performance énergétique (DPE) fait l'objet d'un projet d'arrêté soumis à consultation.",
+  "pub": "2026-07-16",
+  "ts": 1784214779.0,
+  "vu": "2026-07-17"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "L'Honor X9d à moins de 287 € avec coupon : AMOLED 6,79 pouces, batterie 8300 mAh et capteur 108 MP pour un milieu de gamme qui joue au-dessus de sa catégorie",
+  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-smartphones-honor-x9d-moins-287-coupon-amoled-679-pouces-batterie-8300-mah-capteur-108-mp-milieu-gamme-joue-dessus-categorie-10753/",
+  "auteur": "Benoit Baylé, Rédacteur web",
+  "resume": "L'Honor X9d ne fait rien pour rester discret sur le papier. Dalle AMOLED de 6,79 pouces, batterie XXL de 8300 mAh, capteur principal de 108 mégapixels, NFC et version mondiale avec services Google : c'est une fiche technique qui rivalise directement avec des modèles vendus 100 € […]",
+  "pub": "2026-07-16",
+  "ts": 1784210404.0,
+  "vu": "2026-07-17"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Une centrale solaire de 130 kWc sur le toit de l’Hôtel d’Alsace",
+  "lien": "https://www.pv-magazine.fr/2026/07/16/une-centrale-solaire-de-130-kwc-sur-le-toit-de-lhotel-dalsace/",
+  "auteur": "Francois Puthod",
+  "resume": "La Collectivité européenne d’Alsace équipe son siège d’une centrale solaire en autoconsommation de 130 kWc.",
+  "pub": "2026-07-16",
+  "ts": 1784203200.0,
+  "vu": "2026-07-17"
+ },
+ {
+  "source": "Actu-Environnement",
+  "titre": "Hydroélectricité : les petites installations rénovées pourront bénéficier d'un complément de rémunération",
+  "lien": "https://www.actu-environnement.com/ae/news/hydroelectricite-complement-remuneration-installations-renovees-48315.php4",
+  "auteur": "",
+  "resume": "Un projet d'arrêté, fixant les conditions du complément de rémunération pour la production d'installations hydroélectriques non-concédées et ayant fait l'objet d'une rénovation, est en consultation jusqu'au 2 août. Il concerne les installations hy...",
+  "pub": "2026-07-16",
+  "ts": 1784194774.0,
+  "vu": "2026-07-17"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Raccordement des EnR : 10 % du territoire français déjà saturé",
+  "lien": "https://www.pv-magazine.fr/2026/07/16/raccordement-des-enr-10-du-territoire-francais-deja-sature/",
+  "auteur": "Francois Puthod",
+  "resume": "Enedis et RTE ont publié, hier, une cartographie montrant que 10 % du territoire français est saturé et ne peut plus accueillir de nouvelles capacités de production d'énergies renouvelables en l’état.",
+  "pub": "2026-07-16",
+  "ts": 1784193300.0,
+  "vu": "2026-07-17"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Les résultats des principaux producteurs d’énergie renouvelable en 2025",
+  "lien": "https://www.greenunivers.com/2026/07/les-resultats-des-principaux-producteurs-denergie-renouvelable-en-2025-428712/",
+  "auteur": "Jacopo Landi",
+  "resume": "Exclusif – GreenUnivers publie l’édition 2025 de sa synthèse des résultats financiers annuels des principaux producteurs d’énergies renouvelables – principalement de l’électricité -, français ou actifs en France. Les données ont été collectées L’article Les résultats des […]",
+  "pub": "2026-07-16",
+  "ts": 1784192270.0,
+  "vu": "2026-07-17"
+ },
+ {
   "source": "pv magazine",
   "titre": "VSL PowerHive launches LFP batteries for residential, small commercial applications",
   "lien": "https://www.pv-magazine.com/2026/07/16/vsl-powerhive-launches-10-kwh-and-15-kwh-residential-small-commercial-energy-storage-systems/",
@@ -1258,175 +1438,5 @@
   "pub": "2026-07-07",
   "ts": 1783389094.0,
   "vu": "2026-07-07"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Revenus des batteries : le trading va remplacer les services système dès 2029",
-  "lien": "https://www.greenunivers.com/2026/07/revenus-des-batteries-le-trading-va-remplacer-les-services-systeme-428611/",
-  "auteur": "GreenUnivers",
-  "resume": "[Compte-rendu] A mesure que le nombre de batteries stationnaires augmente sur le réseau, leurs revenus vont diminuer. C’est le constat établi par Michael Salomon, fondateur et PDG de Clean Horizon, lors de la 12ème conférence sur le Financement des infrastructures de […]",
-  "pub": "2026-07-06",
-  "ts": 1783352048.0,
-  "vu": "2026-07-07"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Pourquoi Rive investit dans la chaleur renouvelable industrielle",
-  "lien": "https://www.greenunivers.com/2026/07/pourquoi-rive-investit-dans-la-chaleur-renouvelable-industrielle-428677/",
-  "auteur": "Jean-Philippe Pié",
-  "resume": "Rive Private Investment fait son entrée dans la chaleur renouvelable, surtout industrielle. Il passe par l’Espagne pour cela, entrant en minoritaire aux côtés des fondateurs de Rebi (Recursos de la biomasa), un créateur de réseaux de chaleur surtout à base de biomasse basé à […]",
-  "pub": "2026-07-06",
-  "ts": 1783351311.0,
-  "vu": "2026-07-07"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Reflect10 promet une augmentation de production record des modules solaires",
-  "lien": "https://www.greenunivers.com/2026/07/reflect10-promet-une-augmentation-de-production-record-des-modules-solaires-428664/",
-  "auteur": "GreenUnivers",
-  "resume": "Du jamais vu. La startup québécoise Reflect10 va dévoiler officiellement demain 7 juillet sa nouvelle technologie dite de « réflectricité ». Concrètement, la réflectricité L’article Reflect10 promet une augmentation de production record des modules solaires est apparu en premier […]",
-  "pub": "2026-07-06",
-  "ts": 1783350805.0,
-  "vu": "2026-07-07"
- },
- {
-  "source": "pv magazine France",
-  "titre": "[En images] Inauguration à Creil du deuxième parc solaire français",
-  "lien": "https://www.pv-magazine.fr/2026/07/06/en-images-inauguration-a-creil-du-deuxieme-parc-solaire-francais/",
-  "auteur": "Francois Puthod",
-  "resume": "Développée par Photosol sur l’ancienne base aérienne 110, la centrale photovoltaïque de Creil (Oise), 2e parc solaire de France en terme de puissance, a été inaugurée le 2 juillet.",
-  "pub": "2026-07-06",
-  "ts": 1783346400.0,
-  "vu": "2026-07-07"
- },
- {
-  "source": "Batiactu",
-  "titre": "A Creil, le deuxième plus puissant parc solaire de France est mis en service",
-  "lien": "https://www.batiactu.com/edito/a-creil-deuxieme-plus-puissant-parc-solaire-france-74909.php",
-  "auteur": "Batiactu",
-  "resume": "ÉNERGIE SOLAIRE. L'installation déployée en partie sur l'ancienne base aérienne de la commune de l'Oise permettra une production moyenne annuelle de 202 GWh grâce à une puissance installée de 202 MWc. La centrale fait partie des 32 sites sélectionnés dans le cadre du plan […]",
-  "pub": "2026-07-06",
-  "ts": 1783344719.0,
-  "vu": "2026-07-07"
- },
- {
-  "source": "pv magazine France",
-  "titre": "ACC : rectificatif sur le décret encadrant les règles de répartition de l’énergie",
-  "lien": "https://www.pv-magazine.fr/2026/07/06/autoconsommation-collective-le-decret-sur-les-regles-de-repartition-deja-rectifie/",
-  "auteur": "Francois Puthod",
-  "resume": "Le gouvernement anticipe d’un an l’entrée en vigueur des nouvelles règles de répartition de l’énergie entre participants d’une opération d’autoconsommation collective.",
-  "pub": "2026-07-06",
-  "ts": 1783342800.0,
-  "vu": "2026-07-07"
- },
- {
-  "source": "Révolution Énergétique",
-  "titre": "Ce fournisseur veut installer une batterie chez vous pour trader l’électricité sur les marchés",
-  "lien": "https://www.revolution-energetique.com/actus/ce-fournisseur-veut-installer-une-batterie-chez-vous-pour-trader-lelectricite-sur-les-marches/",
-  "auteur": "Hector PIETRANI",
-  "resume": "Le consortium spécialiste du stockage d’électricité RNW (Renault – NW) a obtenu l’agrément fournisseur, indispensable pour rentabiliser une installation batterie à domicile. La flexibilité de […] L’article Ce fournisseur veut installer une batterie chez vous pour trader […]",
-  "pub": "2026-07-06",
-  "ts": 1783335138.0,
-  "vu": "2026-07-06"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Batteries : combien rapporte 1 MW en juin [Observatoire]",
-  "lien": "https://www.greenunivers.com/2026/07/batteries-combien-rapporte-1-mw-en-juin-observatoire-428529/",
-  "auteur": "Jacopo Landi",
-  "resume": "La canicule du mois de juin a eu des conséquences tangibles sur les marchés spot de l’électricité, avec des effets tout aussi importants sur les revenus des batteries réalisant de l’arbitrage. Selon les simulations réalisées par Storio Energy et StackEase, une batterie de 1 MW/2 […]",
-  "pub": "2026-07-06",
-  "ts": 1783333079.0,
-  "vu": "2026-07-06"
- },
- {
-  "source": "INES",
-  "titre": "Préparez vos projets solaires avec les formations INES du 2ᵉ semestre 2026",
-  "lien": "https://www.ines-solaire.org/news/preparez-vos-projets-solaires-avec-les-formations-ines-du-2-semestre-2026/",
-  "auteur": "",
-  "resume": "Photovoltaïque, solaire thermique, bâtiment, énergie & environnement : découvrez les prochaines formations proposées par l'INES Plateforme Formation & Evaluation pour développer vos compétences et accompagner les évolutions de votre métier.",
-  "pub": "2026-07-06",
-  "ts": 1783332073.0,
-  "vu": "2026-07-06"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Une nouvelle technologie de solaire flottant à l’épreuve des vagues",
-  "lien": "https://www.pv-magazine.fr/2026/07/06/une-nouvelle-technologie-de-solaire-flottant-a-lepreuve-des-vagues/",
-  "auteur": "Marie Beyer",
-  "resume": "La société norvégienne Fred. Olsens 1848 a obtenu une validation technologique pour son nouveau système solaire flottant, en développement et conçu pour supporter des vagues allant jusqu'à 3,5 mètres.",
-  "pub": "2026-07-06",
-  "ts": 1783328400.0,
-  "vu": "2026-07-06"
- },
- {
-  "source": "pv magazine",
-  "titre": "Medium-voltage series regulator enables 260% more PV capacity in German distribution grids",
-  "lien": "https://www.pv-magazine.com/2026/07/06/medium-voltage-series-regulator-enables-260-more-pv-capacity-in-german-distribution-grids/",
-  "auteur": "Emiliano Bellini",
-  "resume": "A compact medium-voltage series regulator allows existing distribution grids to accommodate significantly more photovoltaic capacity by actively controlling voltage. The technology can be reportedly installed in existing transformer stations without additional construction […]",
-  "pub": "2026-07-06",
-  "ts": 1783328081.0,
-  "vu": "2026-07-06"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Espèces protégées&#8239;: une seconde annulation pour le parc photovoltaïque de Lézignan-la-Cèbe",
-  "lien": "https://www.actu-environnement.com/ae/news/derogation-especes-protegees-photovoltaique-lezignan-cebe-48259.php4",
-  "auteur": "",
-  "resume": "Par un jugement du 30 juin 2026, le tribunal administratif de Montpellier a annulé l'arrêté du 21 août 2025 du préfet de l'Hérault portant dérogation «&#8239;espèces protégées&#8239;» au profit de la société Neoen pour la réalisation d'u...",
-  "pub": "2026-07-06",
-  "ts": 1783327552.0,
-  "vu": "2026-07-06"
- },
- {
-  "source": "pv magazine",
-  "titre": "Photovoltaics for metro stations",
-  "lien": "https://www.pv-magazine.com/2026/07/06/photovoltaics-for-metro-stations/",
-  "auteur": "Lior Kahana",
-  "resume": "Bangladeshi researchers modelled a 20.38 MW rooftop solar PV system across Dhaka Metro’s MRT Line 6, showing strong technical potential and significant CO₂ reductions. The study also found attractive economics, including a six-year payback period, high return on investment, and […]",
-  "pub": "2026-07-06",
-  "ts": 1783326750.0,
-  "vu": "2026-07-06"
- },
- {
-  "source": "Enerzine",
-  "titre": "Mobilité douce : le vélo électrique, nouveau pilier de la transition énergétique urbaine",
-  "lien": "https://www.enerzine.com/mobilite-douce-le-velo-electrique-nouveau-pilier-de-la-transition-energetique-urbaine/190103-2026-07",
-  "auteur": "La rédaction",
-  "resume": "Le secteur des transports reste l’un des principaux postes d’émissions de gaz à effet de serre en France, loin devant l’industrie ou l’agriculture. Face à ce constat, la transition énergétique ne se joue plus seulement dans les centrales ou sur les toits photovoltaïques : elle […]",
-  "pub": "2026-07-06",
-  "ts": 1783323600.0,
-  "vu": "2026-07-06"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Les nouvelles infras énergétiques au défi du financement",
-  "lien": "https://www.greenunivers.com/2026/07/les-nouvelles-infras-energetiques-face-au-defi-du-financement-428583/",
-  "auteur": "Natasha Laporte",
-  "resume": "[Compte-rendu] Stockage behind the meter, chaleur renouvelable, géothermie… Ces infrastructures encore émergentes mais en plain essor explorent de nouveaux modèles d’affaires et de financement, évoqués lors de la 12ème conférence de GreenUnivers sur le Financement des […]",
-  "pub": "2026-07-06",
-  "ts": 1783321200.0,
-  "vu": "2026-07-06"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Biocarburant B100, Solution française disponible",
-  "lien": "https://www.actu-environnement.com/ae/pdt/oleo-100-biocarburant-b100-decarbonation-transport-lourd-flotte-retrofit-1477.php4",
-  "auteur": "",
-  "resume": "Avec plus d’un milliard de litres distribués, le biocarburant français de Oleo100 accroit la décarbonation du transport lourd sans renouvellement massif des flottes. Une approche qui conjugue transition énergétique, souveraineté et ancrage territo...",
-  "pub": "2026-07-06",
-  "ts": 1783321200.0,
-  "vu": "2026-07-06"
- },
- {
-  "source": "Enerzine",
-  "titre": "NatPower et Tesla annoncent 25 GWh de stockage en Italie et au Royaume-Uni",
-  "lien": "https://www.enerzine.com/natpower-et-tesla-annoncent-25-gwh-de-stockage-en-italie-et-au-royaume-uni/189460-2026-07",
-  "auteur": "La rédaction",
-  "resume": "NatPower et Tesla ont annoncé un partenariat pluriannuel pour déployer 25 gigawattheures de capacité de stockage par batterie en Italie et au Royaume-Uni. Le développeur d’énergie indépendant utilisera les systèmes Megapack du constructeur américain lors de la première phase […]",
-  "pub": "2026-07-06",
-  "ts": 1783307400.0,
-  "vu": "2026-07-06"
  }
 ]
