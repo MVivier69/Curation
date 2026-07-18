@@ -1,5 +1,115 @@
 [
  {
+  "source": "Révolution Énergétique",
+  "titre": "En juin, un quart de l’électricité européenne provenait du soleil",
+  "lien": "https://www.revolution-energetique.com/actus/en-juin-un-quart-de-lelectricite-europeenne-provenait-du-soleil/",
+  "auteur": "Hector PIETRANI",
+  "resume": "Un quart de l’électricité européenne, 52 térawattheures (TWh), c’est gigantesque ce qu’a produit le solaire dans l’UE. Première source d’électricité, cette énergie renouvelable est déployée […] L’article En juin, un quart de l’électricité européenne provenait du soleil est […]",
+  "pub": "2026-07-18",
+  "ts": 1784352749.0,
+  "vu": "2026-07-18"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Électricité : vers une hausse de 2,5 % des tarifs au 1er août 2026",
+  "lien": "https://www.enerzine.com/electricite-hausse-tarifs-2-5-pourcent-1er-aout-2026/191438-2026-07",
+  "auteur": "La rédaction",
+  "resume": "Le régulateur de l’énergie (CRE) a proposé une augmentation moyenne des tarifs réglementés de l’électricité qui interviendrait dès le 1er août 2026. Cette proposition qui doit encore faire l’objet d’un avis du Conseil supérieur de l’énergie puis être entérinée par un arrêté […]",
+  "pub": "2026-07-17",
+  "ts": 1784322600.0,
+  "vu": "2026-07-18"
+ },
+ {
+  "source": "CleanTechnica",
+  "titre": "The Grid Needs Storage, Not Every Storage Idea",
+  "lien": "https://cleantechnica.com/2026/07/17/grid-storage-2100-batteries-pumped-hydro/",
+  "auteur": "Michael Barnard",
+  "resume": "Grid-storage debates are usually framed as a contest among technologies. Lithium-ion batteries compete with flow batteries, compressed air, liquid air, gravity systems, iron-air and whatever new long-duration acronym has arrived with a funding announcement. That framing skips […]",
+  "pub": "2026-07-17",
+  "ts": 1784298508.0,
+  "vu": "2026-07-18"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "eSIM et Batterie : Comment la SIM Numérique Transforme la Consommation Énergétique des Smartphones",
+  "lien": "https://www.enerzine.com/esim-et-batterie-comment-la-sim-numerique-transforme-la-consommation-energetique-des-smartphones/191419-2026-07",
+  "auteur": "La rédaction",
+  "resume": "Les smartphones modernes sont devenus de véritables compagnons du quotidien. Ils nous permettent de communiquer, de travailler, de nous divertir et même de gérer nos déplacements. Cependant, leur autonomie reste l’une des principales préoccupations des utilisateurs. Chaque […]",
+  "pub": "2026-07-17",
+  "ts": 1784298000.0,
+  "vu": "2026-07-18"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "En raison des champs magnétiques de la Voie lactée, les étoiles ne devraient pas s'y former... mais alors ?",
+  "lien": "https://www.futura-sciences.com/sciences/actualites/astronomie-raison-champs-magnetiques-voie-lactee-etoiles-ne-devraient-pas-y-former-mais-alors-136165/",
+  "auteur": "Laurent Sacco, Journaliste scientifique",
+  "resume": "Les premiers rudiments de la théorie de la formation des étoiles remontent à ceux de la théorie de la formation du Système solaire, il y a plus de 200 ans, dans les écrits de Kant et Laplace. Mais, au XXe siècle, les astrophysiciens ont découvert des barrières à la formation des […]",
+  "pub": "2026-07-17",
+  "ts": 1784297233.0,
+  "vu": "2026-07-18"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "China imposes new consumption tax on PV cells, batteries amid industry consolidation push",
+  "lien": "https://www.pv-magazine.com/2026/07/17/china-imposes-new-consumption-tax-on-pv-cells-batteries-amid-industry-consolidation-push/",
+  "auteur": "Emiliano Bellini",
+  "resume": "Combined with stricter energy efficiency standards, the new measure signal Beijing’s push to reduce overcapacity, promote advanced technologies, and favor more competitive, higher-efficiency producers across the solar value chain.",
+  "pub": "2026-07-17",
+  "ts": 1784295159.0,
+  "vu": "2026-07-18"
+ },
+ {
+  "source": "Energy-Storage.news",
+  "titre": "California batteries missing out on revenue due to suboptimal bidding strategies, Gridmatic analysis finds",
+  "lien": "https://www.energy-storage.news/california-batteries-missing-out-on-revenue-due-to-suboptimal-bidding-strategies-gridmatic-analysis-finds/",
+  "auteur": "April Bonner",
+  "resume": "Battery energy storage systems (BESS) operating in California's grid left approximately US$98 million on the table due to suboptimal bidding strategies, according to a new analysis from Gridmatic.",
+  "pub": "2026-07-17",
+  "ts": 1784292837.0,
+  "vu": "2026-07-18"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "Realme 16 Pro+ : c'est le moment de craquer pour ce smartphone 5G avant la fin des soldes",
+  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-smartphones-realme-16-pro-cest-moment-craquer-ce-smartphone-5g-avant-fin-soldes-10771/",
+  "auteur": "Mohamed El Alami, Rédacteur Web",
+  "resume": "Le realme 16 Pro+ 5G profite d'une promotion pour la dernière ligne droite des soldes d'été. Écran AMOLED 144 Hz, capteur photo de 200 MP, batterie longue durée et charge rapide : un smartphone complet à saisir avant la fin de l'opération.",
+  "pub": "2026-07-17",
+  "ts": 1784289600.0,
+  "vu": "2026-07-18"
+ },
+ {
+  "source": "Enerplan",
+  "titre": "Coup de pouce SSC et chauffe-eau solaire à appoint décarboné",
+  "lien": "https://www.enerplan.asso.fr/coup-de-pouce-ssc-et-chauffe-eau-solaire-a-appoint-decarbone/",
+  "auteur": "Mickaël Marie",
+  "resume": "",
+  "pub": "2026-07-17",
+  "ts": 1784281867.0,
+  "vu": "2026-07-17"
+ },
+ {
+  "source": "Enerplan",
+  "titre": "Projet arrêté TVA 5,5% photovoltaïque : nouvelles exigences – vos retours",
+  "lien": "https://www.enerplan.asso.fr/projet-arrete-tva-55-photovoltaique-nouvelles-exigences-vos-retours/",
+  "auteur": "Mickaël Marie",
+  "resume": "",
+  "pub": "2026-07-17",
+  "ts": 1784278856.0,
+  "vu": "2026-07-18"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "[En images] Une centrale agrivoltaïque de 2 MWc au-dessus des vignes",
+  "lien": "https://www.pv-magazine.fr/2026/07/17/en-images-une-centre-agrivoltaique-de-2-mwc-au-dessus-des-vignes/",
+  "auteur": "Francois Puthod",
+  "resume": "À Servian (34), Sun’Agri et la SCEA du Roure de Beaujeu ont inauguré, début juillet, une installation agrivoltaïque sur le domaine viticole Saint-Michel, protègeant les vignes du stress hydrique et des brûlures.",
+  "pub": "2026-07-17",
+  "ts": 1784278800.0,
+  "vu": "2026-07-18"
+ },
+ {
   "source": "pv magazine France",
   "titre": "Le Quebec publie sa feuille de route énergétique",
   "lien": "https://www.pv-magazine.fr/2026/07/17/le-quebec-publie-sa-feuille-de-route-energetique/",
@@ -97,16 +207,6 @@
   "resume": "La surproduction incontrôlée d’électricité solaire en Europe en milieu de journée, prioritaire sur les réseaux, fait s’effondrer les prix de l’électricité sur le marché de gros et a des conséquences désastreuses techniques comme économiques. Et en fin de journée quand […]",
   "pub": "2026-07-17",
   "ts": 1784247524.0,
-  "vu": "2026-07-17"
- },
- {
-  "source": "Enerplan",
-  "titre": "Coup de pouce SSC et chauffe-eau solaire à appoint décarboné",
-  "lien": "https://www.enerplan.asso.fr/coup-de-pouce-ssc-et-chauffe-eau-solaire-a-appoint-decarbone/",
-  "auteur": "Mickaël Marie",
-  "resume": "",
-  "pub": "2026-07-16",
-  "ts": 1784231467.0,
   "vu": "2026-07-17"
  },
  {
@@ -1118,325 +1218,5 @@
   "pub": "2026-07-08",
   "ts": 1783472271.0,
   "vu": "2026-07-08"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Les futurs appels d’offres rassurent la filière éolienne, inquiètent celle du solaire",
-  "lien": "https://www.greenunivers.com/2026/07/les-futurs-appels-doffres-rassurent-la-filiere-eolienne-inquietent-celle-du-solaire-428897/",
-  "auteur": "Paul Messad",
-  "resume": "La ministre de l’Energie sort du bois. A l’occasion de l’Assemblée générale (AG) du Syndicat des énergies renouvelables (Ser), Maud Bregeon en a dit un peu plus sur les prochains appels d’offres. Sur l’éolien, la ministre a annoncé L’article Les futurs appels d’offres rassurent […]",
-  "pub": "2026-07-07",
-  "ts": 1783440347.0,
-  "vu": "2026-07-08"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Quels sont les moteurs de la consommation mondiale d’électricité ?",
-  "lien": "https://www.greenunivers.com/2026/07/quels-sont-les-moteurs-de-la-consommation-mondiale-delectricite-428867/",
-  "auteur": "GreenUnivers",
-  "resume": "[Compte-rendu] L’électrification des usages, l’essor de l’intelligence artificielle et des data centers, la montée en puissance du solaire et les nouveaux besoins industriels transforment profondément les équilibres offre/demande, a expliqué Alexis Gazzo, global leader, climate […]",
-  "pub": "2026-07-07",
-  "ts": 1783439236.0,
-  "vu": "2026-07-08"
- },
- {
-  "source": "pv magazine",
-  "titre": "Octopus Energy launches plug-in home batteries",
-  "lien": "https://www.pv-magazine.com/2026/07/07/octopus-energy-launches-plug-in-home-battery/",
-  "auteur": "Emiliano Bellini",
-  "resume": "Octopus Energy has unveiled a 2 kWh plug-in home battery and a 5 kWh wall-mounted system, with launches planned across five European markets from 2027, including Italy.",
-  "pub": "2026-07-07",
-  "ts": 1783433251.0,
-  "vu": "2026-07-08"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Reden met le solaire au service des cultures bio",
-  "lien": "https://www.pv-magazine.fr/2026/07/07/reden-met-le-solaire-au-service-des-cultures-bio/",
-  "auteur": "Francois Puthod",
-  "resume": "Le producteur d’énergie renouvelable Reden a procédé à la mise en service de deux nouvelles serres agrivoltaïques, l’une en Charente-Maritime, l’autre dans le Var.",
-  "pub": "2026-07-07",
-  "ts": 1783432800.0,
-  "vu": "2026-07-08"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "AO solaire sur bâtiment, 12e session : un raz-de-marée de petits projets",
-  "lien": "https://www.greenunivers.com/2026/07/ao-solaire-sur-batiment-12e-session-un-raz-de-maree-de-petits-projets-428819/",
-  "auteur": "Paul Messad",
-  "resume": "Les résultats de la 12e période de l’appel d’offres « PPE 2 » sur le solaire sur toitures de plus de 500 kWc, lancée en avril dernier, viennent de tomber. Comme attendu dans la filière, la session a été sursouscrite, avec plus de L’article AO solaire sur bâtiment, 12e session  […]",
-  "pub": "2026-07-07",
-  "ts": 1783432693.0,
-  "vu": "2026-07-08"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Un astéroïde que l’on surveille de près cache une surprise : une sonde qui vient de le survoler révèle des images inédites",
-  "lien": "https://www.futura-sciences.com/sciences/actualites/asteroide-asteroide-on-surveille-pres-cache-surprise-sonde-vient-survoler-revele-images-inedites-135989/",
-  "auteur": "Laurent Sacco, Journaliste scientifique",
-  "resume": "La célèbre sonde japonaise Hayabusa 2 continue son périple dans le Système solaire à la recherche de nouvelles connaissances sur les astéroïdes géocroiseur dont certains pourraient entrer en collision avec la Terre. Elle vient de livrer des images inédites d'un de ces […]",
-  "pub": "2026-07-07",
-  "ts": 1783429380.0,
-  "vu": "2026-07-08"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Biwatt lance un système de stockage résidentiel modulaire sodium-ion",
-  "lien": "https://www.pv-magazine.fr/2026/07/07/biwatt-lance-un-systeme-de-stockage-residentiel-modulaire-sodium-ion/",
-  "auteur": "Francois Puthod",
-  "resume": "La nouvelle série PowerNest R5 présente une architecture sans fil et empilable utilisant la technologie sodium-ion NFPP. Elle est disponible sous forme de batterie seule ou de système tout-en-un avec onduleur hybride monophasé intégré.",
-  "pub": "2026-07-07",
-  "ts": 1783429200.0,
-  "vu": "2026-07-08"
- },
- {
-  "source": "Enerzine",
-  "titre": "Éclipse solaire du 12 août 2026 : un événement céleste d’exception à ne pas manquer",
-  "lien": "https://www.enerzine.com/eclipse-solaire-du-12-aout-2026-un-evenement-celeste-dexception-a-ne-pas-manquer/190310-2026-07",
-  "auteur": "La rédaction",
-  "resume": "Le 12 août 2026, une éclipse solaire totale traversera l’Europe pour la première fois depuis 1999. Si la bande de totalité concernera principalement le Groenland, l’Islande et l’Espagne, la France métropolitaine vivra une éclipse partielle d’une rare intensité, avec jusqu’à 99,5 […]",
-  "pub": "2026-07-07",
-  "ts": 1783428600.0,
-  "vu": "2026-07-08"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "L’Allemagne lance les inscriptions aux appels d’offres pour 9 GW de capacités de longue durée",
-  "lien": "https://www.greenunivers.com/2026/07/lallemagne-lance-les-inscriptions-aux-appels-doffres-pour-9-gw-de-capacites-de-longue-duree-428671/",
-  "auteur": "Natasha Laporte",
-  "resume": "Entre la sortie du charbon et la montée des énergies renouvelables, le marché de l’électricité allemand traverse un rééquilibrage structurel. Pour lui donner un cadre financier et réglementaire garantissant la sécurité de l’approvisionnement électrique en 2031, le projet de loi […]",
-  "pub": "2026-07-07",
-  "ts": 1783427093.0,
-  "vu": "2026-07-08"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "Photosol met en service à Creil la deuxième plus puissante centrale solaire de France",
-  "lien": "https://www.lechodusolaire.fr/photosol-met-en-service-a-creil-la-deuxieme-plus-puissante-centrale-solaire-de-france/",
-  "auteur": "F. Fassot",
-  "resume": "Rubis Photosol a annoncé la mise en service totale de la centrale photovoltaïque de Creil (Oise), désormais la deuxième plus puissante installation solaire de France avec 202 MWc de puissance installée. Déployée sur l’ancienne base aérienne 110 du ministère des Armées, dans les […]",
-  "pub": "2026-07-07",
-  "ts": 1783422419.0,
-  "vu": "2026-07-08"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "Autoconsommation collective : le décret de répartition corrigé, la bascule avancée d’un an",
-  "lien": "https://www.lechodusolaire.fr/autoconsommation-collective-le-decret-de-repartition-corrige-la-bascule-avancee-dun-an/",
-  "auteur": "F. Fassot",
-  "resume": "Publié au Journal officiel du 30 juin 2026, le décret qui encadre la répartition de l’énergie au sein des opérations d’autoconsommation collective (ACC) a fait l’objet d’un rectificatif dès le 5 juillet. Deux dates y ont été corrigées, avançant d’un an, au 1er juillet 2026, la […]",
-  "pub": "2026-07-07",
-  "ts": 1783422399.0,
-  "vu": "2026-07-08"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "Ombrières de parkings : la première échéance de la loi APER dépassée, la conformité reste très faible",
-  "lien": "https://www.lechodusolaire.fr/ombrieres-de-parkings-la-premiere-echeance-de-la-loi-aper-depassee-la-conformite-reste-tres-faible/",
-  "auteur": "F. Fassot",
-  "resume": "L’échéance du 1er juillet 2026 est passée, mais la solarisation des grands parkings est loin d’être au rendez-vous. Depuis cette date, la loi d’accélération de la production d’énergies renouvelables (APER) impose aux parcs de stationnement de plus de 10 000 m² d’être couverts […]",
-  "pub": "2026-07-07",
-  "ts": 1783422384.0,
-  "vu": "2026-07-08"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "Stockage par batteries : la filière française se dote de sa première association professionnelle",
-  "lien": "https://www.lechodusolaire.fr/stockage-par-batteries-la-filiere-francaise-se-dote-de-sa-premiere-association-professionnelle/",
-  "auteur": "F. Fassot",
-  "resume": "Les principaux développeurs et exploitants de stockage stationnaire par batteries en France annoncent la création de Stockage Energie France, première organisation professionnelle entièrement dédiée à cette filière. Lancée à l’initiative de Corsica Sole et d’Eclipse […]",
-  "pub": "2026-07-07",
-  "ts": 1783422366.0,
-  "vu": "2026-07-08"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "Boralex boucle un financement de 1,45 milliard d’euros couvrant l’ensemble de ses activités en France",
-  "lien": "https://www.lechodusolaire.fr/boralex-boucle-un-financement-de-145-milliard-deuros-couvrant-lensemble-de-ses-activites-en-france/",
-  "auteur": "F. Fassot",
-  "resume": "Boralex et Energy Infrastructure Partners (EIP), coactionnaires à 70% et 30% des activités françaises du producteur canadien d’énergie renouvelable, annoncent la clôture d’un financement de 1,45 milliard d’euros couvrant l’ensemble du portefeuille d’actifs et de projets en […]",
-  "pub": "2026-07-07",
-  "ts": 1783422322.0,
-  "vu": "2026-07-08"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "Le Suisse Galileo fait avancer 630 MW de projets solaires, éoliens et de stockage en France",
-  "lien": "https://www.lechodusolaire.fr/le-suisse-galileo-fait-avancer-630-mw-de-projets-solaires-eoliens-et-de-stockage-en-france/",
-  "auteur": "F. Fassot",
-  "resume": "Le développeur paneuropéen Galileo accélère en France : sa filiale Galileo Energies Nouvelles, établie à Carhaix (Finistère), fait progresser un portefeuille actif de plus de 630 MW combinant 241 MWc de solaire photovoltaïque, 270 MW d’éolien terrestre et 120 MW de stockage par […]",
-  "pub": "2026-07-07",
-  "ts": 1783422305.0,
-  "vu": "2026-07-08"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "Les renouvelables ont évité 480 milliards de dollars de dépenses en combustibles fossiles en 2025",
-  "lien": "https://www.lechodusolaire.fr/les-renouvelables-ont-evite-480-milliards-de-dollars-de-depenses-en-combustibles-fossiles-en-2025/",
-  "auteur": "F. Fassot",
-  "resume": "L’Agence internationale pour les énergies renouvelables (IRENA) a publié le 2 juillet son rapport annuel sur les coûts de production des énergies renouvelables. Selon ce document, plus de 90% des capacités renouvelables à l’échelle industrielle ajoutées en 2025 étaient moins […]",
-  "pub": "2026-07-07",
-  "ts": 1783422277.0,
-  "vu": "2026-07-08"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "Amarenco lance la construction de la batterie Osmo, 100 MW dans le bassin de Lacq",
-  "lien": "https://www.lechodusolaire.fr/amarenco-lance-la-construction-de-la-batterie-osmo-100-mw-dans-le-bassin-de-lacq/",
-  "auteur": "F. Fassot",
-  "resume": "Amarenco lance la construction d’Osmo, un système de stockage d’énergie par batteries lithium-ion de 100 MW et deux heures de capacité, implanté entre Os-Marsillon et Mourenx (Pyrénées-Atlantiques), au cœur du bassin industriel de Lacq. Après Claudia en 2024, le producteur […]",
-  "pub": "2026-07-07",
-  "ts": 1783422265.0,
-  "vu": "2026-07-08"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "Injection photovoltaïque record au premier semestre en Allemagne et dans l’Union européenne",
-  "lien": "https://www.lechodusolaire.fr/injection-photovoltaique-record-au-premier-semestre-en-allemagne-et-dans-lunion-europeenne/",
-  "auteur": "F. Fassot",
-  "resume": "Selon le bilan semestriel du Fraunhofer ISE, établi à partir de la plateforme energy-charts.info, les énergies renouvelables ont assuré 61,8% de la production électrique nette publique de l’Allemagne au premier semestre 2026. L’injection photovoltaïque sur le réseau a atteint un […]",
-  "pub": "2026-07-07",
-  "ts": 1783422233.0,
-  "vu": "2026-07-08"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Biométhane : la filière s'inquiète de l'évolution des soutiens",
-  "lien": "https://www.actu-environnement.com/ae/news/biomethane-soutiens-tarif-achat-decret-48271.php4",
-  "auteur": "",
-  "resume": "Après une réunion du groupe national d'échanges sur le biogaz, le 25 juin, France Gaz, France Gaz renouvelables, le Syndicat des énergies renouvelables (SER) et l'Association des agriculteurs méthaniseurs (AAMF) s'inquiètent des évolutions de sout...",
-  "pub": "2026-07-07",
-  "ts": 1783420056.0,
-  "vu": "2026-07-08"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Réseaux de chaleur et de froid : les critères d'efficacité sont en consultation",
-  "lien": "https://www.actu-environnement.com/ae/news/decret-reseaux-chaleur-froid-efficacite-48268.php4",
-  "auteur": "",
-  "resume": "Un projet d'arrêté sur les réseaux de chaleur et de froid efficaces est en consultation jusqu'au 31 juillet. Il précise ce qu'est un réseau efficace et prévoit, à compter du 1er janvier 2026, d'y adosser le classement automatique des réseaux. L'e...",
-  "pub": "2026-07-07",
-  "ts": 1783419560.0,
-  "vu": "2026-07-08"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Un vélo électrique pliable à -33 % ? Les soldes battent leur plein chez Cdiscount",
-  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-velos-trottinettes-velo-electrique-pliable-33-soldes-battent-leur-plein-chez-cdiscount-10640/",
-  "auteur": "Mohamed El Alami, Rédacteur Web",
-  "resume": "Les soldes d'été réservent aussi de belles surprises aux amateurs de mobilité. Chez Cdiscount, le vélo électrique pliable Colorway BK5S profite d'une belle baisse de prix. Doté d'une batterie de 36 V et 12 Ah offrant jusqu'à 90 km d'autonomie selon les conditions d'utilisation […]",
-  "pub": "2026-07-07",
-  "ts": 1783418400.0,
-  "vu": "2026-07-08"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Galileo présente 5 nouveaux projets agrivoltaïques en Lot-et-Garonne",
-  "lien": "https://www.pv-magazine.fr/2026/07/07/galileo-presente-5-nouveaux-projets-agrivoltaiques-en-lot-et-garonne/",
-  "auteur": "Marie Beyer",
-  "resume": "D'une puissance cumulée de 69 MW, le portefeuille en développement comprend cinq projets photovoltaïques couplés à de l'élevage bovin. Les demandes d'autorisation seront déposées à la fin de l'été, avec un passage devant la CDPENAF d'ici la fin de l'année.",
-  "pub": "2026-07-07",
-  "ts": 1783416600.0,
-  "vu": "2026-07-07"
- },
- {
-  "source": "pv magazine",
-  "titre": "Enphase targets 800 V DC data centers with distributed solid-state transformers",
-  "lien": "https://www.pv-magazine.com/2026/07/07/enphase-targets-800-v-dc-data-centers-with-distributed-solid-state-transformers/",
-  "auteur": "Blathnaid O'Dea",
-  "resume": "Enphase Energy representative Andy Newbold told pv magazine the company sees its distributed solid-state transformer model supporting utility-scale solar, batteries, and high-power EV charging eventually. The initial focus, however, will be on data centers.",
-  "pub": "2026-07-07",
-  "ts": 1783414194.0,
-  "vu": "2026-07-07"
- },
- {
-  "source": "CLER",
-  "titre": "Énergies renouvelables : en finir avec trois idées reçues",
-  "lien": "https://cler.org/energies-renouvelables-en-finir-avec-trois-idees-recues/",
-  "auteur": "Julien Ferdinand",
-  "resume": "Pas fiables, trop chères, néfastes pour le paysage… Les énergies renouvelables sont l’objet d’idées reçues fermement ancrées dans certains esprits. Voici des clés pour démêler le vrai du faux. L’article Énergies renouvelables : en finir avec trois idées reçues est apparu en […]",
-  "pub": "2026-07-07",
-  "ts": 1783411254.0,
-  "vu": "2026-07-07"
- },
- {
-  "source": "pv magazine France",
-  "titre": "[EnerGaïa 2026] La 20e édition du rendez-vous de référence des EnR pour bâtir ensemble le nouveau système énergétique",
-  "lien": "https://www.pv-magazine.fr/2026/07/07/energaia-2026-la-20e-edition-du-rendez-vous-de-reference-des-enr-pour-batir-ensemble-le-nouveau-systeme-energetique/",
-  "auteur": "Francois Puthod",
-  "resume": "Après une 19e édition marquée par une fréquentation record et une mobilisation de l’ensemble de la filière des énergies renouvelables, le Forum EnerGaïa donne rendez-vous aux professionnels les 9 et 10 décembre 2026 au Parc des Expositions de Montpellier.",
-  "pub": "2026-07-07",
-  "ts": 1783411200.0,
-  "vu": "2026-07-07"
- },
- {
-  "source": "Enerplan",
-  "titre": "Etats Généraux de la Chaleur Solaire 2026 : les replays",
-  "lien": "https://www.enerplan.asso.fr/etats-generaux-de-la-chaleur-solaire-2026-les-replays/",
-  "auteur": "Marlène CHALVIN",
-  "resume": "",
-  "pub": "2026-07-07",
-  "ts": 1783410716.0,
-  "vu": "2026-07-07"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Transition énergétique : les métaux critiques, angle mort de la décarbonation",
-  "lien": "https://lenergeek.com/2026/07/07/transition-energetique-les-metaux-critiques-angle-mort-de-la-decarbonation/",
-  "auteur": "La Rédaction",
-  "resume": "On parle volontiers d’électrification, de batteries et d’éoliennes. Beaucoup moins des matières premières sans lesquelles rien de tout cela n’existerait. Or c’est là que se joue une part décisive de ... L’article Transition énergétique : les métaux critiques, angle mort de la […]",
-  "pub": "2026-07-07",
-  "ts": 1783407300.0,
-  "vu": "2026-07-07"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Le marché européen du photovoltaïque B2C manque d’acteurs dominants",
-  "lien": "https://www.pv-magazine.fr/2026/07/07/le-marche-europeen-du-photovoltaique-b2c-en-manque-dacteurs-dominants/",
-  "auteur": "Francois Puthod",
-  "resume": "En analysant le marché européen des systèmes photovoltaïques destinés aux consommateurs finaux, le Centre berlinois pour la transformation durable contrevient à la supposée domination des grands acteurs sur le marché.",
-  "pub": "2026-07-07",
-  "ts": 1783405800.0,
-  "vu": "2026-07-07"
- },
- {
-  "source": "Révolution Énergétique",
-  "titre": "Hydroélectricité : EDF compte sur la Dordogne pour augmenter ses capacités de stockage",
-  "lien": "https://www.revolution-energetique.com/actus/hydroelectricite-edf-compte-sur-la-dordogne-pour-augmenter-ses-capacites-de-stockage/",
-  "auteur": "Kevin CHAMPEAU",
-  "resume": "La Dordogne et ses vallées encaissées pourraient bien constituer le nouvel eldorado d’EDF. L’électricien français rêve d’y installer de nouvelles STEP pour stocker de l’énergie. […] L’article Hydroélectricité : EDF compte sur la Dordogne pour augmenter ses capacités de stockage […]",
-  "pub": "2026-07-07",
-  "ts": 1783403860.0,
-  "vu": "2026-07-07"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "L’Italie veut copier la Suisse et ses trains solaires : le pilote sera lancé dans quelques mois",
-  "lien": "https://lenergeek.com/2026/07/07/litalie-veut-copier-la-suisse-et-ses-trains-solaires-le-pilote-sera-lance-dans-quelques-mois/",
-  "auteur": "Gabin Laurent",
-  "resume": "Imaginez des trains alimentés par l'énergie solaire directement depuis les rails ! L’article L’Italie veut copier la Suisse et ses trains solaires : le pilote sera lancé dans quelques mois est apparu en premier sur L'EnerGeek .",
-  "pub": "2026-07-07",
-  "ts": 1783403400.0,
-  "vu": "2026-07-07"
- },
- {
-  "source": "Enerzine",
-  "titre": "A Vouneuil-sous-Biard, une ancienne décharge devient centrale solaire",
-  "lien": "https://www.enerzine.com/a-vouneuil-sous-biard-une-ancienne-decharge-devient-centrale-solaire/189860-2026-07",
-  "auteur": "La rédaction",
-  "resume": "Le 1er juillet, le Groupe Sorégies et Grand Poitiers ont inauguré la centrale photovoltaïque de Vouneuil-sous-Biard, dans la Vienne. Troisième installation du partenariat Grand Poitiers Photovoltaïque, elle reconvertit une ancienne décharge en site de production d’électricité […]",
-  "pub": "2026-07-07",
-  "ts": 1783390200.0,
-  "vu": "2026-07-07"
- },
- {
-  "source": "Transitions & Énergies",
-  "titre": "Les investissements dans les énergies bas carbone dépassent ceux dans les combustibles fossiles depuis dix ans",
-  "lien": "https://www.transitionsenergies.com/investissements-energies-bas-carbone-depassent-ceux-combustibles-fossiles-dix-ans/",
-  "auteur": "La rédaction",
-  "resume": "Cela fait maintenant dix ans que les investissements dans le monde dans les sources d’énergies bas carbone, renouvelables et nucléaire, dépassent ceux dans les combustibles fossiles, pétrole, gaz et charbon. Il s’agit clairement d’une tendance de fond renforcée par la succession […]",
-  "pub": "2026-07-07",
-  "ts": 1783389094.0,
-  "vu": "2026-07-07"
  }
 ]
