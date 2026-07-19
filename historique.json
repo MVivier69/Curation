@@ -1,6 +1,76 @@
 [
  {
   "source": "Révolution Énergétique",
+  "titre": "Cette carte interactive de la France dévoile les régions qui ne peuvent plus accueillir d’ENR",
+  "lien": "https://www.revolution-energetique.com/actus/cette-carte-interactive-de-la-france-devoile-les-regions-qui-ne-peuvent-plus-accueillir-denr/",
+  "auteur": "Hector PIETRANI",
+  "resume": "Le solaire et l’éolien ne pourront plus se développer n’importe où, la faute à un réseau de distribution saturé. Enedis et RTE publient une nouvelle […] L’article Cette carte interactive de la France dévoile les régions qui ne peuvent plus accueillir d’ENR est apparu en premier […]",
+  "pub": "2026-07-19",
+  "ts": 1784444786.0,
+  "vu": "2026-07-19"
+ },
+ {
+  "source": "Enerplan",
+  "titre": "Monsieur le Premier Ministre, l’incertitude coûte. Le solaire français a besoin de vous.",
+  "lien": "https://www.enerplan.asso.fr/monsieur-le-premier-ministre-lincertitude-coute-le-solaire-francais-a-besoin-de-vous/",
+  "auteur": "Mickaël Marie",
+  "resume": "",
+  "pub": "2026-07-19",
+  "ts": 1784439043.0,
+  "vu": "2026-07-19"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "L’EPR de Flamanville s’arrête encore après à peine quelques mois : ce serait des contrôles",
+  "lien": "https://lenergeek.com/2026/07/19/lepr-de-flamanville-sarrete-encore-apres-a-peine-quelques-mois-ce-serait-des-controles/",
+  "auteur": "Gabin Laurent",
+  "resume": "Nouvel arrêt pour l'EPR de Flamanville, encore. Pompes primaires sous surveillance, redémarrage promis mais jamais tenu jusqu'ici. Et une visite de 350 jours pointe déjà à l'horizon de septembre. L’article L’EPR de Flamanville s’arrête encore après à peine quelques mois : ce […]",
+  "pub": "2026-07-19",
+  "ts": 1784438400.0,
+  "vu": "2026-07-19"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Le fer comme complément à l’hydrogène en tant que vecteur énergétique",
+  "lien": "https://www.enerzine.com/le-fer-comme-complement-a-lhydrogene-en-tant-que-vecteur-energetique/190813-2026-07",
+  "auteur": "La rédaction",
+  "resume": "Qu’il s’agisse d’énergie éolienne des régions côtières ou d’énergie solaire des zones désertiques, le fer pourrait servir à l’avenir de vecteur énergétique transportable pour rendre ces sources d’énergie renouvelables exploitables dans le monde entier. « Ce fonctionnement […]",
+  "pub": "2026-07-18",
+  "ts": 1784412600.0,
+  "vu": "2026-07-19"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Éclipse du 12 août 2026 : comment la France gérera la chute brutale de sa production solaire",
+  "lien": "https://lenergeek.com/2026/07/18/eclipse-12-aout-chute-production-solaire/",
+  "auteur": "La Rédaction",
+  "resume": "Le 12 août 2026, l'éclipse solaire occultera jusqu'à 99,7% du Soleil sur la façade atlantique française. Pour RTE et les opérateurs électriques, le défi sera de compenser la chute brutale de production photovoltaïque entre 19h20 et 21h13, en pleine pointe du soir. Ce test […]",
+  "pub": "2026-07-18",
+  "ts": 1784383800.0,
+  "vu": "2026-07-19"
+ },
+ {
+  "source": "CleanTechnica",
+  "titre": "Philippines Energy Company Junk Coal Plant & Break Ground on Latest BESS",
+  "lien": "https://cleantechnica.com/2026/07/18/philippines-energy-company-junk-coal-plant-break-ground-on-latest-bess/",
+  "auteur": "Raymond Tribdino",
+  "resume": "Coal is dying a slow death in the central Philippines, and giant batteries are moving into the neighborhood to take its place. The Visayas power grid has suffered from chronic reliability issues for years, leaving the province of Cebu vulnerable to rolling blackouts during peak […]",
+  "pub": "2026-07-18",
+  "ts": 1784380294.0,
+  "vu": "2026-07-19"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "How to protect residential batteries from heat waves",
+  "lien": "https://www.pv-magazine.com/2026/07/18/how-to-protect-residential-batteries-from-heat-waves/",
+  "auteur": "Emiliano Bellini",
+  "resume": "An expert from Kiwa PI Berlin recommends installing batteries in thermally stable locations, ensuring proper ventilation, following manufacturer guidelines, and using certified equipment to reduce heat-related risks. During heatwaves, shifting daytime electricity consumption to […]",
+  "pub": "2026-07-18",
+  "ts": 1784365200.0,
+  "vu": "2026-07-19"
+ },
+ {
+  "source": "Révolution Énergétique",
   "titre": "En juin, un quart de l’électricité européenne provenait du soleil",
   "lien": "https://www.revolution-energetique.com/actus/en-juin-un-quart-de-lelectricite-europeenne-provenait-du-soleil/",
   "auteur": "Hector PIETRANI",
@@ -8,6 +78,16 @@
   "pub": "2026-07-18",
   "ts": 1784352749.0,
   "vu": "2026-07-18"
+ },
+ {
+  "source": "Transitions & Énergies",
+  "titre": "Blocage d’Ormuz : l’énergie solaire en ressortira gagnante à long terme, le charbon à court terme ?",
+  "lien": "https://www.transitionsenergies.com/blocage-dormuz-lenergie-solaire-en-ressortira-gagnante-a-long-terme-le-charbon-a-court-terme/",
+  "auteur": "La rédaction",
+  "resume": "La nature a horreur du vide. Le blocage du détroit d’Ormuz laisse le champ libre à deux sources d’énergie concurrentes du pétrole : le solaire et le charbon. En Europe, la chute du prix du premier laisse espérer une accélération de la décarbonation de l’économie. En Asie […]",
+  "pub": "2026-07-17",
+  "ts": 1784332368.0,
+  "vu": "2026-07-19"
  },
  {
   "source": "Enerzine",
@@ -50,6 +130,16 @@
   "vu": "2026-07-18"
  },
  {
+  "source": "Actu-Environnement",
+  "titre": "TVA réduite des pompes à chaleur air-air : l'arrêté est paru",
+  "lien": "https://www.actu-environnement.com/ae/news/tva-reduite-pompe-chaleur-air-air-arrete-48325.php4",
+  "auteur": "",
+  "resume": "L'arrêté, publié ce 17 juillet au Journal officiel, définit les conditions du taux réduit de taxe sur la valeur ajoutée (TVA) à 5,5 % pour l'acquisition d'une pompe à chaleur air-air réversible, répondant à des critères environnementaux et de dura...",
+  "pub": "2026-07-17",
+  "ts": 1784295710.0,
+  "vu": "2026-07-19"
+ },
+ {
   "source": "pv magazine",
   "titre": "China imposes new consumption tax on PV cells, batteries amid industry consolidation push",
   "lien": "https://www.pv-magazine.com/2026/07/17/china-imposes-new-consumption-tax-on-pv-cells-batteries-amid-industry-consolidation-push/",
@@ -70,6 +160,16 @@
   "vu": "2026-07-18"
  },
  {
+  "source": "GreenUnivers",
+  "titre": "TVA réduite, TRVE et fuites de carbone au menu du CSE",
+  "lien": "https://www.greenunivers.com/2026/07/tva-reduite-trve-et-fuites-de-carbone-au-menu-du-cse-429809/",
+  "auteur": "Jacopo Landi",
+  "resume": "Déjà bien fourni, l’ordre du jour du CSE du 23 juillet s’est encore lesté de nouveaux textes. Parmi eux figure notamment un projet d’arrêté L’article TVA réduite, TRVE et fuites de carbone au menu du CSE est apparu en premier sur GreenUnivers .",
+  "pub": "2026-07-17",
+  "ts": 1784290578.0,
+  "vu": "2026-07-19"
+ },
+ {
   "source": "Futura Sciences",
   "titre": "Realme 16 Pro+ : c'est le moment de craquer pour ce smartphone 5G avant la fin des soldes",
   "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-smartphones-realme-16-pro-cest-moment-craquer-ce-smartphone-5g-avant-fin-soldes-10771/",
@@ -88,6 +188,16 @@
   "pub": "2026-07-17",
   "ts": 1784281867.0,
   "vu": "2026-07-17"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Les documents de la semaine",
+  "lien": "https://www.greenunivers.com/2026/07/les-documents-de-la-semaine-381215/",
+  "auteur": "GreenUnivers",
+  "resume": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de […]",
+  "pub": "2026-07-17",
+  "ts": 1784281200.0,
+  "vu": "2026-07-05"
  },
  {
   "source": "Enerplan",
@@ -118,6 +228,16 @@
   "pub": "2026-07-17",
   "ts": 1784275200.0,
   "vu": "2026-07-17"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "L’agenda de la transition énergétique",
+  "lien": "https://www.greenunivers.com/2026/07/lagenda-de-la-transition-energetique-280-424554/",
+  "auteur": "GreenUnivers",
+  "resume": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique […]",
+  "pub": "2026-07-17",
+  "ts": 1784273400.0,
+  "vu": "2026-07-05"
  },
  {
   "source": "pv magazine",
@@ -211,6 +331,16 @@
  },
  {
   "source": "GreenUnivers",
+  "titre": "Les résultats des principaux producteurs d’énergie renouvelable en 2025",
+  "lien": "https://www.greenunivers.com/2026/07/les-resultats-des-principaux-producteurs-denergie-renouvelable-en-2025-428712/",
+  "auteur": "Jacopo Landi",
+  "resume": "Exclusif – GreenUnivers publie l’édition 2025 de sa synthèse des résultats financiers annuels des principaux producteurs d’énergies renouvelables – principalement de l’électricité -, français ou actifs en France. Les données ont été collectées L’article Les résultats des […]",
+  "pub": "2026-07-16",
+  "ts": 1784221070.0,
+  "vu": "2026-07-17"
+ },
+ {
+  "source": "GreenUnivers",
   "titre": "Lauréat du dernier AO solaire sur bâtiment, Diméo Énergie ouvre son capital",
   "lien": "https://www.greenunivers.com/2026/07/laureat-du-dernier-ao-solaire-batiment-dimeo-energie-ouvre-son-capital-429738/",
   "auteur": "Paul Messad",
@@ -267,16 +397,6 @@
   "resume": "Enedis et RTE ont publié, hier, une cartographie montrant que 10 % du territoire français est saturé et ne peut plus accueillir de nouvelles capacités de production d'énergies renouvelables en l’état.",
   "pub": "2026-07-16",
   "ts": 1784193300.0,
-  "vu": "2026-07-17"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Les résultats des principaux producteurs d’énergie renouvelable en 2025",
-  "lien": "https://www.greenunivers.com/2026/07/les-resultats-des-principaux-producteurs-denergie-renouvelable-en-2025-428712/",
-  "auteur": "Jacopo Landi",
-  "resume": "Exclusif – GreenUnivers publie l’édition 2025 de sa synthèse des résultats financiers annuels des principaux producteurs d’énergies renouvelables – principalement de l’électricité -, français ou actifs en France. Les données ont été collectées L’article Les résultats des […]",
-  "pub": "2026-07-16",
-  "ts": 1784192270.0,
   "vu": "2026-07-17"
  },
  {
@@ -740,16 +860,6 @@
   "vu": "2026-07-11"
  },
  {
-  "source": "GreenUnivers",
-  "titre": "Les documents de la semaine",
-  "lien": "https://www.greenunivers.com/2026/07/les-documents-de-la-semaine-381215/",
-  "auteur": "GreenUnivers",
-  "resume": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de […]",
-  "pub": "2026-07-10",
-  "ts": 1783694436.0,
-  "vu": "2026-07-05"
- },
- {
   "source": "pv magazine France",
   "titre": "Le site USIN Lyon Parilly lance deux nouvelles centrales solaires",
   "lien": "https://www.pv-magazine.fr/2026/07/10/le-site-usin-lyon-parilly-lance-deux-nouvelles-centrales-solaires/",
@@ -828,16 +938,6 @@
   "pub": "2026-07-10",
   "ts": 1783670400.0,
   "vu": "2026-07-10"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "L’agenda de la transition énergétique",
-  "lien": "https://www.greenunivers.com/2026/07/lagenda-de-la-transition-energetique-280-424554/",
-  "auteur": "GreenUnivers",
-  "resume": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique […]",
-  "pub": "2026-07-10",
-  "ts": 1783668600.0,
-  "vu": "2026-07-05"
  },
  {
   "source": "pv magazine France",
@@ -1098,125 +1198,5 @@
   "pub": "2026-07-09",
   "ts": 1783566600.0,
   "vu": "2026-07-09"
- },
- {
-  "source": "Transitions & Énergies",
-  "titre": "Batteries, solution miracle ou miroir aux alouettes ?",
-  "lien": "https://www.transitionsenergies.com/batteries-solution-miracle-miroir-aux-alouettes/",
-  "auteur": "La rédaction",
-  "resume": "Il ne faut pas être leurré par les annonces incessantes depuis des années de percées technologiques majeures dans les batteries. Elles n’ont aucune crédibilité. Cela dit, les batteries peuvent apporter une réelle solution au stockage à grande échelle de l’électricité, une des […]",
-  "pub": "2026-07-08",
-  "ts": 1783553108.0,
-  "vu": "2026-07-09"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Un effet de bord majeur lors de la 12e période de l’AO solaire sur bâtiment",
-  "lien": "https://www.greenunivers.com/2026/07/un-effet-de-bord-majeur-lors-de-la-12e-periode-de-lao-solaire-sur-batiment-429005/",
-  "auteur": "Paul Messad",
-  "resume": "Sur les 326 dossiers retenus dans le cadre de la 12e période de l’appel d’offres photovoltaïque sur bâtiment (AO PV Bâtiment), 81% font moins de 1 MWc et 33% moins de 0,55 MWc, traduisant un effet de bord* majeur lié à l’appel d’offres simplifié (AOS) dédié aux installations de […]",
-  "pub": "2026-07-08",
-  "ts": 1783518197.0,
-  "vu": "2026-07-09"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Space X lance le premier satellite à énergie nucléaire",
-  "lien": "https://lenergeek.com/2026/07/08/space-x-satellite-energie-nucleaire/",
-  "auteur": "Cédric Bonnefoy",
-  "resume": "Le 7 juillet 2026, SpaceX a lancé BOHR, premier satellite commercial équipé d'une batterie nucléaire au tritium. Cette technologie betavoltaïque offre une autonomie de 20 ans sans maintenance, ouvrant la voie à des missions spatiales indépendantes de l'énergie solaire. L’article […]",
-  "pub": "2026-07-08",
-  "ts": 1783513263.0,
-  "vu": "2026-07-09"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Leapmotor lance le B03X : nouveau front dans la guerre des batteries",
-  "lien": "https://lenergeek.com/2026/07/08/leapmotor-lance-b03x-nouveau-front-guerre-batteries/",
-  "auteur": "Nicolas Egon",
-  "resume": "Leapmotor lance le B03X en France à 23 400 euros, bouleversant le marché des SUV électriques. Au-delà du prix, ce modèle révèle la domination chinoise sur les batteries LFP et pose la question de l'indépendance énergétique européenne face à Pékin. L’article Leapmotor lance le […]",
-  "pub": "2026-07-08",
-  "ts": 1783501906.0,
-  "vu": "2026-07-09"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Valeco signe un PPA solaire de 15 ans et se prépare à monter en gamme",
-  "lien": "https://www.greenunivers.com/2026/07/valeco-signe-un-ppa-solaire-de-15-ans-et-se-prepare-a-monter-en-gamme-428857/",
-  "auteur": "Jacopo Landi",
-  "resume": "*Article modifié le 8/7/2026 suite à des précisions de Valeco Valeco conclut un PPA solaire de 15 ans avec Alterna Energie et Pomona, distributeur de produits alimentaires aux professionnels. Alterna Energie (groupe Sorégies) fait le lien, s’occupant de l’agrégation et du […]",
-  "pub": "2026-07-08",
-  "ts": 1783501652.0,
-  "vu": "2026-07-09"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Rgreen Invest atteint près de 500 millions d’euros pour Infrabridge IV",
-  "lien": "https://www.pv-magazine.fr/2026/07/08/rgreen-invest-atteint-pres-de-500-millions-deuros-pour-infrabridge-iv/",
-  "auteur": "Francois Puthod",
-  "resume": "Société de gestion indépendante spécialisée depuis 15 ans dans le financement de la transition énergétique, Rgreen Invest annonce le closing final d’Infrabridge IV, qui atteint sa taille cible de près d’un demi-milliard d’euros.",
-  "pub": "2026-07-08",
-  "ts": 1783501200.0,
-  "vu": "2026-07-09"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Une aciérie 100% solaire ? Le Niger va le faire !",
-  "lien": "https://lenergeek.com/2026/07/08/solaire-acierie-100-niger-va/",
-  "auteur": "La Rédaction",
-  "resume": "Le milliardaire indien Raj Gupta lance au Niger State (Nigeria) la construction d'une aciérie alimentée par une centrale solaire autonome de 200 MW, potentiellement la plus grande installation de ce type en Afrique subsaharienne. Un modèle d'intégration verticale […]",
-  "pub": "2026-07-08",
-  "ts": 1783500882.0,
-  "vu": "2026-07-09"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Avis de marchés publics dans le PV en France",
-  "lien": "https://www.pv-magazine.fr/2026/07/08/avis-de-marches-publics-dans-le-pv-en-france-128/",
-  "auteur": "Francois Puthod",
-  "resume": "Retrouvez chaque semaine dans pv magazine les appels d’offres publiés relatifs aux projets photovoltaïques en France.",
-  "pub": "2026-07-08",
-  "ts": 1783497600.0,
-  "vu": "2026-07-08"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Pourquoi les mairies couvrent les pelouses de panneaux solaires alors que des milliers de parkings restent inutilisés",
-  "lien": "https://lenergeek.com/2026/07/08/pourquoi-les-mairies-couvrent-les-pelouses-de-panneaux-solaires-alors-que-des-milliers-de-parkings-restent-inutilises/",
-  "auteur": "Gabin Laurent",
-  "resume": "Malgré une obligation légale, seuls 10 à 15 % des parkings sont équipés de panneaux solaires. L’article Pourquoi les mairies couvrent les pelouses de panneaux solaires alors que des milliers de parkings restent inutilisés est apparu en premier sur L'EnerGeek .",
-  "pub": "2026-07-08",
-  "ts": 1783488000.0,
-  "vu": "2026-07-08"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Un panneau solaire québécois triple la production aux heures de pointe",
-  "lien": "https://lenergeek.com/2026/07/08/un-panneau-solaire-quebecois-triple-la-production-aux-heures-de-pointe/",
-  "auteur": "La Rédaction",
-  "resume": "L'IPVF vient de valider une architecture photovoltaïque passive conçue à Québec par reflect10, qui multiplie par 2,66 la production solaire matinale et vespérale. Cette innovation d'optique géométrique, baptisée réflectricité, génère un gain moyen de 20 % sur la journée, sans […]",
-  "pub": "2026-07-08",
-  "ts": 1783482578.0,
-  "vu": "2026-07-08"
- },
- {
-  "source": "Enerzine",
-  "titre": "L’équipe de recherche de New Horizons étend les observations clés du matériau interstellaire ralentissant le vent solaire",
-  "lien": "https://www.enerzine.com/lequipe-de-recherche-de-new-horizons-etend-les-observations-cles-du-materiau-interstellaire-ralentissant-le-vent-solaire/189667-2026-07",
-  "auteur": "La rédaction",
-  "resume": "Une nouvelle étude du Southwest Research Institute (SwRI) basée sur les données de la sonde New Horizons de la NASA a révélé des informations fascinantes sur les raisons pour lesquelles le vent solaire ralentit progressivement en se dirigeant vers la limite du système solaire et […]",
-  "pub": "2026-07-08",
-  "ts": 1783480200.0,
-  "vu": "2026-07-08"
- },
- {
-  "source": "Transitions & Énergies",
-  "titre": "Prix négatifs de l’électricité: les renouvelables intermittents détruisent notre système électrique",
-  "lien": "https://www.transitionsenergies.com/prix-negatifs-electricite-renouvelables-detruisent-systeme-electrique/",
-  "auteur": "La rédaction",
-  "resume": "Voilà une réalité qui vient une fois encore démolir le faible argumentaire du gouvernement Lecornu et du lobby des renouvelables intermittents. La surproduction incontrôlée d’électricité solaire en milieu de journée en France et en Europe fait se multiplier les longues périodes […]",
-  "pub": "2026-07-08",
-  "ts": 1783472271.0,
-  "vu": "2026-07-08"
  }
 ]
