@@ -1,5 +1,35 @@
 [
  {
+  "source": "pv magazine France",
+  "titre": "BESS : 4,8 MWh de capacité de stockage pour AGC Glass Europe",
+  "lien": "https://www.pv-magazine.fr/2026/07/20/bess-48-mwh-de-capacite-de-stockage-pour-agc-glass-europe/",
+  "auteur": "Francois Puthod",
+  "resume": "Spécialiste du stockage d’énergie en BtoB, Storio Energy met en service une batterie sur le site d'AGC Glass Europe, à Seingbouse (Moselle), en collaboration avec le groupe énergétique E.ON.",
+  "pub": "2026-07-20",
+  "ts": 1784538000.0,
+  "vu": "2026-07-20"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Légère baisse des prix des plaquettes de silicium en Chine",
+  "lien": "https://www.pv-magazine.fr/2026/07/20/legere-baisse-des-prix-des-plaquettes-de-silicium-en-chine/",
+  "auteur": "Francois Puthod",
+  "resume": "Dans sa nouvelle mise à jour hebdomadaire pour pv magazine, OPIS, une société de Dow Jones, offre un aperçu rapide des principales tendances de prix dans l'industrie photovoltaïque mondiale.",
+  "pub": "2026-07-20",
+  "ts": 1784529000.0,
+  "vu": "2026-07-20"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "À Châtel, une toiture solaire en losange alimente le nouveau centre culturel",
+  "lien": "https://www.enerzine.com/a-chatel-une-toiture-solaire-en-losange-alimente-le-nouveau-centre-culturel/191274-2026-07",
+  "auteur": "La rédaction",
+  "resume": "Inauguré le 10 juillet 2026 à Châtel (Haute-Savoie), le Centre Culturel et Touristique conjugue architecture alpine et production d’énergie renouvelable. Sa toiture de 474 m², composée de tuiles photovoltaïques SunStyle, doit couvrir près de la moitié des besoins électriques […]",
+  "pub": "2026-07-20",
+  "ts": 1784528540.0,
+  "vu": "2026-07-20"
+ },
+ {
   "source": "Révolution Énergétique",
   "titre": "Cette carte interactive de la France dévoile les régions qui ne peuvent plus accueillir d’ENR",
   "lien": "https://www.revolution-energetique.com/actus/cette-carte-interactive-de-la-france-devoile-les-regions-qui-ne-peuvent-plus-accueillir-denr/",
@@ -1018,185 +1048,5 @@
   "pub": "2026-07-10",
   "ts": 1783641600.0,
   "vu": "2026-07-11"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "L'Honor Magic8 Lite à moins de 282 € avec coupon : IP69K, AMOLED 6,79 pouces et batterie 7500 mAh pour le milieu de gamme le mieux équipé du moment",
-  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-smartphones-honor-magic8-lite-moins-282-coupon-ip69k-amoled-679-pouces-batterie-7500-mah-milieu-gamme-mieux-equipe-moment-10682/",
-  "auteur": "Benoit Baylé, Rédacteur web",
-  "resume": "L'Honor Magic8 Lite continue de cocher des cases habituellement réservées au haut de gamme. Certification IP69K pour une résistance à l'eau et à la poussière à toute épreuve, écran AMOLED de 6,79 pouces, batterie monstrueuse de 7500 mAh, capteur principal de 108 mégapixels avec […]",
-  "pub": "2026-07-09",
-  "ts": 1783612805.0,
-  "vu": "2026-07-10"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Tenergie boucle aussi un plan social",
-  "lien": "https://www.greenunivers.com/2026/07/tenergie-boucle-aussi-un-plan-social-429186/",
-  "auteur": "Paul Messad",
-  "resume": "Exclusif – Lui aussi. Selon nos informations, Tenergie vient de conclure un plan de sauvegarde de l’emploi (PSE). Une cinquantaine de postes, sur les 300 environ du développeur-producteur d’énergies renouvelables basé à Meyreuil (Bouches-du-Rhône), sont supprimés. Le L’article […]",
-  "pub": "2026-07-09",
-  "ts": 1783611174.0,
-  "vu": "2026-07-10"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Voltalia teste l’intérêt des investisseurs pour Helexia",
-  "lien": "https://www.greenunivers.com/2026/07/voltalia-teste-linteret-des-investisseurs-pour-helexia-429169/",
-  "auteur": "Jean-Philippe Pié",
-  "resume": "Exclusif – Le spécialiste des toitures solaires et de l’efficacité énergétique Helexia est sur le marché, pour un premier test auprès d’éventuels investisseurs. Il est actuellement détenu par Voltalia, qui l’a intégré en 2019 par migration interne au sein de la holding Creadev […]",
-  "pub": "2026-07-09",
-  "ts": 1783609105.0,
-  "vu": "2026-07-10"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Batteries : Alpiq acquiert Harmony Energy",
-  "lien": "https://www.greenunivers.com/2026/07/batteries-alpiq-acquiert-harmony-energy-429164/",
-  "auteur": "Jacopo Landi",
-  "resume": "Après lui avoir acheté deux batteries de 100 MW chacune en France, Alpiq tourne une nouvelle page dans sa collaboration avec Harmony Energy en prenant L’article Batteries : Alpiq acquiert Harmony Energy est apparu en premier sur GreenUnivers .",
-  "pub": "2026-07-09",
-  "ts": 1783608200.0,
-  "vu": "2026-07-10"
- },
- {
-  "source": "pv magazine France",
-  "titre": "L’Italie sélectionne 566 projets PV en AC dans le cadre d’un dispositif d’incitation pour les entreprises du Sud",
-  "lien": "https://www.pv-magazine.fr/2026/07/09/litalie-selectionne-566-projets-pv-en-ac-dans-le-cadre-dun-dispositif-dincitation-pour-les-entreprises-du-sud/",
-  "auteur": "Francois Puthod",
-  "resume": "Plus de 200 millions d'euros de financements disponibles restent non alloués dans le cadre du programme de soutien de 262 millions d'euros destiné aux projets photovoltaïques visant à stimuler l'autoconsommation des entreprises du sud de l'Italie.",
-  "pub": "2026-07-09",
-  "ts": 1783607400.0,
-  "vu": "2026-07-10"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "EDF arrête Golfech : quand le seuil de 28°C paralyse le nucléaire",
-  "lien": "https://lenergeek.com/2026/07/09/edf-arrete-golfech-quand-seuil-28c-paralyse-nucleaire/",
-  "auteur": "Jehanne Duplaa",
-  "resume": "Le 9 juillet 2026, EDF a arrêté le réacteur n°2 de Golfech en anticipation du dépassement du seuil réglementaire de 28°C de la Garonne. Cet arrêt préventif, le deuxième en deux semaines, révèle les fragilités techniques du parc nucléaire français face au réchauffement climatique […]",
-  "pub": "2026-07-09",
-  "ts": 1783605707.0,
-  "vu": "2026-07-10"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Un nouveau dispositif photovoltaïque vertical pensé pour les toitures arrive en France",
-  "lien": "https://www.pv-magazine.fr/2026/07/09/un-nouveau-dispositif-photovoltaique-vertical-pense-pour-les-toitures-arrive-en-france/",
-  "auteur": "Marie Beyer",
-  "resume": "La société norvégienne Over Easy Solar a obtenu un ETN pour ses systèmes photovoltaïques verticaux pensée pour des applications en toiture plate. Un premier projet commercial a été mis en service dans les Alpes-Maritime sur le toit d'une résidence en bord de mer très visible.",
-  "pub": "2026-07-09",
-  "ts": 1783605600.0,
-  "vu": "2026-07-10"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "ENR : enseignements des derniers appels d'offres et perspectives",
-  "lien": "https://www.actu-environnement.com/ae/news/appels-offres-ppe2-solaire-eolien-resultats-48284.php4",
-  "auteur": "",
-  "resume": "Les deux derniers appels d'offres PPE2 sur le solaire et l'éolien terrestre ont été sursollicités, en raison notamment de l'incertitude sur l'évolution des soutiens. Un nouveau calendrier se dessine, avec une ouverture vers les projets hybrides.",
-  "pub": "2026-07-09",
-  "ts": 1783605374.0,
-  "vu": "2026-07-10"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Longi lance la production de 21 GW de cellules solaires à contact arrière métallisées au cuivre",
-  "lien": "https://www.pv-magazine.fr/2026/07/09/longi-lance-la-production-de-21-gw-de-cellules-solaires-a-contact-arriere-metallisees-au-cuivre/",
-  "auteur": "Francois Puthod",
-  "resume": "Le fabricant chinois entame la production de cellules à contact arrière d'une capacité de 21 GW, marquant le premier déploiement à grande échelle de sa technologie de métallisation sans argent.",
-  "pub": "2026-07-09",
-  "ts": 1783602000.0,
-  "vu": "2026-07-10"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Un parc photovoltaïque de 4,7 MW en développement près de Saintes",
-  "lien": "https://www.pv-magazine.fr/2026/07/09/un-parc-photovoltaique-de-47-mw-en-developpement-pres-de-saintes/",
-  "auteur": "Francois Puthod",
-  "resume": "Le leader de l’industrie solaire mondiale prévoit la mise en service, en 2027, d’une centrale solaire au sol, à Varzay (Charente-Martitime).",
-  "pub": "2026-07-09",
-  "ts": 1783598400.0,
-  "vu": "2026-07-10"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Le gouvernement veut renchérir le raccordement au réseau de gaz",
-  "lien": "https://www.greenunivers.com/2026/07/le-gouvernement-veut-rencherir-le-raccordement-au-reseau-de-gaz-429082/",
-  "auteur": "Jacopo Landi",
-  "resume": "Un projet de décret et un projet d’arrêté transmis au Conseil supérieur de l’énergie prévoient la suppression du plafonnement des L’article Le gouvernement veut renchérir le raccordement au réseau de gaz est apparu en premier sur GreenUnivers .",
-  "pub": "2026-07-09",
-  "ts": 1783591370.0,
-  "vu": "2026-07-09"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Soutien au biométhane, capacité, DPE et CEE au menu du CSE",
-  "lien": "https://www.greenunivers.com/2026/07/soutien-au-biomethane-capacite-dpe-et-cee-au-menu-du-cse-429089/",
-  "auteur": "Jacopo Landi",
-  "resume": "Le Conseil supérieur de l’énergie (CSE) se réunit le 23 juillet pour examiner une importante quantité de textes. Parmi eux figure un projet d’arrêté abaissant de 25 GWh à 13 GWh le seuil pour bénéficier d’un contrat d’obligation d’achat pour la production de biométhane. Cet […]",
-  "pub": "2026-07-09",
-  "ts": 1783591281.0,
-  "vu": "2026-07-09"
- },
- {
-  "source": "pv magazine",
-  "titre": "Spain launches national map of agrivoltaic projects",
-  "lien": "https://www.pv-magazine.com/2026/07/09/spain-launches-national-map-of-agrivoltaic-projects/",
-  "auteur": "Emiliano Bellini",
-  "resume": "The country’s first national map of agrivoltaic projects tracks operational and planned installations through a validated geolocation database. The initiative aims to improve transparency, support planning, and provide standardized data as Spain develops its regulatory framework […]",
-  "pub": "2026-07-09",
-  "ts": 1783589134.0,
-  "vu": "2026-07-09"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Retour sur la conférence Financement des Infras 2026 [Dossier]",
-  "lien": "https://www.greenunivers.com/2026/07/retour-sur-la-conference-financement-des-infras-2026-dossier-429017/",
-  "auteur": "Aurore Dehe",
-  "resume": "La valeur se déplace vers le service énergétique Attention, zone de fortes turbulences ! Le secteur des énergies renouvelables en France est à un tournant, marqué par la réduction du soutien public, une baisse des ambitions de l’Etat pour une partie des filières et une difficile […]",
-  "pub": "2026-07-09",
-  "ts": 1783580400.0,
-  "vu": "2026-07-09"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Appel d’offres solaires : coup de froid en pleine canicule",
-  "lien": "https://www.pv-magazine.fr/2026/07/09/appel-doffres-solaires-coup-de-froid-en-pleine-canicule/",
-  "auteur": "Marie Beyer",
-  "resume": "La rencontre du 17 juin entre la ministre déléguée à l’Énergie, Maud Brégeon, et le SER apporte des précisions sur les AO solaires, mais confirme un seul AO « neutre » en 2026 et une visibilité très incertaine pour 2027.",
-  "pub": "2026-07-09",
-  "ts": 1783578600.0,
-  "vu": "2026-07-09"
- },
- {
-  "source": "Enerzine",
-  "titre": "Commutation des états de spin des ions manganèse par la lumière",
-  "lien": "https://www.enerzine.com/commutation-des-etats-de-spin-des-ions-manganese-par-la-lumiere/189693-2026-07",
-  "auteur": "La rédaction",
-  "resume": "Des chercheurs de l’Université Johannes Gutenberg de Mayence (JGU) ont développé une nouvelle méthode pour utiliser des molécules comme minuscules dispositifs de stockage de données, grâce à un nouveau matériau à base de manganèse. Jusqu’à présent, cela n’était possible qu’avec […]",
-  "pub": "2026-07-09",
-  "ts": 1783575900.0,
-  "vu": "2026-07-09"
- },
- {
-  "source": "Enerzine",
-  "titre": "À Boeil-Bezing, le solaire couvre les terrains de tennis",
-  "lien": "https://www.enerzine.com/a-boeil-bezing-le-solaire-couvre-les-terrains-de-tennis/189715-2026-07",
-  "auteur": "La rédaction",
-  "resume": "La commune béarnaise de Boeil-Bezing a inauguré deux ombrières photovoltaïques d’une puissance totale de 380 kWc. Installées sur les courts de tennis et le parking de la salle des fêtes, elles produiront 418 MWh annuels, soit l’équivalent de la consommation électrique de 183 […]",
-  "pub": "2026-07-09",
-  "ts": 1783570200.0,
-  "vu": "2026-07-09"
- },
- {
-  "source": "Enerzine",
-  "titre": "Amarenco lance Osmo, une batterie de 100 MW dans le bassin de Lacq",
-  "lien": "https://www.enerzine.com/amarenco-lance-osmo-une-batterie-de-100-mw-dans-le-bassin-de-lacq/189718-2026-07",
-  "auteur": "La rédaction",
-  "resume": "Le groupe Amarenco a officiellement lancé le 29 juin la construction d’Osmo, une installation de stockage d’électricité par batteries de 100 MW, dans le bassin industriel de Lacq, entre Os-Marsillon et Mourenx, dans les Pyrénées-Atlantiques. Dotée d’une capacité de deux heures […]",
-  "pub": "2026-07-09",
-  "ts": 1783566600.0,
-  "vu": "2026-07-09"
  }
 ]
