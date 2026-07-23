@@ -1,6 +1,136 @@
 [
  {
   "source": "pv magazine France",
+  "titre": "[L’installation du jour] Une friche reconvertie en parc solaire bas carbone",
+  "lien": "https://www.pv-magazine.fr/2026/07/23/linstallation-du-jour-une-friche-reconvertie-en-parc-solaire-bas-carbone/",
+  "auteur": "Francois Puthod",
+  "resume": "À Allonnes (Sarthe), l’aménageur Cénovia et l’opérateur solaire SeeYouSun ont mené un projet emblématique : la reconversion d'une ancienne friche en centrale photovoltaïque, construite avec des matériaux à faible empreinte environnementale. Visite de chantier.",
+  "pub": "2026-07-23",
+  "ts": 1784793600.0,
+  "vu": "2026-07-23"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Une étude d’EDF montre que les installations agrivoltaïques surélevées offrent une meilleure protection des cultures",
+  "lien": "https://www.pv-magazine.fr/2026/07/23/une-etude-dedf-montre-que-les-installations-agrivoltaiques-surelevees-offrent-une-meilleure-protection-des-cultures/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "L'étude montre que les configurations photovoltaïques surélevées permettent de limiter les effets du gel blanc et du stress thermique, tandis que les configurations photovoltaïques verticales améliorent la protection contre le vent, soulignant l'importance de trouver un […]",
+  "pub": "2026-07-23",
+  "ts": 1784791800.0,
+  "vu": "2026-07-23"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "L’Allemagne lance son premier appel d’offres de capacité",
+  "lien": "https://www.pv-magazine.fr/2026/07/23/lallemagne-lance-son-premier-appel-doffres-de-capacite/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "L'Agence fédérale allemande des réseaux (Bundesnetzagentur) a lancé le premier appel d'offres de 4,5 GW dans le cadre de la nouvelle loi StromVKG, invitant les développeurs à soumissionner pour des capacités de production pilotables et de stockage d'énergie de longue durée […]",
+  "pub": "2026-07-23",
+  "ts": 1784788200.0,
+  "vu": "2026-07-23"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "La facture des énergies renouvelables va encore augmenter en 2027 mais pourquoi ?",
+  "lien": "https://lenergeek.com/2026/07/23/la-facture-des-energies-renouvelables-va-encore-augmenter-en-2027-mais-pourquoi/",
+  "auteur": "Gabin Laurent",
+  "resume": "14,2 milliards d'euros : c'est ce que coûteront les renouvelables en 2027. Photovoltaïque, éolien, Outre-mer... Qui paie vraiment la facture, et pourquoi les vieux panneaux solaires plombent encore les comptes ? Les chiffres surprennent. L’article La facture des énergies […]",
+  "pub": "2026-07-23",
+  "ts": 1784785800.0,
+  "vu": "2026-07-23"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Cellules solaires à triple jonction en pérovskite : les bicouches GO/SAM les rendent encore plus efficaces",
+  "lien": "https://www.enerzine.com/cellules-solaires-a-triple-jonction-en-perovskite-les-bicouches-go-sam-les-rendent-encore-plus-efficaces/190863-2026-07",
+  "auteur": "La rédaction",
+  "resume": "Les semiconducteurs en pérovskite convertissent efficacement la lumière solaire en énergie électrique ; ils sont également peu coûteux et extrêmement légers. Une équipe du HZB a développé une cellule solaire à triple jonction composée de différents semiconducteurs en pérovskite […]",
+  "pub": "2026-07-23",
+  "ts": 1784779800.0,
+  "vu": "2026-07-23"
+ },
+ {
+  "source": "CleanTechnica",
+  "titre": "Hooking Up Your House To An EV Is Getting Loads Easier",
+  "lien": "https://cleantechnica.com/2026/07/22/ev-batteries-vehicle-home-emergency-backup-power-ford/",
+  "auteur": "Tina Casey",
+  "resume": "A new meter attachment makes it easier to deploy EV batteries as home backup power generators in case of an outage.",
+  "pub": "2026-07-22",
+  "ts": 1784743218.0,
+  "vu": "2026-07-23"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "France Agrivoltaïsme sonne l’alarme jusqu’à l’Elysée",
+  "lien": "https://www.greenunivers.com/2026/07/france-agrivoltaisme-sonne-lalarme-430300/",
+  "auteur": "Jean-Philippe Pié",
+  "resume": "« L’agrivoltaïsme menacé, les intérêts agricoles bafoués », gronde l’association France Agrivoltaïsme dans un communiqué adressé aujourd’hui à la presse. Son co-président Olivier Dauger, aussi l’un des dirigeants de la FNSEA et de France Gaz Renouvelables doit rencontrer demain […]",
+  "pub": "2026-07-22",
+  "ts": 1784735234.0,
+  "vu": "2026-07-23"
+ },
+ {
+  "source": "Batiactu",
+  "titre": "Électrification industrielle : Hellio demande une approche pragmatique",
+  "lien": "https://www.batiactu.com/edito/electrification-industrie-hellio-demande-approche-pragmatique-75030.php",
+  "auteur": "Batiactu",
+  "resume": "TRANSITION ÉNERGÉTIQUE. Le spécialiste des économies d'énergie plaide pour mettre en place des trajectoires adaptées aux différentes filières industrielles.",
+  "pub": "2026-07-22",
+  "ts": 1784733116.0,
+  "vu": "2026-07-23"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Albioma fait l’acquisition d’un portefeuille photovoltaïque de 26 MW en France hexagonale",
+  "lien": "https://www.pv-magazine.fr/2026/07/22/albioma-fait-lacquisition-dun-portefeuille-photovoltaique-de-26-mw-en-france-hexagonale/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "L'opération augmente la capacité du parc photovoltaïque d’Albioma Solaire France, qui s’élève désormais à 77 MWc, contre 52,4 MWc auparavant.",
+  "pub": "2026-07-22",
+  "ts": 1784730600.0,
+  "vu": "2026-07-23"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Energie Partagée de plus en plus orienté vers les investisseurs professionnels et les épargnants",
+  "lien": "https://www.greenunivers.com/2026/07/energie-partagee-de-plus-en-plus-oriente-vers-les-investisseurs-professionnels-et-les-epargnants-430297/",
+  "auteur": "Jean-Philippe Pié",
+  "resume": "« Le modèle citoyen fonctionne et il accélère », assure Energie Partagée dans son communiqué sur ses résultats annuels. La coopérative d’énergies renouvelables bénéficie d’une production en hausse de 25% en 2025, atteignant 443 GWh d’électricité et 74 GWh de chaleur […]",
+  "pub": "2026-07-22",
+  "ts": 1784730249.0,
+  "vu": "2026-07-23"
+ },
+ {
+  "source": "Batiactu",
+  "titre": "Canicule : l'OPPBTP inventorie les arrêtés préfectoraux impactant les chantiers",
+  "lien": "https://www.batiactu.com/edito/canicule-oppbtp-inventorie-arretes-prefectoraux-impactant-75027.php",
+  "auteur": "Batiactu",
+  "resume": "PRÉVENTION. Les entreprises du BTP peuvent dorénavant accéder à l'ensemble des arrêtés pris par les préfets autour des vagues de fortes chaleurs sur une plateforme unique.",
+  "pub": "2026-07-22",
+  "ts": 1784727383.0,
+  "vu": "2026-07-23"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Longi décroche un contrat de 300 MWh pour un système de stockage couplé à une centrale solaire en Italie",
+  "lien": "https://www.pv-magazine.fr/2026/07/22/longi-decroche-un-contrat-de-300-mwh-pour-un-systeme-de-stockage-couple-a-une-centrale-solaire-en-italie/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "En remportant un contrat avec RWE pour un projet photovoltaïque de 300 MWh de stockage en Italie, Longi confirme son ambition de devenir un fournisseur de solutions énergétiques intégrées. Une stratégie qui reflète la mutation du secteur solaire, où les fabricants cherchent […]",
+  "pub": "2026-07-22",
+  "ts": 1784721600.0,
+  "vu": "2026-07-23"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Pompe à chaleur air-air : les normes techniques derrière la TVA à 5,5 %",
+  "lien": "https://lenergeek.com/2026/07/22/pompe-chaleur-air-air-normes-techniques-derriere-tva-5-5/",
+  "auteur": "La Rédaction",
+  "resume": "L'arrêté du 13 juillet 2026 abaisse la TVA à 5,5 % sur les pompes à chaleur air-air réversibles, mais conditionne cet avantage à des critères techniques stricts : classes énergétiques A+/A++, fluides frigorigènes conformes au règlement UE 2024/573, et connectivité numérique […]",
+  "pub": "2026-07-22",
+  "ts": 1784708587.0,
+  "vu": "2026-07-23"
+ },
+ {
+  "source": "pv magazine France",
   "titre": "Avis de marchés publics dans le PV en France",
   "lien": "https://www.pv-magazine.fr/2026/07/22/avis-de-marches-publics-dans-le-pv-en-france-130/",
   "auteur": "Francois Puthod",
@@ -1148,15 +1278,5 @@
   "pub": "2026-07-13",
   "ts": 1783913600.0,
   "vu": "2026-07-13"
- },
- {
-  "source": "Enerplan",
-  "titre": "Enerplan au Premier Ministre : le solaire français est prêt, il a besoin de visibilité",
-  "lien": "https://www.enerplan.asso.fr/enerplan-au-premier-ministre-le-solaire-francais-est-pret-il-a-besoin-de-visibilite/",
-  "auteur": "Mickaël Marie",
-  "resume": "",
-  "pub": "2026-07-12",
-  "ts": 1783832442.0,
-  "vu": "2026-07-12"
  }
 ]
