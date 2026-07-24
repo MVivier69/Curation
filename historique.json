@@ -1,6 +1,126 @@
 [
  {
   "source": "pv magazine France",
+  "titre": "La SCNF poursuit ses tests pour déployer des panneaux solaires sur son réseau ferroviaire",
+  "lien": "https://www.pv-magazine.fr/2026/07/24/la-scnf-poursuit-ses-tests-pour-deployer-des-panneaux-solaires-sur-son-reseau-ferroviaire/",
+  "auteur": "Marie Beyer",
+  "resume": "La phase test de la technologie photovoltaïque amovible de la jeune pousse suisse Bankset se poursuit depuis 2025 sur un site technique parisien.",
+  "pub": "2026-07-24",
+  "ts": 1784881800.0,
+  "vu": "2026-07-24"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "À l’île Maurice, Qair sécurise ses BESS avec PowerUp",
+  "lien": "https://www.pv-magazine.fr/2026/07/24/a-lile-maurice-qair-securise-ses-bess-avec-powerup/",
+  "auteur": "Francois Puthod",
+  "resume": "PowerUp, fournisseur de solutions logicielles pour l’analyse des batteries, conclut un partenariat avec l’énergéticien Qair pour maximiser la valeur de ses actifs mauriciens de stockage par BESS.",
+  "pub": "2026-07-24",
+  "ts": 1784874600.0,
+  "vu": "2026-07-24"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Texxecure launches rating system for assessing PV project quality and technical risks",
+  "lien": "https://www.pv-magazine.com/2026/07/24/texxecure-launches-rating-system-for-assessing-pv-project-quality-and-technical-risks/",
+  "auteur": "Emiliano Bellini",
+  "resume": "Texxecure has launched a standardized rating system for photovoltaic projects, assessing technical risks from components and processes to final installation. The AAA-to-D scale aims to provide investors, banks, insurers, and developers with a transparent benchmark for PV asset […]",
+  "pub": "2026-07-24",
+  "ts": 1784873444.0,
+  "vu": "2026-07-24"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Appel d’offres solaire PPE2 : un projet sur cinq seulement franchit la barre",
+  "lien": "https://www.enerzine.com/appel-doffres-solaire-ppe2-un-projet-sur-cinq-seulement-franchit-la-barre/191522-2026-07",
+  "auteur": "La rédaction",
+  "resume": "1 projet sur 5. C’est le taux de succès des dossiers déposés lors de la dernière période PPE2, 1 559 MWc soumis, 300 MW retenus (délibération CRE, 7 juillet 2026). Le prix moyen a reculé de 13,5 €/MWh par rapport à la période précédente. La concurrence est telle que même les […]",
+  "pub": "2026-07-24",
+  "ts": 1784869800.0,
+  "vu": "2026-07-24"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "JinkoSolar targets retail power bills with Sunny 365 solar-storage platform",
+  "lien": "https://www.pv-magazine.com/2026/07/24/jinkosolar-targets-retail-power-bills-with-sunny-365-solar-storage-platform/",
+  "auteur": "Emiliano Bellini",
+  "resume": "JinkoSolar has launched a standardized solar-plus-storage package for commercial and industrial customers, combining solar modules, liquid-cooled batteries, and AI-based energy management under one platform.",
+  "pub": "2026-07-24",
+  "ts": 1784869602.0,
+  "vu": "2026-07-24"
+ },
+ {
+  "source": "Batiactu",
+  "titre": "NGE s'associe à un spécialiste de la production d'énergie renouvelable",
+  "lien": "https://www.batiactu.com/edito/nge-s-associe-a-un-specialiste-production-energies-75044.php",
+  "auteur": "Batiactu",
+  "resume": "STRATÉGIE. Le spécialiste du BTP avance ses pions afin de constituer une offre globale pour accompagner ses clients dans la transition énergétique.",
+  "pub": "2026-07-23",
+  "ts": 1784819712.0,
+  "vu": "2026-07-24"
+ },
+ {
+  "source": "CleanTechnica",
+  "titre": "Prague’s Trolleybus Data Show Why Hard Bus Routes Don’t Need Hydrogen",
+  "lien": "https://cleantechnica.com/2026/07/23/prague-trolleybus-hydrogen-bus-problem/",
+  "auteur": "Michael Barnard",
+  "resume": "Transit agencies often reach for hydrogen after starting with real operating constraints and skipping a systems-design step. Hills, long duties, heavy passenger loads, constrained depots and the need to keep buses moving are treated as evidence that batteries cannot do the work […]",
+  "pub": "2026-07-23",
+  "ts": 1784817846.0,
+  "vu": "2026-07-24"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "Robbin Tian : « SAMDUO veut devenir la référence mondiale en matière d'intelligence énergétique domestique »",
+  "lien": "https://www.futura-sciences.com/tech/actualites/technologie-robbin-tian-samduo-veut-devenir-reference-mondiale-matiere-intelligence-energetique-domestique-135737/",
+  "auteur": "Futura Partenariats, Contenu sponsorisé",
+  "resume": "Nouveau acteur sur le marché du solaire, SAMDUO affiche de grandes ambitions. Le fabricant chinois a mis au point la batterie domestique la plus fine au monde, et entend devenir un acteur incontournable de la transition énergétique en Europe.",
+  "pub": "2026-07-23",
+  "ts": 1784817000.0,
+  "vu": "2026-07-24"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Incendies : comment le débroussaillement a protégé une centrale photovoltaïque des flammes",
+  "lien": "https://www.pv-magazine.fr/2026/07/23/incendies-comment-le-debroussaillement-a-protege-une-centrale-photovoltaique-des-flammes/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Malgré le passage d'un incendie d'une ampleur exceptionnelle, une centrale photovoltaïque de 11 MWc exploitée par Luxel n'a enregistré que des dégâts mineurs. L'entreprise met en avant le rôle du débroussaillement réglementaire et des procédures de mise en sécurité du site.",
+  "pub": "2026-07-23",
+  "ts": 1784815200.0,
+  "vu": "2026-07-24"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "L’acteur du BTP NGE se renforce dans les renouvelables avec l’entrée au capital de Gaïa Energy Systems",
+  "lien": "https://www.pv-magazine.fr/2026/07/23/lacteur-du-btp-nge-se-renforce-dans-les-renouvelables-avec-lentree-au-capital-de-gaia-energy-systems/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "En prenant une participation dans Gaïa Energy Systems, le groupe français de BTP poursuit sa diversification dans les infrastructures énergétiques. L'opération lui apporte des actifs déjà en exploitation ainsi que des projets de développement dans plusieurs filières […]",
+  "pub": "2026-07-23",
+  "ts": 1784811600.0,
+  "vu": "2026-07-24"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Masdar boucle le financement de son premier projet d’énergie renouvelable disponible 24h/24",
+  "lien": "https://www.pv-magazine.fr/2026/07/23/masdar-boucle-le-financement-de-son-premier-projet-denergie-renouvelable-disponible-24h-24/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Présenté comme une première mondiale, le projet « Round-the-Clock » de Masdar entend démontrer qu'il est désormais possible de produire de l'électricité renouvelable en continu grâce au couplage d'une centrale solaire de 5,2 GW et d'un système de stockage de 19 GWh. Son […]",
+  "pub": "2026-07-23",
+  "ts": 1784808000.0,
+  "vu": "2026-07-24"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Alpiq prend une participation de 90 % dans Harmony Energy",
+  "lien": "https://www.pv-magazine.fr/2026/07/23/alpiq-prend-une-participation-de-90-dans-harmony-energy/",
+  "auteur": "Francois Puthod",
+  "resume": "Le producteur suisse Alpiq acquiert 90 % des parts d'Harmony Energy, société britannique de développement et d'exploitation de systèmes de stockage d'énergie par batterie (BESS).",
+  "pub": "2026-07-23",
+  "ts": 1784797200.0,
+  "vu": "2026-07-24"
+ },
+ {
+  "source": "pv magazine France",
   "titre": "[L’installation du jour] Une friche reconvertie en parc solaire bas carbone",
   "lien": "https://www.pv-magazine.fr/2026/07/23/linstallation-du-jour-une-friche-reconvertie-en-parc-solaire-bas-carbone/",
   "auteur": "Francois Puthod",
@@ -48,6 +168,16 @@
   "pub": "2026-07-23",
   "ts": 1784779800.0,
   "vu": "2026-07-23"
+ },
+ {
+  "source": "Connaissance des Énergies",
+  "titre": "Énergies renouvelables : les dernières statistiques par filière et par zone géographique",
+  "lien": "https://www.connaissancedesenergies.org/energies-renouvelables-statistiques-irena-2026",
+  "auteur": "mael-dancette",
+  "resume": "L'Irena (Agence internationale pour les énergies renouvelables) a publié le 14 juillet dernier ses Renewable Energy Statistics 2026, qui détaillent filière par filière et pays par pays les capacités renouvelables installées dans le monde — et désormais les productions associées.",
+  "pub": "2026-07-23",
+  "ts": 1784764800.0,
+  "vu": "2026-07-24"
  },
  {
   "source": "CleanTechnica",
@@ -1188,95 +1318,5 @@
   "pub": "2026-07-14",
   "ts": 1783987322.0,
   "vu": "2026-07-14"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Solaire : « la situation a un goût de moratoire déguisé » [Daniel Bour, Enerplan]",
-  "lien": "https://www.greenunivers.com/2026/07/solaire-la-situation-a-le-gout-dun-moratoire-deguise-daniel-bour-enerplan-429456/",
-  "auteur": "GreenUnivers",
-  "resume": "Entretien – Mécontent du sort réservé au photovoltaïque, le syndicat professionnel de la filière, Enerplan, a décidé de se faire entendre des pouvoirs publics. Pour ce faire, il s’est offert une pleine page dans La Tribune Dimanche du 12 juillet sur laquelle il est indiqué, en […]",
-  "pub": "2026-07-13",
-  "ts": 1783959207.0,
-  "vu": "2026-07-14"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Corsica Sole active Hertz 2, doublant la capacité de stockage en Estonie",
-  "lien": "https://www.pv-magazine.fr/2026/07/13/corsica-sole-active-hertz-2-doublant-la-capacite-de-stockage-en-estonie/",
-  "auteur": "Marie Beyer",
-  "resume": "La mise en service de la deuxième phase du système de stockage d’énergie par batteries (BESS), à Aruküla, porte à 200 MW / 400 MWh la capacité totale du projet, qui aura mobilisé 170 millions d'euros d'investissement.",
-  "pub": "2026-07-13",
-  "ts": 1783951200.0,
-  "vu": "2026-07-14"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Quand va s’arrêter cette troisième canicule ? Les prévisions quasi certaines pour les trois prochains mois inquiètent",
-  "lien": "https://www.futura-sciences.com/planete/actualites/canicule-va-arreter-cette-troisieme-canicule-previsions-quasi-certaines-trois-prochains-mois-inquietent-136168/",
-  "auteur": "Karine Durand, Spécialiste météo extrême et environnement",
-  "resume": "À quand la fin de cette troisième canicule et que nous réserve la suite de l'été ? Les prévisions saisonnières avaient vu juste pour l'été 2026, et une fois de plus, la situation risque de se répéter.",
-  "pub": "2026-07-13",
-  "ts": 1783948103.0,
-  "vu": "2026-07-14"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Unigrid dévoile son système de stockage d’énergie résidentiel à ions sodium",
-  "lien": "https://www.pv-magazine.fr/2026/07/13/unigrid-devoile-des-systemes-de-stockage-denergie-residentiels-a-ions-sodium/",
-  "auteur": "Francois Puthod",
-  "resume": "Unigrid a lancé Na+Casa, un système de stockage d'énergie résidentiel à ions sodium utilisant sa technologie de cathode exclusive NaCrO₂. D'une capacité de 9,25 kWh, il a déjà fait l'objet de premières installations en Europe.",
-  "pub": "2026-07-13",
-  "ts": 1783944000.0,
-  "vu": "2026-07-14"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Une future centrale solaire flottante à la vente",
-  "lien": "https://www.pv-magazine.fr/2026/07/13/une-centrale-solaire-flottante-a-la-vente/",
-  "auteur": "Francois Puthod",
-  "resume": "Energiter et Urbasolar finalisent la cession la cession du projet de Vougon, une centrale solaire flottante de 4,94 MWc au stade ready-to-build.",
-  "pub": "2026-07-13",
-  "ts": 1783935000.0,
-  "vu": "2026-07-13"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Reden cesse son activité de production de panneaux photovoltaïques",
-  "lien": "https://www.pv-magazine.fr/2026/07/13/reden-cesse-son-activite-de-production-de-panneaux-photovoltaiques/",
-  "auteur": "Francois Puthod",
-  "resume": "L'entreprise photovoltaïque agenaise annonce la fermeture de sa filiale Reden Industrie, qui emploie à ce jour neuf personnes, faute de compétitivité.",
-  "pub": "2026-07-13",
-  "ts": 1783932300.0,
-  "vu": "2026-07-13"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Meilleurs hébergeurs web écologiques : lesquels tiennent vraiment leurs promesses ?",
-  "lien": "https://www.futura-sciences.com/conso/guides-achat/guides-tech-meilleurs-hebergeurs-web-ecologiques-lesquels-tiennent-vraiment-leurs-promesses-1503/",
-  "auteur": "Stanislas SAMUEL, Rédacteur web",
-  "resume": "Hébergeur web écologique 2026 : PlanetHoster, OVHcloud, Infomaniak. Énergies renouvelables, PUE, empreinte carbone, datacenters France Canada. Guide complet et avantages limites.",
-  "pub": "2026-07-13",
-  "ts": 1783929600.0,
-  "vu": "2026-07-13"
- },
- {
-  "source": "Enerzine",
-  "titre": "Strasbourg : l’Hôtel d’Alsace se dote d’une centrale photovoltaïque de 130 kWc",
-  "lien": "https://www.enerzine.com/strasbourg-lhotel-dalsace-se-dote-dune-centrale-photovoltaique-de-130-kwc/190189-2026-07",
-  "auteur": "La rédaction",
-  "resume": "La Collectivité européenne d’Alsace (CeA) a mis en service une centrale solaire en autoconsommation sur les toits de son siège, l’Hôtel d’Alsace, situé en plein centre de Strasbourg. Atteignant un taux d’autoconsommation de 100 %, l’installation couvre près de 10 % des besoins […]",
-  "pub": "2026-07-13",
-  "ts": 1783919400.0,
-  "vu": "2026-07-13"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Canicule : EDF met à l’arrêt 3 réacteurs nucléaires",
-  "lien": "https://lenergeek.com/2026/07/13/reacteurs-nucleaires-canicule-edf-met-arret-3/",
-  "auteur": "La Rédaction",
-  "resume": "Le 12 juillet 2026, EDF a arrêté trois réacteurs nucléaires et réduit la puissance de huit autres en raison de la canicule. Décryptage des mécanismes réglementaires imposés par l'ASN, de la dérogation gouvernementale pour Bugey et des implications sur la capacité du parc […]",
-  "pub": "2026-07-13",
-  "ts": 1783913600.0,
-  "vu": "2026-07-13"
  }
 ]
