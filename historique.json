@@ -1,5 +1,75 @@
 [
  {
+  "source": "GreenUnivers",
+  "titre": "A Cestas, la centrale solaire de Neoen sauvée des flammes",
+  "lien": "https://www.greenunivers.com/2026/07/a-cestas-la-centrale-solaire-de-neoen-sauvee-des-flammes-430665/",
+  "auteur": "Jean-Philippe Pié",
+  "resume": "La plus puissante centrale photovoltaïque de France a été sauvée des flammes ce weekend, mais elle a eu très chaud et est à l’arrêt. A Cestas, entre Bordeaux et Arcachon (Gironde), dans la nuit de samedi à dimanche, le méga-feu venant de l’ouest a réussi à pénétrer sous quelques […]",
+  "pub": "2026-07-27",
+  "ts": 1785144081.0,
+  "vu": "2026-07-27"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Une centrale solaire existante de 34,4 MWc hybridée avec un système de batteries de 15 MW/60 MWh au Portugal",
+  "lien": "https://www.pv-magazine.fr/2026/07/27/une-centrale-solaire-existante-de-344-mwc-hybridee-avec-un-systeme-de-batteries-de-15-mw-60-mwh-au-portugal/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "L’hybridation de la centrale solaire Albispark, située à Castelo Branco (Portugal), associe un système de stockage par batteries (BESS) de 15 MW/60 MWh à une installation photovoltaïque existante de 34,4 MWc. Il s'agit du premier projet international d’hybridation à grande […]",
+  "pub": "2026-07-27",
+  "ts": 1785142800.0,
+  "vu": "2026-07-27"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Réforme des heures creuses : pourquoi ça change ?",
+  "lien": "https://lenergeek.com/2026/07/27/electricite-reforme-heures-creuses-pourquoi-ca-change/",
+  "auteur": "La Rédaction",
+  "resume": "La réforme des heures creuses d'électricité entre dans sa phase massive : 9,3 millions de foyers basculeront d'ici octobre 2027 vers un système saisonnier, avec des heures creuses l'après-midi en été pour profiter de la production solaire. Un changement qui impose de […]",
+  "pub": "2026-07-27",
+  "ts": 1785141094.0,
+  "vu": "2026-07-27"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Albanian government approves agrivoltaics",
+  "lien": "https://www.pv-magazine.com/2026/07/27/albanian-government-approves-agrivoltaics/",
+  "auteur": "Patrick Jowett",
+  "resume": "Albania is set to allow agrivoltaics under certain conditions following approved amendments to its law governing agricultural land, with its council of ministers tasked with determining the applicable criteria.",
+  "pub": "2026-07-27",
+  "ts": 1785141000.0,
+  "vu": "2026-07-27"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Les prix des cellules TOPCon chinoises poursuivent leur baisse sur fond de faible demande et de surcapacités",
+  "lien": "https://www.pv-magazine.fr/2026/07/27/les-prix-des-cellules-topcon-chinoises-poursuivent-leur-baisse-sur-fond-de-faible-demande-et-de-surcapacites/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Dans une nouvelle mise à jour hebdomadaire pour pv magazine, OPIS, une société de Dow Jones, propose un aperçu rapide des principales tendances des prix dans l'industrie photovoltaïque mondiale.",
+  "pub": "2026-07-27",
+  "ts": 1785139200.0,
+  "vu": "2026-07-27"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Three-year testing assesses wind flow dynamics in solar plants",
+  "lien": "https://www.pv-magazine.com/2026/07/27/three-year-testing-assesses-wind-flow-dynamics-in-solar-plants/",
+  "auteur": "Lior Kahana",
+  "resume": "A French research team analyzed nearly three years of wind and turbulence measurements over a 140-hectare photovoltaic park in southwestern France, comparing it with a nearby pine forest to understand airflow behavior above PV canopies. They found that wind direction relative to […]",
+  "pub": "2026-07-27",
+  "ts": 1785135600.0,
+  "vu": "2026-07-27"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Mexens (ex-Technique Solaire) sécurise un financement de 288 millions d’euros",
+  "lien": "https://www.pv-magazine.fr/2026/07/27/mexens-ex-technique-solaire-securise-un-financement-de-288-millions-deuros/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "L'IPP Mexens a levé une dette senior pour financer un portefeuille de 230 projets renouvelables en France et en Espagne. L’opération illustre l’évolution de son modèle, désormais ouvert à l’éolien et au photovoltaïque, avec un objectif de plus de 4 GW de capacités installées à […]",
+  "pub": "2026-07-27",
+  "ts": 1785133800.0,
+  "vu": "2026-07-27"
+ },
+ {
   "source": "CleanTechnica",
   "titre": "Another Coal Power Plant Bites The Dust (Shhh! Don’t Tell Trump!)",
   "lien": "https://cleantechnica.com/2026/07/25/coal-replaced-solar-batteries-clean-energy-transmission/",
@@ -1088,125 +1158,5 @@
   "pub": "2026-07-17",
   "ts": 1784247524.0,
   "vu": "2026-07-17"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Les résultats des principaux producteurs d’énergie renouvelable en 2025",
-  "lien": "https://www.greenunivers.com/2026/07/les-resultats-des-principaux-producteurs-denergie-renouvelable-en-2025-428712/",
-  "auteur": "Jacopo Landi",
-  "resume": "Exclusif – GreenUnivers publie l’édition 2025 de sa synthèse des résultats financiers annuels des principaux producteurs d’énergies renouvelables – principalement de l’électricité -, français ou actifs en France. Les données ont été collectées L’article Les résultats des […]",
-  "pub": "2026-07-16",
-  "ts": 1784221070.0,
-  "vu": "2026-07-17"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Lauréat du dernier AO solaire sur bâtiment, Diméo Énergie ouvre son capital",
-  "lien": "https://www.greenunivers.com/2026/07/laureat-du-dernier-ao-solaire-batiment-dimeo-energie-ouvre-son-capital-429738/",
-  "auteur": "Paul Messad",
-  "resume": "Exclusif – Le développeur photovoltaïque Diméo Energie, lauréat de la dernière session de l’appel d’offres (AO) solaire sur bâtiment, cherche des investisseurs. Selon nos informations, le dossier circule L’article Lauréat du dernier AO solaire sur bâtiment, Diméo Énergie ouvre […]",
-  "pub": "2026-07-16",
-  "ts": 1784216760.0,
-  "vu": "2026-07-17"
- },
- {
-  "source": "Batiactu",
-  "titre": "Nouvelle baisse du coefficient d'énergie primaire du DPE : le projet d'arrêté mis en consultation",
-  "lien": "https://www.batiactu.com/edito/baisse-coefficient-energie-primaire-electricite-texte-74982.php",
-  "auteur": "Batiactu",
-  "resume": "RÉGLEMENTATION. Annoncée dans le plan national d'électrification des usages, la nouvelle modification du coefficient d'énergie primaire (CEP) de l'électricité pour le diagnostic de performance énergétique (DPE) fait l'objet d'un projet d'arrêté soumis à consultation.",
-  "pub": "2026-07-16",
-  "ts": 1784214779.0,
-  "vu": "2026-07-17"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "L'Honor X9d à moins de 287 € avec coupon : AMOLED 6,79 pouces, batterie 8300 mAh et capteur 108 MP pour un milieu de gamme qui joue au-dessus de sa catégorie",
-  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-smartphones-honor-x9d-moins-287-coupon-amoled-679-pouces-batterie-8300-mah-capteur-108-mp-milieu-gamme-joue-dessus-categorie-10753/",
-  "auteur": "Benoit Baylé, Rédacteur web",
-  "resume": "L'Honor X9d ne fait rien pour rester discret sur le papier. Dalle AMOLED de 6,79 pouces, batterie XXL de 8300 mAh, capteur principal de 108 mégapixels, NFC et version mondiale avec services Google : c'est une fiche technique qui rivalise directement avec des modèles vendus 100 € […]",
-  "pub": "2026-07-16",
-  "ts": 1784210404.0,
-  "vu": "2026-07-17"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Une centrale solaire de 130 kWc sur le toit de l’Hôtel d’Alsace",
-  "lien": "https://www.pv-magazine.fr/2026/07/16/une-centrale-solaire-de-130-kwc-sur-le-toit-de-lhotel-dalsace/",
-  "auteur": "Francois Puthod",
-  "resume": "La Collectivité européenne d’Alsace équipe son siège d’une centrale solaire en autoconsommation de 130 kWc.",
-  "pub": "2026-07-16",
-  "ts": 1784203200.0,
-  "vu": "2026-07-17"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Hydroélectricité : les petites installations rénovées pourront bénéficier d'un complément de rémunération",
-  "lien": "https://www.actu-environnement.com/ae/news/hydroelectricite-complement-remuneration-installations-renovees-48315.php4",
-  "auteur": "",
-  "resume": "Un projet d'arrêté, fixant les conditions du complément de rémunération pour la production d'installations hydroélectriques non-concédées et ayant fait l'objet d'une rénovation, est en consultation jusqu'au 2 août. Il concerne les installations hy...",
-  "pub": "2026-07-16",
-  "ts": 1784194774.0,
-  "vu": "2026-07-17"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Raccordement des EnR : 10 % du territoire français déjà saturé",
-  "lien": "https://www.pv-magazine.fr/2026/07/16/raccordement-des-enr-10-du-territoire-francais-deja-sature/",
-  "auteur": "Francois Puthod",
-  "resume": "Enedis et RTE ont publié, hier, une cartographie montrant que 10 % du territoire français est saturé et ne peut plus accueillir de nouvelles capacités de production d'énergies renouvelables en l’état.",
-  "pub": "2026-07-16",
-  "ts": 1784193300.0,
-  "vu": "2026-07-17"
- },
- {
-  "source": "pv magazine",
-  "titre": "VSL PowerHive launches LFP batteries for residential, small commercial applications",
-  "lien": "https://www.pv-magazine.com/2026/07/16/vsl-powerhive-launches-10-kwh-and-15-kwh-residential-small-commercial-energy-storage-systems/",
-  "auteur": "Uma Gupta",
-  "resume": "The systems can be charged from the grid to provide backup power and can also be paired with rooftop solar installations to store excess generation for later use, reducing grid dependence.",
-  "pub": "2026-07-16",
-  "ts": 1784188286.0,
-  "vu": "2026-07-16"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Une pompe à chaleur de toiture à onduleur pour les bâtiments commerciaux légers",
-  "lien": "https://www.pv-magazine.fr/2026/07/16/une-pompe-a-chaleur-de-toiture-a-onduleur-pour-les-batiments-commerciaux-legers/",
-  "auteur": "Francois Puthod",
-  "resume": "Daikin a dévoilé une pompe à chaleur de toiture à entraînement Inverter offrant des capacités de 7,5 à 10 tonnes. Ce système utilise du difluorométhane comme fluide frigorigène et affiche un coefficient de performance (COP) pouvant atteindre 3,85 à 8,3 °C.",
-  "pub": "2026-07-16",
-  "ts": 1784183400.0,
-  "vu": "2026-07-16"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "40 moutons lâchés sous des panneaux solaires : les éleveurs ont découvert un effet que personne n’avait prévu sur la production d’énergie",
-  "lien": "https://lenergeek.com/2026/07/16/40-moutons-laches-sous-des-panneaux-solaires-les-eleveurs-ont-decouvert-un-effet-que-personne-navait-prevu-sur-la-production-denergie/",
-  "auteur": "Claire Moreau",
-  "resume": "Quarante moutons, des panneaux solaires et un rendement du sol qui grimpe jusqu'à 60%. Comment un simple troupeau transforme un parc solaire britannique en véritable refuge de biodiversité, sans rien coûter à la production d'électricité. L’article 40 moutons lâchés sous des […]",
-  "pub": "2026-07-16",
-  "ts": 1784182801.0,
-  "vu": "2026-07-16"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "L’UE renonce finalement aux batteries remplaçables dans les montres connectées",
-  "lien": "https://lenergeek.com/2026/07/16/lue-renonce-finalement-aux-batteries-remplacables-dans-les-montres-connectees/",
-  "auteur": "Claire Moreau",
-  "resume": "Bruxelles fait volte-face : vos montres connectées garderont leurs batteries scellées. Risque d'incendie, étanchéité menacée... la Commission justifie ce revirement surprenant. Une exception qui en cache une autre, du côté des smartphones haut de gamme. L’article L’UE renonce […]",
-  "pub": "2026-07-16",
-  "ts": 1784182800.0,
-  "vu": "2026-07-16"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Carburant renouvelable Nexa 95 : l’infrastructure technique d’une énergie décarbonée traçable",
-  "lien": "https://lenergeek.com/2026/07/16/carburant-renouvelable-nexa-95-infrastructure-technique-energie-decarbonee/",
-  "auteur": "La Rédaction",
-  "resume": "Toyota, BMW, Bosch et Repsol testent depuis juillet 2024 l'essence 100% renouvelable Nexa 95 sur 20 véhicules en Espagne. Ce projet pilote de six mois repose sur une infrastructure technique inédite : un carburant compatible avec les moteurs existants, certifié par le système […]",
-  "pub": "2026-07-16",
-  "ts": 1784181087.0,
-  "vu": "2026-07-16"
  }
 ]
