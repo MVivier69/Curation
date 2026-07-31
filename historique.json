@@ -1,6 +1,186 @@
 [
  {
   "source": "pv magazine France",
+  "titre": "Alfen et CATL vont déployer 5 GWh de batteries sodium-ion en Europe",
+  "lien": "https://www.pv-magazine.fr/2026/07/31/alfen-et-catl-vont-deployer-5-gwh-de-batteries-sodium-ion-en-europe/",
+  "auteur": "Marie Beyer",
+  "resume": "Le fabricant néerlandais Alfen et le géant chinois CATL s'associent pour déployer 5 GWh de systèmes de stockage à base de sodium-ion en Europe.",
+  "pub": "2026-07-31",
+  "ts": 1785488400.0,
+  "vu": "2026-07-31"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Le marché solaire chinois devrait connaître sa première contraction annuelle depuis 2019",
+  "lien": "https://www.pv-magazine.fr/2026/07/31/le-marche-solaire-chinois-devrait-connaitre-sa-premiere-contraction-annuelle-depuis-2019/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "L'Association chinoise de l'industrie photovoltaïque estime que les installations solaires en Chine reviennent progressivement à des niveaux plus soutenables après une année 2025 exceptionnelle. Elle prévoit toutefois une baisse du marché chinois en 2026, ainsi qu'un recul des […]",
+  "pub": "2026-07-31",
+  "ts": 1785484800.0,
+  "vu": "2026-07-31"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Les États-Unis interdisent les onduleurs solaires produits à l’étranger",
+  "lien": "https://www.pv-magazine.fr/2026/07/31/les-etats-unis-interdisent-les-onduleurs-solaires-produits-a-letranger/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Les États-Unis durcissent les règles applicables aux onduleurs photovoltaïques importés. La Commission fédérale des communications (FCC) bloque désormais l'homologation de nouveaux modèles fabriqués à l'étranger, invoquant des risques de cybersécurité susceptibles d'affecter les […]",
+  "pub": "2026-07-31",
+  "ts": 1785479400.0,
+  "vu": "2026-07-31"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Le bloc clim de mon voisin vrombissait toutes les nuits : quand j’ai lu ce que dit vraiment la loi, j’ai compris qu’il n’avait pas tous les droits",
+  "lien": "https://lenergeek.com/2026/07/31/le-bloc-clim-de-mon-voisin-vrombissait-toutes-les-nuits-quand-jai-lu-ce-que-dit-vraiment-la-loi-jai-compris-quil-navait-pas-tous-les-droits/",
+  "auteur": "Claire Moreau",
+  "resume": "Deux heures du matin, ce ronronnement qui ne s'arrête jamais, et vos nuits qui filent à l'eau. Que dit vraiment la loi sur ce bruit de climatiseur qui gâche votre sommeil ? La réponse pourrait vous surprendre. L’article Le bloc clim de mon voisin vrombissait toutes les nuits  […]",
+  "pub": "2026-07-31",
+  "ts": 1785478834.0,
+  "vu": "2026-07-31"
+ },
+ {
+  "source": "CleanTechnica",
+  "titre": "Europe’s Waste Creates Value Elsewhere",
+  "lien": "https://cleantechnica.com/2026/07/30/europes-waste-creates-value-elsewhere/",
+  "auteur": "Transport & Environment (T&E)",
+  "resume": "How the Circular Economy Act can provide the tools to help scale Europe’s recycling industry, in order to secure access to critical minerals. Recovering materials from end-of-life products like cars and batteries is a key means to secure much needed critical minerals resiliently […]",
+  "pub": "2026-07-31",
+  "ts": 1785459678.0,
+  "vu": "2026-07-31"
+ },
+ {
+  "source": "Connaissance des Énergies",
+  "titre": "Une sélection d'articles à relire pour un été 2026 plein d'énergie",
+  "lien": "https://www.connaissancedesenergies.org/une-selection-darticles-relire-pour-un-ete-2026-plein-denergie",
+  "auteur": "mael-dancette",
+  "resume": "Les publications s'arrêtent sur Connaissance des Énergies jusqu'au lundi 17 août 2026 (les dépêches de l'AFP relatives à l'actualité énergétique continueront d'ici là d'être mises en ligne sur notre site).",
+  "pub": "2026-07-31",
+  "ts": 1785456000.0,
+  "vu": "2026-07-31"
+ },
+ {
+  "source": "Transitions & Énergies",
+  "titre": "Batteries et stockage de longue durée: une nouvelle ère",
+  "lien": "https://www.transitionsenergies.com/batteries-stockage-longue-duree-nouvelle-ere/",
+  "auteur": "La rédaction",
+  "resume": "Le marché des batteries — qu'elles soient neuves ou reconditionnées — connaît une mutation rapide et radicale. Les grands fabricants privilégient ouvertement, pour les années à venir, la production de batteries destinées au stockage stationnaire d’électricité. Parallèlement, les […]",
+  "pub": "2026-07-30",
+  "ts": 1785455911.0,
+  "vu": "2026-07-31"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Un record d’installations solaires au premier semestre avec de possibles conséquences",
+  "lien": "https://www.greenunivers.com/2026/07/un-record-dinstallations-solaires-au-premier-semestre-avec-de-possibles-consequences-431056/",
+  "auteur": "Jacopo Landi",
+  "resume": "La puissance solaire raccordée au réseau Enedis progresse de 2,9 GW au premier semestre 2026, d’après les dernières données du gestionnaire du réseau de distribution. C’est plus qu’au même L’article Un record d’installations solaires au premier semestre avec de possibles […]",
+  "pub": "2026-07-30",
+  "ts": 1785425152.0,
+  "vu": "2026-07-31"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "E-carburants : où en est H4 Marseille Fos dans son approvisionnement électrique ?",
+  "lien": "https://www.greenunivers.com/2026/07/e-carburants-ou-en-est-h4-marseille-fos-dans-son-approvisionnement-electrique-431024/",
+  "auteur": "Thomas Blosseville",
+  "resume": "H4 Marseille Fos espère « finaliser d’ici la fin d’année » les contrats d’achat direct d’électricité renouvelable en préparation avec EDF L’article E-carburants : où en est H4 Marseille Fos dans son approvisionnement électrique ? est apparu en premier sur GreenUnivers .",
+  "pub": "2026-07-30",
+  "ts": 1785424304.0,
+  "vu": "2026-07-31"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "Cet aspirateur laveur Tineco passe là où beaucoup d'autres s'arrêtent, et il est en promotion à -23 % sur AliExpress",
+  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-entretien-sols-cet-aspirateur-laveur-tineco-passe-beaucoup-autres-arretent-il-promotion-23-aliexpress-10890/",
+  "auteur": "Mallory Delicourt, Journaliste",
+  "resume": "Nettoyer les sols durs sans passer successivement l'aspirateur puis la serpillière constitue un gain de temps appréciable. Le Tineco Floor ONE S6 Stretch Lite effectue ces tâches et profite actuellement d'une remise de 23 % sur AliExpress et voit son prix passer sous les 195 € […]",
+  "pub": "2026-07-30",
+  "ts": 1785420005.0,
+  "vu": "2026-07-31"
+ },
+ {
+  "source": "Batiactu",
+  "titre": "\"Les ombrières sans fondations simplifient les chantiers\", R. Vion (Mecosun)",
+  "lien": "https://www.batiactu.com/edito/robin-vion-mecosun-les-ombrieres-sans-fondations-simplifient-75048.php",
+  "auteur": "Batiactu",
+  "resume": "PAROLES D'INDUSTRIELS. Spécialiste des systèmes d'intégration photovoltaïques depuis 2008, Mecosun poursuit son développement sur le marché des ombrières de parking avec le lancement de Duo Evo+.",
+  "pub": "2026-07-30",
+  "ts": 1785418619.0,
+  "vu": "2026-07-31"
+ },
+ {
+  "source": "Actu-Environnement",
+  "titre": "Véhicules électriques : un diagnostic à l'échelle micro pour allonger la durée de vie des batteries",
+  "lien": "https://www.actu-environnement.com/ae/news/diagnostic-a-echelle-micro-pour-allonger-duree-de-vie-des-batteries-de-vehicules-electriques-48381.php4",
+  "auteur": "",
+  "resume": "Créée mi-2021, Entroview utilise une méthode brevetée d'analyse pour fournir des diagnostics avancés, chiffrés et opposables, des batteries de véhicules électriques. De quoi contribuer à l'allongement de leur utilisation, en première ou seconde vie.",
+  "pub": "2026-07-30",
+  "ts": 1785417081.0,
+  "vu": "2026-07-31"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Photovoltaïque : le seuil d’évaluation environnementale systématique relevé de 1 à 3 MWc",
+  "lien": "https://www.pv-magazine.fr/2026/07/30/photovoltaique-le-seuil-devaluation-environnementale-systematique-releve-de-1-a-3-mwc/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Depuis le 28 juillet 2026, les centrales photovoltaïques au sol de moins de 3 MWc ne relèvent plus automatiquement de l'évaluation environnementale systématique. Elles sont désormais, pour la plupart, soumises à un examen au cas par cas, sauf exceptions prévues par les textes.",
+  "pub": "2026-07-30",
+  "ts": 1785416400.0,
+  "vu": "2026-07-31"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Une centrale hybride en développement en Guyane",
+  "lien": "https://www.pv-magazine.fr/2026/07/30/une-centrale-hybride-en-developpement-en-guyane/",
+  "auteur": "Francois Puthod",
+  "resume": "Ce projet mêlant solaire et stockage est destinée à renforcer la sécurité d'approvisionnement en électricité de l'Ouest du territoire, tout en favorisant le développement d'une production énergétique décarbonée.",
+  "pub": "2026-07-30",
+  "ts": 1785412800.0,
+  "vu": "2026-07-31"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Les voitures électriques représenteront un tiers des ventes de 2026",
+  "lien": "https://lenergeek.com/2026/07/30/voiture-electrique-voitures-electriques-representeront-tiers-ventes-2026/",
+  "auteur": "La Rédaction",
+  "resume": "L'AIE prévoit que 23 millions de voitures électriques seront vendues en 2026, soit 29% du marché automobile mondial. La flambée du pétrole de 60 à 120 dollars le baril, provoquée par le conflit au Moyen-Orient, accélère cette transition énergétique malgré un marché automobile […]",
+  "pub": "2026-07-30",
+  "ts": 1785411420.0,
+  "vu": "2026-07-31"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "-51 % sur le Samsung Galaxy S25 : le prix s'effondre, pas les performances",
+  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-smartphones-51-samsung-galaxy-s25-prix-effondre-pas-performances-10891/",
+  "auteur": "Mohamed El Alami, Rédacteur Web",
+  "resume": "Le prix du Samsung Galaxy S25 fond plus vite que la batterie ne se recharge. Proposé à seulement 389,99 € au lieu de 799 € chez Rakuten, avec 5 € supplémentaires offerts grâce au code WHIF, ce smartphone 5G haut de gamme s'offre une promo difficile à ignorer.",
+  "pub": "2026-07-30",
+  "ts": 1785405600.0,
+  "vu": "2026-07-31"
+ },
+ {
+  "source": "Actu-Environnement",
+  "titre": "La justice annule un projet de parc de stationnement situé à proximité d'un site Natura 2000",
+  "lien": "https://www.actu-environnement.com/ae/news/annulation-stationnement-natura-2000-tautavel-48380.php4",
+  "auteur": "",
+  "resume": "Par une décision du 24 juillet 2026, la cour administrative d'appel de Toulouse a annulé les arrêtés du 9 novembre 2021 du maire de Tautavel (Pyrénées-Orientales) autorisant l'aménagement de deux parcs de stationnement à proximité des gorges du Go...",
+  "pub": "2026-07-30",
+  "ts": 1785403667.0,
+  "vu": "2026-07-31"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Le marché solaire algérien passe du potentiel à la concrétisation",
+  "lien": "https://www.pv-magazine.fr/2026/07/30/le-marche-solaire-algerien-passe-du-potentiel-a-la-concretisation/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Une récente discussion organisée par l'Association de l'industrie solaire du Moyen-Orient (MESIA) a conclu que la prochaine phase du développement du solaire en Algérie dépendra de l'économie du gaz, de la conception des appels d'offres, de la préparation du réseau électrique et […]",
+  "pub": "2026-07-30",
+  "ts": 1785402000.0,
+  "vu": "2026-07-31"
+ },
+ {
+  "source": "pv magazine France",
   "titre": "Intersport installe une centrale photovoltaïque de 2,2 MWc en Allemagne",
   "lien": "https://www.pv-magazine.fr/2026/07/30/intersport-installe-une-centrale-photovoltaique-de-22-mwc-en-allemagne/",
   "auteur": "Gwénaëlle Deboutte",
@@ -1178,165 +1358,5 @@
   "pub": "2026-07-21",
   "ts": 1784592000.0,
   "vu": "2026-07-22"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Agrivoltaïsme : la FFPA mise en péril par la multiplication des départs",
-  "lien": "https://www.greenunivers.com/2026/07/agrivoltaisme-la-ffpa-mise-en-peril-par-la-multiplication-des-departs-429901/",
-  "auteur": "Paul Messad",
-  "resume": "Article modifié suite à des précisions de Valorem et Abo – Enquête – La Fédération française des producteurs agrivoltaïques (FFPA) est en grande difficulté. Plusieurs sources internes et externes à l’association font état auprès de GreenUnivers d’une situation budgétaire […]",
-  "pub": "2026-07-20",
-  "ts": 1784561880.0,
-  "vu": "2026-07-21"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Légère accalmie sur le prix des modules photovoltaïques",
-  "lien": "https://www.greenunivers.com/2026/07/legere-accalmie-sur-le-prix-des-modules-photovoltaiques-430106/",
-  "auteur": "Thomas Blosseville",
-  "resume": "Les prix des modules solaires n’ont guère augmenté en juin, « pour la deuxième fois cette année », observe la place de marché et grossiste allemand pvXchange dans son dernier bulletin. Dans une tendance largement marquée à la hausse depuis le début 2026, le mois passé signe une […]",
-  "pub": "2026-07-20",
-  "ts": 1784561577.0,
-  "vu": "2026-07-21"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Les renouvelables n’ont pas progressé dans le mix électrique français en 2025",
-  "lien": "https://www.greenunivers.com/2026/07/les-renouvelables-nont-pas-progresse-dans-le-mix-electrique-francais-en-2025-430096/",
-  "auteur": "Thomas Blosseville",
-  "resume": "En France métropolitaine, les renouvelables ont représenté 33,2% de la consommation d’électricité en 2025 et 27% de la production. C’est un léger recul par rapport à L’article Les renouvelables n’ont pas progressé dans le mix électrique français en 2025 est apparu en premier sur […]",
-  "pub": "2026-07-20",
-  "ts": 1784561519.0,
-  "vu": "2026-07-21"
- },
- {
-  "source": "CleanTechnica",
-  "titre": "Long Beach Says Zero-Emission. Its Capital Plan Says Electric.",
-  "lien": "https://cleantechnica.com/2026/07/20/long-beach-zero-emission-port-electrification/",
-  "auteur": "Michael Barnard",
-  "resume": "The Port of Long Beach keeps describing its clean-technology investments as “zero-emission,” a phrase broad enough to include both batteries and hydrogen. Its funded assets are much less ambiguous. Chargers, electrical infrastructure and electric cargo-handling equipment are […]",
-  "pub": "2026-07-20",
-  "ts": 1784561371.0,
-  "vu": "2026-07-21"
- },
- {
-  "source": "Batiactu",
-  "titre": "La part des renouvelables recule légèrement dans le mix électrique",
-  "lien": "https://www.batiactu.com/edito/leger-recul-part-renouvelables-dans-mix-electrique-75005.php",
-  "auteur": "Batiactu",
-  "resume": "TRANSITION ÉNERGÉTIQUE. Le panorama de l'électricité renouvelable 2025, dévoilé par plusieurs acteurs du secteur, fait état d'un bilan en demi-teinte l'année passée.",
-  "pub": "2026-07-20",
-  "ts": 1784557499.0,
-  "vu": "2026-07-21"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Une plateforme pour mutualiser les opérations d’autoconsommation collectives citoyennes",
-  "lien": "https://www.pv-magazine.fr/2026/07/20/une-plateforme-pour-mutualiser-les-operations-dautoconsommation-collectives-citoyennes/",
-  "auteur": "Marie Beyer",
-  "resume": "Deux associations citoyennes s’allient pour simplifier les démarches et la gestion des opérations d’autoconsommation collective avec l'objectif de rendre le modèle plus accessible aux petits producteurs photovoltaïques, tout en sécurisant leur équilibre économique.",
-  "pub": "2026-07-20",
-  "ts": 1784556000.0,
-  "vu": "2026-07-21"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Deux producteurs français regroupent leurs intérêts",
-  "lien": "https://www.pv-magazine.fr/2026/07/20/deux-producteurs-francais-regroupent-leurs-interets/",
-  "auteur": "Francois Puthod",
-  "resume": "JP Energie Environnement et Générale du Solaire, avec la Banque des Territoires, initient un projet de rapprochement en vue de créer un leader du marché européen des énergies renouvelables.",
-  "pub": "2026-07-20",
-  "ts": 1784552400.0,
-  "vu": "2026-07-21"
- },
- {
-  "source": "les-energies-renouvelables.eu",
-  "titre": "Stocker, piloter et superviser : comment le couplage AC répond aux nouveaux enjeux du photovoltaïque résidentiel en France",
-  "lien": "https://www.les-energies-renouvelables.eu/stocker-piloter-et-superviser-comment-le-couplage-ac-repond-aux-nouveaux-enjeux-du-photovoltaique-residentiel-en-france/",
-  "auteur": "Stephen Wang",
-  "resume": "Le marché photovoltaïque résidentiel français connaît une évolution structurelle. Le modèle dominant repose depuis longtemps sur l’autoconsommation avec vente du surplus : le foyer consomme en priorité l’électricité produite sur son toit, puis injecte l’excédent sur le réseau […]",
-  "pub": "2026-07-20",
-  "ts": 1784551407.0,
-  "vu": "2026-07-21"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Énergies renouvelables : la production établit un record en 2024",
-  "lien": "https://lenergeek.com/2026/07/20/energies-renouvelables-record-2024/",
-  "auteur": "Cédric Bonnefoy",
-  "resume": "En 2024, les énergies renouvelables atteignent 31,7 % de la production électrique mondiale avec une croissance record de 9,8 %, sept fois supérieure à celle des énergies fossiles. L'Asie domine avec 4 589 TWh produits, portée par le solaire et l'éolien. Mais cette accélération […]",
-  "pub": "2026-07-20",
-  "ts": 1784551328.0,
-  "vu": "2026-07-21"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Decathlon inaugure les premiers projets solaires d’EDP en France",
-  "lien": "https://www.pv-magazine.fr/2026/07/20/decathlon-inaugure-les-premiers-projets-solaires-dedp-en-france/",
-  "auteur": "Francois Puthod",
-  "resume": "Le producteur EDP met en service ses premiers projets de production solaire décentralisée en France, installés pour la marque de sport Decathlon.",
-  "pub": "2026-07-20",
-  "ts": 1784548800.0,
-  "vu": "2026-07-21"
- },
- {
-  "source": "Batiactu",
-  "titre": "Taux de TVA réduit sur les PAC : l'arrêté paraît plus tôt que prévu",
-  "lien": "https://www.batiactu.com/edito/arrete-reduisant-taux-tva-pac-air-air-reversibles-est-74999.php",
-  "auteur": "Batiactu",
-  "resume": "ADAPTATION. Prévu dans la loi de finances 2026, l'arrêté abaissant le taux de TVA de certaines pompes à chaleur air-air réversibles a été publié au Journal officiel dès le 17 juillet 2026, alors qu'il était attendu pour la rentrée.",
-  "pub": "2026-07-20",
-  "ts": 1784548259.0,
-  "vu": "2026-07-21"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Suspension d'un retrait de permis de construire d'une centrale de stockage d'électricité en zone agricole",
-  "lien": "https://www.actu-environnement.com/ae/news/suspension-retrait-permis-construire-centrale-stockage-batteries-48329.php4",
-  "auteur": "",
-  "resume": "Par une ordonnance du 6 juillet 2026, le juge des référés du tribunal administratif de Rouen a suspendu la décision par laquelle le préfet de la Seine-Maritime a retiré un permis de construire tacite pour la construction, en zone agricole, d'une...",
-  "pub": "2026-07-20",
-  "ts": 1784542648.0,
-  "vu": "2026-07-21"
- },
- {
-  "source": "pv magazine France",
-  "titre": "BESS : 4,8 MWh de capacité de stockage pour AGC Glass Europe",
-  "lien": "https://www.pv-magazine.fr/2026/07/20/bess-48-mwh-de-capacite-de-stockage-pour-agc-glass-europe/",
-  "auteur": "Francois Puthod",
-  "resume": "Spécialiste du stockage d’énergie en BtoB, Storio Energy met en service une batterie sur le site d'AGC Glass Europe, à Seingbouse (Moselle), en collaboration avec le groupe énergétique E.ON.",
-  "pub": "2026-07-20",
-  "ts": 1784538000.0,
-  "vu": "2026-07-20"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Légère baisse des prix des plaquettes de silicium en Chine",
-  "lien": "https://www.pv-magazine.fr/2026/07/20/legere-baisse-des-prix-des-plaquettes-de-silicium-en-chine/",
-  "auteur": "Francois Puthod",
-  "resume": "Dans sa nouvelle mise à jour hebdomadaire pour pv magazine, OPIS, une société de Dow Jones, offre un aperçu rapide des principales tendances de prix dans l'industrie photovoltaïque mondiale.",
-  "pub": "2026-07-20",
-  "ts": 1784529000.0,
-  "vu": "2026-07-20"
- },
- {
-  "source": "Enerzine",
-  "titre": "À Châtel, une toiture solaire en losange alimente le nouveau centre culturel",
-  "lien": "https://www.enerzine.com/a-chatel-une-toiture-solaire-en-losange-alimente-le-nouveau-centre-culturel/191274-2026-07",
-  "auteur": "La rédaction",
-  "resume": "Inauguré le 10 juillet 2026 à Châtel (Haute-Savoie), le Centre Culturel et Touristique conjugue architecture alpine et production d’énergie renouvelable. Sa toiture de 474 m², composée de tuiles photovoltaïques SunStyle, doit couvrir près de la moitié des besoins électriques […]",
-  "pub": "2026-07-20",
-  "ts": 1784528540.0,
-  "vu": "2026-07-20"
- },
- {
-  "source": "Transitions & Énergies",
-  "titre": "Même Enedis fixe des limites au développement anarchique de l’éolien et du solaire",
-  "lien": "https://www.transitionsenergies.com/enedis-fixe-limites-developpement-anarchique-eolien-solaire/",
-  "auteur": "La rédaction",
-  "resume": "Il y a donc des limites à la toute-puissance du lobby des énergies renouvelables intermittentes en France. Elles sont physiques. Le réseau électrique français ne peut pas accompagner le développement anarchique sur le territoire de parcs éoliens et solaires. RTE, le réseau de […]",
-  "pub": "2026-07-20",
-  "ts": 1784506945.0,
-  "vu": "2026-07-21"
  }
 ]
