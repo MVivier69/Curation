@@ -1,5 +1,35 @@
 [
  {
+  "source": "CleanTechnica",
+  "titre": "Janus Battery Swap Trucks Show The Way",
+  "lien": "https://cleantechnica.com/2026/08/01/janus-battery-swap-trucks-show-the-way/",
+  "auteur": "Christopher Arcus",
+  "resume": "Recent CleanTechnica stories from Michael Barnard have highlighted CATL’s joint venture to introduce electric truck swap infrastructure to Europe. That company provides turnkey solutions for swap stations and batteries. Electric truck swap developments extend to other areas of […]",
+  "pub": "2026-08-02",
+  "ts": 1785633501.0,
+  "vu": "2026-08-02"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Airbus A380 : entre inspections d’urgence pour fissures et mue en laboratoire volant",
+  "lien": "https://www.enerzine.com/airbus-a380-inspections-laboratoire-volant/192444-2026-08",
+  "auteur": "La rédaction",
+  "resume": "Le géant des airs n’en finit plus de voler la vedette. Alors que sa production s’est arrêtée en 2021, l’Airbus A380 se retrouve au cœur d’une double actualité avec d’un côté, l’Agence européenne de la sécurité aérienne (EASA) qui vient d’imposer des inspections structurelles […]",
+  "pub": "2026-08-01",
+  "ts": 1785597300.0,
+  "vu": "2026-08-02"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "« Cela nous a coupé le souffle » : une immense structure en nid-d’abeilles découverte sur Mars intrigue la Nasa",
+  "lien": "https://www.futura-sciences.com/sciences/actualites/mars-cela-nous-coupe-souffle-immense-structure-nid-abeilles-decouverte-mars-intrigue-nasa-136617/",
+  "auteur": "Laurent Sacco, Journaliste scientifique",
+  "resume": "Nous n'en sommes toujours qu'au début de l'exploration de la Planète rouge, aussi bien pour sa géologie que pour sa possible exobiologie. Cette exploration est grandement facilitée avec des machines, comme dans tout le Système solaire et comme l'avait prédit Arthur Clarke […]",
+  "pub": "2026-08-01",
+  "ts": 1785583663.0,
+  "vu": "2026-08-02"
+ },
+ {
   "source": "Enerzine",
   "titre": "IA qui apprend des nuages : quand un système prévoit la production d’énergie solaire",
   "lien": "https://www.enerzine.com/ia-qui-apprend-des-nuages-quand-un-systeme-prevoit-la-production-denergie-solaire/191238-2026-08",
@@ -1128,145 +1158,5 @@
   "pub": "2026-07-23",
   "ts": 1784764800.0,
   "vu": "2026-07-24"
- },
- {
-  "source": "CleanTechnica",
-  "titre": "Hooking Up Your House To An EV Is Getting Loads Easier",
-  "lien": "https://cleantechnica.com/2026/07/22/ev-batteries-vehicle-home-emergency-backup-power-ford/",
-  "auteur": "Tina Casey",
-  "resume": "A new meter attachment makes it easier to deploy EV batteries as home backup power generators in case of an outage.",
-  "pub": "2026-07-22",
-  "ts": 1784743218.0,
-  "vu": "2026-07-23"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "France Agrivoltaïsme sonne l’alarme jusqu’à l’Elysée",
-  "lien": "https://www.greenunivers.com/2026/07/france-agrivoltaisme-sonne-lalarme-430300/",
-  "auteur": "Jean-Philippe Pié",
-  "resume": "« L’agrivoltaïsme menacé, les intérêts agricoles bafoués », gronde l’association France Agrivoltaïsme dans un communiqué adressé aujourd’hui à la presse. Son co-président Olivier Dauger, aussi l’un des dirigeants de la FNSEA et de France Gaz Renouvelables doit rencontrer demain […]",
-  "pub": "2026-07-22",
-  "ts": 1784735234.0,
-  "vu": "2026-07-23"
- },
- {
-  "source": "Batiactu",
-  "titre": "Électrification industrielle : Hellio demande une approche pragmatique",
-  "lien": "https://www.batiactu.com/edito/electrification-industrie-hellio-demande-approche-pragmatique-75030.php",
-  "auteur": "Batiactu",
-  "resume": "TRANSITION ÉNERGÉTIQUE. Le spécialiste des économies d'énergie plaide pour mettre en place des trajectoires adaptées aux différentes filières industrielles.",
-  "pub": "2026-07-22",
-  "ts": 1784733116.0,
-  "vu": "2026-07-23"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Albioma fait l’acquisition d’un portefeuille photovoltaïque de 26 MW en France hexagonale",
-  "lien": "https://www.pv-magazine.fr/2026/07/22/albioma-fait-lacquisition-dun-portefeuille-photovoltaique-de-26-mw-en-france-hexagonale/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "L'opération augmente la capacité du parc photovoltaïque d’Albioma Solaire France, qui s’élève désormais à 77 MWc, contre 52,4 MWc auparavant.",
-  "pub": "2026-07-22",
-  "ts": 1784730600.0,
-  "vu": "2026-07-23"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Energie Partagée de plus en plus orienté vers les investisseurs professionnels et les épargnants",
-  "lien": "https://www.greenunivers.com/2026/07/energie-partagee-de-plus-en-plus-oriente-vers-les-investisseurs-professionnels-et-les-epargnants-430297/",
-  "auteur": "Jean-Philippe Pié",
-  "resume": "« Le modèle citoyen fonctionne et il accélère », assure Energie Partagée dans son communiqué sur ses résultats annuels. La coopérative d’énergies renouvelables bénéficie d’une production en hausse de 25% en 2025, atteignant 443 GWh d’électricité et 74 GWh de chaleur […]",
-  "pub": "2026-07-22",
-  "ts": 1784730249.0,
-  "vu": "2026-07-23"
- },
- {
-  "source": "Batiactu",
-  "titre": "Canicule : l'OPPBTP inventorie les arrêtés préfectoraux impactant les chantiers",
-  "lien": "https://www.batiactu.com/edito/canicule-oppbtp-inventorie-arretes-prefectoraux-impactant-75027.php",
-  "auteur": "Batiactu",
-  "resume": "PRÉVENTION. Les entreprises du BTP peuvent dorénavant accéder à l'ensemble des arrêtés pris par les préfets autour des vagues de fortes chaleurs sur une plateforme unique.",
-  "pub": "2026-07-22",
-  "ts": 1784727383.0,
-  "vu": "2026-07-23"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Longi décroche un contrat de 300 MWh pour un système de stockage couplé à une centrale solaire en Italie",
-  "lien": "https://www.pv-magazine.fr/2026/07/22/longi-decroche-un-contrat-de-300-mwh-pour-un-systeme-de-stockage-couple-a-une-centrale-solaire-en-italie/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "En remportant un contrat avec RWE pour un projet photovoltaïque de 300 MWh de stockage en Italie, Longi confirme son ambition de devenir un fournisseur de solutions énergétiques intégrées. Une stratégie qui reflète la mutation du secteur solaire, où les fabricants cherchent […]",
-  "pub": "2026-07-22",
-  "ts": 1784721600.0,
-  "vu": "2026-07-23"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Pompe à chaleur air-air : les normes techniques derrière la TVA à 5,5 %",
-  "lien": "https://lenergeek.com/2026/07/22/pompe-chaleur-air-air-normes-techniques-derriere-tva-5-5/",
-  "auteur": "La Rédaction",
-  "resume": "L'arrêté du 13 juillet 2026 abaisse la TVA à 5,5 % sur les pompes à chaleur air-air réversibles, mais conditionne cet avantage à des critères techniques stricts : classes énergétiques A+/A++, fluides frigorigènes conformes au règlement UE 2024/573, et connectivité numérique […]",
-  "pub": "2026-07-22",
-  "ts": 1784708587.0,
-  "vu": "2026-07-23"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Avis de marchés publics dans le PV en France",
-  "lien": "https://www.pv-magazine.fr/2026/07/22/avis-de-marches-publics-dans-le-pv-en-france-130/",
-  "auteur": "Francois Puthod",
-  "resume": "Retrouvez chaque semaine dans pv magazine les appels d’offres publiés relatifs aux projets photovoltaïques en France.",
-  "pub": "2026-07-22",
-  "ts": 1784707200.0,
-  "vu": "2026-07-22"
- },
- {
-  "source": "pv magazine France",
-  "titre": "6 MWc sur les toits des collèges de Touraine",
-  "lien": "https://www.pv-magazine.fr/2026/07/22/6-mwc-sur-les-toits-des-colleges-de-touraine/",
-  "auteur": "Francois Puthod",
-  "resume": "Le Conseil départemental d’Indre-et-Loire et le Groupe Solstyce finalisent l’un des plus grands programmes photovoltaïques sur collèges de France, totalisant environ 6 MWc de puissance installée.",
-  "pub": "2026-07-22",
-  "ts": 1784703600.0,
-  "vu": "2026-07-22"
- },
- {
-  "source": "pv magazine France",
-  "titre": "PV en façade : le verre à rainures périodiques capte mieux la lumière",
-  "lien": "https://www.pv-magazine.fr/2026/07/22/pv-en-facade-le-verre-a-rainures-periodiques-capte-mieux-la-lumiere/",
-  "auteur": "Francois Puthod",
-  "resume": "Une équipe de recherche chinoise a mis au point une structure de verre à rainures périodiques afin d'améliorer la capture de la lumière par les modules photovoltaïques montés en façade. Leur conception réduit la réflexion aux angles d'incidence élevés tout en restant compatible […]",
-  "pub": "2026-07-22",
-  "ts": 1784701800.0,
-  "vu": "2026-07-22"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "La Suisse a posé des panneaux solaires entre les rails : un an après, les résultats sont si bons que la SNCF a envoyé ses ingénieurs sur place",
-  "lien": "https://lenergeek.com/2026/07/22/la-suisse-a-pose-des-panneaux-solaires-entre-les-rails-un-an-apres-les-resultats-sont-si-bons-que-la-sncf-a-envoye-ses-ingenieurs-sur-place/",
-  "auteur": "Gabin Laurent",
-  "resume": "11 000 trains sont passés dessus, zéro incident. Ces panneaux solaires posés entre les rails suisses intriguent déjà la SNCF, l'Italie et la Corée du Sud. Leur secret ? Il tient en une dizaine de minutes chrono. L’article La Suisse a posé des panneaux solaires entre les rails  […]",
-  "pub": "2026-07-22",
-  "ts": 1784701231.0,
-  "vu": "2026-07-22"
- },
- {
-  "source": "Enerzine",
-  "titre": "naca.boost, l’éolienne à axe vertical qui dompte les vents proches du sol",
-  "lien": "https://www.enerzine.com/naca-boost-leolienne-a-axe-vertical-qui-dompte-les-vents-proches-du-sol/191502-2026-07",
-  "auteur": "La rédaction",
-  "resume": "La société autrichienne novventos, basée à Neukirchen, a dévoilé naca.boost, une éolienne à axe vertical conçue pour exploiter les vents turbulents proches du sol. Aboutissement de trois années de recherche, ce système hybride éolien-solaire vise une production annuelle pouvant […]",
-  "pub": "2026-07-22",
-  "ts": 1784699100.0,
-  "vu": "2026-07-22"
- },
- {
-  "source": "Enerzine",
-  "titre": "Battwoo donne une seconde vie aux batteries de voitures électriques",
-  "lien": "https://www.enerzine.com/battwoo-donne-une-seconde-vie-aux-batteries-de-voitures-electriques/191394-2026-07",
-  "auteur": "La rédaction",
-  "resume": "Battwoo, jeune pousse française fondée en 2023, reconvertit des batteries de véhicules électriques usagées en systèmes de stockage stationnaire pour les professionnels. Une logique d’économie circulaire qui prolonge la durée de vie des accumulateurs de 15 à 30 ans, tout en […]",
-  "pub": "2026-07-22",
-  "ts": 1784697000.0,
-  "vu": "2026-07-22"
  }
 ]
