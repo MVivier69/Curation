@@ -1,5 +1,85 @@
 [
  {
+  "source": "pv magazine",
+  "titre": "Dutch researchers present power management system for PV, batteries, heat pumps, EVs",
+  "lien": "https://www.pv-magazine.com/2026/08/03/dutch-researchers-develop-power-management-system-for-pv-batteries-heat-pumps-evs/",
+  "auteur": "Lior Kahana",
+  "resume": "An optimization framework from TU Delft researchers jointly manages PV, battery storage, electric vehicles and heat pumps while participating in energy arbitrage and ancillary service markets.",
+  "pub": "2026-08-03",
+  "ts": 1785751200.0,
+  "vu": "2026-08-03"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "TotalEnergies fait affaire avec Shell et KKR dans les renouvelables",
+  "lien": "https://www.greenunivers.com/2026/08/totalenergies-fait-affaire-avec-shell-et-kkr-dans-les-renouvelables-431218/",
+  "auteur": "Jacopo Landi",
+  "resume": "TotalEnergies annonce l’acquisition de l’activité dans le solaire et l’éolien terrestre en Europe de Shell et un accord avec KKR pour lui céder 50% d’un portefeuille renouvelable dans quatre pays européens, dont la France. Shell se sépare L’article TotalEnergies fait affaire […]",
+  "pub": "2026-08-03",
+  "ts": 1785750741.0,
+  "vu": "2026-08-03"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "CVE sécurise 350 millions d’euros pour son développement",
+  "lien": "https://www.pv-magazine.fr/2026/08/03/cve-securise-350-millions-deuros-pour-son-developpement/",
+  "auteur": "Francois Puthod",
+  "resume": "CVE conclut une opération de financement de 350 millions d’euros avec Macquarie Asset Management pour accompagner le développement de ses activités solaires.",
+  "pub": "2026-08-03",
+  "ts": 1785749400.0,
+  "vu": "2026-08-03"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Le Maroc accueille la première usine de fabrication de batteries d’Afrique",
+  "lien": "https://www.pv-magazine.fr/2026/08/03/le-maroc-accueille-la-premiere-usine-de-fabrication-de-batteries-dafrique/",
+  "auteur": "Marie Beyer",
+  "resume": "Installée dans la zone franche atlantique de Rabat-Salé-Kénitra, l'usine du Chinois Gotion High-Tech repose sur la technologie cathode-to-cell lithium-fer-phosphate (LFP) battery avec une capacité initiale de 10 GWh destinée au marché automobile.",
+  "pub": "2026-08-03",
+  "ts": 1785747600.0,
+  "vu": "2026-08-03"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Peruvian researchers develop foldable solar panels for naval, mining applications",
+  "lien": "https://www.pv-magazine.com/2026/08/03/peruvian-researchers-develop-foldable-solar-panels-for-naval-mining-applications/",
+  "auteur": "Patrick Jowett",
+  "resume": "The technology uses a pattern inspired by Japanese origami to fold the photovoltaic panels in a single movement. A prototype weighs around 6 kg and can be transported in a suitcase.",
+  "pub": "2026-08-03",
+  "ts": 1785745800.0,
+  "vu": "2026-08-03"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "DHL et LONGi Solar scellent un partenariat pour verdir la logistique européenne",
+  "lien": "https://www.enerzine.com/dhl-et-longi-solar-scellent-un-partenariat-pour-verdir-la-logistique-europeenne/191691-2026-08",
+  "auteur": "La rédaction",
+  "resume": "DHL Group et LONGi Solar ont officialisé un protocole d’accord visant à déployer des solutions solaires décentralisées sur les infrastructures logistiques du groupe allemand en Europe. L’alliance prévoit également un élargissement des services logistiques au profit du fabricant […]",
+  "pub": "2026-08-03",
+  "ts": 1785733800.0,
+  "vu": "2026-08-03"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "L’agriculture par plasma progresse vers le surpassement des méthodes conventionnelles",
+  "lien": "https://www.enerzine.com/lagriculture-par-plasma-progresse-vers-le-surpassement-des-methodes-conventionnelles/191358-2026-08",
+  "auteur": "La rédaction",
+  "resume": "De temps en temps, le soleil libère de puissantes éruptions et éjections de masse coronale qui projettent du plasma et des particules énergétiques dans l’espace. Sur la Terre primitive, cette activité solaire a entraîné des cascades de réactions chimiques atmosphériques qui ont […]",
+  "pub": "2026-08-03",
+  "ts": 1785730200.0,
+  "vu": "2026-08-03"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "Des lunes de Neptune seraient nées de catastrophes cosmiques !",
+  "lien": "https://www.futura-sciences.com/sciences/actualites/neptune-lunes-neptune-seraient-nees-catastrophes-cosmiques-136654/",
+  "auteur": "Laurent Sacco, Journaliste scientifique",
+  "resume": "Certaines des caractéristiques du Système solaire, à commencer par l'origine de la Lune, s'expliquent par des événements et des scénarios violents. Que faut-il en penser dans le cas de certaines des lunes de Neptune depuis que le télescope James-Webb a pris le relais de Hubble ?",
+  "pub": "2026-08-02",
+  "ts": 1785687780.0,
+  "vu": "2026-08-03"
+ },
+ {
   "source": "CleanTechnica",
   "titre": "Janus Battery Swap Trucks Show The Way",
   "lien": "https://cleantechnica.com/2026/08/01/janus-battery-swap-trucks-show-the-way/",
@@ -1027,136 +1107,6 @@
   "resume": "JinkoSolar has launched a standardized solar-plus-storage package for commercial and industrial customers, combining solar modules, liquid-cooled batteries, and AI-based energy management under one platform.",
   "pub": "2026-07-24",
   "ts": 1784869602.0,
-  "vu": "2026-07-24"
- },
- {
-  "source": "Batiactu",
-  "titre": "NGE s'associe à un spécialiste de la production d'énergie renouvelable",
-  "lien": "https://www.batiactu.com/edito/nge-s-associe-a-un-specialiste-production-energies-75044.php",
-  "auteur": "Batiactu",
-  "resume": "STRATÉGIE. Le spécialiste du BTP avance ses pions afin de constituer une offre globale pour accompagner ses clients dans la transition énergétique.",
-  "pub": "2026-07-23",
-  "ts": 1784819712.0,
-  "vu": "2026-07-24"
- },
- {
-  "source": "CleanTechnica",
-  "titre": "Prague’s Trolleybus Data Show Why Hard Bus Routes Don’t Need Hydrogen",
-  "lien": "https://cleantechnica.com/2026/07/23/prague-trolleybus-hydrogen-bus-problem/",
-  "auteur": "Michael Barnard",
-  "resume": "Transit agencies often reach for hydrogen after starting with real operating constraints and skipping a systems-design step. Hills, long duties, heavy passenger loads, constrained depots and the need to keep buses moving are treated as evidence that batteries cannot do the work […]",
-  "pub": "2026-07-23",
-  "ts": 1784817846.0,
-  "vu": "2026-07-24"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Robbin Tian : « SAMDUO veut devenir la référence mondiale en matière d'intelligence énergétique domestique »",
-  "lien": "https://www.futura-sciences.com/tech/actualites/technologie-robbin-tian-samduo-veut-devenir-reference-mondiale-matiere-intelligence-energetique-domestique-135737/",
-  "auteur": "Futura Partenariats, Contenu sponsorisé",
-  "resume": "Nouveau acteur sur le marché du solaire, SAMDUO affiche de grandes ambitions. Le fabricant chinois a mis au point la batterie domestique la plus fine au monde, et entend devenir un acteur incontournable de la transition énergétique en Europe.",
-  "pub": "2026-07-23",
-  "ts": 1784817000.0,
-  "vu": "2026-07-24"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Incendies : comment le débroussaillement a protégé une centrale photovoltaïque des flammes",
-  "lien": "https://www.pv-magazine.fr/2026/07/23/incendies-comment-le-debroussaillement-a-protege-une-centrale-photovoltaique-des-flammes/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Malgré le passage d'un incendie d'une ampleur exceptionnelle, une centrale photovoltaïque de 11 MWc exploitée par Luxel n'a enregistré que des dégâts mineurs. L'entreprise met en avant le rôle du débroussaillement réglementaire et des procédures de mise en sécurité du site.",
-  "pub": "2026-07-23",
-  "ts": 1784815200.0,
-  "vu": "2026-07-24"
- },
- {
-  "source": "pv magazine France",
-  "titre": "L’acteur du BTP NGE se renforce dans les renouvelables avec l’entrée au capital de Gaïa Energy Systems",
-  "lien": "https://www.pv-magazine.fr/2026/07/23/lacteur-du-btp-nge-se-renforce-dans-les-renouvelables-avec-lentree-au-capital-de-gaia-energy-systems/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "En prenant une participation dans Gaïa Energy Systems, le groupe français de BTP poursuit sa diversification dans les infrastructures énergétiques. L'opération lui apporte des actifs déjà en exploitation ainsi que des projets de développement dans plusieurs filières […]",
-  "pub": "2026-07-23",
-  "ts": 1784811600.0,
-  "vu": "2026-07-24"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Masdar boucle le financement de son premier projet d’énergie renouvelable disponible 24h/24",
-  "lien": "https://www.pv-magazine.fr/2026/07/23/masdar-boucle-le-financement-de-son-premier-projet-denergie-renouvelable-disponible-24h-24/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Présenté comme une première mondiale, le projet « Round-the-Clock » de Masdar entend démontrer qu'il est désormais possible de produire de l'électricité renouvelable en continu grâce au couplage d'une centrale solaire de 5,2 GW et d'un système de stockage de 19 GWh. Son […]",
-  "pub": "2026-07-23",
-  "ts": 1784808000.0,
-  "vu": "2026-07-24"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Alpiq prend une participation de 90 % dans Harmony Energy",
-  "lien": "https://www.pv-magazine.fr/2026/07/23/alpiq-prend-une-participation-de-90-dans-harmony-energy/",
-  "auteur": "Francois Puthod",
-  "resume": "Le producteur suisse Alpiq acquiert 90 % des parts d'Harmony Energy, société britannique de développement et d'exploitation de systèmes de stockage d'énergie par batterie (BESS).",
-  "pub": "2026-07-23",
-  "ts": 1784797200.0,
-  "vu": "2026-07-24"
- },
- {
-  "source": "pv magazine France",
-  "titre": "[L’installation du jour] Une friche reconvertie en parc solaire bas carbone",
-  "lien": "https://www.pv-magazine.fr/2026/07/23/linstallation-du-jour-une-friche-reconvertie-en-parc-solaire-bas-carbone/",
-  "auteur": "Francois Puthod",
-  "resume": "À Allonnes (Sarthe), l’aménageur Cénovia et l’opérateur solaire SeeYouSun ont mené un projet emblématique : la reconversion d'une ancienne friche en centrale photovoltaïque, construite avec des matériaux à faible empreinte environnementale. Visite de chantier.",
-  "pub": "2026-07-23",
-  "ts": 1784793600.0,
-  "vu": "2026-07-23"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Une étude d’EDF montre que les installations agrivoltaïques surélevées offrent une meilleure protection des cultures",
-  "lien": "https://www.pv-magazine.fr/2026/07/23/une-etude-dedf-montre-que-les-installations-agrivoltaiques-surelevees-offrent-une-meilleure-protection-des-cultures/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "L'étude montre que les configurations photovoltaïques surélevées permettent de limiter les effets du gel blanc et du stress thermique, tandis que les configurations photovoltaïques verticales améliorent la protection contre le vent, soulignant l'importance de trouver un […]",
-  "pub": "2026-07-23",
-  "ts": 1784791800.0,
-  "vu": "2026-07-23"
- },
- {
-  "source": "pv magazine France",
-  "titre": "L’Allemagne lance son premier appel d’offres de capacité",
-  "lien": "https://www.pv-magazine.fr/2026/07/23/lallemagne-lance-son-premier-appel-doffres-de-capacite/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "L'Agence fédérale allemande des réseaux (Bundesnetzagentur) a lancé le premier appel d'offres de 4,5 GW dans le cadre de la nouvelle loi StromVKG, invitant les développeurs à soumissionner pour des capacités de production pilotables et de stockage d'énergie de longue durée […]",
-  "pub": "2026-07-23",
-  "ts": 1784788200.0,
-  "vu": "2026-07-23"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "La facture des énergies renouvelables va encore augmenter en 2027 mais pourquoi ?",
-  "lien": "https://lenergeek.com/2026/07/23/la-facture-des-energies-renouvelables-va-encore-augmenter-en-2027-mais-pourquoi/",
-  "auteur": "Gabin Laurent",
-  "resume": "14,2 milliards d'euros : c'est ce que coûteront les renouvelables en 2027. Photovoltaïque, éolien, Outre-mer... Qui paie vraiment la facture, et pourquoi les vieux panneaux solaires plombent encore les comptes ? Les chiffres surprennent. L’article La facture des énergies […]",
-  "pub": "2026-07-23",
-  "ts": 1784785800.0,
-  "vu": "2026-07-23"
- },
- {
-  "source": "Enerzine",
-  "titre": "Cellules solaires à triple jonction en pérovskite : les bicouches GO/SAM les rendent encore plus efficaces",
-  "lien": "https://www.enerzine.com/cellules-solaires-a-triple-jonction-en-perovskite-les-bicouches-go-sam-les-rendent-encore-plus-efficaces/190863-2026-07",
-  "auteur": "La rédaction",
-  "resume": "Les semiconducteurs en pérovskite convertissent efficacement la lumière solaire en énergie électrique ; ils sont également peu coûteux et extrêmement légers. Une équipe du HZB a développé une cellule solaire à triple jonction composée de différents semiconducteurs en pérovskite […]",
-  "pub": "2026-07-23",
-  "ts": 1784779800.0,
-  "vu": "2026-07-23"
- },
- {
-  "source": "Connaissance des Énergies",
-  "titre": "Énergies renouvelables : les dernières statistiques par filière et par zone géographique",
-  "lien": "https://www.connaissancedesenergies.org/energies-renouvelables-statistiques-irena-2026",
-  "auteur": "mael-dancette",
-  "resume": "L'Irena (Agence internationale pour les énergies renouvelables) a publié le 14 juillet dernier ses Renewable Energy Statistics 2026, qui détaillent filière par filière et pays par pays les capacités renouvelables installées dans le monde — et désormais les productions associées.",
-  "pub": "2026-07-23",
-  "ts": 1784764800.0,
   "vu": "2026-07-24"
  }
 ]
