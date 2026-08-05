@@ -1,5 +1,115 @@
 [
  {
+  "source": "pv magazine France",
+  "titre": "Avis de marchés publics dans le PV en France",
+  "lien": "https://www.pv-magazine.fr/2026/08/05/avis-de-marches-publics-dans-le-pv-en-france-132/",
+  "auteur": "Francois Puthod",
+  "resume": "Retrouvez chaque semaine dans pv magazine les appels d’offres publiés relatifs aux projets photovoltaïques en France.",
+  "pub": "2026-08-05",
+  "ts": 1785916800.0,
+  "vu": "2026-08-05"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "La Chine met fin à la guerre des prix du solaire",
+  "lien": "https://www.pv-magazine.fr/2026/08/05/la-chine-met-fin-a-la-guerre-des-prix-du-solaire/",
+  "auteur": "Vincent Shaw",
+  "resume": "Les autorités chinoises appellent les fabricants nationaux à mettre fin à la concurrence destructrice à prix cassés, mais n'ont pas encore imposé de prix plancher officiel.",
+  "pub": "2026-08-05",
+  "ts": 1785911400.0,
+  "vu": "2026-08-05"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Lumière verte en entrée, violette en sortie : une faible énergie convertie en haute énergie",
+  "lien": "https://www.enerzine.com/lumiere-verte-en-entree-violette-en-sortie-une-faible-energie-convertie-en-haute-energie/190889-2026-08",
+  "auteur": "La rédaction",
+  "resume": "Les cellules solaires et les photocatalyseurs peuvent être étonnamment inefficaces. Bien que la lumière soit composée de nombreuses longueurs d’onde, la plage utilisée par les dispositifs même très efficaces est limitée. Les autres longueurs d’onde, en particulier les grandes […]",
+  "pub": "2026-08-05",
+  "ts": 1785899400.0,
+  "vu": "2026-08-05"
+ },
+ {
+  "source": "CleanTechnica",
+  "titre": "The Elusive Dream Of Solar Powered EVs Is Not So Elusive After All",
+  "lien": "https://cleantechnica.com/2026/08/04/solar-powered-ev-aptera-qualifies-california-hov-lanes/",
+  "auteur": "Tina Casey",
+  "resume": "Built-in solar panels and futuristic aerodynamic styling enable Aptera EVs to run for 40 miles or so on solar energy alone, with batteries filling in for up to 1,000 miles per charge.",
+  "pub": "2026-08-05",
+  "ts": 1785895509.0,
+  "vu": "2026-08-05"
+ },
+ {
+  "source": "CleanTechnica",
+  "titre": "Energy Discovery Awaits Within the Spin of Atoms",
+  "lien": "https://cleantechnica.com/2026/08/04/energy-discovery-awaits-within-the-spin-of-atoms/",
+  "auteur": "US Department of Energy",
+  "resume": "National Laboratory of the Rockies Researchers Use Nuclear Magnetic Resonance To Advance Innovation in Batteries, Semiconductors, and Bioplastics When researchers bring their inventions into the laboratory of Bennett Addison, he often has one question for them: “Did you really […]",
+  "pub": "2026-08-04",
+  "ts": 1785880024.0,
+  "vu": "2026-08-05"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Italie relance le nucléaire après 40 ans",
+  "lien": "https://lenergeek.com/2026/08/04/italie-relance-nucleaire-40-ans-pari-technologique/",
+  "auteur": "Nicolas Egon",
+  "resume": "L'Italie relance le nucléaire avec les petits réacteurs modulaires après quarante ans d'arrêt, tout en bloquant 130 gigawatts de projets renouvelables. Cet arbitrage stratégique privilégie la continuité de production face à l'intermittence solaire et éolienne, pour répondre à […]",
+  "pub": "2026-08-04",
+  "ts": 1785852589.0,
+  "vu": "2026-08-05"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "La France, l’Allemagne, l’Italie, l’Espagne et le Portugal battent des records d’ensoleillement",
+  "lien": "https://www.pv-magazine.fr/2026/08/04/la-france-lallemagne-litalie-lespagne-et-le-portugal-battent-des-records-densoleillement/",
+  "auteur": "Francois Puthod",
+  "resume": "AleaSoft Energy Forecasting a enregistré cinq nouveaux records de production solaire journalière au cours du week-end d'août. Malgré ces records, le prix moyen hebdomadaire de l'électricité a dépassé 100 €/MWh (115,10 $) sur ces marchés la semaine dernière.",
+  "pub": "2026-08-04",
+  "ts": 1785848400.0,
+  "vu": "2026-08-05"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Batteries : combien rapporte 1 MW en juillet [Observatoire]",
+  "lien": "https://www.greenunivers.com/2026/08/batteries-combien-rapporte-1-mw-en-juillet-observatoire-431262/",
+  "auteur": "Jacopo Landi",
+  "resume": "Les écarts de prix au cours d’une journée ont encore augmenté sur le marché de l’électricité en juillet et le terrain de jeu reste L’article Batteries : combien rapporte 1 MW en juillet [Observatoire] est apparu en premier sur GreenUnivers .",
+  "pub": "2026-08-04",
+  "ts": 1785846408.0,
+  "vu": "2026-08-05"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "TotalEnergies rachète les activités renouvelables terrestres de Shell en Europe",
+  "lien": "https://www.pv-magazine.fr/2026/08/04/totalenergies-rachete-les-activites-renouvelables-terrestres-de-shell-en-europe/",
+  "auteur": "Francois Puthod",
+  "resume": "Le géant pétrogazier français renforce sa stratégie dans l’électricité verte en rachetant les activités européennes de Shell, tout en cédant 50 % de son portefeuille d’actifs dans le renouvelable au fonds américain KKR.",
+  "pub": "2026-08-04",
+  "ts": 1785844800.0,
+  "vu": "2026-08-05"
+ },
+ {
+  "source": "Energy-Storage.news",
+  "titre": "Prosalia and EDP hybridise solar PV/wind projects with batteries in Portugal, Spain",
+  "lien": "https://www.energy-storage.news/prosalia-and-edp-hybridise-solar-pv-wind-projects-with-batteries-in-portugal-spain/",
+  "auteur": "Cameron Murray",
+  "resume": "IPP Prosalia has commissioned a 15MW/60MWh battery storage system at a solar PV plant in Portugal, while power group EDP has added one to a hybrid wind and solar project in Spain.",
+  "pub": "2026-08-04",
+  "ts": 1785840988.0,
+  "vu": "2026-08-05"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Researchers design PVT heat pump with single integrated evaporator",
+  "lien": "https://www.pv-magazine.com/2026/08/04/researchers-design-pvt-heat-pump-with-single-integrated-evaporator/",
+  "auteur": "Lior Kahana",
+  "resume": "The dual-source photovoltaic-thermal (PVT) heat pump combines solar and ambient-air heat collection in a single finned evaporator, eliminating the need for separate heat exchangers. The researchers say the simplified design could reduce installation costs.",
+  "pub": "2026-08-04",
+  "ts": 1785837600.0,
+  "vu": "2026-08-05"
+ },
+ {
   "source": "pv magazine",
   "titre": "Photovoltaics feed record 12 TWh into Germany’s public grid in July",
   "lien": "https://www.pv-magazine.com/2026/08/04/photovoltaics-feed-record-12-twh-into-germanys-public-grid-in-july/",
@@ -1068,25 +1178,5 @@
   "pub": "2026-07-27",
   "ts": 1785133800.0,
   "vu": "2026-07-27"
- },
- {
-  "source": "CleanTechnica",
-  "titre": "Another Coal Power Plant Bites The Dust (Shhh! Don’t Tell Trump!)",
-  "lien": "https://cleantechnica.com/2026/07/25/coal-replaced-solar-batteries-clean-energy-transmission/",
-  "auteur": "Tina Casey",
-  "resume": "The Sherco coal generating station in Minnesota is converting to solar power, batteries, and a new transmission line that will deliver more clean energy, despite Trump's efforts to support coal producers.",
-  "pub": "2026-07-25",
-  "ts": 1784988294.0,
-  "vu": "2026-07-26"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "La Chine vient d’établir un record mondial en creusant un tunnel sous-marin le plus profond pour trains à grande vitesse",
-  "lien": "https://lenergeek.com/2026/07/25/la-chine-vient-detablir-un-record-mondial-en-creusant-un-tunnel-sous-marin-le-plus-profond-pour-trains-a-grande-vitesse/",
-  "auteur": "Claire Moreau",
-  "resume": "113 mètres sous la mer, un tunnelier qui ne s'arrête jamais, même à Noël. La Chine bat un record mondial en pleine construction d'une ligne à grande vitesse. Comment ses ingénieurs dominent treize couches géologiques différentes ? L’article La Chine vient d’établir un record […]",
-  "pub": "2026-07-25",
-  "ts": 1784956859.0,
-  "vu": "2026-07-25"
  }
 ]
