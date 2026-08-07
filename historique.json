@@ -1,6 +1,166 @@
 [
  {
   "source": "pv magazine",
+  "titre": "Solar brings connectivity to more than 2,000 communities in the Brazilian Amazon",
+  "lien": "https://www.pv-magazine.com/2026/08/07/solar-brings-connectivity-to-more-than-2000-communities-in-the-brazilian-amazon/",
+  "auteur": "Patrick Jowett",
+  "resume": "An annual report by a collaborative initiative in the Brazilian Amazon highlights the expansion of off-grid photovoltaic systems to power internet, health and education equipment in areas without access to the electricity grid.",
+  "pub": "2026-08-07",
+  "ts": 1786087800.0,
+  "vu": "2026-08-07"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "L’agenda de la transition énergétique",
+  "lien": "https://www.greenunivers.com/2026/08/lagenda-de-la-transition-energetique-280-424554/",
+  "auteur": "GreenUnivers",
+  "resume": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique […]",
+  "pub": "2026-08-07",
+  "ts": 1786087270.0,
+  "vu": "2026-08-07"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Les documents de la semaine",
+  "lien": "https://www.greenunivers.com/2026/08/les-documents-de-la-semaine-381215/",
+  "auteur": "GreenUnivers",
+  "resume": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de […]",
+  "pub": "2026-08-07",
+  "ts": 1786087198.0,
+  "vu": "2026-08-07"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Growatt lance un système de stockage tout-en-un pour le solaire résidentiel",
+  "lien": "https://www.pv-magazine.fr/2026/08/07/growatt-lance-un-systeme-de-stockage-tout-en-un-pour-le-solaire-residentiel/",
+  "auteur": "Francois Puthod",
+  "resume": "Le fabricant chinois annonce lancement de Mina, son nouveau système monophasé tout-en-un pour le stockage d'énergie domestique.",
+  "pub": "2026-08-07",
+  "ts": 1786086000.0,
+  "vu": "2026-08-07"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Italian scientists unveil 121-sensor platform for agrivoltaic greenhouse monitoring",
+  "lien": "https://www.pv-magazine.com/2026/08/07/new-121-sensor-platform-for-agrivoltaic-greenhouse-monitoring/",
+  "auteur": "Lior Kahana",
+  "resume": "An Italian research team has developed a 121-sensor monitoring platform for agrivoltaic greenhouses, integrating PV performance, microclimate analysis, and automated irrigation control. Tested under real conditions in a semi-transparent PV greenhouse, the system enables detailed […]",
+  "pub": "2026-08-07",
+  "ts": 1786086000.0,
+  "vu": "2026-08-07"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Le 12 août, l’éclipse fera chuter le solaire de 1 800 MW en France",
+  "lien": "https://www.enerzine.com/le-12-aout-leclipse-fera-chuter-le-solaire-de-1-800-mw-en-france/192493-2026-08",
+  "auteur": "La rédaction",
+  "resume": "Une éclipse solaire traversera l’Europe le 12 août en début de soirée et occultera jusqu’à 99 % du soleil en France. RTE anticipe une chute de 1 800 MW de production photovoltaïque et mobilise ses équipes, en coordination avec les gestionnaires européens, pour maintenir […]",
+  "pub": "2026-08-07",
+  "ts": 1786081500.0,
+  "vu": "2026-08-07"
+ },
+ {
+  "source": "Révolution Énergétique",
+  "titre": "La plus grande centrale solaire de France épargnée par les méga feux",
+  "lien": "https://www.revolution-energetique.com/actus/la-plus-grande-centrale-solaire-de-france-epargnee-par-les-mega-feux/",
+  "auteur": "Hector PIETRANI",
+  "resume": "Habitants évacués, maisons abandonnées : la commune de Cestas n’a pas été épargnée par les graves incendies qui ont ravagés plus de 42 000 hectares […] L’article La plus grande centrale solaire de France épargnée par les méga feux est apparu en premier sur Révolution Énergétique […]",
+  "pub": "2026-08-07",
+  "ts": 1786080747.0,
+  "vu": "2026-08-07"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "20e Forum EnerGaïa | 9 et 10 décembre à Montpellier",
+  "lien": "https://www.lechodusolaire.fr/20e-forum-energaia-9-et-10-decembre-a-montpellier/",
+  "auteur": "F. Fassot",
+  "resume": "Le Forum EnerGaïa fête ses vingt ans les 9 et 10 décembre 2026 au parc des expositions de Montpellier. Organisé par la Région Occitanie, le rendez-vous consacré aux énergies renouvelables place son édition anniversaire sur le thème de la construction du nouveau système […]",
+  "pub": "2026-08-06",
+  "ts": 1786032105.0,
+  "vu": "2026-08-07"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "AgriVoltaics Industry Forum Europe | 13 et 14 octobre à Bordeaux",
+  "lien": "https://www.lechodusolaire.fr/agrivoltaics-industry-forum-europe-13-et-14-octobre-a-bordeaux/",
+  "auteur": "F. Fassot",
+  "resume": "L’AgriVoltaics Industry Forum Europe se tient les 13 et 14 octobre 2026 au château Gassies, à Bordeaux. Organisé par l’Allemand Conexio-PSE, avec SolarPower Europe et Intersolar Europe pour partenaires, il réunit les professionnels du solaire et du monde agricole. Le programme […]",
+  "pub": "2026-08-06",
+  "ts": 1786032054.0,
+  "vu": "2026-08-07"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "27e Colloque annuel du Syndicat des énergies renouvelables | 29 septembre à Paris",
+  "lien": "https://www.lechodusolaire.fr/27e-colloque-annuel-du-syndicat-des-energies-renouvelables-29-septembre-a-paris/",
+  "auteur": "F. Fassot",
+  "resume": "Le 27e Colloque annuel du Syndicat des énergies renouvelables se tiendra le mardi 29 septembre 2026 à la Cité des Sciences et de l’Industrie, à Paris, sur le thème « 2027 : Construire aujourd’hui le futur de l’énergie ». Le SER place cette édition sous le signe de l’échéance […]",
+  "pub": "2026-08-06",
+  "ts": 1786028996.0,
+  "vu": "2026-08-07"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "9e édition de l’Université de l’autoconsommation photovoltaïque | 23 septembre à Paris",
+  "lien": "https://www.lechodusolaire.fr/9e-edition-de-luniversite-de-lautoconsommation-photovoltaique-23-septembre-a-paris/",
+  "auteur": "F. Fassot",
+  "resume": "Enerplan organise la 9e édition de l’Université de l’autoconsommation photovoltaïque (UAPV) le mercredi 23 septembre 2026 au Comet Bourse, à Paris, et en distanciel. Le syndicat des professionnels de l’énergie solaire reconduit le format inauguré l’an dernier : une journée […]",
+  "pub": "2026-08-06",
+  "ts": 1786028959.0,
+  "vu": "2026-08-07"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "EU PVSEC 2026 | du 14 au 18 septembre à Rotterdam",
+  "lien": "https://www.lechodusolaire.fr/eu-pvsec-2026-du-14-au-18-septembre-a-rotterdam/",
+  "auteur": "F. Fassot",
+  "resume": "La 43e édition d’EU PVSEC, la conférence européenne sur l’énergie solaire photovoltaïque, se tiendra du 14 au 18 septembre 2026 à Rotterdam, aux Pays-Bas. Organisée par l’Allemand WIP Renewable Energies, avec la coordination scientifique du Centre commun de recherche de la […]",
+  "pub": "2026-08-06",
+  "ts": 1786025118.0,
+  "vu": "2026-08-07"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "South Korea proceeds with largest single-site PV project to date",
+  "lien": "https://www.pv-magazine.com/2026/08/06/south-korea-proceeds-with-largest-single-site-pv-project-to-date/",
+  "auteur": "Patrick Jowett",
+  "resume": "The 400 MW solar complex, scheduled for completion in 2028, is expected to supply 529 GWh of electricity annually. The project will include a 10 MW agrivoltaics array.",
+  "pub": "2026-08-06",
+  "ts": 1786014000.0,
+  "vu": "2026-08-07"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Philippines plans green energy auction for agrivoltaics, aquavoltaics",
+  "lien": "https://www.pv-magazine.com/2026/08/06/philippines-plans-green-energy-auction-for-agrivoltaics-aquavoltaics/",
+  "auteur": "Patrick Jowett",
+  "resume": "The country's Department of Energy says its ninth green energy auction will focus on integrating solar with agriculture and aquaculture activities. The department has also announced plans for an auction targeting off-grid renewables deployment across 20 selected islands.",
+  "pub": "2026-08-06",
+  "ts": 1786012200.0,
+  "vu": "2026-08-07"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Sonnedix sécurise 730 millions d’euros pour son développement en Europe du Sud",
+  "lien": "https://www.pv-magazine.fr/2026/08/06/sonnedix-securise-730-millions-deuros-pour-son-developpement-en-europe-du-sud/",
+  "auteur": "Francois Puthod",
+  "resume": "Les fonds seront répartis entre des actifs solaires et de stockage situés en France, en Italie, au Portugal et en Espagne.",
+  "pub": "2026-08-06",
+  "ts": 1786006800.0,
+  "vu": "2026-08-07"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Brazil proposes mandatory take-back scheme for solar panels, batteries",
+  "lien": "https://www.pv-magazine.com/2026/08/06/brazil-proposes-mandatory-take-back-scheme-for-solar-panels-batteries/",
+  "auteur": "Patrick Jowett",
+  "resume": "A bill under review in Brazil's Chamber of Deputies stipulates that manufacturers, importers and retailers should be responsible for collecting and recycling equipment after its end-of-life.",
+  "pub": "2026-08-06",
+  "ts": 1786006800.0,
+  "vu": "2026-08-07"
+ },
+ {
+  "source": "pv magazine",
   "titre": "Agrivoltaics improve grape quality in Mediterranean rainfed vineyards",
   "lien": "https://www.pv-magazine.com/2026/08/06/agrivoltaics-improve-grape-quality-in-mediterranean-rainfed-vineyards/",
   "auteur": "Emiliano Bellini",
@@ -58,6 +218,16 @@
   "pub": "2026-08-05",
   "ts": 1785951005.0,
   "vu": "2026-08-06"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "L’éclipse solaire pourrait effacer 9,7 GW de photovoltaïque en Europe [RTE]",
+  "lien": "https://www.greenunivers.com/2026/08/leclipse-solaire-pourrait-effacer-97-gw-de-photovoltaique-en-europe-rte-431306/",
+  "auteur": "Jacopo Landi",
+  "resume": "Le nord-est de l’Espagne et le sud-ouest de la France seront concernés la semaine prochaine par une éclipse solaire. Elle sera totale au-delà des L’article L’éclipse solaire pourrait effacer 9,7 GW de photovoltaïque en Europe [RTE] est apparu en premier sur GreenUnivers .",
+  "pub": "2026-08-05",
+  "ts": 1785942025.0,
+  "vu": "2026-08-07"
  },
  {
   "source": "pv magazine France",
@@ -1058,215 +1228,5 @@
   "pub": "2026-07-28",
   "ts": 1785220200.0,
   "vu": "2026-07-28"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "A Cestas, la centrale solaire de Neoen sauvée des flammes",
-  "lien": "https://www.greenunivers.com/2026/07/a-cestas-la-centrale-solaire-de-neoen-sauvee-des-flammes-430665/",
-  "auteur": "Jean-Philippe Pié",
-  "resume": "Article complété en cours de journée le 27 juillet – La plus puissante centrale photovoltaïque de France a été sauvée des flammes ce week-end, mais, encerclée par l’incendie, elle a eu très chaud et est à l’arrêt. A Cestas, entre Bordeaux et Arcachon (Gironde), dans la nuit de […]",
-  "pub": "2026-07-27",
-  "ts": 1785169221.0,
-  "vu": "2026-07-27"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "En Gironde, des centrales solaires à l’arrêt",
-  "lien": "https://www.greenunivers.com/2026/07/en-gironde-des-centrales-solaires-a-larret-430743/",
-  "auteur": "Jean-Philippe Pié",
-  "resume": "Plusieurs centrales solaires sont à l’arrêt en Gironde, dans le périmètre exposé au feu géant qui a ravagé le centre-ouest du département ce week-end et reste actif. La centrale exploitée par Neoen en milieu forestier dans la commune de Cestas s’est retrouvée encerclée par les […]",
-  "pub": "2026-07-27",
-  "ts": 1785169165.0,
-  "vu": "2026-07-28"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "L’actu solaire de juillet 2026",
-  "lien": "https://www.lechodusolaire.fr/lactu-solaire-de-juillet-2026/",
-  "auteur": "Frédéric Fassot",
-  "resume": "Pendant longtemps, la question posée à la filière photovoltaïque française a été celle de sa croissance. Juillet 2026 en a posé une autre. Le parc n’a jamais été aussi étendu, avec 30 438 MW raccordés fin 2025 et 5941 MW ajoutés sur l’année selon le panorama publié le 16 juillet […]",
-  "pub": "2026-07-27",
-  "ts": 1785165659.0,
-  "vu": "2026-07-28"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Solmeria Market : l’achat-vente de projets solaires et de stockage à l’unité",
-  "lien": "https://www.pv-magazine.fr/2026/07/27/solmeria-market-lachat-vente-de-projets-solaires-et-de-stockage-a-lunite/",
-  "auteur": "Francois Puthod",
-  "resume": "Apporteur d'affaires des développeurs photovoltaïques, Solmeria (ex-Ferme Solaire) a lancé, début juillet, une plateforme originale d’achat et de vente de projets solaires et BESS en France et en Europe.",
-  "pub": "2026-07-27",
-  "ts": 1785160800.0,
-  "vu": "2026-07-28"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "Faute de calendrier, la filière solaire porte son combat sur la place publique, en ordre dispersé",
-  "lien": "https://www.lechodusolaire.fr/faute-de-calendrier-la-filiere-solaire-porte-son-combat-sur-la-place-publique-en-ordre-disperse/",
-  "auteur": "Frédéric Fassot",
-  "resume": "Un mois après avoir été reçues par la ministre déléguée chargée de l’Énergie sans obtenir d’annonce, les organisations du photovoltaïque ont changé de canal. Enerplan a acheté une pleine page dans un hebdomadaire national pour interpeller le Premier ministre, quand la FNES […]",
-  "pub": "2026-07-27",
-  "ts": 1785160016.0,
-  "vu": "2026-07-28"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "Prix négatifs : le seuil d’arrêt de production divisé par dix et ramené à 1 MW",
-  "lien": "https://www.lechodusolaire.fr/prix-negatifs-le-seuil-darret-de-production-divise-par-dix-et-ramene-a-1-mw/",
-  "auteur": "F. Fassot",
-  "resume": "Un arrêté du 20 juillet 2026, publié au Journal officiel du 24 juillet, abaisse de 10 à 1 mégawatt le seuil à partir duquel une installation solaire ou éolienne sous contrat de soutien peut se voir imposer l’arrêt de sa production en période de prix négatifs. Le seuil qu’il […]",
-  "pub": "2026-07-27",
-  "ts": 1785159984.0,
-  "vu": "2026-07-28"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "Reden ferme son usine de panneaux solaires dix-neuf mois après son inauguration",
-  "lien": "https://www.lechodusolaire.fr/reden-ferme-son-usine-de-panneaux-solaires-dix-neuf-mois-apres-son-inauguration/",
-  "auteur": "F. Fassot",
-  "resume": "Le producteur d’énergie agenais a annoncé le 10 juillet la fermeture de Reden Industries, sa filiale d’assemblage de modules photovoltaïques à Roquefort, dans le Lot-et-Garonne. Neuf salariés sont concernés. L’outil de nouvelle génération qui s’arrête avait été inauguré en […]",
-  "pub": "2026-07-27",
-  "ts": 1785159969.0,
-  "vu": "2026-07-28"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "Enedis et RTE publient la carte des zones saturées pour les renouvelables",
-  "lien": "https://www.lechodusolaire.fr/enedis-et-rte-publient-la-carte-des-zones-saturees-pour-les-renouvelables/",
-  "auteur": "Frédéric Fassot",
-  "resume": "Enedis et RTE ont mis en ligne une cartographie des zones où le réseau ne peut plus accueillir de nouvelles capacités renouvelables. 239 zones sur près de 2300 sont concernées, soit environ 10% du territoire métropolitain, avec des délais d’attente d’au moins cinq ans. Les […]",
-  "pub": "2026-07-27",
-  "ts": 1785159937.0,
-  "vu": "2026-07-28"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "JPee et Générale du Solaire engagent leur rapprochement avec la Banque des Territoires",
-  "lien": "https://www.lechodusolaire.fr/jpee-et-generale-du-solaire-engagent-leur-rapprochement-avec-la-banque-des-territoires/",
-  "auteur": "F. Fassot",
-  "resume": "Les producteurs indépendants français JP Energie Environnement (JPee) et Générale du Solaire ont signé le 6 juillet 2026, avec la Banque des Territoires, un protocole d’accord en vue d’un rapprochement entre égaux. Le nouvel ensemble réunirait plus de 1,2 GW de centrales […]",
-  "pub": "2026-07-27",
-  "ts": 1785159933.0,
-  "vu": "2026-07-28"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "Le solaire a fourni un quart de l’électricité de l’Union européenne en juin",
-  "lien": "https://www.lechodusolaire.fr/le-solaire-a-fourni-un-quart-de-lelectricite-de-lunion-europeenne-en-juin/",
-  "auteur": "F. Fassot",
-  "resume": "Le solaire a produit 52 TWh d’électricité dans l’Union européenne en juin 2026, soit 25% de la production du mois, selon les données mensuelles publiées le 14 juillet par Ember. C’est la première fois que la filière franchit le seuil du quart, et seulement la troisième fois […]",
-  "pub": "2026-07-27",
-  "ts": 1785159908.0,
-  "vu": "2026-07-28"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "Les renouvelables ont fourni 31,7% de l’électricité mondiale, loin des 78% requis en 2035",
-  "lien": "https://www.lechodusolaire.fr/les-renouvelables-ont-fourni-317-de-lelectricite-mondiale-loin-des-78-requis-en-2035/",
-  "auteur": "F. Fassot",
-  "resume": "Selon les statistiques 2026 de l’IRENA, la production électrique renouvelable a progressé de 9,8% en 2024, sa plus forte croissance jamais enregistrée, pour atteindre 9836 TWh et 31,7% de la production mondiale. L’agence relève dans le même temps que la cible d’électrification […]",
-  "pub": "2026-07-27",
-  "ts": 1785159796.0,
-  "vu": "2026-07-28"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Quand le solaire n’a nulle part où aller : transformer l’électricité photovoltaïque écrêtée en énergie pilotable",
-  "lien": "https://www.pv-magazine.fr/2026/07/27/quand-le-solaire-na-nulle-part-ou-aller-transformer-lelectricite-photovoltaique-ecretee-en-energie-pilotable/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "La prochaine frontière économique du solaire pourrait ne pas consister à produire un autre kilowattheure à bas coût. Elle pourrait résider dans la recherche d’un usage productif pour les kilowattheures que le réseau ne peut pas accepter.",
-  "pub": "2026-07-27",
-  "ts": 1785157200.0,
-  "vu": "2026-07-28"
- },
- {
-  "source": "pv magazine France",
-  "titre": "[En images] 12 GWc en autoconsommation sur le toit d’ID Logistics, à Amiens",
-  "lien": "https://www.pv-magazine.fr/2026/07/27/en-images-12-gwc-en-autoconsommation-sur-le-toit-did-logistics-a-amiens/",
-  "auteur": "Francois Puthod",
-  "resume": "Le producteur d’énergie renouvelable Idex a inauguré, le 17 juillet dernier sur le site logistique d’Amiens Saint-Sauveur, l'une des plus grandes centrales photovoltaïques en toiture de France.",
-  "pub": "2026-07-27",
-  "ts": 1785153600.0,
-  "vu": "2026-07-28"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "REP Emballages professionnels : deux spécialistes du réemploi agréés en tant que systèmes individuels",
-  "lien": "https://www.actu-environnement.com/ae/news/agrements-rep-emballages-professionnels-sysemes-individuels-48364.php4",
-  "auteur": "",
-  "resume": "Dimanche 26 juillet sont parus au Journal officiel les arrêtés d'agrément de deux systèmes individuels de la filière à responsabilité élargie du producteur d'emballages professionnels (REP Epro). Ces agréments courent jusqu'au 31 décembre 2031. C...",
-  "pub": "2026-07-27",
-  "ts": 1785151450.0,
-  "vu": "2026-07-28"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Batteries électriques : la pertinence du pari français",
-  "lien": "https://lenergeek.com/2026/07/27/batteries-electriques-la-pertinence-du-pari-francais/",
-  "auteur": "La Rédaction",
-  "resume": "Retards de livraisons, pression sur les coûts, concurrence asiatique : les difficultés des gigafactories interrogent sur la capacité de la France à construire une industrie compétitive de la batterie pour véhicule électrique. Mais en dépit des tempêtes, la « vallée européenne de […]",
-  "pub": "2026-07-27",
-  "ts": 1785149417.0,
-  "vu": "2026-07-28"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Une centrale solaire existante de 34,4 MWc hybridée avec un système de batteries de 15 MW/60 MWh au Portugal",
-  "lien": "https://www.pv-magazine.fr/2026/07/27/une-centrale-solaire-existante-de-344-mwc-hybridee-avec-un-systeme-de-batteries-de-15-mw-60-mwh-au-portugal/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "L’hybridation de la centrale solaire Albispark, située à Castelo Branco (Portugal), associe un système de stockage par batteries (BESS) de 15 MW/60 MWh à une installation photovoltaïque existante de 34,4 MWc. Il s'agit du premier projet international d’hybridation à grande […]",
-  "pub": "2026-07-27",
-  "ts": 1785142800.0,
-  "vu": "2026-07-27"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Réforme des heures creuses : pourquoi ça change ?",
-  "lien": "https://lenergeek.com/2026/07/27/electricite-reforme-heures-creuses-pourquoi-ca-change/",
-  "auteur": "La Rédaction",
-  "resume": "La réforme des heures creuses d'électricité entre dans sa phase massive : 9,3 millions de foyers basculeront d'ici octobre 2027 vers un système saisonnier, avec des heures creuses l'après-midi en été pour profiter de la production solaire. Un changement qui impose de […]",
-  "pub": "2026-07-27",
-  "ts": 1785141094.0,
-  "vu": "2026-07-27"
- },
- {
-  "source": "pv magazine",
-  "titre": "Albanian government approves agrivoltaics",
-  "lien": "https://www.pv-magazine.com/2026/07/27/albanian-government-approves-agrivoltaics/",
-  "auteur": "Patrick Jowett",
-  "resume": "Albania is set to allow agrivoltaics under certain conditions following approved amendments to its law governing agricultural land, with its council of ministers tasked with determining the applicable criteria.",
-  "pub": "2026-07-27",
-  "ts": 1785141000.0,
-  "vu": "2026-07-27"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Les prix des cellules TOPCon chinoises poursuivent leur baisse sur fond de faible demande et de surcapacités",
-  "lien": "https://www.pv-magazine.fr/2026/07/27/les-prix-des-cellules-topcon-chinoises-poursuivent-leur-baisse-sur-fond-de-faible-demande-et-de-surcapacites/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Dans une nouvelle mise à jour hebdomadaire pour pv magazine, OPIS, une société de Dow Jones, propose un aperçu rapide des principales tendances des prix dans l'industrie photovoltaïque mondiale.",
-  "pub": "2026-07-27",
-  "ts": 1785139200.0,
-  "vu": "2026-07-27"
- },
- {
-  "source": "pv magazine",
-  "titre": "Three-year testing assesses wind flow dynamics in solar plants",
-  "lien": "https://www.pv-magazine.com/2026/07/27/three-year-testing-assesses-wind-flow-dynamics-in-solar-plants/",
-  "auteur": "Lior Kahana",
-  "resume": "A French research team analyzed nearly three years of wind and turbulence measurements over a 140-hectare photovoltaic park in southwestern France, comparing it with a nearby pine forest to understand airflow behavior above PV canopies. They found that wind direction relative to […]",
-  "pub": "2026-07-27",
-  "ts": 1785135600.0,
-  "vu": "2026-07-27"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Mexens (ex-Technique Solaire) sécurise un financement de 288 millions d’euros",
-  "lien": "https://www.pv-magazine.fr/2026/07/27/mexens-ex-technique-solaire-securise-un-financement-de-288-millions-deuros/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "L'IPP Mexens a levé une dette senior pour financer un portefeuille de 230 projets renouvelables en France et en Espagne. L’opération illustre l’évolution de son modèle, désormais ouvert à l’éolien et au photovoltaïque, avec un objectif de plus de 4 GW de capacités installées à […]",
-  "pub": "2026-07-27",
-  "ts": 1785133800.0,
-  "vu": "2026-07-27"
  }
 ]
