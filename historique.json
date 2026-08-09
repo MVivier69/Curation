@@ -1,5 +1,45 @@
 [
  {
+  "source": "CleanTechnica",
+  "titre": "Power Systems Have More Flexibility Plans Than Flexible Grids",
+  "lien": "https://cleantechnica.com/2026/08/09/grid-flexibility-plans-outpacing-delivery/",
+  "auteur": "Michael Barnard",
+  "resume": "Grid flexibility is easy to mistake for a technology market. One jurisdiction announces several gigawatt-hours of batteries, another creates a new ancillary-service product, and a third launches a capacity auction, pumped-hydro program or demand-response target. Those are […]",
+  "pub": "2026-08-09",
+  "ts": 1786257617.0,
+  "vu": "2026-08-09"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "Le bois change de dimension : pourquoi l'Europe en fait un matériau stratégique",
+  "lien": "https://www.futura-sciences.com/planete/actualites/transition-energetique-bois-change-dimension-europe-fait-materiau-strategique-135354/",
+  "auteur": "Arnaud Pagès, Journaliste",
+  "resume": "Constructions à faibles émissions, bioéconomie, stockage certifié du carbone... Longtemps perçue comme une industrie de tradition, la filière bois européenne va changer d’échelle pour prendre une place prépondérante dans la transition écologique.",
+  "pub": "2026-08-09",
+  "ts": 1786249794.0,
+  "vu": "2026-08-09"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "L’apprentissage automatique accélère la recherche de matériaux durables pour cellules solaires",
+  "lien": "https://www.enerzine.com/lapprentissage-automatique-accelere-la-recherche-de-materiaux-durables-pour-cellules-solaires/191964-2026-08",
+  "auteur": "La rédaction",
+  "resume": "Les cellules solaires en pérovskite ont gagné un énorme élan dans la recherche d’énergie solaire moins chère et plus efficace. Cependant, les matériaux se dégradent avec le temps, limitant leur utilisation commerciale à grande échelle. Pour surmonter l’un des plus grands […]",
+  "pub": "2026-08-09",
+  "ts": 1786245000.0,
+  "vu": "2026-08-09"
+ },
+ {
+  "source": "Révolution Énergétique",
+  "titre": "Le gouvernement allemand souhaite freiner les renouvelables",
+  "lien": "https://www.revolution-energetique.com/actus/le-gouvernement-allemand-souhaite-freiner-les-renouvelables/",
+  "auteur": "Hector PIETRANI",
+  "resume": "Le grand plan renouvelables en Allemagne tousse, le chancelier ferme les vannes de subventions. Ce n’est pas fini mais le constat est là : l’Etat […] L’article Le gouvernement allemand souhaite freiner les renouvelables est apparu en premier sur Révolution Énergétique .",
+  "pub": "2026-08-08",
+  "ts": 1786204061.0,
+  "vu": "2026-08-09"
+ },
+ {
   "source": "Transitions & Énergies",
   "titre": "La Chine, épicentre industriel et scientifique de l’énergie solaire",
   "lien": "https://www.transitionsenergies.com/chine-epicentre-industriel-scientifique-energie-solaire/",
@@ -293,7 +333,7 @@
   "source": "CleanTechnica",
   "titre": "Electric Mining Truck Uses Sodium-Ion Batteries",
   "lien": "https://cleantechnica.com/2026/08/05/electric-mining-truck-uses-sodium-ion-batteries/",
-  "auteur": "Zachary Shahan",
+  "auteur": "Z. S.",
   "resume": "Sodium-ion batteries are one of the hot new things in the EV and broader cleantech industry. They are providing a next era of electrification. That even includes electric mining trucks now! Hina Battery and Shaanxi Tonly Heavy Industries are collaborating on these mining trucks […]",
   "pub": "2026-08-06",
   "ts": 1785974668.0,
@@ -998,195 +1038,5 @@
   "pub": "2026-07-30",
   "ts": 1785379647.0,
   "vu": "2026-07-30"
- },
- {
-  "source": "Enerzine",
-  "titre": "Les batteries perdent du lithium dans le collecteur de courant",
-  "lien": "https://www.enerzine.com/les-batteries-perdent-du-lithium-dans-le-collecteur-de-courant/191152-2026-07",
-  "auteur": "La rédaction",
-  "resume": "Les observations réalisées par tomographie par sonde atomique confirment l’hypothèse selon laquelle des ions lithium sont perdus au profit du collecteur de courant en cuivre dans les batteries au lithium. Cela pourrait limiter les performances et la durée de vie de ces […]",
-  "pub": "2026-07-29",
-  "ts": 1785363000.0,
-  "vu": "2026-07-30"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Simplification des normes pour les collectivités : le deuxième méga-décret est paru",
-  "lien": "https://www.actu-environnement.com/ae/news/mega-decret-simplification-normes-collectivites-48379.php4",
-  "auteur": "",
-  "resume": "Le deuxième méga-décret, paru le 28 juillet 2026, introduit trente mesures de simplification pour les collectivités territoriales, notamment en matière d'urbanisme, d'énergies renouvelables et de lutte contre l'habitat indigne.",
-  "pub": "2026-07-29",
-  "ts": 1785339084.0,
-  "vu": "2026-07-30"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Transition énergétique : pourquoi miser sur une entreprise de pose de film sur vitrage ?",
-  "lien": "https://lenergeek.com/2026/07/29/transition-energetique-pose-film-vitrage/",
-  "auteur": "La Rédaction",
-  "resume": "Face aux vagues de chaleur, nos baies vitrées agissent souvent comme de véritables radiateurs. Solliciter une entreprise de pose de film sur vitrage permet de bloquer le soleil à la source. Une intervention ciblée pour protéger durablement vos espaces. L’article Transition […]",
-  "pub": "2026-07-29",
-  "ts": 1785338141.0,
-  "vu": "2026-07-30"
- },
- {
-  "source": "Batiactu",
-  "titre": "Infrastructures : des niveaux d'investissements \"stratosphériques\" d'ici à 2050",
-  "lien": "https://www.batiactu.com/edito/infrastructures-niveaux-investissements-stratospheriques-75084.php",
-  "auteur": "Batiactu",
-  "resume": "ÉTUDE. Urbanisation, transition énergétique, intelligence artificielle, tensions géopolitiques font exploser les besoins en infrastructures. A tel point que le secteur entre dans le plus grand cycle d'investissement de son histoire qui durera au moins jusqu'en 2050, selon PwC.",
-  "pub": "2026-07-29",
-  "ts": 1785336359.0,
-  "vu": "2026-07-30"
- },
- {
-  "source": "pv magazine",
-  "titre": "China’s solar market heads for first annual contraction since 2019",
-  "lien": "https://www.pv-magazine.com/2026/07/29/chinas-solar-market-heads-for-first-annual-contraction-since-2019/",
-  "auteur": "Patrick Jowett",
-  "resume": "The China Photovoltaic Industry Association says domestic installations are returning to more sustainable levels but expects both China’s market and global PV additions to shrink in 2026.",
-  "pub": "2026-07-29",
-  "ts": 1785335700.0,
-  "vu": "2026-07-30"
- },
- {
-  "source": "pv magazine France",
-  "titre": "À Nîmes, une ombrière photovoltaïque accompagne l’électrification du réseau de bus",
-  "lien": "https://www.pv-magazine.fr/2026/07/29/a-nimes-une-ombriere-photovoltaique-accompagne-lelectrification-du-reseau-de-bus/",
-  "auteur": "Marie Beyer",
-  "resume": "Nîmes Métropole a inauguré une ombrière photovoltaïque sur le dépôt de son réseau de bus Tango, qui vise à atteindre une flotte 100 % électrique d'ici 2030. L'installation solaire produira environ 1300 MWh par an, dont 300 auto-consommés.",
-  "pub": "2026-07-29",
-  "ts": 1785333600.0,
-  "vu": "2026-07-30"
- },
- {
-  "source": "pv magazine France",
-  "titre": "EDP achève une centrale photovoltaïque de 300 kWc pour l’équipementier auto Snop",
-  "lien": "https://www.pv-magazine.fr/2026/07/29/edp-acheve-une-centrale-photovoltaique-de-300-kwc-pour-lequipementier-auto-snop/",
-  "auteur": "Francois Puthod",
-  "resume": "Spécialisée dans le domaine des énergies renouvelables, EDP réalise un projet solaire en France, développé pour l’équipementier automobile Snop.",
-  "pub": "2026-07-29",
-  "ts": 1785333600.0,
-  "vu": "2026-07-30"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Un système de stockage par batteries de 193 MW en construction dans les Hauts-de-France",
-  "lien": "https://www.pv-magazine.fr/2026/07/29/un-systeme-de-stockage-par-batteries-de-193-mw-en-construction-dans-les-hauts-de-france/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Dans les Hauts-de-France, Kallista Energy et Envision Energy construisent un système de stockage par batteries de 193 MW et 386 MWh. L'installation fournira des services de régulation au réseau électrique français à partir de 2028.",
-  "pub": "2026-07-29",
-  "ts": 1785330000.0,
-  "vu": "2026-07-30"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "L’UE pourrait économiser deux fois le gaz qatari grâce au renouvelable",
-  "lien": "https://lenergeek.com/2026/07/29/lue-pourrait-economiser-deux-fois-le-gaz-qatari-grace-au-renouvelable/",
-  "auteur": "La Rédaction",
-  "resume": "Selon l'Institute for Energy Economics and Financial Analysis, le déploiement des pompes à chaleur, du solaire et de l'éolien pourrait réduire la demande de gaz de l'UE d'un quart d'ici 2030. Cette économie représenterait le double des importations de gaz naturel liquéfié en […]",
-  "pub": "2026-07-29",
-  "ts": 1785326730.0,
-  "vu": "2026-07-30"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Le photovoltaïque flottant économiquement viable sur les barrages marocains",
-  "lien": "https://www.pv-magazine.fr/2026/07/29/le-photovoltaique-flottant-economiquement-viable-sur-les-barrages-marocains/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Une étude menée au Maroc sur le potentiel technico-économique du photovoltaïque flottant sur un barrage marocain conclut que ce type d'installation peut contribuer à atténuer le stress hydrique tout en augmentant la production d'énergie renouvelable du pays.",
-  "pub": "2026-07-29",
-  "ts": 1785326400.0,
-  "vu": "2026-07-30"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "REP huiles : Cyclevia peut gérer les emballages et contenants d'huiles",
-  "lien": "https://www.actu-environnement.com/ae/news/cahier-charges-huiles-gestion-contenants-48377.php4",
-  "auteur": "",
-  "resume": "Cyclevia peut désormais gérer les emballages d'huiles lubrifiantes. Le 24 juillet est paru au Journal officiel l'arrêté qui modifie le cahier des charges de la filière de responsabilité élargie des producteurs (REP) d'huiles minérales ou synthétiq...",
-  "pub": "2026-07-29",
-  "ts": 1785323717.0,
-  "vu": "2026-07-30"
- },
- {
-  "source": "Batiactu",
-  "titre": "Urbanisme, photovoltaïque : le deuxième volet du \"Méga-décret\" de simplification est publié",
-  "lien": "https://www.batiactu.com/edito/mega-decret-simplification-deuxieme-volet-est-publie-75086.php",
-  "auteur": "Batiactu",
-  "resume": "URBANISME. Permis de construire, autorisations d'urbanisme, installations photovoltaïques : de nouveaux textes visant à simplifier les normes applicables aux collectivités sont parus.",
-  "pub": "2026-07-29",
-  "ts": 1785320339.0,
-  "vu": "2026-07-30"
- },
- {
-  "source": "Enerplan",
-  "titre": "Enedis : consultation autoconsommation collective",
-  "lien": "https://www.enerplan.asso.fr/enedis-consultation-autoconsommation-collective/",
-  "auteur": "Mickaël Marie",
-  "resume": "",
-  "pub": "2026-07-29",
-  "ts": 1785317947.0,
-  "vu": "2026-07-30"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Dispositif publicitaire : le calcul de l'unité urbaine ne se limite pas à la population municipale",
-  "lien": "https://www.actu-environnement.com/ae/news/dispositif-publicitaire-unite-urbaine-population-municipale-48375.php4",
-  "auteur": "",
-  "resume": "Par un jugement du 23 juillet 2026, le tribunal administratif de Toulon a annulé l'arrêté du 27 juillet 2023 par lequel le préfet du Var avait refusé d'autoriser l'implantation d'un dispositif publicitaire sur la commune de Puget-sur-Argens (Var)....",
-  "pub": "2026-07-29",
-  "ts": 1785316218.0,
-  "vu": "2026-07-30"
- },
- {
-  "source": "pv magazine France",
-  "titre": "« Le gouvernement enterre le photovoltaïque » : des développeurs dénoncent un moratoire sur le solaire en toiture",
-  "lien": "https://www.pv-magazine.fr/2026/07/29/le-gouvernement-enterre-le-photovoltaique-des-developpeurs-denoncent-un-moratoire-sur-le-solaire-en-toiture/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Un collectif de développeurs photovoltaïques, représentant plus de 2,5 GW de capacités renouvelables déjà installées ou en exploitation, et plusieurs gigawatts de projets en développement ou visés à horizon 2030, estime que « le calendrier prévisionnel des appels d’offres de la […]",
-  "pub": "2026-07-29",
-  "ts": 1785315600.0,
-  "vu": "2026-07-30"
- },
- {
-  "source": "Révolution Énergétique",
-  "titre": "Comment mieux faire accepter les projets éoliens et solaires ?",
-  "lien": "https://www.revolution-energetique.com/actus/comment-mieux-faire-accepter-les-projets-eoliens-et-solaires/",
-  "auteur": "Hector PIETRANI",
-  "resume": "Dans une boîte à outils publiée le 17 juillet, la Commission européenne expose ses conseils aux États membres pour que les énergies renouvelables soient mieux […] L’article Comment mieux faire accepter les projets éoliens et solaires ? est apparu en premier sur Révolution […]",
-  "pub": "2026-07-29",
-  "ts": 1785315428.0,
-  "vu": "2026-07-30"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Redmi Pad 2 : puce Snapdragon, écran 120 Hz et autonomie de pointe pour cette tablette affichée sous la barre des 130 €",
-  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-pc-tablettes-redmi-pad-2-puce-snapdragon-ecran-120-hz-autonomie-pointe-cette-tablette-affichee-sous-barre-130-10867/",
-  "auteur": "Mallory Delicourt, Journaliste",
-  "resume": "Dotée d’un écran fluide de 9,7 pouces, de 4 Go de mémoire vive, d’un stockage de 128 Go ou encore de haut-parleurs stéréo immersifs, la tablette Xiaomi Redmi Pad 2 9,7 pouces est en promotion à -20 % sur AliExpress. Pensée pour un usage multimédia et familial, elle ne sacrifie […]",
-  "pub": "2026-07-29",
-  "ts": 1785313800.0,
-  "vu": "2026-07-29"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Avis de marchés publics dans le PV en France",
-  "lien": "https://www.pv-magazine.fr/2026/07/29/avis-de-marches-publics-dans-le-pv-en-france-131/",
-  "auteur": "Francois Puthod",
-  "resume": "Retrouvez chaque semaine dans pv magazine les appels d’offres publiés relatifs aux projets photovoltaïques en France.",
-  "pub": "2026-07-29",
-  "ts": 1785312000.0,
-  "vu": "2026-07-29"
- },
- {
-  "source": "pv magazine",
-  "titre": "Photovoltaics for onboard fish preservation",
-  "lien": "https://www.pv-magazine.com/2026/07/29/photovoltaics-for-onboard-fish-preservation/",
-  "auteur": "Emiliano Bellini",
-  "resume": "Researchers in Egypt developed a solar-powered thermoelectric cooling unit for fish preservation, combining PV energy, Peltier modules, and automated temperature control to replace traditional ice-based methods. The prototype achieved efficient off-grid cooling at 5 C, with […]",
-  "pub": "2026-07-29",
-  "ts": 1785312000.0,
-  "vu": "2026-07-29"
  }
 ]
