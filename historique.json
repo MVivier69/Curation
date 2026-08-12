@@ -1,6 +1,76 @@
 [
  {
   "source": "pv magazine France",
+  "titre": "Une centrale solaire sur le toit de l’ONF à La Réunion",
+  "lien": "https://www.pv-magazine.fr/2026/08/12/une-centrale-solaire-sur-le-toit-de-lonf-a-la-reunion/",
+  "auteur": "Francois Puthod",
+  "resume": "L'ONF de La Réunion a fait installer une centrale photovoltaïque en autoconsommation sur la toiture de sa Direction régionale, afin de réduire les consommations électriques du site et les émissions de gaz à effet de serre.",
+  "pub": "2026-08-12",
+  "ts": 1786518000.0,
+  "vu": "2026-08-12"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "La Chine a tellement de voitures électriques en circulation qu’elle les utilise pour produire l’énergie des foyers",
+  "lien": "https://lenergeek.com/2026/08/12/la-chine-a-tellement-de-voitures-electriques-en-circulation-quelle-les-utilise-pour-produire-lenergie-des-foyers/",
+  "auteur": "Claire Moreau",
+  "resume": "Votre voiture électrique pourrait bientôt vous rapporter jusqu'à 170 euros par simple décharge. La Chine transforme déjà 40 millions de véhicules en batteries géantes, et l'Europe pourrait bientôt suivre le mouvement. L’article La Chine a tellement de voitures électriques en […]",
+  "pub": "2026-08-12",
+  "ts": 1786512000.0,
+  "vu": "2026-08-12"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Hydrogène vert avec électrolyseurs PEC : Nouvelles perspectives sur les processus de transport",
+  "lien": "https://www.enerzine.com/hydrogene-vert-avec-electrolyseurs-pec-nouvelles-perspectives-sur-les-processus-de-transport/192006-2026-08",
+  "auteur": "La rédaction",
+  "resume": "Une méthode pour stocker l’énergie solaire consiste à utiliser des électrolyseurs PEC pour produire de l’hydrogène. Cependant, la mise à l’échelle de cette technologie reste un défi. Aujourd’hui, une équipe de l’Institut HZB pour les Carburants Solaires a utilisé l’imagerie de […]",
+  "pub": "2026-08-12",
+  "ts": 1786507800.0,
+  "vu": "2026-08-12"
+ },
+ {
+  "source": "CleanTechnica",
+  "titre": "Organic Flow Batteries Get Another Shot At Long Duration Energy Storage",
+  "lien": "https://cleantechnica.com/2026/08/11/energy-storage-organic-flow-battery-us-innovation-startups/",
+  "auteur": "Tina Casey",
+  "resume": "Despite the sharp U-turn in federal energy policy, US innovators continue to push the long duration energy storage envelope, with organic flow batteries in play among other solutions.",
+  "pub": "2026-08-11",
+  "ts": 1786467283.0,
+  "vu": "2026-08-12"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "Éclipse du 12 août : 4 objets indispensables à préparer chez vous pour être prêts à 19 heures",
+  "lien": "https://www.futura-sciences.com/sciences/actualites/eclipse-soleil-12-aout-eclipse-12-aout-4-objets-indispensables-preparer-chez-vous-etre-prets-19-heures-136636/",
+  "auteur": "Arnaud Pagès, Journaliste",
+  "resume": "Mercredi 12 août, la France assistera à une éclipse solaire partielle, dont le degré d'occultation variera de près de 90 % dans l’Est à 99,5 % à Biarritz. Horaires, carte, météo, lunettes, événements et direct : voici la check-list de dernière minute avant de vivre cet évènement […]",
+  "pub": "2026-08-11",
+  "ts": 1786447920.0,
+  "vu": "2026-08-12"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Les prototypes avancés de batteries sodium-ion approchent désormais les 200 Wh/kg",
+  "lien": "https://www.pv-magazine.fr/2026/08/11/les-prototypes-avances-de-batteries-sodium-ion-approchent-desormais-les-200-wh-kg/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Une équipe internationale de scientifiques a passé en revue les avancées récentes concernant les composants des batteries sodium-ion, mettant en évidence leur potentiel comme alternative moins coûteuse et plus durable aux batteries lithium-ion.",
+  "pub": "2026-08-11",
+  "ts": 1786438800.0,
+  "vu": "2026-08-12"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Sunrock développe quatre projets solaires sur des plateformes logistiques françaises",
+  "lien": "https://www.pv-magazine.fr/2026/08/11/sunrock-developpe-quatre-projets-solaires-sur-des-plateformes-logistiques-francaises/",
+  "auteur": "Francois Puthod",
+  "resume": "Développeur de solutions photovoltaïques dédiées à l'immobilier logistique et industriel, Sunrock déploie quatre projets solaires pour un de ses clients en France.",
+  "pub": "2026-08-11",
+  "ts": 1786435200.0,
+  "vu": "2026-08-12"
+ },
+ {
+  "source": "pv magazine France",
   "titre": "Un écran anti-UV en oxyde de zinc réduit la dégradation des cellules solaires à hétérojonction et augmente leur production",
   "lien": "https://www.pv-magazine.fr/2026/08/11/un-ecran-anti-uv-en-oxyde-de-zinc-reduit-la-degradation-des-cellules-solaires-a-heterojonction-et-augmente-leur-production/",
   "auteur": "Gwénaëlle Deboutte",
@@ -918,35 +988,5 @@
   "pub": "2026-08-02",
   "ts": 1785633501.0,
   "vu": "2026-08-02"
- },
- {
-  "source": "Enerzine",
-  "titre": "Airbus A380 : entre inspections d’urgence pour fissures et mue en laboratoire volant",
-  "lien": "https://www.enerzine.com/airbus-a380-inspections-laboratoire-volant/192444-2026-08",
-  "auteur": "La rédaction",
-  "resume": "Le géant des airs n’en finit plus de voler la vedette. Alors que sa production s’est arrêtée en 2021, l’Airbus A380 se retrouve au cœur d’une double actualité avec d’un côté, l’Agence européenne de la sécurité aérienne (EASA) qui vient d’imposer des inspections structurelles […]",
-  "pub": "2026-08-01",
-  "ts": 1785597300.0,
-  "vu": "2026-08-02"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "« Cela nous a coupé le souffle » : une immense structure en nid-d’abeilles découverte sur Mars intrigue la Nasa",
-  "lien": "https://www.futura-sciences.com/sciences/actualites/mars-cela-nous-coupe-souffle-immense-structure-nid-abeilles-decouverte-mars-intrigue-nasa-136617/",
-  "auteur": "Laurent Sacco, Journaliste scientifique",
-  "resume": "Nous n'en sommes toujours qu'au début de l'exploration de la Planète rouge, aussi bien pour sa géologie que pour sa possible exobiologie. Cette exploration est grandement facilitée avec des machines, comme dans tout le Système solaire et comme l'avait prédit Arthur Clarke […]",
-  "pub": "2026-08-01",
-  "ts": 1785583663.0,
-  "vu": "2026-08-02"
- },
- {
-  "source": "Enerzine",
-  "titre": "IA qui apprend des nuages : quand un système prévoit la production d’énergie solaire",
-  "lien": "https://www.enerzine.com/ia-qui-apprend-des-nuages-quand-un-systeme-prevoit-la-production-denergie-solaire/191238-2026-08",
-  "auteur": "La rédaction",
-  "resume": "L’énergie solaire devient l’une des sources d’électricité les plus importantes au monde. En Lituanie, le nombre de centrales solaires augmente également rapidement, et l’énergie qu’elles produisent joue un rôle de plus en plus important dans le système énergétique du pays […]",
-  "pub": "2026-08-01",
-  "ts": 1785553800.0,
-  "vu": "2026-08-01"
  }
 ]
