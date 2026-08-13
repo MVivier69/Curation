@@ -1,6 +1,106 @@
 [
  {
   "source": "pv magazine France",
+  "titre": "Zendure et Sobry misent sur le duo batterie et tarification dynamique",
+  "lien": "https://www.pv-magazine.fr/2026/08/13/zendure-et-sobry-misent-sur-le-duo-batterie-et-tarification-dynamique/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Alors que le TURPE 7 renchérit progressivement l’usage du réseau et que l’arrêté S21 modifie la valorisation du surplus photovoltaïque, les batteries domestiques pourraient trouver un nouvel intérêt économique. Couplées à une tarification dynamique, elles permettent de décaler […]",
+  "pub": "2026-08-13",
+  "ts": 1786602600.0,
+  "vu": "2026-08-13"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Scandium doping, coating improve cycling stability of sodium-ion battery cathodes",
+  "lien": "https://www.pv-magazine.com/2026/08/13/scandium-doping-coating-improve-cycling-stability-of-sodium-ion-battery-cathodes/",
+  "auteur": "Emiliano Bellini",
+  "resume": "Researchers have compared bulk scandium doping and surface scandium coating in a special type of cathodes for sodium-ion batteries. Both approaches improved cycling stability, with the coated full cell retaining 91.2% of its initial capacity after 300 cycles, while structural […]",
+  "pub": "2026-08-13",
+  "ts": 1786599191.0,
+  "vu": "2026-08-13"
+ },
+ {
+  "source": "Transitions & Énergies",
+  "titre": "Comment comprendre ce qu’il se passe à l’intérieur du Soleil ?",
+  "lien": "https://www.transitionsenergies.com/comprendre-se-passe-interieur-soleil/",
+  "auteur": "La rédaction",
+  "resume": "L’éclipse du soleil qui s’est produite hier dans le ciel européen a tourné notre attention vers le Soleil, l’étoile de notre système solaire. Sans elle, la vie n’existerait pas sur terre et le soleil est aussi le pourvoyeur direct et indirect de presque toute l’énergie que nous […]",
+  "pub": "2026-08-13",
+  "ts": 1786586294.0,
+  "vu": "2026-08-13"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Les gestionnaires européens des réseaux électriques se préparent à l’éclipse solaire",
+  "lien": "https://www.pv-magazine.fr/2026/08/12/les-gestionnaires-europeens-des-reseaux-electriques-se-preparent-a-leclipse-solaire/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "L’éclipse solaire partielle attendue ce soir entraînera une baisse temporaire de la production photovoltaïque en France et en Europe. RTE estime qu’elle pourrait atteindre 1 800 MW en France et 9 700 MW à l’échelle européenne. Un phénomène largement anticipé par les […]",
+  "pub": "2026-08-12",
+  "ts": 1786543200.0,
+  "vu": "2026-08-13"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "CIP déploie la plus puissante batterie d’Europe, au Royaume-Uni",
+  "lien": "https://www.greenunivers.com/2026/08/cip-deploie-la-plus-puissante-batterie-deurope-au-royaume-uni-431405/",
+  "auteur": "Paul Messad",
+  "resume": "Le gestionnaire de fonds danois Copenhagen Infrastructure Partners (CIP) annonce la mise en service de « Coalburn 1 », le plus puissant système de stockage stationnaire d’Europe, cumulant 500 MW. L’installation fait partie d’un triptyque composé des projets de batteries tout […]",
+  "pub": "2026-08-12",
+  "ts": 1786542803.0,
+  "vu": "2026-08-13"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Le recyclage des panneaux solaires franchit un cap avec 40 % de volumes en plus en 2025",
+  "lien": "https://www.pv-magazine.fr/2026/08/12/le-recyclage-des-panneaux-solaires-franchit-un-cap-avec-40-de-volumes-en-plus-en-2025/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "En 2025, Soren a collecté 13 760 tonnes de panneaux photovoltaïques, soit 40 % de plus qu’en 2024, et fait traiter plus de 12 700 tonnes. Une progression qui préfigure surtout le changement d’échelle à venir : à l’horizon 2040, près de 180 000 tonnes de panneaux pourraient […]",
+  "pub": "2026-08-12",
+  "ts": 1786539600.0,
+  "vu": "2026-08-13"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Le nouveau rapport IEA PVPS donne son analyse du marché français",
+  "lien": "https://www.pv-magazine.fr/2026/08/12/le-nouveau-rapport-iea-pvps-donne-son-analyse-du-marche-francais/",
+  "auteur": "Marie Beyer",
+  "resume": "Avec 7,4 GW de nouvelles capacités installées en 2025, le parc photovoltaïque français a atteint 37,6 GW et produit 37 TWh, soit 7,3% de la consommation nationale d’électricité. Mais, si les coûts d’installation continuent de baisser, la filière fait face à un ralentissement du […]",
+  "pub": "2026-08-12",
+  "ts": 1786536000.0,
+  "vu": "2026-08-13"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Weidmüller unveils new PV connectors",
+  "lien": "https://www.pv-magazine.com/2026/08/12/weidmuller-unveils-new-pv-stick-connectors/",
+  "auteur": "Emiliano Bellini",
+  "resume": "Weidmüller has introduced a tool-free PV-Stick connection system designed to simplify and speed up photovoltaic installations while ensuring reliable connections up to 1,500 V DC.",
+  "pub": "2026-08-12",
+  "ts": 1786533213.0,
+  "vu": "2026-08-13"
+ },
+ {
+  "source": "PV Tech",
+  "titre": "European Energy secures US$270 million financing for 225MW agriPV project in Italy",
+  "lien": "https://www.pv-tech.org/european-energy-secures-agripv-project-financing-italy/",
+  "auteur": "Shreeyashi Ojha",
+  "resume": "European Energy has reached financial close on €234.1 million (US$270 million) for its 225MW agrivoltaic project in Vizzini, Sicily, Italy.",
+  "pub": "2026-08-12",
+  "ts": 1786528816.0,
+  "vu": "2026-08-13"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Avis de marchés publics dans le PV en France",
+  "lien": "https://www.pv-magazine.fr/2026/08/12/avis-de-marches-publics-dans-le-pv-en-france-133/",
+  "auteur": "Francois Puthod",
+  "resume": "Retrouvez chaque semaine dans pv magazine les appels d’offres publiés relatifs aux projets photovoltaïques en France.",
+  "pub": "2026-08-12",
+  "ts": 1786521600.0,
+  "vu": "2026-08-13"
+ },
+ {
+  "source": "pv magazine France",
   "titre": "Une centrale solaire sur le toit de l’ONF à La Réunion",
   "lien": "https://www.pv-magazine.fr/2026/08/12/une-centrale-solaire-sur-le-toit-de-lonf-a-la-reunion/",
   "auteur": "Francois Puthod",
@@ -968,25 +1068,5 @@
   "pub": "2026-08-03",
   "ts": 1785730200.0,
   "vu": "2026-08-03"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Des lunes de Neptune seraient nées de catastrophes cosmiques !",
-  "lien": "https://www.futura-sciences.com/sciences/actualites/neptune-lunes-neptune-seraient-nees-catastrophes-cosmiques-136654/",
-  "auteur": "Laurent Sacco, Journaliste scientifique",
-  "resume": "Certaines des caractéristiques du Système solaire, à commencer par l'origine de la Lune, s'expliquent par des événements et des scénarios violents. Que faut-il en penser dans le cas de certaines des lunes de Neptune depuis que le télescope James-Webb a pris le relais de Hubble ?",
-  "pub": "2026-08-02",
-  "ts": 1785687780.0,
-  "vu": "2026-08-03"
- },
- {
-  "source": "CleanTechnica",
-  "titre": "Janus Battery Swap Trucks Show The Way",
-  "lien": "https://cleantechnica.com/2026/08/01/janus-battery-swap-trucks-show-the-way/",
-  "auteur": "Christopher Arcus",
-  "resume": "Recent CleanTechnica stories from Michael Barnard have highlighted CATL’s joint venture to introduce electric truck swap infrastructure to Europe. That company provides turnkey solutions for swap stations and batteries. Electric truck swap developments extend to other areas of […]",
-  "pub": "2026-08-02",
-  "ts": 1785633501.0,
-  "vu": "2026-08-02"
  }
 ]
