@@ -1,5 +1,125 @@
 [
  {
+  "source": "Enerzine",
+  "titre": "Trente-deux collèges d’Indre-et-Loire équipés de centrales solaires",
+  "lien": "https://www.enerzine.com/trente-deux-colleges-dindre-et-loire-equipes-de-centrales-solaires/192077-2026-08",
+  "auteur": "La rédaction",
+  "resume": "Le Département d’Indre-et-Loire et le Groupe Solstyce achèvent le déploiement de panneaux photovoltaïques sur les toitures de 32 collèges. Lancé en 2020, ce programme de 9 millions d’euros totalise une puissance installée de 5,9 MWc, pour une production annuelle estimée à 5 700 […]",
+  "pub": "2026-08-15",
+  "ts": 1786763400.0,
+  "vu": "2026-08-15"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Pendant la canicule, le solaire soutient le réseau alors que le nucléaire ralentit",
+  "lien": "https://www.pv-magazine.fr/2026/08/14/pendant-la-canicule-le-solaire-soutient-le-reseau-alors-que-le-nucleaire-ralentit/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Treize réacteurs français sont actuellement indisponibles en raison de contraintes liées à l’environnement, un niveau inédit depuis 2015. Alors que les fortes chaleurs mettent également à l’épreuve les centrales européennes, la production solaire atteint des records et contribue […]",
+  "pub": "2026-08-14",
+  "ts": 1786716000.0,
+  "vu": "2026-08-15"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Baisse des tarifs de rachat du solaire : et si c’était le début de quelque chose de grand ?",
+  "lien": "https://www.pv-magazine.fr/2026/08/14/baisse-des-tarifs-de-rachat-du-solaire-et-si-cetait-le-debut-de-quelque-chose-de-grand/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Le kilowattheure photovoltaïque sera désormais racheté à 1,1 centime d'euro, voire à zéro lorsque les prix de gros basculent dans le négatif. Une annonce qui a provoqué son lot d'inquiétudes dans la filière et chez les particuliers. Et si on prenait le temps de regarder ce que […]",
+  "pub": "2026-08-14",
+  "ts": 1786714200.0,
+  "vu": "2026-08-15"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "La plus grande batterie d’Europe entre en service en Écosse",
+  "lien": "https://www.pv-magazine.fr/2026/08/14/la-plus-grande-batterie-deurope-entre-en-service-en-ecosse/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Coalburn 1 est le premier de trois projets britanniques de stockage d’énergie par batteries (BESS) raccordés au réseau de transport développés par Copenhagen Infrastructure Partners (CIP) à entrer en exploitation commerciale.",
+  "pub": "2026-08-14",
+  "ts": 1786712400.0,
+  "vu": "2026-08-15"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "L’agenda de la transition énergétique",
+  "lien": "https://www.greenunivers.com/2026/08/lagenda-de-la-transition-energetique-281-431464/",
+  "auteur": "Paul Messad",
+  "resume": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique […]",
+  "pub": "2026-08-14",
+  "ts": 1786712222.0,
+  "vu": "2026-08-15"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Les documents de la semaine",
+  "lien": "https://www.greenunivers.com/2026/08/les-documents-de-la-semaine-381215/",
+  "auteur": "GreenUnivers",
+  "resume": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de […]",
+  "pub": "2026-08-14",
+  "ts": 1786711678.0,
+  "vu": "2026-08-07"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "When heat becomes a stress test: What extreme temperatures mean for photovoltaic systems and battery storage",
+  "lien": "https://www.pv-magazine.com/2026/08/14/when-heat-becomes-a-stress-test-what-extreme-temperatures-mean-for-photovoltaic-systems-and-battery-storage/",
+  "auteur": "Emiliano Bellini",
+  "resume": "Photovoltaics rely on sunlight. Battery storage systems rely on absorbing and releasing energy precisely when the power grid needs it. Both sound like an ideal combination for hot summer days: plenty of sunshine, high generation, increased electricity demand due to cooling, and […]",
+  "pub": "2026-08-14",
+  "ts": 1786711022.0,
+  "vu": "2026-08-15"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Bercy réduit le soutien public au biométhane",
+  "lien": "https://www.greenunivers.com/2026/08/bercy-reduit-le-soutien-public-au-biomethane-431457/",
+  "auteur": "Paul Messad",
+  "resume": "La totale. La mise à jour de l’arrêté de 2023 sur le guichet ouvert au biométhane publiée ce vendredi 14 août au Journal officiel contient l’ensemble des mesures de rationalisation des aides publiques au secteur souhaitées par les autorités. Le seuil d’éligibilité des […]",
+  "pub": "2026-08-14",
+  "ts": 1786710772.0,
+  "vu": "2026-08-15"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "MRCool lance une pompe à chaleur monobloc à monter soi-même, sans unité extérieure",
+  "lien": "https://www.pv-magazine.fr/2026/08/14/mrcool-lance-une-pompe-a-chaleur-monobloc-a-monter-soi-meme-sans-unite-exterieure/",
+  "auteur": "Francois Puthod",
+  "resume": "Le fabricant américain a lancé une pompe à chaleur monobloc 115 V à monter soi-même avec une capacité de refroidissement de 10 000 Btu/h et de chauffage de 9 000 Btu/h, utilisant le réfrigérant R-32 et la technologie à onduleur.",
+  "pub": "2026-08-14",
+  "ts": 1786708800.0,
+  "vu": "2026-08-15"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "KIT develops hybrid solar system with radiative cooling",
+  "lien": "https://www.pv-magazine.com/2026/08/14/kit-develops-hybrid-solar-system-with-radiative-cooling/",
+  "auteur": "Emiliano Bellini",
+  "resume": "KIT researchers have developed a hybrid system that combines photovoltaics and passive radiative cooling to simultaneously generate electricity, heat, and cooling from a single surface. A prototype achieved cooling of up to 6.5 C below ambient temperature, 60.6 W/m² of […]",
+  "pub": "2026-08-14",
+  "ts": 1786705646.0,
+  "vu": "2026-08-15"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Un projet pilote à grande échelle révèle que 15 % des modules solaires de seconde vie ne respectent pas les exigences de sécurité",
+  "lien": "https://www.pv-magazine.fr/2026/08/14/un-projet-pilote-a-grande-echelle-revele-que-15-des-modules-solaires-de-seconde-vie-ne-respectent-pas-les-exigences-de-securite/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Dans le cadre d’un projet pilote mené dans le Queensland, 15 % des 2 200 modules prêts à être réemployés ont échoué au test de fuite en milieu humide, soulignant la nécessité d’un contrôle de sécurité spécifique. Des méthodes de test adaptées pourraient toutefois réduire les […]",
+  "pub": "2026-08-14",
+  "ts": 1786694400.0,
+  "vu": "2026-08-15"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Nucléaire : 7 centrales à l’arrêt en Europe à cause de la canicule",
+  "lien": "https://lenergeek.com/2026/08/14/nucleaire-7-centrales-a-larret-en-europe-a-cause-de-la-canicule/",
+  "auteur": "La Rédaction",
+  "resume": "Au 14 août 2026, sept centrales nucléaires de l’Union européenne comptent au moins un réacteur totalement arrêté en raison de la chaleur, de la sécheresse ou du niveau exceptionnellement bas des cours d’eau. L’article Nucléaire : 7 centrales à l’arrêt en Europe à cause de la […]",
+  "pub": "2026-08-14",
+  "ts": 1786692628.0,
+  "vu": "2026-08-15"
+ },
+ {
   "source": "Futura Sciences",
   "titre": "La première preuve vient de tomber : ce trio de trous noirs géants résout enfin un mystère de l’Univers",
   "lien": "https://www.futura-sciences.com/sciences/actualites/astronomie-premiere-preuve-vient-tomber-ce-trio-trous-noirs-geants-resout-enfin-mystere-univers-136968/",
@@ -640,16 +760,6 @@
   "vu": "2026-08-07"
  },
  {
-  "source": "GreenUnivers",
-  "titre": "Les documents de la semaine",
-  "lien": "https://www.greenunivers.com/2026/08/les-documents-de-la-semaine-381215/",
-  "auteur": "GreenUnivers",
-  "resume": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de […]",
-  "pub": "2026-08-07",
-  "ts": 1786087198.0,
-  "vu": "2026-08-07"
- },
- {
   "source": "pv magazine France",
   "titre": "Growatt lance un système de stockage tout-en-un pour le solaire résidentiel",
   "lien": "https://www.pv-magazine.fr/2026/08/07/growatt-lance-un-systeme-de-stockage-tout-en-un-pour-le-solaire-residentiel/",
@@ -918,125 +1028,5 @@
   "pub": "2026-08-05",
   "ts": 1785895509.0,
   "vu": "2026-08-05"
- },
- {
-  "source": "CleanTechnica",
-  "titre": "Energy Discovery Awaits Within the Spin of Atoms",
-  "lien": "https://cleantechnica.com/2026/08/04/energy-discovery-awaits-within-the-spin-of-atoms/",
-  "auteur": "US Department of Energy",
-  "resume": "National Laboratory of the Rockies Researchers Use Nuclear Magnetic Resonance To Advance Innovation in Batteries, Semiconductors, and Bioplastics When researchers bring their inventions into the laboratory of Bennett Addison, he often has one question for them: “Did you really […]",
-  "pub": "2026-08-04",
-  "ts": 1785880024.0,
-  "vu": "2026-08-05"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Italie relance le nucléaire après 40 ans",
-  "lien": "https://lenergeek.com/2026/08/04/italie-relance-nucleaire-40-ans-pari-technologique/",
-  "auteur": "Nicolas Egon",
-  "resume": "L'Italie relance le nucléaire avec les petits réacteurs modulaires après quarante ans d'arrêt, tout en bloquant 130 gigawatts de projets renouvelables. Cet arbitrage stratégique privilégie la continuité de production face à l'intermittence solaire et éolienne, pour répondre à […]",
-  "pub": "2026-08-04",
-  "ts": 1785852589.0,
-  "vu": "2026-08-05"
- },
- {
-  "source": "pv magazine France",
-  "titre": "La France, l’Allemagne, l’Italie, l’Espagne et le Portugal battent des records d’ensoleillement",
-  "lien": "https://www.pv-magazine.fr/2026/08/04/la-france-lallemagne-litalie-lespagne-et-le-portugal-battent-des-records-densoleillement/",
-  "auteur": "Francois Puthod",
-  "resume": "AleaSoft Energy Forecasting a enregistré cinq nouveaux records de production solaire journalière au cours du week-end d'août. Malgré ces records, le prix moyen hebdomadaire de l'électricité a dépassé 100 €/MWh (115,10 $) sur ces marchés la semaine dernière.",
-  "pub": "2026-08-04",
-  "ts": 1785848400.0,
-  "vu": "2026-08-05"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Batteries : combien rapporte 1 MW en juillet [Observatoire]",
-  "lien": "https://www.greenunivers.com/2026/08/batteries-combien-rapporte-1-mw-en-juillet-observatoire-431262/",
-  "auteur": "Jacopo Landi",
-  "resume": "Les écarts de prix au cours d’une journée ont encore augmenté sur le marché de l’électricité en juillet et le terrain de jeu reste L’article Batteries : combien rapporte 1 MW en juillet [Observatoire] est apparu en premier sur GreenUnivers .",
-  "pub": "2026-08-04",
-  "ts": 1785846408.0,
-  "vu": "2026-08-05"
- },
- {
-  "source": "pv magazine France",
-  "titre": "TotalEnergies rachète les activités renouvelables terrestres de Shell en Europe",
-  "lien": "https://www.pv-magazine.fr/2026/08/04/totalenergies-rachete-les-activites-renouvelables-terrestres-de-shell-en-europe/",
-  "auteur": "Francois Puthod",
-  "resume": "Le géant pétrogazier français renforce sa stratégie dans l’électricité verte en rachetant les activités européennes de Shell, tout en cédant 50 % de son portefeuille d’actifs dans le renouvelable au fonds américain KKR.",
-  "pub": "2026-08-04",
-  "ts": 1785844800.0,
-  "vu": "2026-08-05"
- },
- {
-  "source": "Energy-Storage.news",
-  "titre": "Prosalia and EDP hybridise solar PV/wind projects with batteries in Portugal, Spain",
-  "lien": "https://www.energy-storage.news/prosalia-and-edp-hybridise-solar-pv-wind-projects-with-batteries-in-portugal-spain/",
-  "auteur": "Cameron Murray",
-  "resume": "IPP Prosalia has commissioned a 15MW/60MWh battery storage system at a solar PV plant in Portugal, while power group EDP has added one to a hybrid wind and solar project in Spain.",
-  "pub": "2026-08-04",
-  "ts": 1785840988.0,
-  "vu": "2026-08-05"
- },
- {
-  "source": "pv magazine",
-  "titre": "Researchers design PVT heat pump with single integrated evaporator",
-  "lien": "https://www.pv-magazine.com/2026/08/04/researchers-design-pvt-heat-pump-with-single-integrated-evaporator/",
-  "auteur": "Lior Kahana",
-  "resume": "The dual-source photovoltaic-thermal (PVT) heat pump combines solar and ambient-air heat collection in a single finned evaporator, eliminating the need for separate heat exchangers. The researchers say the simplified design could reduce installation costs.",
-  "pub": "2026-08-04",
-  "ts": 1785837600.0,
-  "vu": "2026-08-05"
- },
- {
-  "source": "pv magazine",
-  "titre": "Photovoltaics feed record 12 TWh into Germany’s public grid in July",
-  "lien": "https://www.pv-magazine.com/2026/08/04/photovoltaics-feed-record-12-twh-into-germanys-public-grid-in-july/",
-  "auteur": "Patrick Jowett",
-  "resume": "Solar generation surpassed the previous monthly high set in June, when photovoltaic systems delivered more than 11 TWh to the grid for the first time.",
-  "pub": "2026-08-04",
-  "ts": 1785828600.0,
-  "vu": "2026-08-04"
- },
- {
-  "source": "Révolution Énergétique",
-  "titre": "Solaire résidentiel : la France fait toujours moins bien que ses voisins européens",
-  "lien": "https://www.revolution-energetique.com/actus/solaire-residentiel-la-france-fait-toujours-moins-bien-que-ses-voisins-europeens/",
-  "auteur": "Hector PIETRANI",
-  "resume": "Pourquoi le solaire résidentiel stagne à 6% des maisons françaises ? Alors que nos voisins européens nous dépassent largement, Hello Watt publie une étude pour […] L’article Solaire résidentiel : la France fait toujours moins bien que ses voisins européens est apparu en premier […]",
-  "pub": "2026-08-04",
-  "ts": 1785826962.0,
-  "vu": "2026-08-04"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Le télescope James-Webb a détecté l’« eau exotique » des réacteurs nucléaires dans l'atmosphère d'une autre planète !",
-  "lien": "https://www.futura-sciences.com/sciences/actualites/astronomie-telescope-james-webb-detecte-eau-exotique-reacteurs-nucleaires-atmosphere-autre-planete-136691/",
-  "auteur": "Laurent Sacco, Journaliste scientifique",
-  "resume": "L'une des grandes attentes des exobiologistes avec le télescope spatial James-Webb (JWST), c'est de pouvoir préciser la composition de possibles atmosphères dans la zone d'habitabilité d'exoplanètes proche du Système solaire dans la Voie lactée. Les astrophysiciens viennent de […]",
-  "pub": "2026-08-04",
-  "ts": 1785819837.0,
-  "vu": "2026-08-04"
- },
- {
-  "source": "Enerzine",
-  "titre": "SwRI et SMU développent un contrôleur IA pour micro-réseaux multi-modaux et stockage hybride longue durée",
-  "lien": "https://www.enerzine.com/swri-et-smu-developpent-un-controleur-ia-pour-micro-reseaux-multi-modaux-et-stockage-hybride-longue-duree/191345-2026-08",
-  "auteur": "La rédaction",
-  "resume": "Southwest Research Institute (SwRI) et SMU développent un contrôleur piloté par l’IA pour des systèmes de micro-réseaux hybrides qui intègrent plusieurs sources d’énergie et systèmes de stockage pour fonctionner. Le projet est financé par une subvention de 129 842 $ du programme […]",
-  "pub": "2026-08-04",
-  "ts": 1785816600.0,
-  "vu": "2026-08-04"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "30 minutes au soleil suffisent à bouleverser les bactéries de votre peau : faut-il s’inquiéter ?",
-  "lien": "https://www.futura-sciences.com/sante/actualites/corps-humain-30-minutes-soleil-suffisent-bouleverser-bacteries-votre-peau-faut-il-inquieter-136684/",
-  "auteur": "Véronique Molénat, Journaliste",
-  "resume": "On le sait, le soleil peut brûler la peau, accélérer son vieillissement et favoriser certains cancers. Mais ses effets ne s’arrêtent peut-être pas là. À la surface de notre corps vit un étonnant écosystème de bactéries, champignons et virus qui participe à notre protection. Or […]",
-  "pub": "2026-08-04",
-  "ts": 1785816101.0,
-  "vu": "2026-08-04"
  }
 ]
