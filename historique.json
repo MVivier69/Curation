@@ -20,6 +20,36 @@
   "vu": "2026-08-20"
  },
  {
+  "source": "pv magazine France",
+  "titre": "Des scientifiques chinois atteignent un rendement record de 24 % pour des modules photovoltaïques en pérovskite de grande taille",
+  "lien": "https://www.pv-magazine.fr/2026/08/24/des-scientifiques-chinois-atteignent-un-rendement-record-de-24-pour-des-modules-photovoltaiques-en-perovskite-de-grande-taille/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Des chercheurs ont obtenu un rendement certifié de 24,0 % sur un module en pérovskite de 810 cm², ainsi qu’un rendement de 22,0 % sur un module de 0,72 m², en combinant un procédé à pression de vapeur saturée élevée (SVP) avec une passivation au carboxylate de plomb.",
+  "pub": "2026-08-24",
+  "ts": 1787553000.0,
+  "vu": "2026-08-24"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Wuhan : une station de ski chinoise alimentée en partie par le solaire photovoltaïque",
+  "lien": "https://www.enerzine.com/wuhan-chine-complexe-glace-alimente-solaire/193102-2026-08",
+  "auteur": "La rédaction",
+  "resume": "À Wuhan, en Chine, la State Grid Hubei Electric Power Company a inspecté le 15 août les installations électriques du complexe BONSKI. L’espace de sports de glace maintient -6°C toute l’année grâce à une alimentation fiable et au photovoltaïque, qui couvre près de 30 % des […]",
+  "pub": "2026-08-24",
+  "ts": 1787551800.0,
+  "vu": "2026-08-24"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Le télescope Inouye capture les vortex de plasma du Soleil",
+  "lien": "https://www.enerzine.com/le-telescope-inouye-capture-les-vortex-de-plasma-du-soleil/193036-2026-08",
+  "auteur": "La rédaction",
+  "resume": "Le 14 avril 2025, le télescope solaire Daniel K. Inouye, à Hawaï, a obtenu les images les plus nettes jamais réalisées de la surface du Soleil. Des chercheurs y ont observé des tourbillons de plasma et apporté la première preuve directe de l’instabilité de Kelvin-Helmholtz dans […]",
+  "pub": "2026-08-24",
+  "ts": 1787548200.0,
+  "vu": "2026-08-24"
+ },
+ {
   "source": "Enerzine",
   "titre": "Un modèle d’IA détecte les signes cachés des éruptions solaires des heures avant leur émergence",
   "lien": "https://www.enerzine.com/un-modele-dia-detecte-les-signes-caches-des-eruptions-solaires-des-heures-avant-leur-emergence/192836-2026-08",
@@ -918,125 +948,5 @@
   "pub": "2026-08-14",
   "ts": 1786684845.0,
   "vu": "2026-08-14"
- },
- {
-  "source": "Révolution Énergétique",
-  "titre": "Sécheresse et méduses : la puissance nucléaire française réduite de 20%",
-  "lien": "https://www.revolution-energetique.com/actus/secheresse-et-meduses-la-puissance-nucleaire-francaise-reduite-de-20/",
-  "auteur": "Kevin CHAMPEAU",
-  "resume": "C’est une première en France : 13 réacteurs sont arrêtés ou ralentis en simultané pour des raisons environnementales. Outre la sécheresse et les fortes chaleurs, […] L’article Sécheresse et méduses : la puissance nucléaire française réduite de 20% est apparu en premier sur […]",
-  "pub": "2026-08-13",
-  "ts": 1786634997.0,
-  "vu": "2026-08-14"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Le crédit d’impôt pour l’industrie verte (C3IV) prolongé pour trois ans",
-  "lien": "https://www.pv-magazine.fr/2026/08/13/le-credit-dimpot-pour-lindustrie-verte-c3iv-prolonge-pour-trois-ans/",
-  "auteur": "Francois Puthod",
-  "resume": "Créé en 2024, le crédit d'impôt au titre des investissements dans l'industrie verte (C3IV) vient d’être prolongé pour trois ans. Ses nouvelles modalités, qui concernent notamment le photovoltaïque, ont été publiées, hier, au Journal officiel.",
-  "pub": "2026-08-13",
-  "ts": 1786629600.0,
-  "vu": "2026-08-14"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "Pendant les canicules, le solaire a été la seule source d’électricité à produire plus",
-  "lien": "https://www.lechodusolaire.fr/pendant-les-canicules-le-solaire-a-ete-la-seule-source-delectricite-a-produire-plus/",
-  "auteur": "F. Fassot",
-  "resume": "Le photovoltaïque a produit jusqu’à 17% d’électricité en plus en France les jours de canicule de juin et juillet, quand le nucléaire, le gaz, le charbon et l’hydraulique voyaient tous leur production contrainte par la chaleur et la sécheresse. C’est la conclusion centrale de […]",
-  "pub": "2026-08-13",
-  "ts": 1786627708.0,
-  "vu": "2026-08-14"
- },
- {
-  "source": "pv magazine",
-  "titre": "QBE survey finds DC cabling and plug connections are most common causes of PV fires",
-  "lien": "https://www.pv-magazine.com/2026/08/13/qbe-survey-finds-dc-cabling-and-plug-connections-are-most-common-causes-of-pv-fires/",
-  "auteur": "Emiliano Bellini",
-  "resume": "A survey by global industrial insurer QBE in Great Britain found that the number of fires is rising nearly twice as fast as the number of new photovoltaic installations. After DC cabling and connectors, the most common causes are solar modules, battery storage systems, and […]",
-  "pub": "2026-08-13",
-  "ts": 1786623275.0,
-  "vu": "2026-08-14"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Voltalia pourrait obtenir jusqu’à 120 millions d’euros pour financer sa croissance",
-  "lien": "https://www.pv-magazine.fr/2026/08/13/voltalia-pourrait-obtenir-jusqua-120-millions-deuros-pour-financer-sa-croissance/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Voltalia pourrait bénéficier d’un investissement pouvant atteindre 120 millions d’euros de la Société financière internationale (SFI) pour financer le développement de nouveaux projets renouvelables. L’opération permettrait au producteur français de renforcer ses ressources à […]",
-  "pub": "2026-08-13",
-  "ts": 1786622400.0,
-  "vu": "2026-08-14"
- },
- {
-  "source": "pv magazine",
-  "titre": "Japan’s proposed shading rate for agrivoltaics is unreasonable, says think thank",
-  "lien": "https://www.pv-magazine.com/2026/08/13/japans-proposed-shading-rate-for-agrivoltaics-is-unreasonable-says-think-thank/",
-  "auteur": "Patrick Jowett",
-  "resume": "Japan’s Renewable Energy Foundation says proposals to introduce a maximum shading rate of 30% for agrivoltaic installations is contradicted by existing real-world examples where panel shade has helped to cultivate high-quality crops.",
-  "pub": "2026-08-13",
-  "ts": 1786622051.0,
-  "vu": "2026-08-14"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Scatec achève en Égypte un projet solaire avec stockage de 1 GW/200 MWh",
-  "lien": "https://www.pv-magazine.fr/2026/08/13/scatec-acheve-en-egypte-un-projet-solaire-avec-stockage-de-1-gw-200-mwh/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "L'IPP norvégien a achevé le projet solaire avec stockage Obelisk de 1,1 GW en Égypte, qui comprend un système de stockage d’énergie par batteries (BESS) de 100 MW/200 MWh. Le projet, d’un coût de 590 millions de dollars (environ 511 millions d’euros), fournira de l’électricité à […]",
-  "pub": "2026-08-13",
-  "ts": 1786615200.0,
-  "vu": "2026-08-14"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Les renouvelables portent RWE, qui insiste dans les réseaux",
-  "lien": "https://www.greenunivers.com/2026/08/les-renouvelables-porte-rwe-qui-insiste-dans-les-reseaux-431422/",
-  "auteur": "Paul Messad",
-  "resume": "RWE enregistre, lui aussi, de meilleurs résultats que prévu au 1er semestre de l’année. L’Ebitda du mastodonte rhénan s’élève à 3 Mds€, soit 40 % de plus qu’au 1er semestre 2025. La dette se creuse, très proche des 15 Mds€ contre 10 Mds€ six mois auparavant. La production EnR se […]",
-  "pub": "2026-08-13",
-  "ts": 1786614192.0,
-  "vu": "2026-08-14"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Le solaire brille au camping",
-  "lien": "https://www.pv-magazine.fr/2026/08/13/le-solaire-brille-au-camping/",
-  "auteur": "Francois Puthod",
-  "resume": "À Veynes (Hautes -Alpes) et à Pommiers (Rhône), deux campings sont équipés de panneaux solaires hybrides pour fournir de l’eau chaude et de l’électricité aux vacanciers.",
-  "pub": "2026-08-13",
-  "ts": 1786608000.0,
-  "vu": "2026-08-14"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Zendure et Sobry misent sur le duo batterie et tarification dynamique",
-  "lien": "https://www.pv-magazine.fr/2026/08/13/zendure-et-sobry-misent-sur-le-duo-batterie-et-tarification-dynamique/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Alors que le TURPE 7 renchérit progressivement l’usage du réseau et que l’arrêté S21 modifie la valorisation du surplus photovoltaïque, les batteries domestiques pourraient trouver un nouvel intérêt économique. Couplées à une tarification dynamique, elles permettent de décaler […]",
-  "pub": "2026-08-13",
-  "ts": 1786602600.0,
-  "vu": "2026-08-13"
- },
- {
-  "source": "pv magazine",
-  "titre": "Scandium doping, coating improve cycling stability of sodium-ion battery cathodes",
-  "lien": "https://www.pv-magazine.com/2026/08/13/scandium-doping-coating-improve-cycling-stability-of-sodium-ion-battery-cathodes/",
-  "auteur": "Emiliano Bellini",
-  "resume": "Researchers have compared bulk scandium doping and surface scandium coating in a special type of cathodes for sodium-ion batteries. Both approaches improved cycling stability, with the coated full cell retaining 91.2% of its initial capacity after 300 cycles, while structural […]",
-  "pub": "2026-08-13",
-  "ts": 1786599191.0,
-  "vu": "2026-08-13"
- },
- {
-  "source": "Transitions & Énergies",
-  "titre": "Comment comprendre ce qu’il se passe à l’intérieur du Soleil ?",
-  "lien": "https://www.transitionsenergies.com/comprendre-se-passe-interieur-soleil/",
-  "auteur": "La rédaction",
-  "resume": "L’éclipse du soleil qui s’est produite hier dans le ciel européen a tourné notre attention vers le Soleil, l’étoile de notre système solaire. Sans elle, la vie n’existerait pas sur terre et le soleil est aussi le pourvoyeur direct et indirect de presque toute l’énergie que nous […]",
-  "pub": "2026-08-13",
-  "ts": 1786586294.0,
-  "vu": "2026-08-13"
  }
 ]
