@@ -20,6 +20,36 @@
   "vu": "2026-08-20"
  },
  {
+  "source": "CleanTechnica",
+  "titre": "US Army Army Aims To Capture Energy From “The Environment”",
+  "lien": "https://cleantechnica.com/2026/08/29/microgrid-us-army-energy-storage-solar/",
+  "auteur": "Tina Casey",
+  "resume": "The US startup Chariot Defense is pitching a microgrid that replaces hot, noisy, logistically burdened diesel generators with batteries that scavenge energy from the battlefield.",
+  "pub": "2026-08-29",
+  "ts": 1788003559.0,
+  "vu": "2026-08-29"
+ },
+ {
+  "source": "Révolution Énergétique",
+  "titre": "Le plus petit pays du monde bientôt autonome en électricité grâce au solaire",
+  "lien": "https://www.revolution-energetique.com/actus/le-plus-petit-pays-du-monde-bientot-autonome-en-electricite-grace-au-solaire/",
+  "auteur": "Kevin CHAMPEAU",
+  "resume": "Sous l’impulsion du pape François, le Vatican se tourne de manière active vers un avenir décarboné. Son successeur, Leon XIV, vient de valider un projet […] L’article Le plus petit pays du monde bientôt autonome en électricité grâce au solaire est apparu en premier sur […]",
+  "pub": "2026-08-29",
+  "ts": 1787986500.0,
+  "vu": "2026-08-29"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Égypte : mise en service de la plus grande centrale hybride d’Afrique",
+  "lien": "https://www.enerzine.com/egypte-mise-en-service-de-la-plus-grande-centrale-hybride-dafrique/193008-2026-08",
+  "auteur": "La rédaction",
+  "resume": "Scatec a annoncé le 12 août la mise en service commerciale de la deuxième phase du projet Obelisk, en Égypte. Avec 1,1 GW de solaire et 100 MW/200 MWh de batteries, le complexe devient, selon l’entreprise, la plus grande installation hybride d’Afrique. L’annonce est tombée le 12 […]",
+  "pub": "2026-08-29",
+  "ts": 1787976600.0,
+  "vu": "2026-08-29"
+ },
+ {
   "source": "Futura Sciences",
   "titre": "Faut-il arrêter de labourer pour sauver nos sols ? L’éclairage sans détour de Marc-André Selosse",
   "lien": "https://www.futura-sciences.com/sciences/actualites/series-ete-faut-il-arreter-labourer-sauver-nos-sols-eclairage-detour-marc-andre-selosse-137293/",
@@ -1217,146 +1247,6 @@
   "resume": "CATL's Core Operation Carbon Neutrality Launch Event was held in Ningde, Fujian Province, China, on 17 August.",
   "pub": "2026-08-19",
   "ts": 1787111857.0,
-  "vu": "2026-08-19"
- },
- {
-  "source": "Enerzine",
-  "titre": "La sonde Juno de la NASA mesure la température sous la surface de la lune volcanique de Jupiter",
-  "lien": "https://www.enerzine.com/la-sonde-juno-de-la-nasa-mesure-la-temperature-sous-la-surface-de-la-lune-volcanique-de-jupiter/192222-2026-08",
-  "auteur": "La rédaction",
-  "resume": "La mission Juno de la NASA a réalisé les premières mesures directes de la température sous la surface de la lune Io de Jupiter, révélant un échauffement significatif dans les premiers mètres de la lune la plus volcanique du système solaire. Ces résultats, issus des données […]",
-  "pub": "2026-08-18",
-  "ts": 1787091000.0,
-  "vu": "2026-08-19"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "ICPE : vers un déclassement de certaines installations de charge de batteries",
-  "lien": "https://www.actu-environnement.com/ae/news/icpe-declassement-charge-batteries-rubrique-2925-48399.php4",
-  "auteur": "",
-  "resume": "Le ministère de la Transition écologique soumet à la consultation du public jusqu'au 7 septembre prochain un projet de décret visant à modifier la rubrique 2925 de la nomenclature des installations classées (ICPE) qui soumet au régime de la déclar...",
-  "pub": "2026-08-18",
-  "ts": 1787065793.0,
-  "vu": "2026-08-19"
- },
- {
-  "source": "PV Tech",
-  "titre": "Risen and Ascania sign MoU to deploy 100MW of solar PV, 200MWh of BESS in Ukraine",
-  "lien": "https://www.pv-tech.org/risen-ascania-sign-mou-deploy-100mw-solar-pv-200mwh-bess-ukraine/",
-  "auteur": "JP Casey",
-  "resume": "Risen Energy has signed an MoU with Ascania Energy to deploy 100MW of solar PV capacity and 200MWh of utility-scale batteries in Ukraine.",
-  "pub": "2026-08-18",
-  "ts": 1787064624.0,
-  "vu": "2026-08-19"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Les tarifs de l’AO solaire baissent encore en Allemagne",
-  "lien": "https://www.greenunivers.com/2026/08/les-tarifs-de-lao-solaire-baissent-encore-en-allemagne-431517/",
-  "auteur": "Paul Messad",
-  "resume": "Carton plein outre-Rhin. Les autorités allemandes viennent de dévoiler les résultats de la dernière session de l’appel d’offres (AO) pour le solaire au sol entre 1 et 20 MW. Quelque 261 projets ont été retenus, cumulant plus de 2,1 GW de puissance. La Bavière L’article Les […]",
-  "pub": "2026-08-18",
-  "ts": 1787063931.0,
-  "vu": "2026-08-19"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Longi prépare une ligne pilote de 100 MW pour ses cellules solaires tandem",
-  "lien": "https://www.pv-magazine.fr/2026/08/18/longi-prepare-une-ligne-pilote-de-100-mw-pour-ses-cellules-solaires-tandem/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Par ailleurs, Tongwei a fait progresser son projet de rachat du fabricant de polysilicium Lihao Clean Energy jusqu’à la phase finale des négociations. De son côté, Trina Solar prévoit de lancer la production de masse de ses cellules THBC au second semestre 2026 et vise une […]",
-  "pub": "2026-08-18",
-  "ts": 1787061600.0,
-  "vu": "2026-08-19"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Deux ombrières solaires 100 % européennes sur le parking d’une piscine alsacienne",
-  "lien": "https://www.pv-magazine.fr/2026/08/18/deux-ombrieres-solaires-100-europeennes-sur-le-parking-dune-piscine-alsacienne/",
-  "auteur": "Francois Puthod",
-  "resume": "Le groupe Sovec a mis en service, au printemps dernier, deux ombrières photovoltaïques sur le parking de la piscine « Les Rives de l’Ill », à Tagolsheim (68), réalisées à partir de matériaux 100 % européens. Leur production sera entièrement autoconsommée sur le site.",
-  "pub": "2026-08-18",
-  "ts": 1787056200.0,
-  "vu": "2026-08-19"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Hydrogène : le gouvernement veut encadrer la production",
-  "lien": "https://lenergeek.com/2026/08/18/hydrogene-gouvernement-veut-production/",
-  "auteur": "Cédric Bonnefoy",
-  "resume": "Le ministère de la Transition Écologique met en consultation trois textes réglementaires pour encadrer la production d'hydrogène par électrolyse de l'eau. Un décret et deux arrêtés établissent trois régimes (déclaration, enregistrement, autorisation) selon les volumes produits […]",
-  "pub": "2026-08-18",
-  "ts": 1787054368.0,
-  "vu": "2026-08-19"
- },
- {
-  "source": "Energy-Storage.news",
-  "titre": "What 4th generation LFP batteries mean for BESS",
-  "lien": "https://www.energy-storage.news/what-4th-generation-lfp-batteries-mean-for-bess/",
-  "auteur": "Liam Critchley",
-  "resume": "What are the technology improvements of the 4th generation of LFP batteries, and what do they mean for BESS applications?",
-  "pub": "2026-08-18",
-  "ts": 1787050193.0,
-  "vu": "2026-08-19"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Energie renouvelable : le Canada lance un projet historique de développement",
-  "lien": "https://lenergeek.com/2026/08/18/renouvelables-energie-renouvelable-canada-lance-projet-historique/",
-  "auteur": "La Rédaction",
-  "resume": "Le Canada dévoile un investissement historique de 70 milliards de dollars dans les renouvelables, axé sur l'hydroélectricité et l'éolien. L’article Energie renouvelable : le Canada lance un projet historique de développement est apparu en premier sur L'EnerGeek .",
-  "pub": "2026-08-18",
-  "ts": 1787047980.0,
-  "vu": "2026-08-19"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Hydroélectricité : des modifications pour les modalités de soutien",
-  "lien": "https://www.actu-environnement.com/ae/news/hydroelectricite-modalites-soutien-arrete-h16-48396.php4",
-  "auteur": "",
-  "resume": "Un arrêté du 28 mai 2026, publié le 1er août, vient modifier les modalités de soutien pour les installations hydroélectriques sous le régime de l'autorisation fixées dans l'arrêté du 13 décembre 2016, dit H16. Il vise à éviter un cumul des aides,...",
-  "pub": "2026-08-18",
-  "ts": 1787047675.0,
-  "vu": "2026-08-19"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Le stockage d’énergie par batterie, nouvel actif économique pour les industriels",
-  "lien": "https://www.pv-magazine.fr/2026/08/18/le-stockage-denergie-par-batterie-nouvel-actif-economique-pour-les-industriels/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Au-delà de leur rôle dans la gestion de l’énergie, les batteries ouvrent de nouvelles perspectives de revenus pour les sites industriels. Le projet de Perlen, en Suisse, en est une illustration : son système de stockage de 10 MW / 20 MWh sera utilisé pour fournir des services […]",
-  "pub": "2026-08-18",
-  "ts": 1787043600.0,
-  "vu": "2026-08-19"
- },
- {
-  "source": "pv magazine France",
-  "titre": "L’agrivoltaïsme peut réduire la température des sols de plus de 20 °C",
-  "lien": "https://www.pv-magazine.fr/2026/08/18/lagrivoltaisme-peut-reduire-la-temperature-des-sols-de-plus-de-20-c/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Des chercheurs italiens testent différentes cultures, configurations de panneaux et niveaux d’ombrage afin d’identifier les combinaisons les mieux adaptées à la production agrivoltaïque. Ils ont constaté que les systèmes agrivoltaïques peuvent faire baisser la température des […]",
-  "pub": "2026-08-18",
-  "ts": 1787038200.0,
-  "vu": "2026-08-19"
- },
- {
-  "source": "pv magazine",
-  "titre": "Agrivoltaics can reduce soil temperatures by more than 20 C",
-  "lien": "https://www.pv-magazine.com/2026/08/18/agrivoltaics-can-reduce-soil-temperatures-by-more-than-20-c/",
-  "auteur": "Emiliano Bellini",
-  "resume": "Researchers in Italy are testing different crops, panel configurations, and shading levels to identify the most suitable combinations for agrivoltaic production. They found that agrivoltaic systems can lower soil temperatures by more than 20 C, potentially helping crops cope […]",
-  "pub": "2026-08-18",
-  "ts": 1787031000.0,
-  "vu": "2026-08-18"
- },
- {
-  "source": "Connaissance des Énergies",
-  "titre": "Canicule : le réseau électrique européen peut remercier le solaire",
-  "lien": "https://www.connaissancedesenergies.org/canicule-le-reseau-electrique-europeen-peut-remercier-le-solaire",
-  "auteur": "mael-dancette",
-  "resume": "Cet été a été marqué par des vagues de chaleur successives et une sécheresse qui ont « mis le réseau électrique européen sous tension, faisant grimper la demande d’électricité et provoquant une flambée des prix », indique Ember dans un rapport publié ce 13 août. Si les réseaux […]",
-  "pub": "2026-08-18",
-  "ts": 1787011200.0,
   "vu": "2026-08-19"
  }
 ]
