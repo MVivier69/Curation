@@ -20,8 +20,28 @@
   "vu": "2026-08-20"
  },
  {
+  "source": "Enerzine",
+  "titre": "Moins de lithium mais un transport ionique plus rapide",
+  "lien": "https://www.enerzine.com/moins-de-lithium-mais-un-transport-ionique-plus-rapide/192815-2026-08",
+  "auteur": "La rédaction",
+  "resume": "Les batteries à l’état solide promettent une plus grande sécurité et une densité énergétique supérieure, mais leurs électrolytes solides sont confrontés à un compromis fondamental. La plupart des électrolytes inorganiques à l’état solide très conducteurs reposent sur des […]",
+  "pub": "2026-08-30",
+  "ts": 1788059400.0,
+  "vu": "2026-08-30"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Photons intriqués : la lumière solaire remplace les lasers",
+  "lien": "https://www.enerzine.com/photons-intriques-la-lumiere-solaire-remplace-les-lasers/193011-2026-08",
+  "auteur": "La rédaction",
+  "resume": "Des chercheurs de l’Université d’Ottawa et de l’Institut Max Planck pour la science de la lumière ont démontré à Erlangen, en Allemagne, que la lumière naturelle du soleil peut générer des photons quantiquement intriqués. Publiée dans la revue Optica, la percée élimine le […]",
+  "pub": "2026-08-29",
+  "ts": 1788041400.0,
+  "vu": "2026-08-30"
+ },
+ {
   "source": "CleanTechnica",
-  "titre": "US Army Army Aims To Capture Energy From “The Environment”",
+  "titre": "US Army Aims To Capture Energy From “The Environment”",
   "lien": "https://cleantechnica.com/2026/08/29/microgrid-us-army-energy-storage-solar/",
   "auteur": "Tina Casey",
   "resume": "The US startup Chariot Defense is pitching a microgrid that replaces hot, noisy, logistically burdened diesel generators with batteries that scavenge energy from the battlefield.",
@@ -1108,145 +1128,5 @@
   "pub": "2026-08-20",
   "ts": 1787198139.0,
   "vu": "2026-08-21"
- },
- {
-  "source": "CleanTechnica",
-  "titre": "16 Agrivoltaic Projects on Local Farms Move Forward in New Jersey",
-  "lien": "https://cleantechnica.com/2026/08/19/16-agrivoltaic-projects-on-local-farms-move-forward-in-new-jersey/",
-  "auteur": "Z. S.",
-  "resume": "16 agrivoltaic projects in the state of New Jersey have just gotten approval to move forward by the New Jersey Board of Public Utilities (NJBPU). Together, the projects aren’t huge, but they do total 52.06 more megawatts of clean, renewable energy, produced on land productively […]",
-  "pub": "2026-08-19",
-  "ts": 1787181845.0,
-  "vu": "2026-08-20"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Production d'hydrogène par électrolyse de l'eau : un nouveau cadre réglementaire en préparation",
-  "lien": "https://www.actu-environnement.com/ae/news/hydrogene-electrolyse-icpe-reglementation-2027-48403.php4",
-  "auteur": "",
-  "resume": "Face aux besoins de production d'hydrogène décarboné, le ministère de la Transition écologique propose deux nouvelles rubriques de la nomenclature des ICPE, accompagnées d'arrêtés de prescriptions, afin d'encadrer les risques liés à cette production.",
-  "pub": "2026-08-19",
-  "ts": 1787148120.0,
-  "vu": "2026-08-20"
- },
- {
-  "source": "pv magazine",
-  "titre": "Study finds arable crops adapt surprisingly well to agrivoltaic shading",
-  "lien": "https://www.pv-magazine.com/2026/08/19/study-finds-arable-crops-adapt-surprisingly-well-to-agrivoltaic-shading/",
-  "auteur": "Emiliano Bellini",
-  "resume": "A study by the University of Hohenheim found that barley, maize, cabbage, potatoes, and field beans can adapt their photosynthesis to partial shading in agrivoltaic systems. The findings suggest greater shade tolerance than previously assumed, although the physiological […]",
-  "pub": "2026-08-19",
-  "ts": 1787146259.0,
-  "vu": "2026-08-20"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "La tablette Teclast T65 avec écran 120 Hz et connectivité 4G est à prix jamais vu sur AliExpress",
-  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-pc-tablettes-tablette-teclast-t65-ecran-120-hz-connectivite-4g-prix-jamais-vu-aliexpress-11052/",
-  "auteur": "Mallory Delicourt, Journaliste",
-  "resume": "Avec sa grande dalle de 13,4 pouces et sa fréquence de 120 Hz, la tablette tactile Teclast T65 s'adresse aux personnes en quêtes d'une tablette pratique et réactive pour un usage quotidien. La connectivité 4G et son stockage extensible renforcent le côté polyvalent de cette […]",
-  "pub": "2026-08-19",
-  "ts": 1787144413.0,
-  "vu": "2026-08-20"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Mégasol équipe tous ses panneaux Level Up d’une surface anti-éblouissement",
-  "lien": "https://www.pv-magazine.fr/2026/08/19/megasol-equipe-tous-ses-panneaux-level-up-dune-surface-anti-eblouissement/",
-  "auteur": "Francois Puthod",
-  "resume": "Le fabricant suisse Mégasol annonce une première dans le domaine des photovoltaïques intégrés au bâtiment : son système intégré au toit, Level Up, est désormais équipé, de série, de la surface ZRM+ (« Zero Reflect Matt+ ») à réduction d’éblouissement.",
-  "pub": "2026-08-19",
-  "ts": 1787144400.0,
-  "vu": "2026-08-20"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Une gamme d’onduleurs solaires au carbure de silicium pour les installations résidentielles",
-  "lien": "https://www.pv-magazine.fr/2026/08/19/une-gamme-donduleurs-solaires-au-carbure-de-silicium-pour-les-installations-residentielles/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Freyr Energy présente de nouveaux onduleurs monophasés de 3 kW et 5 kW qui affichent un rendement de conversion pouvant atteindre 97,8 %. Ils intègrent la technologie au carbure de silicium (SiC), des connexions Wi-Fi et Bluetooth ainsi qu’une garantie de dix ans.",
-  "pub": "2026-08-19",
-  "ts": 1787144400.0,
-  "vu": "2026-08-20"
- },
- {
-  "source": "pv magazine France",
-  "titre": "La France face à un nouveau défi pour la stabilité de son réseau électrique",
-  "lien": "https://www.pv-magazine.fr/2026/08/19/la-france-face-a-un-nouveau-defi-pour-la-stabilite-de-son-reseau-electrique/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "La France ne pourra pas compter uniquement sur son parc nucléaire pour accompagner l’essor des renouvelables. D’ici 2035, le pays devra surtout développer massivement le stockage, les interconnexions et les autres capacités flexibles capables de compenser les variations de […]",
-  "pub": "2026-08-19",
-  "ts": 1787140800.0,
-  "vu": "2026-08-20"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Projet de serres agrivoltaïques : l'avis défavorable de la CDPENAF pouvait être attaqué",
-  "lien": "https://www.actu-environnement.com/ae/news/cdpenaf-avis-defavorable-serres-agrivoltaiques-recours-48402.php4",
-  "auteur": "",
-  "resume": "Par une décision du 24 juillet 2026, la cour administrative d'appel de Toulouse a jugé que l'avis défavorable de la commission départementale de préservation des espaces naturels, agricoles et forestiers (CDPENAF) sur une demande de permis de cons...",
-  "pub": "2026-08-19",
-  "ts": 1787138118.0,
-  "vu": "2026-08-20"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Avis de marchés publics dans le PV en France",
-  "lien": "https://www.pv-magazine.fr/2026/08/19/avis-de-marches-publics-dans-le-pv-en-france-134/",
-  "auteur": "Francois Puthod",
-  "resume": "Retrouvez chaque semaine dans pv magazine les appels d’offres publiés relatifs aux projets photovoltaïques en France.",
-  "pub": "2026-08-19",
-  "ts": 1787126400.0,
-  "vu": "2026-08-20"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Transition énergétique : la France mise-t-elle encore sur le tout électrique ?",
-  "lien": "https://lenergeek.com/2026/08/19/transition-energetique-france/",
-  "auteur": "Nicolas Egon",
-  "resume": "La feuille de route française de sortie des énergies fossiles fixe trois horizons, 2030 pour le charbon, 2045 pour le pétrole et 2050 pour le gaz fossile, mais son enjeu ... L’article Transition énergétique : la France mise-t-elle encore sur le tout électrique ? est apparu en […]",
-  "pub": "2026-08-19",
-  "ts": 1787126338.0,
-  "vu": "2026-08-20"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Vers la commercialisation d’une nouvelle génération de panneaux solaires, avec plus de 30 % de rendement",
-  "lien": "https://www.pv-magazine.fr/2026/08/19/tandem-pv-finalise-une-nouvelle-generation-de-panneaux-solaires-avec-plus-de-30-de-rendement/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Le fabricant américain Tandem PV s’apprête à commercialiser ses premiers panneaux associant silicium et pérovskite. Avec un rendement déjà supérieur à 30 % sur ses modules record et un objectif de 37 % d’ici 2030, l’entreprise entend améliorer sensiblement les performances du […]",
-  "pub": "2026-08-19",
-  "ts": 1787124600.0,
-  "vu": "2026-08-20"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Eaux non conventionnelles : de nouveaux flux encadrés pour des usages domestiques",
-  "lien": "https://www.actu-environnement.com/ae/news/eaux-non-conventionnelles-reutilisation-eaux-usees-traitees-usages-domestiques-osmoseurs-eaux-grises-cuisine-48400.php4",
-  "auteur": "",
-  "resume": "L'arrêté qui précise le cadre de l'expérimentation de l'utilisation d'eaux non conventionnelles pour des usages domestiques est publié. Il ouvre l'expérimentation aux flux issus du traitement d'eau par osmoseur et revient sur les eaux grises de cu...",
-  "pub": "2026-08-19",
-  "ts": 1787123705.0,
-  "vu": "2026-08-20"
- },
- {
-  "source": "Révolution Énergétique",
-  "titre": "Tout juste lancée, voici la plus grande batterie d’Europe en 2026",
-  "lien": "https://www.revolution-energetique.com/actus/coalburn-1-batterie-geante-europe-2026/",
-  "auteur": "Hugo LARA",
-  "resume": "Coalburn 1, une batterie géante de 500 MW et 1 GWh, démarre son exploitation commerciale en Écosse. Ce système de stockage est censé renforcer la […] L’article Tout juste lancée, voici la plus grande batterie d’Europe en 2026 est apparu en premier sur Révolution Énergétique .",
-  "pub": "2026-08-19",
-  "ts": 1787116953.0,
-  "vu": "2026-08-19"
- },
- {
-  "source": "Energy-Storage.news",
-  "titre": "CATL’s Robin Zeng says non-zero-carbon batteries will be left behind by the times",
-  "lien": "https://www.energy-storage.news/catls-robin-zeng-says-non-zero-carbon-batteries-will-be-left-behind-by-the-times/",
-  "auteur": "Carrie Xiao",
-  "resume": "CATL's Core Operation Carbon Neutrality Launch Event was held in Ningde, Fujian Province, China, on 17 August.",
-  "pub": "2026-08-19",
-  "ts": 1787111857.0,
-  "vu": "2026-08-19"
  }
 ]
