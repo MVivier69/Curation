@@ -20,6 +20,206 @@
   "vu": "2026-08-20"
  },
  {
+  "source": "pv magazine",
+  "titre": "Vehicle-integrated PV key to protecting EV batteries rather than extending range",
+  "lien": "https://www.pv-magazine.com/2026/09/01/vehicle-integrated-pv-key-to-protecting-ev-batteries-rather-than-extending-range/",
+  "auteur": "Lior Kahana",
+  "resume": "UK researchers say vehicle-integrated PV could deliver greater value by preserving EV batteries rather than extending driving range. Their review also calls for dynamic, automotive-specific testing standards that account for real-world shading, vehicle movement and module […]",
+  "pub": "2026-09-01",
+  "ts": 1788260638.0,
+  "vu": "2026-09-01"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "ARRAY DuraTrack D2S™ marque l’évolution de la conception des trackers solaires",
+  "lien": "https://www.pv-magazine.fr/2026/09/01/array-duratrack-d2s-marque-levolution-de-la-conception-des-trackers-solaires/",
+  "auteur": "Bernadette Geyer",
+  "resume": "DuraTrack D2S™ est un tracker solaire à double rangée conçu pour répondre aux exigences croissantes du marché. Il combine une densité de puissance accrue, une technologie brevetée de mise en protection face au vent et une grande capacité d'adaptation à tous types de terrains […]",
+  "pub": "2026-09-01",
+  "ts": 1788253200.0,
+  "vu": "2026-09-01"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "Facturation électronique : la réforme s’applique aux producteurs solaires depuis le 1er septembre",
+  "lien": "https://www.lechodusolaire.fr/facturation-electronique-la-reforme-sapplique-aux-producteurs-solaires-depuis-le-1er-septembre/",
+  "auteur": "F. Fassot",
+  "resume": "Depuis le 1er septembre 2026, toute entreprise établie en France doit être en mesure de recevoir ses factures sous forme électronique, par l’intermédiaire d’une plateforme agréée par l’administration fiscale. Les producteurs photovoltaïques qui vendent leur électricité à EDF […]",
+  "pub": "2026-09-01",
+  "ts": 1788251923.0,
+  "vu": "2026-09-01"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "MaPrimeRénov’ : le solaire thermique perd ses forfaits au 1er septembre, sauf en outre-mer",
+  "lien": "https://www.lechodusolaire.fr/maprimerenov-le-solaire-thermique-perd-ses-forfaits-au-1er-septembre-sauf-en-outre-mer/",
+  "auteur": "F. Fassot",
+  "resume": "Un décret et deux arrêtés du 25 août, publiés au Journal officiel du 27, retirent le solaire thermique du parcours « par geste » de MaPrimeRénov’ en France métropolitaine. Le chauffe-eau solaire individuel, le chauffage solaire et les capteurs hybrides associant production […]",
+  "pub": "2026-09-01",
+  "ts": 1788251907.0,
+  "vu": "2026-09-01"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "Le solaire résidentiel progresse plus vite dans la Creuse et les Vosges que dans le Sud",
+  "lien": "https://www.lechodusolaire.fr/le-solaire-residentiel-progresse-plus-vite-dans-la-creuse-et-les-vosges-que-dans-le-sud/",
+  "auteur": "F. Fassot",
+  "resume": "Hello Watt a mesuré l’évolution du taux d’équipement des maisons en panneaux solaires département par département entre juillet 2025 et juillet 2026. La France compte 1 242 435 installations résidentielles, soit 6% des maisons équipées contre 5,41% un an plus tôt, et la […]",
+  "pub": "2026-09-01",
+  "ts": 1788251892.0,
+  "vu": "2026-09-01"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "TCL Electronics étudie la scission et la cotation séparée de son activité solaire",
+  "lien": "https://www.lechodusolaire.fr/tcl-electronics-etudie-la-scission-et-la-cotation-separee-de-son-activite-solaire/",
+  "auteur": "F. Fassot",
+  "resume": "TCL Electronics a annoncé le 24 août à la Bourse de Hong Kong envisager de détacher son activité photovoltaïque pour la coter séparément, en distribuant ses actions à ses propres actionnaires. Le projet reste préliminaire et aucune demande n’a été déposée. Il précède de quatre […]",
+  "pub": "2026-09-01",
+  "ts": 1788251842.0,
+  "vu": "2026-09-01"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "Alpiq rachète à Eco Stor 103,5 MW de stockage par batteries en Allemagne",
+  "lien": "https://www.lechodusolaire.fr/alpiq-rachete-a-eco-stor-1035-mw-de-stockage-par-batteries-en-allemagne/",
+  "auteur": "F. Fassot",
+  "resume": "Le Suisse Alpiq rachète au germano-norvégien Eco Stor l’installation de stockage par batteries de Bollingstedt, dans le Schleswig-Holstein. Avec 103,5 MW de puissance et 238 MWh de capacité, c’est son premier système de stockage en exploitation en Allemagne, et le troisième de […]",
+  "pub": "2026-09-01",
+  "ts": 1788251817.0,
+  "vu": "2026-09-01"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "Comax France porte son parc de batteries à 86 MW avec dix sites livrés par Entech",
+  "lien": "https://www.lechodusolaire.fr/comax-france-porte-son-parc-de-batteries-a-86-mw-avec-dix-sites-livres-par-entech/",
+  "auteur": "F. Fassot",
+  "resume": "Comax France, filiale du Suisse MET Group, a mis en service 57 MW / 114 MWh de stockage par batteries répartis sur dix sites raccordés au réseau de distribution. Son parc opérationnel dans le pays atteint désormais plus de 86 MW / 143 MWh. Le Breton Entech a assuré l’ingénierie […]",
+  "pub": "2026-09-01",
+  "ts": 1788251803.0,
+  "vu": "2026-09-01"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "Sunbiose ouvre son capital aux particuliers pour industrialiser son pilotage en temps réel",
+  "lien": "https://www.lechodusolaire.fr/sunbiose-ouvre-son-capital-aux-particuliers-pour-industrialiser-son-pilotage-en-temps-reel/",
+  "auteur": "F. Fassot",
+  "resume": "Sunbiose, qui conçoit, finance et exploite des opérations d’autoconsommation collective pour les communes rurales et périurbaines, lance sa première levée de fonds. L’entreprise gersoise vise 200 000 euros auprès des particuliers, via la plateforme de financement participatif […]",
+  "pub": "2026-09-01",
+  "ts": 1788251762.0,
+  "vu": "2026-09-01"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "Photovoltaïque organique : des modules semi-transparents produits par un procédé industrialisable",
+  "lien": "https://www.lechodusolaire.fr/photovoltaique-organique-des-modules-semi-transparents-produits-par-un-procede-industrialisable/",
+  "auteur": "F. Fassot",
+  "resume": "Des chercheurs de l’université de Fribourg et du Fraunhofer ISE ont réalisé des modules photovoltaïques organiques de 14,5 sur 14,5 centimètres affichant une transparence moyenne de 43,2% dans le visible pour un rendement atteignant 9,26%. L’intérêt tient moins aux performances […]",
+  "pub": "2026-09-01",
+  "ts": 1788251740.0,
+  "vu": "2026-09-01"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "Sodium-ion : CATL noue deux partenariats européens avec Alfen et Solarpro",
+  "lien": "https://www.lechodusolaire.fr/sodium-ion-catl-noue-deux-partenariats-europeens-avec-alfen-et-solarpro/",
+  "auteur": "F. Fassot",
+  "resume": "Le Chinois CATL a signé en cinq jours deux accords portant sur le déploiement de batteries sodium-ion en Europe : 5 GWh avec le Néerlandais Alfen, annoncés le 16 juillet, et 2 GWh avec le Bulgare Solarpro, le 21 juillet. Le premier fabricant mondial de batteries engage ainsi une […]",
+  "pub": "2026-09-01",
+  "ts": 1788251714.0,
+  "vu": "2026-09-01"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Face à la canicule, l’agrivoltaïsme construit une agriculture plus résiliente",
+  "lien": "https://www.pv-magazine.fr/2026/09/01/face-a-la-canicule-lagrivoltaisme-construit-une-agriculture-plus-resiliente/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "La canicule devient une réalité durable avec des conséquences lourdes pour l’agriculture française. L’été 2026 en apporte une nouvelle démonstration : températures extrêmes, sécheresse, cultures fragilisées, rendements sous pression et ressource en eau de plus en plus précieuse […]",
+  "pub": "2026-09-01",
+  "ts": 1788247800.0,
+  "vu": "2026-09-01"
+ },
+ {
+  "source": "CleanTechnica",
+  "titre": "From Tony Stark to Obi Wan Kenobi: Meet 4 (of 7) West Gate Fellows and Their Technologies",
+  "lien": "https://cleantechnica.com/2026/08/31/from-tony-stark-to-obi-wan-kenobi-meet-4-of-7-west-gate-fellows-and-their-technologies/",
+  "auteur": "US Department of Energy",
+  "resume": "Fellows Aim To Make Critical Minerals in the US, Generate Affordable Geothermal Energy, and Build Ultralight and Advanced Batteries—With Some Help From NLR Experts This article is part one of a two-part series featuring the laboratory’s seven newest West Gate fellows. Part one […]",
+  "pub": "2026-09-01",
+  "ts": 1788229849.0,
+  "vu": "2026-09-01"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Portugal : les renouvelables progressent, le gaz reste indispensable",
+  "lien": "https://www.enerzine.com/portugal-les-renouvelables-progressent-le-gaz-reste-indispensable/193248-2026-09",
+  "auteur": "La rédaction",
+  "resume": "Le Portugal accélère sa sortie des combustibles fossiles, mais la fiabilité du réseau électrique impose de conserver les centrales à gaz plus longtemps que prévu. Selon GlobalData, la demande d’électricité devrait passer de 53 TWh en 2025 à 57,3 TWh en 2030, portée par le […]",
+  "pub": "2026-08-31",
+  "ts": 1788214200.0,
+  "vu": "2026-09-01"
+ },
+ {
+  "source": "Batiactu",
+  "titre": "Spie va construire de nouveaux parcs de batteries en Belgique",
+  "lien": "https://www.batiactu.com/edito/spie-va-construire-nouveaux-parcs-batteries-belgique-75203.php",
+  "auteur": "Batiactu",
+  "resume": "INFRASTRUCTURES. Le groupe français va construire l'ensemble des infrastructures électrotechniques de deux parcs de batteries à grande échelle.",
+  "pub": "2026-08-31",
+  "ts": 1788191999.0,
+  "vu": "2026-09-01"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Cet été, les « OLD » ont fait la preuve de leur utilité face aux incendies",
+  "lien": "https://www.greenunivers.com/2026/08/cet-ete-les-old-ont-fait-la-preuve-de-leur-utilite-face-aux-incendies-431842/",
+  "auteur": "Jean-Philippe Pié",
+  "resume": "Ces trois exploitants de centrales solaires menacées par les incendies de l’été en Gironde et dans le Var, en l’occurrence Neoen, Valeco-EnBW et Valorem, sont unanimes : le respect des obligations légales de débroussaillement, dites « normes OLD » s’est révélé clé pour préserver […]",
+  "pub": "2026-08-31",
+  "ts": 1788190362.0,
+  "vu": "2026-09-01"
+ },
+ {
+  "source": "Enerplan",
+  "titre": "Le solaire thermique à la une dans les Hauts de France !",
+  "lien": "https://www.enerplan.asso.fr/le-solaire-thermique-a-la-une-dans-les-hauts-de-france/",
+  "auteur": "Marlène CHALVIN",
+  "resume": "",
+  "pub": "2026-08-31",
+  "ts": 1788190189.0,
+  "vu": "2026-09-01"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Les informations à retenir de l’été",
+  "lien": "https://www.greenunivers.com/2026/08/les-informations-a-retenir-de-lete-431850/",
+  "auteur": "Paul Messad",
+  "resume": "Que l’été fut chaud est le moins que l’on puisse dire. Le système énergétique n’est pas passé loin de la catastrophe par endroits. A Cestas, en Gironde, la plus grande centrale solaire de France a été sauvée des flammes, quand dans le reste de la région, les installations ont […]",
+  "pub": "2026-08-31",
+  "ts": 1788189659.0,
+  "vu": "2026-09-01"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Valeco met en chantier une centrale agrivoltaïque de 118 MW",
+  "lien": "https://www.greenunivers.com/2026/08/valeco-met-en-chantier-une-centrale-agrivoltaique-de-118-mw-431815/",
+  "auteur": "Jean-Philippe Pié",
+  "resume": "Valeco-EnBW a entamé ce mois-ci en Haute-Vienne la construction d’une centrale solaire de 118 MW en milieu agricole, sur 160 hectares, selon nos informations. Son gabarit en fait l’un des projets les plus importants de l’Hexagone dans cette technologie. Ce projet est financé à […]",
+  "pub": "2026-08-31",
+  "ts": 1788187034.0,
+  "vu": "2026-09-01"
+ },
+ {
+  "source": "Enerplan",
+  "titre": "Tout savoir sur la chaleur solaire et l’industrie agro-alimentaire",
+  "lien": "https://www.enerplan.asso.fr/tout-savoir-sur-la-chaleur-solaire-et-lindustrie-agro-alimentaire/",
+  "auteur": "Marlène CHALVIN",
+  "resume": "",
+  "pub": "2026-08-31",
+  "ts": 1788187019.0,
+  "vu": "2026-09-01"
+ },
+ {
   "source": "pv magazine France",
   "titre": "Un nouveau système hybride combinant du photovoltaïque et une petite éolienne verticale",
   "lien": "https://www.pv-magazine.fr/2026/08/31/un-nouveau-systeme-hybride-combinant-du-photovoltaique-et-une-petite-eolienne-verticale/",
@@ -108,6 +308,16 @@
   "pub": "2026-08-31",
   "ts": 1788153154.0,
   "vu": "2026-08-31"
+ },
+ {
+  "source": "Connaissance des Énergies",
+  "titre": "Le développement du solaire en Afrique très sous-estimé dans les statistiques",
+  "lien": "https://www.connaissancedesenergies.org/le-developpement-du-solaire-en-afrique-tres-sous-estime-dans-les-statistiques",
+  "auteur": "mael-dancette",
+  "resume": "En 2026, 36 des 54 pays du continent africain devraient atteindre un niveau record d’installations solaires, selon un nouveau rapport publié ce 26 août par Ember, en collaboration avec le réseau d’experts African Tech Futures Lab.",
+  "pub": "2026-08-31",
+  "ts": 1788134400.0,
+  "vu": "2026-09-01"
  },
  {
   "source": "Futura Sciences",
@@ -958,135 +1168,5 @@
   "pub": "2026-08-22",
   "ts": 1787379489.0,
   "vu": "2026-08-22"
- },
- {
-  "source": "Transitions & Énergies",
-  "titre": "La souveraineté énergétique passe‑t‑elle forcément par l’électrification ? L’exemple du solaire thermique, mieux développé dans d’autres pays pas forcément plus ensoleillés",
-  "lien": "https://www.transitionsenergies.com/souverainete-energetique-electrification-solaire-thermique/",
-  "auteur": "La rédaction",
-  "resume": "La guerre en Iran et le blocage du détroit d’Ormuz ont poussé le gouvernement Lecornu à accélérer la mise en œuvre de mesures inscrites dans la programmation pluriannuelle de l’énergie, dite PPE3. D’un objectif environnemental de réduction des émissions de CO₂, il est passé à un […]",
-  "pub": "2026-08-21",
-  "ts": 1787352212.0,
-  "vu": "2026-08-22"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Un solaire au sol deux fois moins cher en Allemagne : pourquoi un tel écart avec la France ?",
-  "lien": "https://www.pv-magazine.fr/2026/08/21/un-solaire-au-sol-deux-fois-moins-cher-en-allemagne-pourquoi-un-tel-ecart-avec-la-france/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "47,9 €/MWh en Allemagne, 79,5 €/MWh en France : l’écart entre les derniers appels d’offres solaires au sol des deux pays interpelle. Derrière ces chiffres se cachent cependant des réalités économiques différentes : raccordement, fiscalité, foncier, coût du capital, risque de […]",
-  "pub": "2026-08-21",
-  "ts": 1787320800.0,
-  "vu": "2026-08-22"
- },
- {
-  "source": "Energy-Storage.news",
-  "titre": "‘Company wasn’t ready in 2021’: ESS Inc CEO on pivoting away from iron flow batteries to sodium-ion",
-  "lien": "https://www.energy-storage.news/company-wasnt-ready-in-2021-ess-inc-ceo-on-pivoting-away-from-iron-flow-batteries-to-sodium-ion/",
-  "auteur": "Cameron Murray",
-  "resume": "Why should people take ESS Inc and its pivot to sodium-ion BESS seriously, having failed to deliver on its iron flow battery promises since going public in 2021? We catch up with new CEO Drew Buckley about how he hopes to turn the ship around.",
-  "pub": "2026-08-21",
-  "ts": 1787317718.0,
-  "vu": "2026-08-22"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Les prix des cellules TOPCon chinoises bondissent, soutenus par un raffermissement en amont et une hausse de la demande à l’export",
-  "lien": "https://www.pv-magazine.fr/2026/08/21/les-prix-des-cellules-topcon-chinoises-bondissent-soutenus-par-un-raffermissement-en-amont-et-une-hausse-de-la-demande-a-lexport/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Dans sa nouvelle mise à jour hebdomadaire pour pv magazine, OPIS, une société de Dow Jones, propose un aperçu rapide des principales tendances de prix sur le marché mondial du photovoltaïque.",
-  "pub": "2026-08-21",
-  "ts": 1787313600.0,
-  "vu": "2026-08-22"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Rakuten fait tomber la Xiaomi Pad 8 à seulement 300 €, et ça change tout",
-  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-pc-tablettes-rakuten-fait-tomber-xiaomi-pad-8-seulement-300-ca-change-tout-11077/",
-  "auteur": "Mohamed El Alami, Rédacteur Web",
-  "resume": "La Xiaomi Pad 8 met les bouchées doubles avec son écran 3,2K à 144 Hz, sa puce Snapdragon 8s Gen 4 et sa généreuse batterie. Une tablette tactile musclée qui voit en plus son prix dégringoler chez Rakuten à l’approche de la rentrée.",
-  "pub": "2026-08-21",
-  "ts": 1787306400.0,
-  "vu": "2026-08-22"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Surveillance de l'eau potable : des arrêtés ajustent le tir pour répondre à la mise en demeure de l'UE",
-  "lien": "https://www.actu-environnement.com/ae/news/surveillance-qualite-eau-potable-arretes-transposition-directive-publies-mise-en-demeure-commission-europeenne-48414.php4",
-  "auteur": "",
-  "resume": "Trois arrêtés ont été publiés en août pour répondre à la mise en demeure de la Commission européenne pour transposition incomplète de la directive eau potable. Ils reviennent sur les tests, les prélèvements et les conditions d'agrément des laborat...",
-  "pub": "2026-08-21",
-  "ts": 1787304231.0,
-  "vu": "2026-08-22"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Un géant chinois du verre automobile annonce un toit solaire intégré au véhicule",
-  "lien": "https://www.pv-magazine.fr/2026/08/21/un-geant-chinois-du-verre-automobile-annonce-un-toit-solaire-integre-au-vehicule/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Le géant chinois du verre automobile Fuyao Glass a confirmé disposer des capacités nécessaires à la production en série de vitrages de toit solaire, avec des cellules photovoltaïques intégrées dans le verre automobile feuilleté afin d’alimenter les équipements auxiliaires du […]",
-  "pub": "2026-08-21",
-  "ts": 1787302800.0,
-  "vu": "2026-08-22"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Tesla dépose une demande d’avantages fiscaux pour une usine de cellules solaires aux États-Unis",
-  "lien": "https://www.pv-magazine.fr/2026/08/21/tesla-depose-une-demande-davantages-fiscaux-pour-une-usine-de-cellules-solaires-aux-etats-unis/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Tesla a déposé un projet portant sur la construction, dans le comté de Fort Bend, au Texas, d’un complexe de fabrication de cellules solaires entièrement intégré, représentant un investissement de 10,1 milliards de dollars, soit environ 8,7 milliards d’euros. Baptisé en interne […]",
-  "pub": "2026-08-21",
-  "ts": 1787299200.0,
-  "vu": "2026-08-22"
- },
- {
-  "source": "Enerzine",
-  "titre": "Photovoltaïque en toiture : l’essor des installations industrielles et agricoles ravive la question des risques",
-  "lien": "https://www.enerzine.com/photovoltaque-toiture-risques-incendie-industrie-agriculture/192924-2026-08",
-  "auteur": "La rédaction",
-  "resume": "Les panneaux photovoltaïques installés sur les toitures industrielles et agricoles ne sont pas, dans la majorité des sinistres recensés, à l’origine de l’incendie. Leur présence peut néanmoins compliquer l’intervention des secours, car les modules continuent de produire du […]",
-  "pub": "2026-08-21",
-  "ts": 1787294700.0,
-  "vu": "2026-08-21"
- },
- {
-  "source": "pv magazine France",
-  "titre": "L’Ethiopie lance deux projets pilotes de mini-réseaux solaires agricoles",
-  "lien": "https://www.pv-magazine.fr/2026/08/21/lethiopie-lance-deux-projets-pilotes-de-mini-reseaux-solaires-agricoles/",
-  "auteur": "Marie Beyer",
-  "resume": "Le Fonds pour l’énergie durable en Afrique (SEFA) de la Banque africaine de développement livre 1,74 million d'euros à l'entreprise portugais RVE.SOL pour financer deux mini-réseaux solaires destinés à alimenter des systèmes d’irrigation tout en fournissant de l’électricité aux […]",
-  "pub": "2026-08-21",
-  "ts": 1787293800.0,
-  "vu": "2026-08-21"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Un Espagnol stockait 45 tonnes de batteries au lithium chez lui : le jugement à surpris tout le monde",
-  "lien": "https://lenergeek.com/2026/08/21/un-espagnol-stockait-45-tonnes-de-batteries-au-lithium-chez-lui-le-jugement-a-surpris-tout-le-monde/",
-  "auteur": "Claire Moreau",
-  "resume": "45 tonnes de batteries au lithium entreposées dans une maison, en plein quartier résidentiel. Risque d'explosion, fuites toxiques, voisins en danger. La justice espagnole vient de rendre un verdict sans précédent en Europe. L’article Un Espagnol stockait 45 tonnes de batteries […]",
-  "pub": "2026-08-21",
-  "ts": 1787293240.0,
-  "vu": "2026-08-22"
- },
- {
-  "source": "pv magazine",
-  "titre": "Air bubbles boost cooling and hydrogen production in photovoltaic-thermal system",
-  "lien": "https://www.pv-magazine.com/2026/08/21/air-bubbles-boost-cooling-and-hydrogen-production-in-photovoltaic-thermal-system/",
-  "auteur": "Lior Kahana",
-  "resume": "Researchers in India developed a PVT-hydrogen system using air-bubble injection to improve cooling, thermal and electrical efficiency, and hydrogen production. Tested outdoors in Tamil Nadu, the system achieved a peak thermal efficiency of 45.5% and hydrogen production of 15.5 […]",
-  "pub": "2026-08-21",
-  "ts": 1787291375.0,
-  "vu": "2026-08-21"
- },
- {
-  "source": "Energy-Storage.news",
-  "titre": "Australia’s Allegro Energy partners with Jena Flow Batteries to scale microemulsion flow battery manufacturing",
-  "lien": "https://www.energy-storage.news/australias-allegro-energy-partners-with-jena-batteries-to-scale-microemulsion-flow-battery-manufacturing/",
-  "auteur": "George Heynes",
-  "resume": "Allegro Energy has entered a strategic partnership with Jena Flow Batteries and its parent company Suqian Time Energy Technology.",
-  "pub": "2026-08-21",
-  "ts": 1787282794.0,
-  "vu": "2026-08-21"
  }
 ]
