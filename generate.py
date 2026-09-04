@@ -211,65 +211,71 @@ def page(articles, cfg):
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Veille photovoltaïque</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Hanken+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
   :root{{
-    --paper:#FBFAF7; --paper-2:#F4F1EA; --ink:#1C1917; --ink-soft:#57534E; --ink-faint:#8A8178;
-    --line:#E7E2D8; --line-strong:#D8D1C4; --card:#FFFFFF;
-    --accent:#C2410C; --accent-2:#EA8A3E; --accent-soft:#FBEAD9; --accent-ink:#7C2D12;
-    --slate:#64748B; --good:#15803D; --bad:#B91C1C;
-    --shadow:0 1px 2px rgba(28,25,23,.04), 0 14px 30px -18px rgba(28,25,23,.18);
-    --radius:16px;
-    --font-display:"Fraunces", Georgia, "Times New Roman", serif;
-    --font-body:"Hanken Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    --principale:#12C4EE; --accent:#12C4EE; --accent-2:#FAC800;
+    --encre:#3F5570; --ink:#3F5570; --ink-soft:#5F7691; --ink-faint:#899BAD;
+    --paper:#F2FAFD; --paper-2:#E7F4FA; --card:#FFFFFF;
+    --line:rgba(63,85,112,.14); --line-strong:rgba(63,85,112,.26);
+    --accent-soft:#E3F7FD; --accent-ink:#0B7C9B; --jaune-soft:#FFF6D9; --jaune-ink:#8A6A00;
+    --slate:#7A8CA3; --good:#0E9F6E; --bad:#E02424;
+    --shadow:0 1px 2px rgba(63,85,112,.06), 0 6px 18px rgba(63,85,112,.08);
+    --shadow-fort:0 8px 26px rgba(63,85,112,.16);
+    --radius:14px;
+    --font-display:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    --font-body:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   }}
-  *{{box-sizing:border-box}}
-  body{{margin:0;font-family:var(--font-body);color:var(--ink);
-    background:
-      radial-gradient(1100px 480px at 78% -8%, var(--accent-soft) 0%, transparent 60%),
-      linear-gradient(180deg, var(--paper) 0%, var(--paper) 70%, var(--paper-2) 100%);
-    background-attachment:fixed;line-height:1.5;font-variant-numeric:tabular-nums}}
-  .wrap{{max-width:1120px;margin:0 auto;padding:0 22px 60px}}
-  .masthead{{padding:46px 0 24px;border-bottom:1px solid var(--line);margin-bottom:8px}}
-  .kicker{{display:flex;align-items:center;gap:12px;margin-bottom:18px;flex-wrap:wrap}}
-  .badge{{display:inline-flex;align-items:center;gap:8px;padding:6px 12px;border-radius:999px;
-    background:var(--accent-soft);color:var(--accent-ink);border:1px solid #F1D8C2;
-    font-size:12.5px;font-weight:600;letter-spacing:.02em}}
-  .badge svg{{width:15px;height:15px}}
-  .eyebrow{{font-size:12px;font-weight:600;letter-spacing:.22em;text-transform:uppercase;color:var(--ink-faint)}}
-  h1{{font-family:var(--font-display);font-weight:500;font-size:clamp(30px,5vw,46px);
-    line-height:1.05;letter-spacing:-.015em;margin:0}}
-  h1 em{{font-style:italic;color:var(--accent)}}
-  .lead{{margin:14px 0 0;max-width:60ch;color:var(--ink-soft);font-size:16px}}
-  .jour{{font-family:var(--font-display);font-weight:500;font-size:22px;letter-spacing:-.01em;
-    margin:38px 0 14px;display:flex;align-items:baseline;gap:12px}}
-  .jour .jcount{{font-family:var(--font-body);font-size:12.5px;font-weight:600;color:var(--ink-faint);
-    text-transform:uppercase;letter-spacing:.06em}}
+  *,*::before,*::after{{box-sizing:border-box}}
+  html{{-webkit-text-size-adjust:100%}}
+  body{{margin:0;font-family:var(--font-body);color:var(--ink);background:var(--paper);
+    font-size:16px;line-height:1.45;-webkit-font-smoothing:antialiased;overflow-wrap:break-word;
+    font-variant-numeric:tabular-nums}}
+  a{{color:inherit;text-decoration:none}}
+  .wrap{{max-width:1120px;margin:0 auto;padding:0 16px 60px}}
+  .masthead{{padding:34px 0 20px;border-bottom:1px solid var(--line);margin-bottom:6px}}
+  .kicker{{display:flex;align-items:center;gap:10px;margin-bottom:14px;flex-wrap:wrap}}
+  .badge{{display:inline-flex;align-items:center;gap:7px;padding:6px 13px;border-radius:999px;
+    background:var(--card);box-shadow:var(--shadow);color:var(--principale);
+    font-size:.82rem;font-weight:700;letter-spacing:.01em}}
+  .badge svg{{width:16px;height:16px}}
+  .eyebrow{{font-size:.72rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;
+    color:var(--ink);opacity:.6}}
+  h1{{font-family:var(--font-display);font-weight:700;font-size:clamp(1.6rem,4.5vw,2.2rem);
+    line-height:1.15;letter-spacing:-.015em;margin:0}}
+  h1 em{{font-style:normal;color:var(--principale)}}
+  .lead{{margin:8px 0 0;max-width:62ch;color:var(--ink);opacity:.78;font-size:.95rem}}
+  .jour{{display:flex;align-items:center;gap:12px;margin:30px 2px 14px;
+    font-size:.9rem;font-weight:700;letter-spacing:.10em;text-transform:uppercase;color:var(--ink)}}
+  .jour::after{{content:"";flex:1 1 auto;height:2px;border-radius:2px;
+    background:linear-gradient(90deg,var(--accent-2),transparent)}}
+  .jour .jcount{{flex:0 0 auto;font-size:.7rem;font-weight:700;color:var(--ink-faint);letter-spacing:.06em}}
   .grid{{display:grid;grid-template-columns:repeat(auto-fit,minmax(290px,1fr));gap:16px}}
   .article{{position:relative;display:flex;flex-direction:column;background:var(--card);
-    border:1px solid var(--line);border-radius:var(--radius);padding:22px 20px 20px;
-    box-shadow:var(--shadow);overflow:hidden}}
-  .article::before{{content:"";position:absolute;top:0;left:0;right:0;height:3px;background:var(--accent)}}
+    border-radius:var(--radius);padding:20px 18px 18px 20px;box-shadow:var(--shadow);
+    overflow:hidden;transition:transform .15s ease}}
+  .article::before{{content:"";position:absolute;top:0;left:0;bottom:0;width:4px;background:var(--principale)}}
+  @media (hover:hover){{.article:hover{{transform:translateY(-2px)}}}}
   .src{{display:inline-flex;align-self:flex-start;align-items:center;padding:5px 11px;border-radius:999px;
-    background:var(--accent-soft);color:var(--accent-ink);border:1px solid #F1D8C2;
-    font-size:11.5px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;margin-bottom:12px}}
-  .article h2{{font-family:var(--font-display);font-weight:500;font-size:18px;line-height:1.25;
+    background:var(--accent-soft);color:var(--accent-ink);
+    font-size:.68rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;margin-bottom:12px}}
+  .article h2{{font-family:var(--font-display);font-weight:700;font-size:1.02rem;line-height:1.28;
     letter-spacing:-.01em;margin:0 0 6px}}
-  .article h2 a{{color:var(--ink);text-decoration:none}}
-  .article h2 a:hover{{color:var(--accent)}}
-  .meta{{font-size:12px;color:var(--ink-faint);margin-bottom:12px}}
-  .resume{{font-size:14px;color:var(--ink-soft);margin:0 0 18px}}
+  .article h2 a{{color:var(--ink)}}
+  .article h2 a:hover{{color:var(--principale)}}
+  .meta{{font-size:.72rem;color:var(--ink-faint);margin-bottom:12px}}
+  .resume{{font-size:.875rem;color:var(--ink-soft);margin:0 0 18px}}
   .resume.vide{{font-style:italic;color:var(--ink-faint)}}
-  .lire{{margin-top:auto;align-self:flex-start;font-family:var(--font-body);font-size:13px;font-weight:600;
-    color:#fff;background:var(--ink);border-radius:11px;padding:9px 16px;text-decoration:none;
-    box-shadow:var(--shadow);transition:transform .12s ease, background .2s ease}}
-  .lire:hover{{background:#000;transform:translateY(-1px)}}
-  .note{{display:flex;gap:14px;margin-top:34px;padding:16px 18px;background:var(--card);
-    border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:12px;
-    box-shadow:var(--shadow);font-size:13px;color:var(--ink-soft)}}
-  .note strong{{color:var(--ink)}}
+  .lire{{margin-top:auto;align-self:flex-start;font-size:.82rem;font-weight:700;
+    color:#fff;background:var(--principale);border-radius:999px;padding:9px 17px;
+    box-shadow:var(--shadow);transition:transform .15s ease, filter .15s ease}}
+  .lire:hover{{filter:brightness(1.06);transform:translateY(-2px)}}
+  .note{{display:flex;gap:12px;margin-top:30px;padding:13px 14px;background:var(--card);
+    border-radius:var(--radius);border-left:5px solid var(--accent-2);
+    box-shadow:var(--shadow);font-size:.85rem;color:var(--ink)}}
+  .note strong{{color:var(--ink);font-weight:700}}
+  a:focus-visible,summary:focus-visible{{outline:3px solid var(--accent-2);outline-offset:2px;border-radius:6px}}
+  @media (prefers-reduced-motion:reduce){{*{{transition:none !important}}}}
+  @media (max-width:359px){{.wrap{{padding:0 9px 60px}}}}
 </style>
 </head>
 <body>
