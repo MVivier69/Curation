@@ -216,6 +216,8 @@ def page(articles, cfg):
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Veille photovoltaïque</title>
+<link rel="icon" type="image/png" href="{LOGO_URL}">
+<link rel="apple-touch-icon" href="{LOGO_URL}">
 <style>
   :root{{
     --principale:#12C4EE; --accent:#12C4EE; --accent-2:#FAC800;
