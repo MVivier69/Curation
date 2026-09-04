@@ -14,6 +14,11 @@ HIST_FICHIER = "historique.json"
 SORTIE_HTML  = "veille-pv.html"
 CONFIG       = "config.json"
 
+# Logo + bannière (dépôt soleil-b, servis par GitHub Pages) — veille PV uniquement
+BANNIERE_URL = "https://mvivier69.github.io/soleil-b/images/banniere.jpg"
+LOGO_URL     = "https://mvivier69.github.io/soleil-b/images/logo.png"
+LOGO_LIEN    = "https://soleilbeaujolais.fr/"
+
 UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
                     "(KHTML, like Gecko) Chrome/124 Safari/537.36"}
 
@@ -232,6 +237,12 @@ def page(articles, cfg):
     font-variant-numeric:tabular-nums}}
   a{{color:inherit;text-decoration:none}}
   .wrap{{max-width:1120px;margin:0 auto;padding:0 16px 60px}}
+  .banniere{{margin:0 0 6px;border-radius:0 0 var(--radius) var(--radius);overflow:hidden;
+    background:var(--principale);box-shadow:var(--shadow)}}
+  .banniere img{{display:block;width:100%;height:130px;object-fit:cover}}
+  .logo-lien{{display:inline-flex;flex:0 0 auto}}
+  .logo{{width:44px;height:44px;border-radius:50%;object-fit:cover;
+    background:var(--card);box-shadow:var(--shadow)}}
   .masthead{{padding:34px 0 20px;border-bottom:1px solid var(--line);margin-bottom:6px}}
   .kicker{{display:flex;align-items:center;gap:10px;margin-bottom:14px;flex-wrap:wrap}}
   .badge{{display:inline-flex;align-items:center;gap:7px;padding:6px 13px;border-radius:999px;
@@ -280,8 +291,10 @@ def page(articles, cfg):
 </head>
 <body>
   <div class="wrap">
+    <div class="banniere"><img src="{BANNIERE_URL}" alt="Bannière Soleil Beaujolais"></div>
     <header class="masthead">
       <div class="kicker">
+        <a class="logo-lien" href="{LOGO_LIEN}" target="_blank" rel="noopener"><img class="logo" src="{LOGO_URL}" alt="Logo Soleil Beaujolais"></a>
         <span class="badge">{SUN} Veille quotidienne</span>
         <span class="eyebrow">Photovoltaïque · {cfg['retention_jours']} jours</span>
       </div>
