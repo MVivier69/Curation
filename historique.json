@@ -20,6 +20,136 @@
   "vu": "2026-08-20"
  },
  {
+  "source": "pv magazine",
+  "titre": "Researchers find perovskite solar functions 10 meters below sea surface",
+  "lien": "https://www.pv-magazine.com/2026/09/14/researchers-find-perovskite-solar-functions-10-meters-below-sea-surface/",
+  "auteur": "Patrick Jowett",
+  "resume": "Research from China deployed lead halide perovskites 10 meters below the surface of the South China Sea. The cells generated 324 mWh, enough to charge lithium-ion batteries, when submerged for two hours.",
+  "pub": "2026-09-14",
+  "ts": 1789388019.0,
+  "vu": "2026-09-14"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Mise en service de la centrale photovoltaïque hybride de Saint-Élix-le-Château",
+  "lien": "https://www.pv-magazine.fr/2026/09/14/mise-en-service-de-la-centrale-photovoltaique-hybride-de-saint-elix-le-chateau/",
+  "auteur": "Francois Puthod",
+  "resume": "Le producteur d’énergie Solveo Energies a récemment mis en service sa première centrale solaire hybride, d’une puissance de 15,4 MWc, à Saint-Élix-le-Château (31).",
+  "pub": "2026-09-14",
+  "ts": 1789387200.0,
+  "vu": "2026-09-14"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Australia to introduce technical code for consumer energy resources",
+  "lien": "https://www.pv-magazine.com/2026/09/14/australia-to-introduce-technical-code-for-consumer-energy-resources/",
+  "auteur": "Patrick Jowett",
+  "resume": "Australia's new regulatory framework for solar inverters, batteries and other consumer energy resources will require suppliers to register products and prove compliance with a technical code. It also introduces national-level accreditation for installers.",
+  "pub": "2026-09-14",
+  "ts": 1789379822.0,
+  "vu": "2026-09-14"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Stockage tertiaire : le nouveau relais de croissance des installateurs solaires",
+  "lien": "https://www.pv-magazine.fr/2026/09/14/stockage-tertiaire-le-nouveau-relais-de-croissance-des-installateurs-solaires/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Le stockage ouvre un nouveau relais de croissance pour le solaire tertiaire. Alors que les contraintes de raccordement se multiplient et que les surplus photovoltaïques sont moins bien valorisés, l’ajout de batteries aux installations existantes permet d’optimiser […]",
+  "pub": "2026-09-14",
+  "ts": 1789376400.0,
+  "vu": "2026-09-14"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Photovoltaic-thermal heat pump based on bio-based surface coating achieves 77.32% overall efficiency",
+  "lien": "https://www.pv-magazine.com/2026/09/14/photovoltaic-thermal-heat-pump-based-on-bio-based-surface-coating-achieves-77-32-overall-efficiency/",
+  "auteur": "Lior Kahana",
+  "resume": "Iraqi researchers have developed a PVT heat pump featuring a bio-based TiO₂–linseed-oil coating and three alternative refrigerants. The system achieved up to 77.32% overall efficiency and reduced PV module temperatures by as much as 34 C.",
+  "pub": "2026-09-14",
+  "ts": 1789373685.0,
+  "vu": "2026-09-14"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Noria Energy launches single-axis tracker for floating solar applications",
+  "lien": "https://www.pv-magazine.com/2026/09/14/noria-energy-launches-single-axis-tracker-for-floating-solar-applications/",
+  "auteur": "Ryan Kennedy",
+  "resume": "The U.S.-made Airon tracker delivers up to 20% more generation than fixed-tilt floating photovoltaics at a parity installed cost, with commercial deliveries scheduled to begin in mid-2027.",
+  "pub": "2026-09-14",
+  "ts": 1789371198.0,
+  "vu": "2026-09-14"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Les BESS sont-ils réellement compétitifs pour les centres de données ?",
+  "lien": "https://www.pv-magazine.fr/2026/09/14/les-bess-sont-ils-reellement-competitifs-pour-les-centres-de-donnees/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Le rapport publié en juillet 2026 par la Volta Foundation, intitulé « Where Batteries Can Win in Data Center Applications », identifie deux domaines dans lesquels les systèmes de stockage d’énergie par batteries (BESS) sont particulièrement compétitifs, quatre dans lesquels ils […]",
+  "pub": "2026-09-14",
+  "ts": 1789371000.0,
+  "vu": "2026-09-14"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Rendement record de 27,35 % pour une cellule solaire tandem pérovskite-organique",
+  "lien": "https://www.pv-magazine.fr/2026/09/14/rendement-record-de-2735-pour-une-cellule-solaire-tandem-perovskite-organique/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Des chercheurs de l’Université de Nankin ont développé une cellule solaire tandem pérovskite-organique utilisant un nouvel accepteur à faible bande interdite afin d’augmenter la capture de la lumière dans le proche infrarouge et d’améliorer l’appariement des photocourants. Le […]",
+  "pub": "2026-09-14",
+  "ts": 1789367400.0,
+  "vu": "2026-09-14"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Parkings solaires : un report d’échéance conditionné aux panneaux européens",
+  "lien": "https://www.enerzine.com/parkings-solaires-un-report-decheance-conditionne-aux-panneaux-europeens/194424-2026-09",
+  "auteur": "La rédaction",
+  "resume": "Un décret permet aux propriétaires de parcs de stationnement de 1 500 à 10 000 m² de reporter jusqu’en 2030 leur obligation de solarisation, à condition d’installer des panneaux assemblés en Europe. L’objectif affiché : soutenir l’émergence d’une filière photovoltaïque […]",
+  "pub": "2026-09-14",
+  "ts": 1789363800.0,
+  "vu": "2026-09-14"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Octopus Energy France rachète les 20 000 contrats particuliers d’elmy",
+  "lien": "https://www.enerzine.com/octopus-energy-france-rachete-les-20-000-contrats-particuliers-delmy/194427-2026-09",
+  "auteur": "La rédaction",
+  "resume": "Octopus Energy France a réalisé sa première opération de rachat de portefeuille en France avec l’acquisition des 20 000 contrats particuliers du fournisseur d’énergie renouvelable elmy. Les clients conservent leurs tarifs, garantis jusqu’en 2028, tandis qu’elmy se recentre sur […]",
+  "pub": "2026-09-14",
+  "ts": 1789362600.0,
+  "vu": "2026-09-14"
+ },
+ {
+  "source": "Transitions & Énergies",
+  "titre": "Après avoir été longtemps considérés comme une impasse, les poids lourds électriques se découvrent un brillant avenir",
+  "lien": "https://www.transitionsenergies.com/longtemps-consideres-impasse-poids-lourds-electriques-brillant-avenir/",
+  "auteur": "La rédaction",
+  "resume": "Les ventes mondiales de camions et d'autobus zéro émission se sont envolées de 86% l’an dernier pour dépasser les 520.000 unités. Et ce n’est que le début. Les modèles électriques à batterie dominent largement le marché du transport routier bas carbone ce qui peut être considéré […]",
+  "pub": "2026-09-14",
+  "ts": 1789348739.0,
+  "vu": "2026-09-14"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "ZincFive lance un système de gestion dédié à ses batteries nickel-zinc",
+  "lien": "https://www.enerzine.com/zincfive-lance-un-systeme-de-gestion-dedie-a-ses-batteries-nickel-zinc/194356-2026-09",
+  "auteur": "La rédaction",
+  "resume": "ZincFive annonce le lancement du ZincFive BMS, un système de gestion de batteries conçu pour sa chimie nickel-zinc et assemblé aux États-Unis. Livré en série avec les armoires BC Series, il vise à répondre aux besoins de surveillance, de cybersécurité et de gestion des […]",
+  "pub": "2026-09-13",
+  "ts": 1789337400.0,
+  "vu": "2026-09-14"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "Ces comètes autour d’une jeune étoile pourraient révéler comment l’eau est arrivée sur Terre",
+  "lien": "https://www.futura-sciences.com/sciences/actualites/espace-ces-cometes-autour-jeune-etoile-pourraient-reveler-eau-arrivee-terre-137591/",
+  "auteur": "Gaspard Salomon, Journaliste",
+  "resume": "À seulement 370 années-lumière, un jeune système stellaire pourrait offrir un aperçu de ce qui s’est joué aux débuts de notre Système solaire. Des indices y trahissent peut-être le passage de comètes qui plongent vers l’étoile, potentiellement déviées par ses planètes géantes […]",
+  "pub": "2026-09-13",
+  "ts": 1789322837.0,
+  "vu": "2026-09-14"
+ },
+ {
   "source": "L'EnerGeek",
   "titre": "Voitures électriques : une consommation réelle de 16,5 à 21 kWh/100km sur longs trajets",
   "lien": "https://lenergeek.com/2026/09/13/voitures-electriques-longs-trajets/",
@@ -324,7 +454,7 @@
   "titre": "Budget 2027 : France renouvelables n’écarte pas une taxe sur le stockage",
   "lien": "https://www.greenunivers.com/2026/09/budget-2027-france-renouvelables-necarte-pas-une-taxe-sur-le-stockage-432767/",
   "auteur": "Paul Messad",
-  "resume": "France renouvelables a un message pour les parlementaires : baisser les taxes sur l’électricité. Dans le cadre de la construction du budget de l’Etat pour 2027, le syndicat va « tester l’appétence » des élus sur deux points « qui ont déjà circulé », a indiqué aujourd’hui son DG […]",
+  "resume": "France renouvelables a un message pour les parlementaires : il faut baisser les taxes sur l’électricité. Dans le cadre de la construction du budget de l’Etat pour 2027, le syndicat va « tester l’appétence » des élus sur deux points « qui ont déjà circulé », a indiqué aujourd’hui […]",
   "pub": "2026-09-10",
   "ts": 1789054747.0,
   "vu": "2026-09-11"
@@ -1238,125 +1368,5 @@
   "pub": "2026-09-04",
   "ts": 1788491400.0,
   "vu": "2026-09-04"
- },
- {
-  "source": "Transitions & Énergies",
-  "titre": "Stockage de l’électricité, l’Europe persiste dans l’erreur",
-  "lien": "https://www.transitionsenergies.com/stockage-electricite-europe-persiste-erreur/",
-  "auteur": "La rédaction",
-  "resume": "On ne peut pas accélérer l’électrification des usages, dans les transports, l’industrie, le chauffage et la climatisation des bâtiments, en continuant à faire s’envoler les prix de l’électricité. C’est un raisonnement économique des plus basiques, sauf pour les technocrates de […]",
-  "pub": "2026-09-03",
-  "ts": 1788477583.0,
-  "vu": "2026-09-04"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Appel à manifestation d’intérêt : Soren recherche des acteurs pour recycler les panneaux CdTe et CIGS",
-  "lien": "https://www.pv-magazine.fr/2026/09/03/appel-a-manifestation-dinteret-soren-recherche-des-acteurs-pour-recycler-les-panneaux-cdte-et-cigs/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "L’éco-organisme Soren lance un appel à manifestation d’intérêt pour identifier une solution de traitement en France des panneaux photovoltaïques à couches minces, notamment ceux utilisant les technologies CdTe et CIGS. Un premier lot de 1 300 tonnes de panneaux CdTe devra être […]",
-  "pub": "2026-09-03",
-  "ts": 1788445800.0,
-  "vu": "2026-09-04"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Réseau électrique : le bac à sable permet de faire évoluer les pratiques",
-  "lien": "https://www.actu-environnement.com/ae/news/bac-sable-reglementaire-flexibilite-reseau-electrique-48467.php4",
-  "auteur": "",
-  "resume": "Plusieurs expérimentations menées dans le cadre du bac à sable ont permis de faire évoluer le cadre réglementaire en vue de rendre plus flexible le système électrique. Elles concernent la flexibilité des consommations, des productions et du stockage.",
-  "pub": "2026-09-03",
-  "ts": 1788444673.0,
-  "vu": "2026-09-04"
- },
- {
-  "source": "CleanTechnica",
-  "titre": "Electric Car Batteries Hold Up Really Well — These Are “The Best”",
-  "lien": "https://cleantechnica.com/2026/09/03/electric-car-batteries-hold-up-really-well-these-are-the-best/",
-  "auteur": "Z. S.",
-  "resume": "In general, there’s far more concern about electric car range and electric car battery longevity than there needs to be. We’ve got a 2019 Tesla Model 3 SR+ and a 2018 BMW i3 REx and just need to charge them up once or twice a week overnight at home. Electric ... [continued]",
-  "pub": "2026-09-03",
-  "ts": 1788444544.0,
-  "vu": "2026-09-04"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Urbasolar cède à Corsica Sole un portefeuille d’actifs solaires et de stockage à La Réunion",
-  "lien": "https://www.pv-magazine.fr/2026/09/03/urbasolar-cede-a-corsica-sole-un-portefeuille-dactifs-solaires-et-de-stockage-de-stockage-a-la-reunion/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Corsica Sole renforce sa présence à La Réunion avec l’acquisition auprès d’Urbasolar de sept centrales photovoltaïques et de leurs actifs de stockage associés. Cette opération porte le portefeuille réunionnais du groupe à 10,53 MWc de puissance solaire et 16,68 MWh de capacité […]",
-  "pub": "2026-09-03",
-  "ts": 1788444000.0,
-  "vu": "2026-09-04"
- },
- {
-  "source": "Enerzine",
-  "titre": "Parc photovoltaïque au sol : ce qu’un bail emphytéotique rapporte réellement au propriétaire foncier",
-  "lien": "https://www.enerzine.com/parc-photovoltaique-au-sol-ce-quun-bail-emphyteotique-rapporte-reellement-au-proprietaire-foncier/193807-2026-09",
-  "auteur": "La rédaction",
-  "resume": "Louer une parcelle à un exploitant photovoltaïque peut transformer un terrain faiblement valorisé en une source de revenus réguliers pendant plusieurs décennies. Pour un propriétaire, le bail emphytéotique offre l’opportunité de percevoir un loyer stable, sans financer la […]",
-  "pub": "2026-09-03",
-  "ts": 1788441745.0,
-  "vu": "2026-09-04"
- },
- {
-  "source": "pv magazine France",
-  "titre": "MaPrimeRénov’ : le solaire thermique et hybride exclu du « par geste » dans l’Hexagone",
-  "lien": "https://www.pv-magazine.fr/2026/09/03/maprimerenov-le-solaire-thermique-et-hybride-exclu-du-par-geste-dans-lhexagone/",
-  "auteur": "Marie Beyer",
-  "resume": "A compter du 1er septembre 2026 les systèmes de solaire thermique et hybride sont supprimés du dispositif \"par geste\" de MaPrimeRénov' en France métropolitaine.",
-  "pub": "2026-09-03",
-  "ts": 1788440400.0,
-  "vu": "2026-09-04"
- },
- {
-  "source": "Enerzine",
-  "titre": "Renault Scénic E-Tech electric : évolutions techniques et autonomie relevée",
-  "lien": "https://www.enerzine.com/renault-scenic-e-tech-electric-evolutions-techniques-et-autonomie-relevee/193836-2026-09",
-  "auteur": "La rédaction",
-  "resume": "Renault actualise le Scénic E-Tech electric en lui apportant deux batteries, une autonomie pouvant atteindre 642 km WLTP, des performances de recharge améliorées et des équipements intérieurs revus. Renault fait évoluer Scénic E-Tech electric, modèle familial entièrement […]",
-  "pub": "2026-09-03",
-  "ts": 1788437400.0,
-  "vu": "2026-09-04"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Centrale solaire des Bourdines : Idex prend le relais de TotalEnergies",
-  "lien": "https://www.pv-magazine.fr/2026/09/03/centrale-solaire-des-bourdines-idex-prend-le-relais-de-totalenergies/",
-  "auteur": "Francois Puthod",
-  "resume": "Souhaitant se focaliser sur de gros actifs, TotalEnergies abandonne le projet de centrale solaire des Bourdines, dans l’Eure. La future installation, de 3,8 MWc, sera finalement construite par le groupe Idex.",
-  "pub": "2026-09-03",
-  "ts": 1788436800.0,
-  "vu": "2026-09-04"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Le Japon souhaite construire un anneau solaire autour de la Lune pour fournir à la Terre une énergie propre et sans limite",
-  "lien": "https://lenergeek.com/2026/09/03/le-japon-souhaite-construire-un-anneau-solaire-autour-de-la-lune-pour-fournir-a-la-terre-une-energie-propre-et-sans-limite/",
-  "auteur": "Gabin Laurent",
-  "resume": "Un anneau solaire de près de 11 000 km ceinturant la Lune pour alimenter toute la Terre : utopie ou vraie solution énergétique ? Le Japon y croit, mais un détail bloque tout. Lequel ? L’article Le Japon souhaite construire un anneau solaire autour de la Lune pour fournir à la […]",
-  "pub": "2026-09-03",
-  "ts": 1788416437.0,
-  "vu": "2026-09-03"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Des géologues mettent au jour le plus vaste gisement minéral mondial dans les batteries et produits de soin sous un comté coréen renommé pour son vin et son jazz",
-  "lien": "https://lenergeek.com/2026/09/03/des-geologues-mettent-au-jour-le-plus-vaste-gisement-mineral-mondial-dans-les-batteries-et-produits-de-soin-sous-un-comte-coreen-renomme-pour-son-vin-et-son-jazz/",
-  "auteur": "Gabin Laurent",
-  "resume": "Sous les vignes et le jazz de Yeongdong se cache vingt fois plus d'illite que le plus gros gisement mondial connu. Cosmétiques, batteries, construction : ce minéral sud-coréen pourrait bien tout changer. L’article Des géologues mettent au jour le plus vaste gisement minéral […]",
-  "pub": "2026-09-03",
-  "ts": 1788414638.0,
-  "vu": "2026-09-03"
- },
- {
-  "source": "pv magazine",
-  "titre": "Data Centres and the clean energy imperative: Powering India’s digital economy sustainably",
-  "lien": "https://www.pv-magazine.com/2026/09/03/data-centres-and-the-clean-energy-imperative-powering-indias-digital-economy-sustainably/",
-  "auteur": "Uma Gupta",
-  "resume": "India’s digital economy will ultimately be supported by physical systems: substations, transmission lines, renewable plants, batteries and control platforms. If these systems are planned with the same precision and urgency as the computing infrastructure they serve, data-centre […]",
-  "pub": "2026-09-03",
-  "ts": 1788413638.0,
-  "vu": "2026-09-03"
  }
 ]
