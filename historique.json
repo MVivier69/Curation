@@ -20,6 +20,146 @@
   "vu": "2026-08-20"
  },
  {
+  "source": "CLER",
+  "titre": "Les paysages au cœur de la transition énergétique",
+  "lien": "https://cler.org/les-paysages-au-coeur-de-la-transition-energetique/",
+  "auteur": "Lisa Tabone",
+  "resume": "Dans un contexte où l’Etat vient d'annoncer les lauréats du plan « 100 territoires d’électrification », le Collectif Paysages de l’après-pétrole (PAP) travaille au sein d’un réseau des acteurs du paysage sur le recensement d’une centaine de territoires ayant mené la transition […]",
+  "pub": "2026-09-16",
+  "ts": 1789552144.0,
+  "vu": "2026-09-16"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "L’Espagne a ajouté 10,1 GW de capacité solaire en 2025",
+  "lien": "https://www.pv-magazine.fr/2026/09/16/lespagne-a-ajoute-101-gw-de-capacite-solaire-en-2025/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "L’Espagne a installé 10,1 GW de nouvelles capacités solaires en 2025, dont 8,97 GW de photovoltaïque au sol et 1,14 GW d’installations d’autoconsommation, selon l’association espagnole du photovoltaïque UNEF. L’organisation professionnelle souligne que la baisse des prix captés […]",
+  "pub": "2026-09-16",
+  "ts": 1789549200.0,
+  "vu": "2026-09-16"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Avis de marchés publics dans le PV en France",
+  "lien": "https://www.pv-magazine.fr/2026/09/16/avis-de-marches-publics-dans-le-pv-en-france-138/",
+  "auteur": "Francois Puthod",
+  "resume": "Retrouvez chaque semaine dans pv magazine les appels d’offres publiés relatifs aux projets photovoltaïques en France.",
+  "pub": "2026-09-16",
+  "ts": 1789545600.0,
+  "vu": "2026-09-16"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Autoconsommation collective : naissance d’une première boucle énergétique sur l’Eurométropole de Strasbourg",
+  "lien": "https://www.pv-magazine.fr/2026/09/16/autoconsommation-collective-naissance-dune-premiere-boucle-energetique-sur-leurometropole-de-strasbourg/",
+  "auteur": "Francois Puthod",
+  "resume": "La première boucle d'autoconsommation collective citoyenne sur le territoire de l'Eurométropole de Strasbourg est lancée.",
+  "pub": "2026-09-16",
+  "ts": 1789543800.0,
+  "vu": "2026-09-16"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Batteries : la Chine met un coup d’arrêt à la construction de nouvelles usines",
+  "lien": "https://www.pv-magazine.fr/2026/09/16/batteries-la-chine-mettrait-un-coup-darret-a-la-construction-de-nouvelles-usines/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Pékin aurait instauré un gel administratif temporaire sur les autorisations de nouvelles usines de batteries pour le stockage d'énergie et les véhicules électriques. Sans annonce officielle mais relayée par la presse spécialisée, cette mesure s'accompagne d'un audit national et […]",
+  "pub": "2026-09-16",
+  "ts": 1789540200.0,
+  "vu": "2026-09-16"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Un électrolyte tricouche améliore la stabilité des batteries lithium-métal",
+  "lien": "https://www.enerzine.com/un-electrolyte-tricouche-ameliore-la-stabilite-des-batteries-lithium-metal/193793-2026-09",
+  "auteur": "La rédaction",
+  "resume": "Une équipe en ingénierie des polymères a publié dans Advanced Materials un électrolyte tricouche inspiré des moules. Capable de limiter les dendrites, il conserve plus de 80 % de capacité après 1 000 cycles. L’étude décrit une architecture d’électrolyte inspirée des protéines […]",
+  "pub": "2026-09-16",
+  "ts": 1789531800.0,
+  "vu": "2026-09-16"
+ },
+ {
+  "source": "CleanTechnica",
+  "titre": "Holcim Integrates Two Joule Hive Thermal Batteries Into Its Cement Making Facility",
+  "lien": "https://cleantechnica.com/2026/09/15/holcim-integrates-two-joule-hive-thermal-batteries-into-its-cement-making-facility/",
+  "auteur": "Steve Hanley",
+  "resume": "Two years ago, we brought our readers news about the Joule Hive thermal battery from Electrified Thermal Solutions. ETS is an MIT spin-off that began researching the benefits of electrified firebrick more than 12 years ago. Here’s why that is important. About 20 percent of all […]",
+  "pub": "2026-09-15",
+  "ts": 1789508561.0,
+  "vu": "2026-09-16"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Agrivoltaïsme : la FFPA met la clé sous la porte",
+  "lien": "https://www.greenunivers.com/2026/09/agrivoltaisme-la-ffpa-met-la-cle-sous-la-porte-433155/",
+  "auteur": "Paul Messad",
+  "resume": "Exclusif — « Il y a des messages que l’on aurait évidemment préféré ne jamais avoir à écrire ». Par ces mots, le bureau de la Fédération française des producteurs agrivoltaïques (FFPA) a annoncé hier sa dissolution. « Avons-nous encore les moyens L’article Agrivoltaïsme : la […]",
+  "pub": "2026-09-15",
+  "ts": 1789487998.0,
+  "vu": "2026-09-16"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Enedis se prépare à piloter les petits sites photovoltaïques",
+  "lien": "https://www.greenunivers.com/2026/09/enedis-se-prepare-a-piloter-les-petits-sites-photovoltaiques-433116/",
+  "auteur": "Thomas Blosseville",
+  "resume": "Enedis travaille à limiter la puissance injectée par les centrales solaires en basse tension en fonction « des besoins identifiés localement et des contraintes observées sur les réseaux de distribution ou de transport ». On ne parle pas là du dispositif déjà mis en œuvre par EDF […]",
+  "pub": "2026-09-15",
+  "ts": 1789487931.0,
+  "vu": "2026-09-16"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Solaire thermique : Newheat prépare une puissante centrale pour le groupe Agrial",
+  "lien": "https://www.greenunivers.com/2026/09/solaire-thermique-newheat-prepare-une-puissante-centrale-pour-le-groupe-agrial-433207/",
+  "auteur": "GreenUnivers",
+  "resume": "Newheat va construire, exploiter et détenir une centrale solaire thermique de 18,5 MWth* et 22 000 m2 pour l’un des sites de la coopérative agricole et agroalimentaire Agrial (7,3 Mds€ de chiffre d’affaires), en l’occurrence pour la fabrication de produits laitiers à Herbignac […]",
+  "pub": "2026-09-15",
+  "ts": 1789487898.0,
+  "vu": "2026-09-16"
+ },
+ {
+  "source": "Actu-Environnement",
+  "titre": "Projet Emme&#8239;en Gironde : le juge de l'urgence ne suspend pas l'arrêté portant permis de construire",
+  "lien": "https://www.actu-environnement.com/ae/news/projet-emme-gironde-permis-construire-refere-48518.php4",
+  "auteur": "",
+  "resume": "Par une ordonnance du 3 septembre 2026, le tribunal administratif de Bordeaux a rejeté le recours de la Sepanso qui demandait la suspension de l'arrêté portant délivrance d'un permis de construire autorisant la réalisation d'une usine de convers...",
+  "pub": "2026-09-15",
+  "ts": 1789481570.0,
+  "vu": "2026-09-16"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "En Allemagne, SPIE évalue le potentiel solaire de plus de 300 bâtiments publics",
+  "lien": "https://www.pv-magazine.fr/2026/09/15/en-allemagne-spie-evalue-le-potentiel-solaire-de-plus-de-300-batiments-publics/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Mandaté par l’Agence fédérale allemande de gestion immobilière, le spécialiste des services techniques SPIE va étudier le potentiel photovoltaïque de plus de 300 bâtiments appartenant à l’État allemand dans six Länder du nord et du nord-est du pays. Les installations jugées […]",
+  "pub": "2026-09-15",
+  "ts": 1789480800.0,
+  "vu": "2026-09-16"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "A Toulouse, l’Oncopôle teste une boucle locale d’autoconsommation collective sur ombrières",
+  "lien": "https://www.pv-magazine.fr/2026/09/15/a-toulouse-loncopole-teste-une-boucle-locale-dautoconsommation-collective-sur-ombrieres/",
+  "auteur": "Marie Beyer",
+  "resume": "Après le parc au sol de 15 MW mis en service en 2020, des ombrières de parking de 1,57 MW portées par Virya Energy inaugurent une opération d’autoconsommation collective sur le foncier de Tisséo, la régie de transport toulousaine.",
+  "pub": "2026-09-15",
+  "ts": 1789477200.0,
+  "vu": "2026-09-16"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "GreenYellow duplique son modèle d’Energy-as-a-Service en Italie",
+  "lien": "https://www.pv-magazine.fr/2026/09/15/greenyellow-replique-son-modele-denergy-as-a-service-en-italie/",
+  "auteur": "Francois Puthod",
+  "resume": "Le producteur français GreenYellow poursuit sa croissance en Italie avec un nouveau projet photovoltaïque en autoconsommation de 3,1 MWc pour Calme, à Orciano Pisano.",
+  "pub": "2026-09-15",
+  "ts": 1789473600.0,
+  "vu": "2026-09-16"
+ },
+ {
   "source": "pv magazine France",
   "titre": "Engie mise sur un portefeuille virtuel de batteries pour renforcer la flexibilité en Allemagne",
   "lien": "https://www.pv-magazine.fr/2026/09/15/engie-mise-sur-un-portefeuille-virtuel-de-batteries-pour-renforcer-la-flexibilite-en-allemagne/",
@@ -174,7 +314,7 @@
   "titre": "La crise du gaz réduit l’impact budgétaire des renouvelables",
   "lien": "https://www.greenunivers.com/2026/09/la-crise-du-gaz-reduit-limpact-budgetaire-des-renouvelables-433027/",
   "auteur": "Paul Messad",
-  "resume": "Plus les prix de l’électricité sont élevés, moins les tarfis de vente garantis sur les installations d’énergies renouvelables, éolien, photovoltaïque et biogaz, ne coûte à la puissance publique. « L’État ajuste donc légitimement son L’article La crise du gaz réduit l’impact […]",
+  "resume": "Plus les prix de l’électricité sont élevés, moins les tarifs de vente garantis sur les installations d’énergies renouvelables, éolien, photovoltaïque et biogaz, ne coûtent à la puissance publique. « L’État ajuste donc légitimement son L’article La crise du gaz réduit l’impact […]",
   "pub": "2026-09-14",
   "ts": 1789397901.0,
   "vu": "2026-09-15"
@@ -333,7 +473,7 @@
   "source": "Connaissance des Énergies",
   "titre": "Moins de climat, plus de stockage : les paradoxes apparents du boom américain des batteries",
   "lien": "https://www.connaissancedesenergies.org/tribune-actualite-energies/moins-de-climat-plus-de-stockage-les-paradoxes-apparents-du-boom-americain-des-batteries",
-  "auteur": "tuong-vi-an-gourfinkel",
+  "auteur": "tuong-vi-gourfinkel",
   "resume": "Depuis son retour au pouvoir, Donald Trump a recentré la politique énergétique américaine sur les énergies fossiles tout en durcissant les conditions de développement de l’éolien et du solaire. Les batteries destinées au stockage d’énergie font pourtant exception.",
   "pub": "2026-09-14",
   "ts": 1789344000.0,
@@ -718,6 +858,16 @@
   "pub": "2026-09-10",
   "ts": 1789051334.0,
   "vu": "2026-09-11"
+ },
+ {
+  "source": "INES",
+  "titre": "Photovoltaïque : ce qui rend vraiment vos panneaux robustes",
+  "lien": "https://www.ines-solaire.org/news/photovoltaique-ce-qui-rend-vraiment-vos-panneaux-robustes/",
+  "auteur": "",
+  "resume": "",
+  "pub": "2026-09-10",
+  "ts": 1789048417.0,
+  "vu": "2026-09-16"
  },
  {
   "source": "pv magazine France",
@@ -1388,25 +1538,5 @@
   "pub": "2026-09-06",
   "ts": 1788664200.0,
   "vu": "2026-09-06"
- },
- {
-  "source": "Enerzine",
-  "titre": "Une nouvelle approche des batteries de traction : sûres, réparables, durables",
-  "lien": "https://www.enerzine.com/une-nouvelle-approche-des-batteries-de-traction-sures-reparables-durables/193532-2026-09",
-  "auteur": "La rédaction",
-  "resume": "Le développement des batteries de traction pour véhicules électriques devient de plus en plus complexe. Les performances électriques, le comportement thermique et la sécurité mécanique interagissent étroitement et nécessitent des solutions intégrées. Parallèlement, on constate à […]",
-  "pub": "2026-09-05",
-  "ts": 1788646200.0,
-  "vu": "2026-09-06"
- },
- {
-  "source": "Enerzine",
-  "titre": "Un dispositif de stockage d’énergie conçu pour être recyclé",
-  "lien": "https://www.enerzine.com/un-dispositif-de-stockage-denergie-concu-pour-etre-recycle/193537-2026-09",
-  "auteur": "La rédaction",
-  "resume": "Les montres connectées, les téléphones et même certains drones dépendent de systèmes de stockage d’énergie légers et rechargeables. Lorsque ces appareils arrivent en fin de vie, beaucoup finissent en déchets électroniques. Aujourd’hui, des chercheurs publiant dans ACS Energy […]",
-  "pub": "2026-09-05",
-  "ts": 1788581400.0,
-  "vu": "2026-09-05"
  }
 ]
