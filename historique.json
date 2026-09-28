@@ -10,6 +10,116 @@
   "vu": "2026-08-20"
  },
  {
+  "source": "Enerzine",
+  "titre": "Installation de panneaux solaires : les 7 étapes, du premier devis à la mise en service",
+  "lien": "https://www.enerzine.com/installation-de-panneaux-solaires-les-7-etapes-du-premier-devis-a-la-mise-en-service/195802-2026-09",
+  "auteur": "La rédaction",
+  "resume": "Une installation de panneaux solaires en autoconsommation suit sept étapes, du devis à la mise en service, et prend 2 à 4 mois selon la commune et le réseau. L’étude et le devis fixent la puissance en kWc et un prix compris, pour 6 kWc pose incluse, entre 9 500 et 17 000 € selon […]",
+  "pub": "2026-09-28",
+  "ts": 1790599800.0,
+  "vu": "2026-09-28"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "L’autoconsommation collective dans le logement social en quête d’équilibre financier",
+  "lien": "https://www.pv-magazine.fr/2026/09/28/lautoconsommation-collective-dans-le-logement-social-en-quete-dequilibre-financier/",
+  "auteur": "Francois Puthod",
+  "resume": "Une étude conjointe de la FOPH et de la Banque des Territoires identifie les modèles d’ACC les plus faciles à équilibrer économiquement et les conditions de leur déploiement dans le logement social.",
+  "pub": "2026-09-28",
+  "ts": 1790596800.0,
+  "vu": "2026-09-28"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Une salve d’acquisitions pour JPEE",
+  "lien": "https://www.greenunivers.com/2026/09/une-salve-dacquisitions-pour-jpee-434229/",
+  "auteur": "Jean-Philippe Pié",
+  "resume": "JPEE a acheté beaucoup de projets solaires et éoliens au premier semestre et compte continuer. Il n’est pas le seul et la raison de l’appétit est connue : de moins en moins de visibilité sur les soutiens publics futurs. Le phénomène a conduit ce développeur et exploitant EnR […]",
+  "pub": "2026-09-28",
+  "ts": 1790594084.0,
+  "vu": "2026-09-28"
+ },
+ {
+  "source": "INES",
+  "titre": "21.2% c’est le nouveau record du CEA à l’INES pour des cellules solaires pérovskites flexibles",
+  "lien": "https://www.ines-solaire.org/news/21.2-cest-le-nouveau-record-du-cea-a-lines-pour-des-cellules-solaires-perovskites-flexibles/",
+  "auteur": "",
+  "resume": "",
+  "pub": "2026-09-28",
+  "ts": 1790587765.0,
+  "vu": "2026-09-28"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "4,33 milliards d’années : cette date vertigineuse repousse très loin les premières chances de la vie",
+  "lien": "https://www.futura-sciences.com/sciences/actualites/origine-vie-433-milliards-annees-cette-date-vertigineuse-repousse-tres-loin-premieres-chances-vie-138035/",
+  "auteur": "Laurent Sacco, Journaliste scientifique",
+  "resume": "On sait que les planètes rocheuses du Système solaire sont nées de collisions et d'accrétion par un effet boule de neige d'astéroïdes, de comètes, voire de petites planètes, il y a environ 4,5 milliards d'années. Ces collisions libéraient beaucoup d'énergie, sous forme de […]",
+  "pub": "2026-09-28",
+  "ts": 1790587017.0,
+  "vu": "2026-09-28"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Une étude révèle un potentiel de 150 GW de photovoltaïque supplémentaire au niveau des postes électriques en Allemagne",
+  "lien": "https://www.pv-magazine.fr/2026/09/28/une-etude-revele-un-potentiel-de-150-gw-de-photovoltaique-supplementaire-au-niveau-des-postes-electriques-en-allemagne/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Une étude de Fraunhofer IEE estime que le stockage par batteries pourrait permettre de raccorder environ 150 GW de capacité photovoltaïque supplémentaire à 1 313 postes électriques ruraux en Allemagne. En absorbant les pics de production, le stockage pourrait améliorer […]",
+  "pub": "2026-09-28",
+  "ts": 1790582400.0,
+  "vu": "2026-09-28"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Un logiciel gratuit calcule combien de modules solaires peuvent tenir sur un toit à partir d’une simple photo",
+  "lien": "https://www.pv-magazine.fr/2026/09/28/un-logiciel-gratuit-calcule-combien-de-modules-solaires-peuvent-tenir-sur-un-toit-a-partir-dune-simple-photo/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Tegrona a lancé un logiciel gratuit capable d’utiliser des photographies pour calculer combien de modules photovoltaïques peuvent être installés sur un toit. Tegrona Lite corrige la perspective de l’image, détermine les dimensions de la toiture et génère automatiquement des […]",
+  "pub": "2026-09-28",
+  "ts": 1790580600.0,
+  "vu": "2026-09-28"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Tchad : Qair sécurise 37,9 millions d’euros pour deux centrales solaires hybrides de 30 MWc",
+  "lien": "https://www.pv-magazine.fr/2026/09/28/tchad-qair-securise-379-millions-deuros-pour-deux-centrales-solaires-hybrides-de-30-mwc/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Le producteur français d’énergies renouvelables Qair a finalisé le premier décaissement d’un financement de 37,9 millions d’euros destiné à la construction de deux centrales solaires hybrides avec stockage à Gassi et Lamadji, au Tchad. D’une capacité cumulée de 30 MWc et 8 MWh […]",
+  "pub": "2026-09-28",
+  "ts": 1790577000.0,
+  "vu": "2026-09-28"
+ },
+ {
+  "source": "Révolution Énergétique",
+  "titre": "Pourquoi le solaire thermique ne décolle toujours pas en France continentale ?",
+  "lien": "https://www.revolution-energetique.com/actus/pourquoi-le-solaire-thermique-ne-decolle-toujours-pas-en-france-continentale/",
+  "auteur": "Kevin CHAMPEAU",
+  "resume": "L’univers de la transition énergétique est impitoyable, et pas toujours très juste. On y constate une domination presque sans partage de certaines technologies comme l’éolien […] L’article Pourquoi le solaire thermique ne décolle toujours pas en France continentale ? est apparu […]",
+  "pub": "2026-09-28",
+  "ts": 1790572492.0,
+  "vu": "2026-09-28"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Les cellules solaires en silicium pourraient réduire jusqu’à 90 % le coût de l’énergie des satellites",
+  "lien": "https://www.enerzine.com/les-cellules-solaires-en-silicium-pourraient-reduire-jusqua-90-le-cout-de-lenergie-des-satellites/195712-2026-09",
+  "auteur": "La rédaction",
+  "resume": "Le passage à des cellules solaires en silicium modernes pourrait faire baisser jusqu’à 90 % le coût de l’alimentation des satellites, sur la base des performances en début de vie (BOL), selon une analyse menée par l’université de Surrey. Ce passage au silicium pourrait aussi […]",
+  "pub": "2026-09-28",
+  "ts": 1790568600.0,
+  "vu": "2026-09-28"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Leapmotor B05, la compacte électrique chinoise dès 25 900 € en France",
+  "lien": "https://www.enerzine.com/leapmotor-b05-prix-autonomie-fiche-technique/195735-2026-09",
+  "auteur": "La rédaction",
+  "resume": "La Leapmotor B05 démarre à 25 900 € en France dans sa version Life Pro. La compacte électrique chinoise veut bousculer les références établies avec un tarif contenu, deux batteries et une puissance annoncée de 218 ch. 📌 L’essentiel en 3 points Le constructeur chinois […]",
+  "pub": "2026-09-27",
+  "ts": 1790538300.0,
+  "vu": "2026-09-28"
+ },
+ {
   "source": "Futura Sciences",
   "titre": "Voici l'appareil oublié qui pourrait faire chuter votre facture d'électricité",
   "lien": "https://www.futura-sciences.com/maison/actualites/electricite-voici-appareil-oublie-pourrait-faire-chuter-votre-facture-electricite-k2m6-138005/",
@@ -1068,175 +1178,5 @@
   "pub": "2026-09-18",
   "ts": 1789704600.0,
   "vu": "2026-09-18"
- },
- {
-  "source": "Enerplan",
-  "titre": "Webinaire du CNFPT, “Faire du solaire un levier de développement territorial”",
-  "lien": "https://www.enerplan.asso.fr/webinaire-du-cnfpt-fairedusolaire/",
-  "auteur": "Marlène CHALVIN",
-  "resume": "",
-  "pub": "2026-09-17",
-  "ts": 1789666124.0,
-  "vu": "2026-09-18"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Raccordements : de la place se libère sur le réseau électrique",
-  "lien": "https://www.greenunivers.com/2026/09/raccordements-de-la-place-se-libere-sur-le-reseau-electrique-433410/",
-  "auteur": "Jacopo Landi",
-  "resume": "Enquête – « Nous voyons de la capacité revenir autour de certains postes sources », observe Nicolas Sur, directeur général du développeur solaire Tryba Energy. D’après différents développeurs L’article Raccordements : de la place se libère sur le réseau électrique est apparu en […]",
-  "pub": "2026-09-17",
-  "ts": 1789657610.0,
-  "vu": "2026-09-18"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Défendre le soutien public aux toitures solaires, une cause perdue ?",
-  "lien": "https://www.greenunivers.com/2026/09/defendre-le-soutien-public-aux-toitures-solaires-une-cause-perdue-433418/",
-  "auteur": "Jean-Philippe Pié",
-  "resume": "« Les gentlemen ne défendent que les causes perdues », écrivait Jorge Luis Borges. La phrase pourrait résumer le sentiment d’un membre de la direction du syndicat des professionnels du photovoltaïque Enerplan, interrogé sur l’initiative d’un collectif d’entreprises* actives dans […]",
-  "pub": "2026-09-17",
-  "ts": 1789657488.0,
-  "vu": "2026-09-18"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Le nouveau PPA multiacheteurs en Nouvelle-Aquitaine fait le plein",
-  "lien": "https://www.greenunivers.com/2026/09/le-nouveau-ppa-multiacheteurs-en-nouvelle-aquitaine-fait-le-plein-433385/",
-  "auteur": "Thomas Blosseville",
-  "resume": "Son inauguration est prévue le 18 septembre mais la centrale solaire de Valeco à Durance (Lot-et-Garonne) a déjà commencé à produire. Ce parc photovoltaïque de 23,4 MWc fournit depuis le 1er août de l’électricité aux 9 entreprises ayant souscrit au premier power purchase […]",
-  "pub": "2026-09-17",
-  "ts": 1789657243.0,
-  "vu": "2026-09-18"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Electricité renouvelable : un « super appel d’offres neutre » se profile",
-  "lien": "https://www.greenunivers.com/2026/09/electricite-renouvelable-un-super-appel-doffres-neutre-se-profile-433405/",
-  "auteur": "Paul Messad",
-  "resume": "L’année 2027 approche sans appels d’offres annoncés. Ce silence devrait être brisé très prochainement, car, selon nos informations, les autorités L’article Electricité renouvelable : un « super appel d’offres neutre » se profile est apparu en premier sur GreenUnivers .",
-  "pub": "2026-09-17",
-  "ts": 1789655266.0,
-  "vu": "2026-09-18"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Sirea commercialise son EMS ouvert pour piloter PV, stockage et recharge électrique",
-  "lien": "https://www.pv-magazine.fr/2026/09/17/sirea-commercialise-son-ems-ouvert-pour-piloter-pv-stockage-et-recharge-electrique/",
-  "auteur": "Marie Beyer",
-  "resume": "La PME tarnaise commercialise une solution de gestion de l’énergie (EMS) destinée aux exploitants, intégrateurs et installateurs de centrales photovoltaïques pour optimiser l’autoconsommation, piloter des batteries et des bornes de recharge et s'adapter aux mécanismes de marché.",
-  "pub": "2026-09-17",
-  "ts": 1789653600.0,
-  "vu": "2026-09-18"
- },
- {
-  "source": "pv magazine France",
-  "titre": "En France, le marché secondaire des actifs photovoltaïques est voué à se densifier",
-  "lien": "https://www.pv-magazine.fr/2026/09/17/le-marche-secondaire-des-actifs-photovoltaiques-se-densifie/",
-  "auteur": "Francois Puthod",
-  "resume": "Energies de Loire lance une nouvelle branche d'activité dédiée au rachat de centrales photovoltaïques, concrétisée par l’acquisition du portefeuille de Valénergies.",
-  "pub": "2026-09-17",
-  "ts": 1789650000.0,
-  "vu": "2026-09-18"
- },
- {
-  "source": "négaWatt",
-  "titre": "Transition énergétique européenne à l'horizon 2040 : la sobriété, chainon manquant des modèles officiels",
-  "lien": "https://negawatt.org/Transition-energetique-europeenne-a-l-horizon-2040-la-sobriete-chainon-manquant",
-  "auteur": "Stéphane LB",
-  "resume": "L'association négaWatt publie une analyse comparative entre le scénario S3 de la Commission européenne et le scénario européen CLEVER. - Ressources / Pages avec colonne , Analyses , Europe , Sobriété énergétique",
-  "pub": "2026-09-17",
-  "ts": 1789648938.0,
-  "vu": "2026-09-18"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Le marché mondial du stockage résidentiel devrait atteindre 46,1 GWh en 2026",
-  "lien": "https://www.pv-magazine.fr/2026/09/17/le-marche-mondial-du-stockage-residentiel-devrait-atteindre-461-gwh-en-2026/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Selon InfoLink Consulting, l’Europe reste un contributeur majeur au marché mondial du stockage résidentiel d’énergie, avec de nouvelles capacités qui devraient atteindre 15,4 GWh.",
-  "pub": "2026-09-17",
-  "ts": 1789646400.0,
-  "vu": "2026-09-18"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Peut-on vraiment savoir tout ce qu’une IA est en train de faire, et être certain de pouvoir l’arrêter ?",
-  "lien": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-peut-on-vraiment-savoir-tout-ce-quune-ia-train-faire-etre-certain-pouvoir-arreter-137796/",
-  "auteur": "Edward Back, Journaliste hi-tech",
-  "resume": "Les agents d’intelligence artificielle sont au cœur du développement des nouveaux modèles. De plus en plus autonomes, ils sont désormais capables de planifier et d’exécuter des tâches complexes pour atteindre un objectif. Mais cette autonomie croissante soulève une question […]",
-  "pub": "2026-09-17",
-  "ts": 1789641340.0,
-  "vu": "2026-09-17"
- },
- {
-  "source": "pv magazine France",
-  "titre": "La Chine cible le solaire à pérovskite et les batteries avancées dans son plan quinquennal",
-  "lien": "https://www.pv-magazine.fr/2026/09/17/la-chine-cible-le-solaire-a-perovskite-et-les-batteries-avancees-dans-son-plan-quinquennal/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "La Chine a identifié le solaire à pérovskite et les batteries de nouvelle génération comme des priorités stratégiques dans sa feuille de route industrielle pour 2026-2030. Le plan prévoit également un contrôle plus strict des capacités de production et de la concurrence sur les […]",
-  "pub": "2026-09-17",
-  "ts": 1789639200.0,
-  "vu": "2026-09-17"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "« Cela n’arrive qu’une fois par siècle » : la Nasa vient de découvrir sur la Lune le plus grand cratère récent du Système solaire !",
-  "lien": "https://www.futura-sciences.com/sciences/actualites/lune-cela-narrive-quune-fois-siecle-nasa-vient-decouvrir-lune-plus-grand-cratere-recent-systeme-solaire-137805/",
-  "auteur": "Nathalie Mayer, Journaliste",
-  "resume": "Une tache lumineuse sur une image de la Lune. Suffisant pour mettre les spécialistes en alerte. Car derrière ce point brillant se cache une découverte aussi rare qu’instructive pour l’exploration spatiale.",
-  "pub": "2026-09-17",
-  "ts": 1789637511.0,
-  "vu": "2026-09-17"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "L’hydrogène, un maillon essentiel de la transition énergétique, à condition d’être décarboné et acheminé",
-  "lien": "https://www.futura-sciences.com/planete/actualites/developpement-durable-hydrogene-maillon-essentiel-transition-energetique-condition-etre-decarbone-achemine-137740/",
-  "auteur": "Futura Partenariats, Contenu sponsorisé",
-  "resume": "Alors que l’Europe travaille dans une logique de décarbonation à faire émerger une économie de l’hydrogène à l’échelle continentale, son développement reposera autant sur sa production que sur les infrastructures nécessaires pour relier les bassins de production aux bassins de […]",
-  "pub": "2026-09-17",
-  "ts": 1789633800.0,
-  "vu": "2026-09-17"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Sungrow augmente de 15 % les prix de ses onduleurs et systèmes de stockage",
-  "lien": "https://www.pv-magazine.fr/2026/09/17/sungrow-augmente-de-15-les-prix-de-ses-onduleurs-et-systemes-de-stockage/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Sungrow augmentera de 5 % à 15 % les prix de ses onduleurs photovoltaïques et de ses produits de stockage d’énergie à compter du 20 septembre, invoquant la hausse des coûts des matières premières et des composants. Il s’agit de la deuxième augmentation de prix annoncée par […]",
-  "pub": "2026-09-17",
-  "ts": 1789630200.0,
-  "vu": "2026-09-17"
- },
- {
-  "source": "pv magazine",
-  "titre": "China targets perovskite solar, advanced batteries in five-year plan",
-  "lien": "https://www.pv-magazine.com/2026/09/17/china-targets-perovskite-solar-advanced-batteries-in-five-year-plan/",
-  "auteur": "Emiliano Bellini",
-  "resume": "China has identified perovskite solar and next-generation batteries as strategic priorities in its 2026-30 industrial roadmap. The plan also calls for tighter oversight of manufacturing capacity and price competition.",
-  "pub": "2026-09-17",
-  "ts": 1789628922.0,
-  "vu": "2026-09-17"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Autoconsommation collective : Oyo Communities devient fournisseur d’électricité",
-  "lien": "https://www.pv-magazine.fr/2026/09/17/autoconsommation-collective-oyo-communities-devient-fournisseur-delectricite/",
-  "auteur": "Francois Puthod",
-  "resume": "Spécialiste de l’autoconsommation collective, Oyo Communities a obtenu, cet été, le statut de fournisseur d'électricité délivré par la DGEC.",
-  "pub": "2026-09-17",
-  "ts": 1789626600.0,
-  "vu": "2026-09-17"
- },
- {
-  "source": "Enerzine",
-  "titre": "Un matériau prometteur pour des batteries Li-ion plus sûres atteint une conductivité record",
-  "lien": "https://www.enerzine.com/un-materiau-prometteur-pour-des-batteries-li-ion-plus-sures-atteint-une-conductivite-record/194480-2026-09",
-  "auteur": "La rédaction",
-  "resume": "Il y a une bonne raison pour laquelle, chaque fois que vous enregistrez un vol, on vous demande de confirmer qu’il n’y a ni chargeurs portables ni batteries externes dans vos bagages enregistrés. Un électrolyte liquide hautement inflammable fait circuler les ions lithium (Li) […]",
-  "pub": "2026-09-17",
-  "ts": 1789623000.0,
-  "vu": "2026-09-17"
  }
 ]
