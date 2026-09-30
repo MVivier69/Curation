@@ -1,5 +1,155 @@
 [
  {
+  "source": "Batiactu",
+  "titre": "Photovoltaïque : quand le solaire arrive au coeur de l’installation électrique",
+  "lien": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=155620",
+  "auteur": "Batiactu",
+  "resume": "Le photovoltaïque fait désormais partie intégrante des installations électriques. Concevoir ces installations dans des outils séparés génère incohérences et risques de non-conformité. Une ...",
+  "pub": "2026-09-30",
+  "ts": 1790770987.0,
+  "vu": "2026-09-30"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "CAF dévoile au salon InnoTrans un train régional à batteries, le Civity BEMU",
+  "lien": "https://www.enerzine.com/caf-devoile-au-salon-innotrans-un-train-regional-a-batteries-le-civity-bemu/195922-2026-09",
+  "auteur": "La rédaction",
+  "resume": "Le constructeur CAF a présenté le Civity BEMU, une rame régionale électrique à batteries capable de circuler sous caténaire et sur lignes non électrifiées, afin d’accélérer la sortie du diesel. À l’occasion du salon InnoTrans de Berlin, CAF a présenté au public international le […]",
+  "pub": "2026-09-30",
+  "ts": 1790770200.0,
+  "vu": "2026-09-30"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "ZE Energy continue son développement en Italie avec l’acquisition d’un projet de batteries de 200 MW",
+  "lien": "https://www.pv-magazine.fr/2026/09/30/ze-energy-continue-son-developpement-en-italie-avec-lacquisition-dun-projet-de-batteries-de-200-mw/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Le projet Elena de plus d'1 GWh a été acquis auprès d'Aura Power, développeur britannique de projets solaires et de stockage. Il porte à 300 MW la capacité totale de BESS de ZE Energy dans le pays, un an après le développement de son premier projet de BESS standalone italien.",
+  "pub": "2026-09-30",
+  "ts": 1790769600.0,
+  "vu": "2026-09-30"
+ },
+ {
+  "source": "Energy-Storage.news",
+  "titre": "Volkswagen’s new LFP battery JVs with Gotion will adjust EV and BESS cell production split based on demand",
+  "lien": "https://www.energy-storage.news/volkswagens-new-lfp-battery-jvs-with-gotion-will-adjust-ev-and-bess-cell-production-split-based-on-demand/",
+  "auteur": "Carrie Xiao",
+  "resume": "Gotion and Volkswagen AG will establish three joint ventures to manufacture lithium iron phosphate (LFP) batteries and battery materials in Valencia (Spain), Surany (Slovakia), and Kenitra (Morocco).",
+  "pub": "2026-09-30",
+  "ts": 1790759254.0,
+  "vu": "2026-09-30"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Ireland introduces €600 residential battery grant, expands PV support",
+  "lien": "https://www.pv-magazine.com/2026/09/30/ireland-introduces-e600-residential-battery-grant-expands-pv-support/",
+  "auteur": "Blathnaid O'Dea",
+  "resume": "Irish householders will be able to avail of a €600 battery grant as part of a package of renewable energy supports effective from October 6. Grants of up to €9,000 for lower-income householders to install solar and batteries will also be included as well as support for […]",
+  "pub": "2026-09-30",
+  "ts": 1790758804.0,
+  "vu": "2026-09-30"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Avis de marchés publics dans le PV en France",
+  "lien": "https://www.pv-magazine.fr/2026/09/30/avis-de-marches-publics-dans-le-pv-en-france-140/",
+  "auteur": "Francois Puthod",
+  "resume": "Retrouvez chaque semaine dans pv magazine les appels d’offres publiés relatifs aux projets photovoltaïques en France.",
+  "pub": "2026-09-30",
+  "ts": 1790755200.0,
+  "vu": "2026-09-30"
+ },
+ {
+  "source": "Batiactu",
+  "titre": "Pompe à chaleur \"clés en main\" : l'État dévoile les 6 consortiums retenus et les détails de l'offre",
+  "lien": "https://www.batiactu.com/edito/pompe-a-chaleur-cles-en-main-75482.php",
+  "auteur": "Batiactu",
+  "resume": "AIDE FINANCIÈRE. Six consortiums d'acteurs ont été choisis pour commercialiser le dispositif \"clés en main\" pour l'installation de pompes à chaleur air/eau. Un projet d'arrêté a été mis en consultation. L'offre est ouverte dès ce 1er octobre 2026.",
+  "pub": "2026-09-30",
+  "ts": 1790754659.0,
+  "vu": "2026-09-30"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Q Energy inaugure une centrale solaire de 11 MWc dans la Marne",
+  "lien": "https://www.pv-magazine.fr/2026/09/30/q-energy-inaugure-une-centrale-solaire-de-11-mwc-dans-la-marne/",
+  "auteur": "Francois Puthod",
+  "resume": "Le développeur a mis en service une centrale solaire de 11 MWc construite sur une ancienne carrière dans la Marne, associant production électrique renouvelable et pâturage ovin sur près de huit hectares.",
+  "pub": "2026-09-30",
+  "ts": 1790749800.0,
+  "vu": "2026-09-30"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Cuba’s PV capacity tops 1.4 GW",
+  "lien": "https://www.pv-magazine.com/2026/09/30/cubas-pv-capacity-tops-1-4-gw/",
+  "auteur": "Emiliano Bellini",
+  "resume": "Cuba has installed 1.42 GW of solar capacity across 144 photovoltaic plants and expects to exceed 1.5 GW by the end of 2026. Renewables now account for 21.4% of electricity generation, while the country is also expanding energy storage and solar-powered water pumping.",
+  "pub": "2026-09-30",
+  "ts": 1790748333.0,
+  "vu": "2026-09-30"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Comment concilier la puissance élevée des batteries quantiques avec une livraison d’énergie stable ?",
+  "lien": "https://www.enerzine.com/comment-concilier-la-puissance-elevee-des-batteries-quantiques-avec-une-livraison-denergie-stable/195839-2026-09",
+  "auteur": "La rédaction",
+  "resume": "De nouvelles recherches identifient des limites fondamentales à la fiabilité des batteries quantiques et montrent comment les stratégies de charge peuvent concilier une puissance élevée avec une livraison stable d’énergie et de puissance. Ces résultats constituent une étape […]",
+  "pub": "2026-09-30",
+  "ts": 1790746200.0,
+  "vu": "2026-09-30"
+ },
+ {
+  "source": "Révolution Énergétique",
+  "titre": "Ces batteries mobiles fournissent de l’électricité aux secours sans polluer",
+  "lien": "https://www.revolution-energetique.com/actus/ces-batteries-mobiles-fournissent-de-lelectricite-aux-secours-sans-polluer/",
+  "auteur": "Hugo LARA",
+  "resume": "C’est une belle opération de communication mais aussi un révélateur du potentiel des batteries à fournir de l’électricité dans les situations d’urgence. Aux États-Unis, le […] L’article Ces batteries mobiles fournissent de l’électricité aux secours sans polluer est apparu en […]",
+  "pub": "2026-09-30",
+  "ts": 1790746182.0,
+  "vu": "2026-09-30"
+ },
+ {
+  "source": "Energy-Storage.news",
+  "titre": "Spain is making batteries a licensing condition for data centres, and nobody noticed",
+  "lien": "https://www.energy-storage.news/spain-is-making-batteries-a-licensing-condition-for-data-centres-and-nobody-noticed/",
+  "auteur": "Cameron Murray",
+  "resume": "Spain's recent proposal for data centres could be the catalyst the country's energy storage market has been waiting for, argues Ignacio López Martín from developer Capflex Energía.",
+  "pub": "2026-09-30",
+  "ts": 1790743865.0,
+  "vu": "2026-09-30"
+ },
+ {
+  "source": "CleanTechnica",
+  "titre": "GM Really Wasn’t Kidding About Those New LMR EV Batteries",
+  "lien": "https://cleantechnica.com/2026/09/29/ev-batteries-gm-lmr-lithium-manganese-rich/",
+  "auteur": "Tina Casey",
+  "resume": "Regardless of the sharp U-turn in federal energy policy, General Motors is on track to manufacture EV batteries based on an LMR formula that delivers improved performance at a lower cost.",
+  "pub": "2026-09-30",
+  "ts": 1790739584.0,
+  "vu": "2026-09-30"
+ },
+ {
+  "source": "Transitions & Énergies",
+  "titre": "Renouvelables intermittents: le système électrique espagnol au bord du gouffre",
+  "lien": "https://www.transitionsenergies.com/renouvelables-intermittents-systeme-electrique-espagnole-bord-gouffre/",
+  "auteur": "La rédaction",
+  "resume": "La politique énergétique espagnole, qui privilégie à outrance les renouvelables intermittents (éolien et solaire photovoltaïque), met le pays dans une situation de plus en plus intenable. Elle fragilise et déstabilise le système électrique qui a connu en avril 2025 un […]",
+  "pub": "2026-09-29",
+  "ts": 1790724749.0,
+  "vu": "2026-09-30"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Un nouveau nano-revêtement polymère inspiré du cartilage pour prolonger considérablement la durée de vie des batteries",
+  "lien": "https://www.enerzine.com/un-nouveau-nano-revetement-polymere-inspire-du-cartilage-pour-prolonger-considerablement-la-duree-de-vie-des-batteries/195836-2026-09",
+  "auteur": "La rédaction",
+  "resume": "Une équipe de recherche dirigée par l’Université des sciences et technologies de Hong Kong (HKUST) a mis au point un nanorevêtement biomimétique susceptible de prolonger considérablement la durée de vie des batteries utilisées dans les smartphones, les véhicules électriques (VE) […]",
+  "pub": "2026-09-29",
+  "ts": 1790719800.0,
+  "vu": "2026-09-30"
+ },
+ {
   "source": "négaWatt",
   "titre": "Quels freins à la transition énergétique ? Idées reçues sur les énergies renouvelables",
   "lien": "https://negawatt.org/Quels-freins-a-la-transition-energetique-Idees-recues-sur-les-energies",
@@ -8,6 +158,106 @@
   "pub": "2026-09-29",
   "ts": 1790708400.0,
   "vu": "2026-08-20"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Le train à batterie arrive en France, une avancée qui met le diesel au défi",
+  "lien": "https://www.enerzine.com/train-batterie-france-avancee-diesel/195888-2026-09",
+  "auteur": "La rédaction",
+  "resume": "Depuis fin juillet, un TER sans moteur diesel circule entre Avignon et Carpentras. Une première française qui montre que le train à batterie ne reste pas dans les cartons au stade de projet mais qu’il transporte désormais des voyageurs. 📌 L’essentiel en 3 points Oubliez le […]",
+  "pub": "2026-09-29",
+  "ts": 1790700600.0,
+  "vu": "2026-09-30"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "BYD vise 2027 pour sa batterie solide, avec une première série limitée",
+  "lien": "https://www.enerzine.com/byd-batterie-solide-2027/195882-2026-09",
+  "auteur": "La rédaction",
+  "resume": "BYD prévoit de mettre sur la route un premier véhicule équipé d’une batterie tout-solide en 2027. L’échéance, déjà évoquée dès 2025, a été confirmée en septembre 2026 par Stella Li, vice-présidente exécutive du constructeur. Elle ne marque toutefois pas le début d’une diffusion […]",
+  "pub": "2026-09-29",
+  "ts": 1790698800.0,
+  "vu": "2026-09-30"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Campagne présidentielle, CEE, TotalEnergies… : les coulisses du colloque du Ser (1)",
+  "lien": "https://www.greenunivers.com/2026/09/campagne-presidentielle-cee-totalenergies-les-coulisses-du-colloque-du-ser-434348/",
+  "auteur": "GreenUnivers",
+  "resume": "Les énergies renouvelables sont « un amortisseur de crises ». A l’ouverture du colloque annuel du Syndicat des énergies renouvelables (Ser) organisé ce jour et pour la première fois à la Cité des sciences et de l’industrie à Paris, Jules Nyssen, président de la puissance […]",
+  "pub": "2026-09-29",
+  "ts": 1790697831.0,
+  "vu": "2026-09-30"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "A Paris, la manifestation mobilise moins qu’en février",
+  "lien": "https://www.greenunivers.com/2026/09/a-paris-la-manifestation-mobilise-moins-quen-fevrier-434385/",
+  "auteur": "GreenUnivers",
+  "resume": "Les salariés des EnR électriques se sont réunis ce mardi 29 septembre sur le parvis de la Cité des sciences au nord de Paris. Là où, au même moment, le plus gros syndicat professionnel du secteur, le Syndicat des énergies renouvelables tenait son colloque annuel, le dernier […]",
+  "pub": "2026-09-29",
+  "ts": 1790694368.0,
+  "vu": "2026-09-30"
+ },
+ {
+  "source": "Enerplan",
+  "titre": "Le nouveau cycle européen Heat Auction IF26 (enchère de chaleur), plus favorable au solaire thermique",
+  "lien": "https://www.enerplan.asso.fr/le-nouveau-cycle-europeen-heat-auction-if26-enchere-de-chaleur-plus-favorable-au-solaire-thermique/",
+  "auteur": "Marlène CHALVIN",
+  "resume": "",
+  "pub": "2026-09-29",
+  "ts": 1790693964.0,
+  "vu": "2026-09-30"
+ },
+ {
+  "source": "Enerplan",
+  "titre": "QualiPV module Batterie, bientôt une nouvelle qualification pour les installateurs après la création du référentiel pédagogique",
+  "lien": "https://www.enerplan.asso.fr/qualipv-module-batterie-bientot-une-nouvelle-qualification-pour-les-installateurs-apres-la-creation-du-referentiel-pedagogique/",
+  "auteur": "Marlène CHALVIN",
+  "resume": "",
+  "pub": "2026-09-29",
+  "ts": 1790692842.0,
+  "vu": "2026-09-30"
+ },
+ {
+  "source": "Enerplan",
+  "titre": "Microfissures sur panneaux PV bifaciaux : premiers retours d’expérience",
+  "lien": "https://www.enerplan.asso.fr/microfissures-sur-panneaux-pv-bifaciaux-premiers-retours-dexperience/",
+  "auteur": "Marlène CHALVIN",
+  "resume": "",
+  "pub": "2026-09-29",
+  "ts": 1790691941.0,
+  "vu": "2026-09-30"
+ },
+ {
+  "source": "Enerplan",
+  "titre": "Difficultés d’instruction des projets photovoltaïques dans le Gers: Enerplan interpelle les services préfectoraux",
+  "lien": "https://www.enerplan.asso.fr/difficultes-dinstruction-des-projets-photovoltaiques-dans-le-gers-enerplan-interpelle-les-services-prefectoraux/",
+  "auteur": "Marlène CHALVIN",
+  "resume": "",
+  "pub": "2026-09-29",
+  "ts": 1790690305.0,
+  "vu": "2026-09-30"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Sunrock obtient un financement de 110 M€ pour soutenir sa croissance solaire en France",
+  "lien": "https://www.pv-magazine.fr/2026/09/29/sunrock-obtient-un-financement-de-110-me-pour-soutenir-sa-croissance-solaire-en-france/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "L’opération a été réalisée auprès de Crédit Agricole Corporate and Investment Bank (CA-CIB) et se compose d’un prêt à terme de 50 millions d'euros, assorti d'une option d'extension (accordéon) pouvant aller jusqu'à 50 millions d'euros supplémentaires.",
+  "pub": "2026-09-29",
+  "ts": 1790686800.0,
+  "vu": "2026-09-30"
+ },
+ {
+  "source": "Actu-Environnement",
+  "titre": "Électricité : de nouveaux produits de marché pour valoriser le photovoltaïque sous OA",
+  "lien": "https://www.actu-environnement.com/ae/news/photovoltaique-produits-marche-terme-edf-oa-48583.php4",
+  "auteur": "",
+  "resume": "En 2027, EDF OA va pouvoir vendre de nouveaux produits à terme pour valoriser l'électricité produite sous obligation d'achat. L'objectif est de mieux couvrir le profil de production du solaire.",
+  "pub": "2026-09-29",
+  "ts": 1790686682.0,
+  "vu": "2026-09-30"
  },
  {
   "source": "pv magazine France",
@@ -218,6 +468,16 @@
   "pub": "2026-09-29",
   "ts": 1790658600.0,
   "vu": "2026-09-29"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Agrivoltaïsme, transition énergétique dans le monde agricole et valorisation durable des exploitations",
+  "lien": "https://lenergeek.com/2026/09/29/agrivoltaisme-transition-energetique-dans-le-monde-agricole-et-valorisation-durable-des-exploitations/",
+  "auteur": "La Rédaction",
+  "resume": "Dans un hameau de Saint-Ouen-en-Belin, en Sarthe, une réunion publique a duré trois heures le 22 septembre. Le sujet, une centrale solaire posée sur des terres agricoles, opposait une exploitante en ... L’article Agrivoltaïsme, transition énergétique dans le monde agricole et […]",
+  "pub": "2026-09-29",
+  "ts": 1790650800.0,
+  "vu": "2026-09-30"
  },
  {
   "source": "Transitions & Énergies",
@@ -1278,35 +1538,5 @@
   "pub": "2026-09-21",
   "ts": 1789967400.0,
   "vu": "2026-09-21"
- },
- {
-  "source": "Révolution Énergétique",
-  "titre": "Cette centrale nucléaire définitivement arrêtée depuis quatre ans est en train de redémarrer",
-  "lien": "https://www.revolution-energetique.com/actus/cette-centrale-nucleaire-definitivement-arretee-depuis-quatre-ans-est-en-train-de-redemarrer/",
-  "auteur": "Kevin CHAMPEAU",
-  "resume": "C’est une première historique qui est en train de se jouer de l’autre côté de l’Atlantique. Quatre ans après sa mise hors service définitive, un […] L’article Cette centrale nucléaire définitivement arrêtée depuis quatre ans est en train de redémarrer est apparu en premier sur […]",
-  "pub": "2026-09-19",
-  "ts": 1789829842.0,
-  "vu": "2026-09-20"
- },
- {
-  "source": "Enerzine",
-  "titre": "Clicks muscle son BlackBerry sans toucher au prix, la facture viendra plus tard",
-  "lien": "https://www.enerzine.com/clicks-muscle-son-blackberry-sans-toucher-au-prix-la-facture-viendra-plus-tard/195095-2026-09",
-  "auteur": "La rédaction",
-  "resume": "Le fabricant de claviers pour iPhone transforme son premier smartphone en machine de guerre. La RAM bondit de 8 à 12 Go et la batterie grimpe à 4 350 mAh, au tarif de lancement de 499 dollars pour les acheteurs pressés. 📌 L’essentiel en 3 points L’annonce a de quoi réveiller la […]",
-  "pub": "2026-09-19",
-  "ts": 1789827671.0,
-  "vu": "2026-09-20"
- },
- {
-  "source": "Révolution Énergétique",
-  "titre": "Cette centrale photovoltaïque flottante empêche l’évaporation de deux piscines olympiques par an",
-  "lien": "https://www.revolution-energetique.com/actus/cette-centrale-photovoltaique-flottante-empeche-levaporation-de-deux-piscines-olympiques-par-an/",
-  "auteur": "Kevin CHAMPEAU",
-  "resume": "Les centrales photovoltaïques flottantes ont le vent en poupe, et ce n’est pas un hasard. Posés sur l’eau, les panneaux solaires profitent à la fois […] L’article Cette centrale photovoltaïque flottante empêche l’évaporation de deux piscines olympiques par an est apparu en […]",
-  "pub": "2026-09-19",
-  "ts": 1789797584.0,
-  "vu": "2026-09-19"
  }
 ]
