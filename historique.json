@@ -5,9 +5,49 @@
   "lien": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=155620",
   "auteur": "Batiactu",
   "resume": "Le photovoltaïque fait désormais partie intégrante des installations électriques. Concevoir ces installations dans des outils séparés génère incohérences et risques de non-conformité. Une ...",
-  "pub": "2026-10-03",
-  "ts": 1791027025.0,
+  "pub": "2026-10-04",
+  "ts": 1791115893.0,
   "vu": "2026-09-30"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Un matériau poreux plus souple pourrait contribuer à améliorer les batteries tout solide",
+  "lien": "https://www.enerzine.com/un-materiau-poreux-plus-souple-pourrait-contribuer-a-ameliorer-les-batteries-tout-solide/195966-2026-10",
+  "auteur": "La rédaction",
+  "resume": "Pour les batteries tout solide, déplacer efficacement les ions lithium n’est qu’une partie du défi la façon dont le matériau se comporte mécaniquement peut aussi compter. Des chercheurs de l’Université Rice, issus des départements de génie chimique et biomoléculaire, de chimie […]",
+  "pub": "2026-10-03",
+  "ts": 1791065400.0,
+  "vu": "2026-10-04"
+ },
+ {
+  "source": "CleanTechnica",
+  "titre": "Australian Government Accelerates Renewable Energy Transition",
+  "lien": "https://cleantechnica.com/2026/10/03/australian-government-accelerates-renewable-energy-transition/",
+  "auteur": "David Waterworth",
+  "resume": "The Australian Renewable Energy Agency (ARENA) has announced the milestone of 100 community batteries being installed. It has also delivered funding for home conversion from gas to electric. The Cheaper Home Battery scheme has been extended to 100 kWh installations. Here’s our […]",
+  "pub": "2026-10-03",
+  "ts": 1791058106.0,
+  "vu": "2026-10-04"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "Cette technologie de batterie se passe du lithium et vise une recharge quasi instantanée",
+  "lien": "https://www.futura-sciences.com/tech/actualites/batterie-cette-technologie-batterie-passe-lithium-vise-recharge-quasi-instantanee-k2m6-138178/",
+  "auteur": "la rédaction, Futura",
+  "resume": "Une charge complète en quatre minutes, plus de 6 000 heures de fonctionnement sans court-circuit : une équipe chinoise annonce avoir levé le principal obstacle des batteries au sodium métallique. La solution tient à un électrolyte gélifié. Le résultat est réel, mais il reste […]",
+  "pub": "2026-10-03",
+  "ts": 1791043200.0,
+  "vu": "2026-10-04"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Carburants : ces communes testent la gratuité des transports pour encourager la transition énergétique",
+  "lien": "https://lenergeek.com/2026/10/03/carburants-valenciennois-transports/",
+  "auteur": "La Rédaction",
+  "resume": "Face à la flambée des carburants et à une dépendance automobile de 80%, le Valenciennois rend gratuits ses transports en commun du 1er octobre au 31 décembre 2026. Cette expérimentation vise à mesurer le potentiel de report modal et à réduire la consommation d'énergie fossile […]",
+  "pub": "2026-10-03",
+  "ts": 1791034980.0,
+  "vu": "2026-10-04"
  },
  {
   "source": "L'EnerGeek",
@@ -1448,145 +1488,5 @@
   "pub": "2026-09-24",
   "ts": 1790226600.0,
   "vu": "2026-09-24"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "AO neutre, tarifs, ACC… : les coulisses de l’université de l’autoconsommation d’Enerplan",
-  "lien": "https://www.greenunivers.com/2026/09/les-coulisses-de-luniversite-de-lautoconsommation-denerplan-433932/",
-  "auteur": "Paul Messad",
-  "resume": "« Nous sommes passés de la loi Aper à un freinage brutal et violent ». Trop, c’est trop. Devant 200 dirigeants, Daniel Bour a introduit ce matin la 9e université de l’autoconsommation d’Enerplan, le syndicat professionnel du solaire qu’il préside, par un discours au vitriol à […]",
-  "pub": "2026-09-23",
-  "ts": 1790179442.0,
-  "vu": "2026-09-24"
- },
- {
-  "source": "PV Tech",
-  "titre": "Nadara starts commercial operations at 227MW Italian agriPV project",
-  "lien": "https://www.pv-tech.org/nadara-starts-commercial-operations-227mw-italian-agripv-project/",
-  "auteur": "JP Casey",
-  "resume": "Nadara has started commercial operations at the Big Fish agrivoltaics (agriPV) project in Italy, the largest agriPV project in the country.",
-  "pub": "2026-09-23",
-  "ts": 1790176320.0,
-  "vu": "2026-09-24"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "EDF et Bruno Bensasson relaxés en appel pour le parc éolien d’Aumelas",
-  "lien": "https://www.greenunivers.com/2026/09/edf-et-bruno-bensasson-relaxes-en-appel-pour-le-parc-eolien-daumelas-433911/",
-  "auteur": "Paul Messad",
-  "resume": "« Relaxe totale ». La Cour d’appel de Montpellier a rejeté hier les accusations à l’encontre de dix sociétés, dont EDF Renouvelables (ex-EDF Power Solutions) et son dirigeant d’alors, Bruno Bensasson, d’avoir provoqué la mort de centaines de faucons crécerelles, espèce menacée […]",
-  "pub": "2026-09-23",
-  "ts": 1790174890.0,
-  "vu": "2026-09-24"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Le Cameroun développe deux centrales photovoltaïques de 244 MWc au total",
-  "lien": "https://www.pv-magazine.fr/2026/09/23/le-cameroun-developpe-deux-grandes-centrales-photovoltaiques-de-244-mwc-au-total/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Le Cameroun s'apprête à franchir une nouvelle étape dans sa transition énergétique avec l'examen de deux projets solaires d'envergure totalisant 244 MW. Portées par des acteurs internationaux et locaux, ces initiatives visent à renforcer les capacités électriques du pays, alors […]",
-  "pub": "2026-09-23",
-  "ts": 1790172000.0,
-  "vu": "2026-09-24"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Roi du milieu de gamme, le Xiaomi Redmi Note 17 est à prix cassé sur Amazon",
-  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-smartphones-roi-milieu-gamme-xiaomi-redmi-note-17-prix-casse-amazon-11360/",
-  "auteur": "Mallory Delicourt, Journaliste",
-  "resume": "Associant une dalle AMOLED de presque 7 pouces, une conséquente batterie de 7 700 mAh et une configuration équilibrée à 6 Go de RAM, le Xiaomi Redmi Note 17 est un vrai exemple de ce qu'offre un bon rapport qualité-prix. En ce moment, il est possible de l'acquérir pour moins de […]",
-  "pub": "2026-09-23",
-  "ts": 1790172000.0,
-  "vu": "2026-09-24"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Le Portugal reporte ses appels d’offres pour les projets renouvelables avec stockage",
-  "lien": "https://www.pv-magazine.fr/2026/09/23/le-portugal-reporte-ses-appels-doffres-pour-les-projets-renouvelables-avec-stockage/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Le Portugal prépare des appels d’offres destinés à attribuer 1 050 MVA de capacité d’injection sur le réseau à des projets de stockage d’énergie, dont 750 MVA pour des batteries autonomes et 300 MVA pour des installations renouvelables associées à des capacités de stockage. Ces […]",
-  "pub": "2026-09-23",
-  "ts": 1790168400.0,
-  "vu": "2026-09-24"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Foncier solaire saturé : Glint Solar déploie un outil d’IA pour identifier les sites à faible risque",
-  "lien": "https://www.pv-magazine.fr/2026/09/23/recherche-de-foncier-land-screening-ratisse-large/",
-  "auteur": "Francois Puthod",
-  "resume": "La plateforme norvégienne Glint Solar lance un nouvel outil de screening foncier national pour les développeurs de projets solaires et de stockage à grande échelle en France.",
-  "pub": "2026-09-23",
-  "ts": 1790164800.0,
-  "vu": "2026-09-24"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Thermasol Air Systems cible le séchage agricole avec ses panneaux solaires hybrides",
-  "lien": "https://www.greenunivers.com/2026/09/thermasol-air-systems-cible-le-sechage-agricole-avec-ses-panneaux-solaires-hybrides-433725/",
-  "auteur": "Jacopo Landi",
-  "resume": "*Mise à jour du 24/9 – La fiche CEE AGRI-EQ-110, citée dans l’article, a été supprimée par un arrêté paru au Journal officiel Quand les rayons du soleil arrivent sur un panneau photovoltaïque, seule une partie de l’énergie est transformée en électricité, le reste L’article […]",
-  "pub": "2026-09-23",
-  "ts": 1790157252.0,
-  "vu": "2026-09-23"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Nadara et Amazon inaugurent en Sicile la plus grande centrale agrivoltaïque d’Italie, d’une puissance de 227 MW",
-  "lien": "https://www.pv-magazine.fr/2026/09/23/nadara-et-amazon-inaugurent-en-sicile-la-plus-grande-centrale-agrivoltaique-ditalie-dune-puissance-de-227-mw/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "L'IPP britannique Nadara achève en Sicile Big Fish, une centrale agrivoltaïque de 227 MW présentée comme la plus grande d’Italie. Réalisé avec le soutien d’Amazon, le projet associe production solaire et maintien d’une activité agricole sur la moitié de ses 400 hectares.",
-  "pub": "2026-09-23",
-  "ts": 1790154000.0,
-  "vu": "2026-09-23"
- },
- {
-  "source": "Révolution Énergétique",
-  "titre": "La CRE a-t-elle édulcoré l’impact financier des énergies renouvelables sur le réseau électrique français ?",
-  "lien": "https://www.revolution-energetique.com/actus/la-cre-a-t-elle-edulcore-limpact-financier-des-energies-renouvelables-sur-le-reseau-electrique-francais/",
-  "auteur": "Kevin CHAMPEAU",
-  "resume": "La CRE a-t-elle revu sa copie concernant le coût des énergies renouvelables (ENR) pour le réseau électrique, sur demande du gouvernement ? C’est une question […] L’article La CRE a-t-elle édulcoré l’impact financier des énergies renouvelables sur le réseau électrique français ? […]",
-  "pub": "2026-09-23",
-  "ts": 1790152329.0,
-  "vu": "2026-09-23"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Avis de marchés publics dans le PV en France",
-  "lien": "https://www.pv-magazine.fr/2026/09/23/avis-de-marches-publics-dans-le-pv-en-france-139/",
-  "auteur": "Francois Puthod",
-  "resume": "Retrouvez chaque semaine dans pv magazine les appels d’offres publiés relatifs aux projets photovoltaïques en France.",
-  "pub": "2026-09-23",
-  "ts": 1790150400.0,
-  "vu": "2026-09-23"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Le solaire a représenté 41,6 % de l’électricité renouvelable générée dans l’Union européenne au T2 2026",
-  "lien": "https://www.pv-magazine.fr/2026/09/23/le-solaire-a-represente-416-de-lelectricite-renouvelable-generee-dans-lunion-europeenne-au-t2-2026/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Au deuxième trimestre de 2026, l'énergie solaire s'est imposée comme le premier contributeur aux énergies renouvelables dans l'Union européenne, atteignant 41,6 % du total. Portée par cette dynamique, la production renouvelable globale s'est maintenue à un niveau élevé, à 54,1 % […]",
-  "pub": "2026-09-23",
-  "ts": 1790145000.0,
-  "vu": "2026-09-23"
- },
- {
-  "source": "Enerzine",
-  "titre": "De minuscules plis plient la physique pour modifier la circulation de l’électricité dans le graphène",
-  "lien": "https://www.enerzine.com/de-minuscules-plis-plient-la-physique-pour-modifier-la-circulation-de-lelectricite-dans-le-graphene/195238-2026-09",
-  "auteur": "La rédaction",
-  "resume": "De minuscules plis pourraient révéler de nouveaux comportements dans le graphène, un matériau exceptionnellement résistant, conducteur et fin, utilisé dans les batteries, les puces informatiques et d’autres dispositifs électroniques. Selon une nouvelle étude publiée dans […]",
-  "pub": "2026-09-23",
-  "ts": 1790141400.0,
-  "vu": "2026-09-23"
- },
- {
-  "source": "Enerzine",
-  "titre": "Les cellules solaires tandem pérovskite/silicium atteignent 34 % de rendement avec une tension record de 2,014 V",
-  "lien": "https://www.enerzine.com/les-cellules-solaires-tandem-perovskite-silicium-atteignent-34-de-rendement-avec-une-tension-record-de-2014-v/195232-2026-09",
-  "auteur": "La rédaction",
-  "resume": "Des chercheurs de l’Université Soochow ont développé une cellule solaire tandem pérovskite/silicium atteignant un rendement de conversion d’énergie de 34,0 % en laboratoire. Un dispositif certifié de manière indépendante a affiché un rendement en régime permanent de 33,5 % et […]",
-  "pub": "2026-09-23",
-  "ts": 1790136600.0,
-  "vu": "2026-09-23"
  }
 ]
