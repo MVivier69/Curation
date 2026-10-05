@@ -1,5 +1,125 @@
 [
  {
+  "source": "Actu-Environnement",
+  "titre": "Budget 2027 : les acteurs de la transition énergétique montent au créneau",
+  "lien": "https://www.actu-environnement.com/ae/news/budget-2027-transition-energetique-alerte-48604.php4",
+  "auteur": "",
+  "resume": "« Il y a des économies de court terme qui coûteraient terriblement cher à la France et aux Français ». C'est l'avertissement qu'adressent les principaux syndicats des énergies renouvelables, des acteurs de la transition énergétique et des associat...",
+  "pub": "2026-10-05",
+  "ts": 1791209886.0,
+  "vu": "2026-10-05"
+ },
+ {
+  "source": "Batiactu",
+  "titre": "Canicules : les solutions des professionnels pour adapter les logements sous les toits",
+  "lien": "https://www.batiactu.com/edito/canicules-solutions-professionnels-adapter-logements-75526.php",
+  "auteur": "Batiactu",
+  "resume": "ADAPTATION. Isolation, protections solaires, ventilation naturelle… Un livre blanc vient d'être publié par le Syndicat des entreprises de génie climatique et couverture plomberie. Il regroupe les réflexions de nombreux acteurs du Bâtiment qui proposent des solutions pour […]",
+  "pub": "2026-10-05",
+  "ts": 1791209593.0,
+  "vu": "2026-10-05"
+ },
+ {
+  "source": "Enerplan",
+  "titre": "PLF 2027 : les mesures pour le solaire",
+  "lien": "https://www.enerplan.asso.fr/plf-2027-les-mesures-pour-le-solaire/",
+  "auteur": "Marlène CHALVIN",
+  "resume": "",
+  "pub": "2026-10-05",
+  "ts": 1791206760.0,
+  "vu": "2026-10-05"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "AliExpress : cette double remise limitée fait chuter le prix du realme 14 Pro+ 5G sous les 270 euros",
+  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-smartphones-aliexpress-cette-double-remise-limitee-fait-chuter-prix-realme-14-pro-5g-sous-270-euros-11459/",
+  "auteur": "Mallory Delicourt, Journaliste",
+  "resume": "Grâce à son écran OLED 120 Hz, son triple module photo et sa batterie de 6 000 mAh, le realme 14 Pro+ 5G est un smartphone attractif qui réunit plusieurs caractéristiques habituellement recherchées sur un modèle haut de gamme. Ce smartphone bénéficie actuellement d’une remise […]",
+  "pub": "2026-10-05",
+  "ts": 1791205200.0,
+  "vu": "2026-10-05"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Icare PV passe dans le giron de Gagnepark",
+  "lien": "https://www.pv-magazine.fr/2026/10/05/icare-pv-passe-dans-le-giron-de-gagnepark/",
+  "auteur": "Francois Puthod",
+  "resume": "Spécialiste des parkings aériens et des ombrières photovoltaïques, Gagnepark rachète Icare PV pour se renforcer dans le photovoltaïque",
+  "pub": "2026-10-05",
+  "ts": 1791201600.0,
+  "vu": "2026-10-05"
+ },
+ {
+  "source": "négaWatt",
+  "titre": "Assurer impérativement l'ambition, la cohérence, l'efficacité et les moyens d'une transition énergétique coconstruite !",
+  "lien": "https://negawatt.org/Assurer-ambition-coherence-efficacite-moyens-de-la-transition-energetique",
+  "auteur": "Stéphane LB",
+  "resume": "L'Association négaWatt se joint aux acteurs de la transition énergétique signataires d'une lettre ouverte adressée au Premier ministre, pour alerter sur les récents arbitrages... - Ressources / Pages avec colonne , Autres",
+  "pub": "2026-10-05",
+  "ts": 1791198056.0,
+  "vu": "2026-10-05"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "[En images] Des grandes cultures sous trackers solaires",
+  "lien": "https://www.pv-magazine.fr/2026/10/05/en-images-des-grandes-cultures-sous-trackers-solaires/",
+  "auteur": "Francois Puthod",
+  "resume": "La centrale agrivoltaïque de 34 MWc, inaugurée la semaine dernière par Akuo à Sombernon, est le premier projet France à associer, à cette échelle, des panneaux photovoltaïques sur trackers et des grandes cultures agricoles.",
+  "pub": "2026-10-05",
+  "ts": 1791190800.0,
+  "vu": "2026-10-05"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Une cellule tandem pérovskite-silicium sur silicium texturé atteint un rendement de 30,77 %",
+  "lien": "https://www.pv-magazine.fr/2026/10/05/une-cellule-tandem-perovskite-silicium-sur-silicium-texture-atteint-un-rendement-de-3077/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Des chercheurs chinois ont développé un traitement de « cicatrisation » destiné à améliorer la qualité des films de pérovskite déposés sur du silicium industriel texturé pour les cellules solaires tandem pérovskite-silicium. Cette approche a permis d’atteindre un rendement […]",
+  "pub": "2026-10-05",
+  "ts": 1791185400.0,
+  "vu": "2026-10-05"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Une start-up allemande obtient une subvention pour une batterie domestique sodium-ion rechargeable sur le réseau",
+  "lien": "https://www.pv-magazine.fr/2026/10/05/une-start-up-allemande-obtient-une-subvention-pour-une-batterie-domestique-sodium-ion-rechargeable-sur-le-reseau/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Revolta AG a obtenu un soutien du Fonds européen de développement régional (FEDER) pour développer une batterie sodium-ion « plug-and-play » que les ménages dépourvus de panneaux solaires pourront recharger sur le réseau lorsque obtenu un financement du Land allemand de Hesse […]",
+  "pub": "2026-10-05",
+  "ts": 1791181800.0,
+  "vu": "2026-10-05"
+ },
+ {
+  "source": "Transitions & Énergies",
+  "titre": "Pourquoi les crises énergétiques se succèdent en Europe et sont devenues ingérables",
+  "lien": "https://www.transitionsenergies.com/crises-energetiques-europe-devenues-ingerables/",
+  "auteur": "La rédaction",
+  "resume": "L’Europe semble incapable de tirer les leçons des crises énergétiques qui se succèdent. Avoir totalement négligé les questions de souveraineté et de sécurité d’approvisionnement, avoir imposé une transition vers les renouvelables intermittents (éolien et solaire) pour produire […]",
+  "pub": "2026-10-04",
+  "ts": 1791151812.0,
+  "vu": "2026-10-05"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "Le Soleil peut-il faire des super-éruptions destructrices ? On a peut-être enfin la réponse",
+  "lien": "https://www.futura-sciences.com/sciences/actualites/soleil-soleil-peut-il-faire-super-eruptions-destructrices-on-peut-etre-enfin-reponse-138176/",
+  "auteur": "Laurent Sacco, Journaliste scientifique",
+  "resume": "On sait que les étoiles de type solaire peuvent faire des explosions magnétiques massives, qui libèrent jusqu'à 10 000 fois plus d'énergie que les plus grandes éruptions jusqu'ici observées sur notre Soleil. Notre Soleil est-il une exception à cet égard ?",
+  "pub": "2026-10-04",
+  "ts": 1791136861.0,
+  "vu": "2026-10-05"
+ },
+ {
+  "source": "Révolution Énergétique",
+  "titre": "Solaire : cette plateforme interactive permet de déterminer l’emplacement parfait pour une centrale",
+  "lien": "https://www.revolution-energetique.com/actus/solaire-cette-plateforme-interactive-permet-de-determiner-lemplacement-parfait-pour-une-centrale/",
+  "auteur": "Kevin CHAMPEAU",
+  "resume": "Saturation des réseaux, règles d’urbanisme : l’installation d’une centrale photovoltaïque ne s’improvise pas et relève de plus en plus du casse-tête que de la simple […] L’article Solaire : cette plateforme interactive permet de déterminer l’emplacement parfait pour une centrale […]",
+  "pub": "2026-10-04",
+  "ts": 1791123396.0,
+  "vu": "2026-10-05"
+ },
+ {
   "source": "Batiactu",
   "titre": "Photovoltaïque : quand le solaire arrive au coeur de l’installation électrique",
   "lien": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=155620",
@@ -114,7 +234,7 @@
   "titre": "Solaire : la révision des contrats « S21 » aura du mal à passer au Parlement",
   "lien": "https://www.greenunivers.com/2026/10/solaire-la-revision-des-contrats-s21-aura-du-mal-a-passer-au-parlement-434920/",
   "auteur": "Paul Messad",
-  "resume": "C’est la toute première question adressée par le député Jean-Luc Fugit aux trois grands syndicats professionnels des filières renouvelables, en amont de leur audition sur le projet de loi de Finances de 2027 (PLF) mercredi prochain 7 octobre. Le rapporteur sur les crédits « […]",
+  "resume": "C’est la toute première question adressée par le député Jean-Luc Fugit aux trois grands syndicats professionnels des filières renouvelables en amont de leur audition qu’il mènera sur le projet de loi de Finances de 2027 (PLF) mercredi prochain 7 octobre. « quel regard […]",
   "pub": "2026-10-02",
   "ts": 1790956848.0,
   "vu": "2026-10-03"
@@ -458,6 +578,16 @@
   "pub": "2026-10-01",
   "ts": 1790836200.0,
   "vu": "2026-10-01"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "Votre publi-rédactionnel à la Une pendant une semaine",
+  "lien": "https://www.lechodusolaire.fr/votre-publi-redactionnel-a-la-une-pendant-une-semaine/",
+  "auteur": "Frédéric Fassot",
+  "resume": "L’Echo du Solaire vous ouvre ses colonnes. Dans cet espace dédié sur la page d’accueil, L’Echo du Solaire affiche le titre, un résumé et l’illustration de votre publi-rédactionnel pendant une semaine. Ces éléments s’affichent également dans notre newsletter hebdomadaire, la même […]",
+  "pub": "2026-09-30",
+  "ts": 1790808421.0,
+  "vu": "2026-10-05"
  },
  {
   "source": "Futura Sciences",
@@ -1348,145 +1478,5 @@
   "pub": "2026-09-25",
   "ts": 1790317800.0,
   "vu": "2026-09-25"
- },
- {
-  "source": "Batiactu",
-  "titre": "\"Si les bailleurs sociaux s'arrêtent, le bâtiment sera à l'arrêt\" : l'avertissement d'E. Cosse (USH)",
-  "lien": "https://www.batiactu.com/edito/cloture-congres-hlm-75446.php",
-  "auteur": "Batiactu",
-  "resume": "CONGRES HLM 2026. En clôture du 86e Congrès du mouvement HLM, sa présidente Emmanuelle Cosse a salué le travail du ministre Vincent Jeanbrun pour lancer dans le projet de loi Relance Logement le troisième programme de renouvellement urbain (Anru 3).",
-  "pub": "2026-09-24",
-  "ts": 1790267073.0,
-  "vu": "2026-09-25"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Présidentielle : le Ser insiste sur la demande d’électricité",
-  "lien": "https://www.greenunivers.com/2026/09/presidentielle-le-ser-insiste-sur-la-demande-delectricite-434053/",
-  "auteur": "Paul Messad",
-  "resume": "– Article actualisé le 24/09/2026. Travailler sur la demande et simplifier les processus. Le Syndicat des énergies renouvelables présentait ce jour ses 27 propositions pour la campagne présidentielle de 2027, à retrouver en fin d’article. Dans un contexte où les énergies […]",
-  "pub": "2026-09-24",
-  "ts": 1790265032.0,
-  "vu": "2026-09-25"
- },
- {
-  "source": "Révolution Énergétique",
-  "titre": "La guerre en Iran est-elle en train d’accélérer la transition énergétique ?",
-  "lien": "https://www.revolution-energetique.com/actus/la-guerre-en-iran-est-elle-en-train-daccelerer-la-transition-energetique/",
-  "auteur": "Kevin CHAMPEAU",
-  "resume": "Depuis le début de l’année, l’économie mondiale est chahutée par les annonces concernant de près ou de loin le détroit d’Ormuz, en particulier dans le […] L’article La guerre en Iran est-elle en train d’accélérer la transition énergétique ? est apparu en premier sur Révolution […]",
-  "pub": "2026-09-24",
-  "ts": 1790264426.0,
-  "vu": "2026-09-25"
- },
- {
-  "source": "pv magazine France",
-  "titre": "L’Espagne prévoit d’allouer 11 GW de capacité réseau aux énergies renouvelables et au stockage",
-  "lien": "https://www.pv-magazine.fr/2026/09/24/lespagne-prevoit-dallouer-11-gw-de-capacite-reseau-aux-energies-renouvelables-et-au-stockage/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "L’Espagne prévoit d’allouer jusqu’à 11 GW de capacité d’accès au réseau à des projets d’énergies renouvelables et de stockage, avec un appel d’offres dédié pour les sites de Guardo et Velilla, qui suscite l’intérêt des développeurs de stations de transfert d’énergie par pompage […]",
-  "pub": "2026-09-24",
-  "ts": 1790258400.0,
-  "vu": "2026-09-25"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Le Français Silversun entre au capital de Swissroc Energy et renforce son développement en Suisse",
-  "lien": "https://www.pv-magazine.fr/2026/09/24/le-francais-silversun-entre-au-capital-de-swissroc-energy-et-renforce-son-developpement-en-suisse/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Le groupe immobilier suisse Swissroc Group et l’IPP solaire français Silversun renforcent leur partenariat avec une prise de participation de Silversun au capital de Swissroc Energy. Cette alliance doit permettre aux deux acteurs de proposer en Suisse une offre intégrée de […]",
-  "pub": "2026-09-24",
-  "ts": 1790254800.0,
-  "vu": "2026-09-25"
- },
- {
-  "source": "pv magazine France",
-  "titre": "« Trop, c’est trop » : A l’UAPV 2026, le coup de colère de la filière solaire",
-  "lien": "https://www.pv-magazine.fr/2026/09/24/trop-cest-trop-a-luapv-2026-le-coup-de-colere-de-la-filiere-solaire/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Réunis à Paris pour l’Université de l’autoconsommation photovoltaïque, les acteurs du solaire français ont fait entendre leur frustration face au \"stop and go\" réglementaire et aux contraintes qui freinent le développement du marché. Alors que les besoins électriques repartent à […]",
-  "pub": "2026-09-24",
-  "ts": 1790251200.0,
-  "vu": "2026-09-25"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Projet Rivières : pour une gouvernance transfrontalière de trois cours d'eau",
-  "lien": "https://www.actu-environnement.com/ae/news/projet-interreg-rivieres-france-luxembourg-gouvernance-transfrontaliere-48558.php4",
-  "auteur": "",
-  "resume": "« Le projet Rivières porte une conviction simple : les défis environnementaux qui concernent notre territoire ne s'arrêtent pas aux frontières. Il est donc naturel que les réponses que nous leur apportons soient construites ensemble », a assuré Ca...",
-  "pub": "2026-09-24",
-  "ts": 1790247582.0,
-  "vu": "2026-09-24"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "L’Ademe veut se repencher sur une garantie pour la chaleur fatale",
-  "lien": "https://www.greenunivers.com/2026/09/lademe-veut-se-repencher-sur-une-garantie-pour-la-chaleur-fatale-433926/",
-  "auteur": "Thomas Blosseville",
-  "resume": "C’est une mesure défendue de longue date par la filière de la chaleur renouvelable, elle a encore été proposée ce mois-ci par la Fedene en vue de l’élection présidentielle. La création d’un fonds de garantie pour la chaleur fatale industrielle avait même un temps été discuté au […]",
-  "pub": "2026-09-24",
-  "ts": 1790246154.0,
-  "vu": "2026-09-24"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Émeraude Solaire, lauréat de l’AMI photovoltaïque des Chambres d’agriculture de Bretagne et des Pays de la Loire",
-  "lien": "https://www.pv-magazine.fr/2026/09/24/emeraude-solaire-laureat-de-lami-photovoltaique-des-chambres-dagriculture-de-bretagne-et-des-pays-de-la-loire/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Les Chambres d’agriculture de Bretagne et des Pays de la Loire ont retenu l’IPP Émeraude Solaire pour accompagner les agriculteurs des deux régions dans leurs projets photovoltaïques. L’offre de l’entreprise bretonne associe production solaire, autoconsommation, stockage et […]",
-  "pub": "2026-09-24",
-  "ts": 1790244000.0,
-  "vu": "2026-09-24"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Geely passe à la recharge en 4 minutes",
-  "lien": "https://lenergeek.com/2026/09/24/geely-passe-recharge-4-minutes-voiture/",
-  "auteur": "Cédric Bonnefoy",
-  "resume": "Le constructeur chinois Geely a dévoilé le 23 septembre 2026 une technologie de recharge ultra-rapide capable de restaurer 60 % de la capacité d'une batterie en 4 minutes 30 secondes. Avec une puissance de borne de 2,2 MW, 50 % supérieure aux 1,5 MW de BYD, Geely s'appuie sur […]",
-  "pub": "2026-09-24",
-  "ts": 1790242951.0,
-  "vu": "2026-09-24"
- },
- {
-  "source": "pv magazine France",
-  "titre": "[UAPV 2026] Batteries : le stockage devient un outil de raccordement et de flexibilité à l’échelle locale",
-  "lien": "https://www.pv-magazine.fr/2026/09/24/uapv-2026-batteries-le-stockage-devient-un-outil-de-raccordement-et-de-flexibilite-a-lechelle-locale/",
-  "auteur": "Marie Beyer",
-  "resume": "L’Université de l’autoconsommation photovoltaïque d'Enerplan a confirmé une bascule : le solaire local n’est plus seulement une affaire de production décentralisée. Il devient un enjeu territorial où se croisent des sujets relatifs au réseau de distribution, à l'électrification […]",
-  "pub": "2026-09-24",
-  "ts": 1790240400.0,
-  "vu": "2026-09-24"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Début de la construction d’une batterie de stockage de 600 MW et 2,4 GWh en Pologne",
-  "lien": "https://www.pv-magazine.fr/2026/09/24/debut-de-la-construction-dune-batterie-de-stockage-de-600-mw-et-24-gwh-en-pologne/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Greenvolt Group lance la construction en Pologne d’un système de stockage par batteries de 600 MW et 2,4 GWh. Installée à Siedlce, cette infrastructure comptera parmi les plus importantes d'Europe et doit contribuer à renforcer la flexibilité du réseau électrique face à la […]",
-  "pub": "2026-09-24",
-  "ts": 1790236800.0,
-  "vu": "2026-09-24"
- },
- {
-  "source": "Enerzine",
-  "titre": "Bilan positif pour l’usine de dalles en laine minérale laminée à Illange",
-  "lien": "https://www.enerzine.com/bilan-positif-pour-lusine-de-dalles-en-laine-minerale-laminee-a-illange/195282-2026-09",
-  "auteur": "La rédaction",
-  "resume": "Un an après l’inauguration de l’usine de dalles en laine minérale laminée à Illange, Knauf Ceiling Solutions annonce un premier bilan conforme aux objectifs, avec plus de 4 millions de m² produits et une nouvelle centrale solaire. Un an après l’inauguration de l’usine de dalles […]",
-  "pub": "2026-09-24",
-  "ts": 1790227800.0,
-  "vu": "2026-09-24"
- },
- {
-  "source": "Enerzine",
-  "titre": "Sicile : un carport solaire avec stockage pour un complexe hôtelier",
-  "lien": "https://www.enerzine.com/sicile-un-carport-solaire-avec-stockage-pour-un-complexe-hotelier/195277-2026-09",
-  "auteur": "La rédaction",
-  "resume": "Le Saracen Sands Hotel & Conference Centre, à Isola delle Femmine près de Palerme, a mis en place un carport solaire de 850 kW et un stockage par batteries pour couvrir jusqu’à 90 % de ses besoins électriques et réduire sa facture annuelle de 500 000 euros. Le Saracen Sands […]",
-  "pub": "2026-09-24",
-  "ts": 1790226600.0,
-  "vu": "2026-09-24"
  }
 ]
