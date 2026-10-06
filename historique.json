@@ -1,5 +1,295 @@
 [
  {
+  "source": "négaWatt",
+  "titre": "Les énergies renouvelables, entre décarbonation nationale et développement territorial",
+  "lien": "https://negawatt.org/Les-energies-renouvelables-entre-decarbonation-nationale-et-developpement",
+  "auteur": "Catherine",
+  "resume": "Dans le cadre de la Semaine régionale des énergies renouvelables en Bourgogne Franche Comté - Agenda",
+  "pub": "2026-11-17",
+  "ts": 1794914100.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "VoltR lève 22 millions d’euros pour industrialiser la seconde vie des batteries lithium en Europe",
+  "lien": "https://www.pv-magazine.fr/2026/10/06/voltr-leve-22-millions-deuros-pour-industrialiser-la-seconde-vie-des-batteries-lithium-en-europe/",
+  "auteur": "Francois Puthod",
+  "resume": "Le fabricant français de batteries au lithium re-manufacturées sécurise 22 millions d'euros pour accélérer son industrialisation à l’échelle européenne.",
+  "pub": "2026-10-06",
+  "ts": 1791291600.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Autoconsommation collective : le nombre d’opérations en forte hausse sur 12 mois",
+  "lien": "https://www.pv-magazine.fr/2026/10/06/autoconsommation-collective-le-modele-change-dechelle/",
+  "auteur": "Francois Puthod",
+  "resume": "Enedis vient de publier les dernières données sur l’autoconsommation collective. Le nombre de participants à ce types d’opérations a doublé en un an.",
+  "pub": "2026-10-06",
+  "ts": 1791289800.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Comment choisir un kit solaire pour faire de l’autoconsommation chez soi",
+  "lien": "https://www.enerzine.com/comment-choisir-un-kit-solaire-pour-faire-de-lautoconsommation-chez-soi/196411-2026-10",
+  "auteur": "La rédaction",
+  "resume": "Produire sa propre électricité à partir du soleil n’est plus réservé aux grandes installations en toiture. De plus en plus de foyers se tournent vers des solutions compactes et abordables pour réduire leur facture, sans forcément engager de gros travaux. Choisir un kit solaire […]",
+  "pub": "2026-10-06",
+  "ts": 1791289200.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Une cellule solaire pérovskite à base de bleu de Prusse atteint un rendement de 26,9 %",
+  "lien": "https://www.pv-magazine.fr/2026/10/06/une-cellule-solaire-perovskite-a-base-de-bleu-de-prusse-atteint-un-rendement-de-269/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Des chercheurs chinois ont utilisé des nanoparticules de bleu de Prusse pour améliorer le rendement et la stabilité des cellules solaires à pérovskite, atteignant des rendements allant jusqu’à 26,9 %. Cette approche a également permis de fabriquer des modules de grande surface […]",
+  "pub": "2026-10-06",
+  "ts": 1791288000.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "Actu-Environnement",
+  "titre": "Pesticides : le Conseil valide les allègements, la société civile se mobilise",
+  "lien": "https://www.actu-environnement.com/ae/news/omnibus-pesticides-conseil-europeen-deregulation-48607.php4",
+  "auteur": "",
+  "resume": "Alors que les États membres ont arrêté leur position sur le projet d'allègement des règles encadrant les pesticides, des associations de défense de l'environnement, de la santé, de malades et de riverains se mobilisent les 10 et 11 octobre pour al...",
+  "pub": "2026-10-06",
+  "ts": 1791286645.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Saft et Axpo signent deux contrats de stockage d’énergie par batterie (BESS) en France",
+  "lien": "https://www.enerzine.com/saft-et-axpo-signent-deux-contrats-de-stockage-denergie-par-batterie-bess-en-france/196403-2026-10",
+  "auteur": "La rédaction",
+  "resume": "Saft, filiale de TotalEnergies, et Axpo ont conclu deux accords pour des systèmes de stockage par batterie en Normandie et en Centre-Val de Loire. Livraisons prévues en 2027 afin d’apporter de la flexibilité au réseau français. Saft, filiale entièrement détenue par TotalEnergies […]",
+  "pub": "2026-10-06",
+  "ts": 1791281400.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "Energy-Storage.news",
+  "titre": "Zelestra and EDP expand solar-plus-storage PPA partnership with another 462MWh of batteries in Spain",
+  "lien": "https://www.energy-storage.news/zelestra-and-edp-expand-solar-plus-storage-ppa-partnership-with-another-462mwh-of-batteries-in-spain/",
+  "auteur": "Cameron Murray",
+  "resume": "IPP Zelestra and power firm and utility EDP have agreed two new hybrid PPAs in Spain, adding 181MWdc of solar and 462MWh BESS to their existing co-operation.",
+  "pub": "2026-10-06",
+  "ts": 1791278397.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "Budget 2027 : le gouvernement veut résilier les contrats solaires de 2006 à 2010 et étendre l’arrêt en prix négatifs dès 100 kW",
+  "lien": "https://www.lechodusolaire.fr/budget-2027-le-gouvernement-veut-resilier-les-contrats-solaires-de-2006-a-2010-et-etendre-larret-en-prix-negatifs-des-100-kw/",
+  "auteur": "F. Fassot",
+  "resume": "Le projet de loi de finances pour 2027, déposé le 1er octobre à l’Assemblée nationale, réécrit en un seul article une large part du soutien public au photovoltaïque. Dans le document du PLF 2027, les contrats d’achat de 2006 à 2010 de plus de 250 kWc seraient résiliés, les […]",
+  "pub": "2026-10-06",
+  "ts": 1791277039.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "Le SER dénonce « une absence totale de soutien public » au solaire pour 2027",
+  "lien": "https://www.lechodusolaire.fr/le-ser-denonce-une-absence-totale-de-soutien-public-au-solaire-pour-2027/",
+  "auteur": "F. Fassot",
+  "resume": "Le 27e colloque annuel du Syndicat des énergies renouvelables (SER) s’est tenu le 29 septembre à la Cité des sciences, à Paris, deux jours avant la présentation du projet de loi de finances pour 2027. Son président, Jules Nyssen, y a dénoncé l’appel d’offres neutre prévu pour […]",
+  "pub": "2026-10-06",
+  "ts": 1791276999.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "France renouvelables veut porter le stockage par batteries à 15 GW en 2035",
+  "lien": "https://www.lechodusolaire.fr/france-renouvelables-veut-porter-le-stockage-par-batteries-a-15-gw-en-2035/",
+  "auteur": "F. Fassot",
+  "resume": "À l’occasion de l’édition 2026 de son Observatoire du système électrique renouvelable, publiée le 1er octobre, France renouvelables propose un « Plan France Stockage » visant 8 à 10 GW de batteries en 2030 et au moins 15 GW en 2035, contre environ 1,5 GW aujourd’hui […]",
+  "pub": "2026-10-06",
+  "ts": 1791276981.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "Le nombre de participants à l’autoconsommation collective a doublé en un an",
+  "lien": "https://www.lechodusolaire.fr/le-nombre-de-participants-a-lautoconsommation-collective-a-double-en-un-an/",
+  "auteur": "F. Fassot",
+  "resume": "Selon les dernières données publiées par Enedis, que relaie Enogrid, l’autoconsommation collective comptait 29 757 participants en septembre 2026, contre 14 521 un an plus tôt, soit une hausse de 105%. Le nombre d’opérations actives est passé de 1343 à 2620, et leur puissance de […]",
+  "pub": "2026-10-06",
+  "ts": 1791276922.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "TagEnergy et la Banque des Territoires inaugurent à Cernay-lès-Reims la plus grande batterie de France",
+  "lien": "https://www.lechodusolaire.fr/tagenergy-et-la-banque-des-territoires-inaugurent-a-cernay-les-reims-la-plus-grande-batterie-de-france/",
+  "auteur": "F. Fassot",
+  "resume": "TagEnergy et la Banque des Territoires ont inauguré le 1er octobre leur système de stockage par batteries de Cernay-lès-Reims, dans la Marne. D’une puissance de 240 MW pour une capacité de 480 MWh, il a réinjecté 70,5 GWh sur le réseau en quatre mois d’exploitation commerciale […]",
+  "pub": "2026-10-06",
+  "ts": 1791276904.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "En Allemagne, les renouvelables ont couvert 61% de la consommation d’électricité sur neuf mois, quatre points de plus qu’en 2025",
+  "lien": "https://www.lechodusolaire.fr/en-allemagne-les-renouvelables-ont-couvert-61-de-la-consommation-delectricite-sur-neuf-mois-quatre-points-de-plus-quen-2025/",
+  "auteur": "F. Fassot",
+  "resume": "Les énergies renouvelables ont couvert 60,7% de la consommation brute d’électricité de l’Allemagne sur les trois premiers trimestres 2026, contre 56,7% un an plus tôt, selon les calculs provisoires du centre de recherche ZSW et de la fédération BDEW. C’est un record, et le […]",
+  "pub": "2026-10-06",
+  "ts": 1791276563.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "Gagnepark rachète l’installateur photovoltaïque ardéchois Icare PV",
+  "lien": "https://www.lechodusolaire.fr/gagnepark-rachete-linstallateur-photovoltaique-ardechois-icare-pv/",
+  "auteur": "F. Fassot",
+  "resume": "Le Lyonnais Gagnepark, qui conçoit des parkings en silo et des ombrières photovoltaïques, rachète Icare PV, installateur photovoltaïque implanté à Félines, en Ardèche. Le groupe veut renforcer son expertise dans le solaire et s’ouvrir aux marchés des particuliers. Fondé en 2008 […]",
+  "pub": "2026-10-06",
+  "ts": 1791276545.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "JP Energie Environnement a acquis 202 MW de projets solaires et éoliens depuis janvier",
+  "lien": "https://www.lechodusolaire.fr/__trashed/",
+  "auteur": "F. Fassot",
+  "resume": "Le producteur indépendant caennais JP Energie Environnement (JPee) a réalisé depuis le début de l’année cinq transactions portant sur quatorze projets en France, pour un total de 202 MW, dont 175 MW de solaire. Les quatorze parcs doivent être mis en service d’ici 2029 et […]",
+  "pub": "2026-10-06",
+  "ts": 1791276534.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "Ciel & Terre installe les 28 MWc flottants de la centrale de Matignicourt",
+  "lien": "https://www.lechodusolaire.fr/ciel-terre-installe-les-28-mwc-flottants-de-la-centrale-de-matignicourt/",
+  "auteur": "F. Fassot",
+  "resume": "Le chantier de la centrale solaire de Matignicourt, dans la Marne, a démarré. Développé par Neoen, le projet totalise 35 MWc, dont 28 MWc de panneaux flottants installés sur un ancien lac de carrière. Le spécialiste lillois du solaire flottant Ciel & Terre conçoit et installe la […]",
+  "pub": "2026-10-06",
+  "ts": 1791276508.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "La Corée du Sud mise sur les batteries sodium-ion pour reconquérir le marché mondial",
+  "lien": "https://www.pv-magazine.fr/2026/10/06/la-coree-du-sud-mise-sur-les-batteries-sodium-ion-pour-reconquerir-le-marche-mondial/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Le gouvernement sud-coréen s’est fixé un objectif de commercialisation des batteries sodium-ion à l’horizon 2030, avec notamment le stockage d’énergie parmi les marchés ciblés.",
+  "pub": "2026-10-06",
+  "ts": 1791273600.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Les contacts argent-nickel réduisent de 11 % le coût de métallisation arrière des cellules TOPCon",
+  "lien": "https://www.pv-magazine.fr/2026/10/06/les-contacts-argent-nickel-reduisent-de-11-le-cout-de-metallisation-arriere-des-cellules-topcon/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Des chercheurs chinois ont développé une pâte argent-nickel destinée à la sérigraphie qui permet de réduire d’environ 11 % le coût de la métallisation arrière des cellules solaires TOPCon. La formulation optimisée a atteint un rendement moyen de 26,67 % lors d’un essai de […]",
+  "pub": "2026-10-06",
+  "ts": 1791271800.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Le PLF2027 reste ouvert aux appels d’offres solaire et éolien",
+  "lien": "https://www.greenunivers.com/2026/10/le-plf2027-reste-ouvert-aux-appels-doffres-solaire-et-eolien-435020/",
+  "auteur": "Thomas Blosseville",
+  "resume": "Ce sont des chiffres glissés en annexe du projet de loi de Finances pour 2027 (PLF2027) dont l’examen débute cette semaine à l’Assemblée nationale. Ils projettent les volumes solaires et éoliens envisagés pour L’article Le PLF2027 reste ouvert aux appels d’offres solaire et […]",
+  "pub": "2026-10-06",
+  "ts": 1791269692.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Le groupe immobilier BGRE confie à Sunrock l’étude d’un portefeuille solaire de 135 MWc",
+  "lien": "https://www.pv-magazine.fr/2026/10/06/le-groupe-immobilier-bgre-confie-a-sunrock-letude-dun-portefeuille-solaire-de-135-mwc/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Le groupe néerlandais Sunrock et l’investisseur immobilier BGRE ont conclu un accord-cadre de trois ans portant sur plus de 30 sites en Allemagne, en France et aux Pays-Bas. Environ 135 MWc de capacité photovoltaïque pourraient être développés, avec d’autres solutions […]",
+  "pub": "2026-10-06",
+  "ts": 1791268200.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Un chercheur va caractériser les propriétés des particules dans les réacteurs de stockage d’énergie thermochimique",
+  "lien": "https://www.enerzine.com/un-chercheur-va-caracteriser-les-proprietes-des-particules-dans-les-reacteurs-de-stockage-denergie-thermochimique/196211-2026-10",
+  "auteur": "La rédaction",
+  "resume": "Les industries qui ont besoin d’une solution de stockage d’énergie à faible coût et à grande échelle pourraient se tourner vers le stockage d’énergie thermochimique (TCES), une technologie qui conserve l’énergie grâce à des réactions chimiques réversibles. Le TCES peut stocker […]",
+  "pub": "2026-10-06",
+  "ts": 1791264600.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Des supercondensateurs à base de ciment pourraient alimenter les bâtiments « intelligents » de nouvelle génération",
+  "lien": "https://www.enerzine.com/des-supercondensateurs-a-base-de-ciment-pourraient-alimenter-les-batiments-intelligents-de-nouvelle-generation/196200-2026-10",
+  "auteur": "La rédaction",
+  "resume": "Et si l’énergie alimentant votre maison ou votre bureau pouvait être générée, stockée et utilisée au même endroit ? C’est l’espoir suscité par la prochaine génération de bâtiments, alimentés par des sources renouvelables qui stockent l’énergie à proximité — voire dans le béton […]",
+  "pub": "2026-10-06",
+  "ts": 1791259800.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Voitures électriques : +45% d’immatriculations en Europe en 2026",
+  "lien": "https://lenergeek.com/2026/10/06/voitures-electriques-45-immatriculations-europe-2026/",
+  "auteur": "La Rédaction",
+  "resume": "Les prix ont commencé à baisser grâce aux économies d'échelle et à la diminution du coût des batteries, rendant ces véhicules plus accessibles en Europe. L’article Voitures électriques : +45% d’immatriculations en Europe en 2026 est apparu en premier sur L'EnerGeek .",
+  "pub": "2026-10-06",
+  "ts": 1791258912.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Le brocoli pousse bien sous des panneaux solaires magenta",
+  "lien": "https://www.enerzine.com/le-brocoli-pousse-bien-sous-des-panneaux-solaires-magenta/196196-2026-10",
+  "auteur": "La rédaction",
+  "resume": "Planter du brocoli sous des panneaux solaires magenta a permis aux plantes d’absorber la lumière du soleil plus efficacement que celles cultivées en plein air, révèle une étude publiée le 2 octobre dans la revue Cell Reports Physical Science de Cell Press. Les scientifiques ont […]",
+  "pub": "2026-10-06",
+  "ts": 1791256200.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "Un nouveau scénario révèle que la Terre et Mars auraient suivi deux chemins très différents dès les débuts du Système solaire",
+  "lien": "https://www.futura-sciences.com/sciences/actualites/astronomie-nouveau-scenario-revele-terre-mars-auraient-suivi-deux-chemins-tres-differents-debuts-systeme-solaire-138220/",
+  "auteur": "Laurent Sacco, Journaliste scientifique",
+  "resume": "Une équipe de planétologues, menée par des chercheurs de l'Université de Copenhague, au Danemark, pense qu'il faut revoir les scénarios de la formation de la Terre et de Mars, il y a 4,56 milliards d'années. Ils ont pour cela reconstitué les premières étapes de la formation des […]",
+  "pub": "2026-10-05",
+  "ts": 1791223634.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "Actu-Environnement",
+  "titre": "Décarbonation des bâtiments : la filière gaz renouvelables revendique son rôle",
+  "lien": "https://www.actu-environnement.com/ae/news/gaz-renouvelables-mix-energetique-batiments-electrification-batimat-fiecc-france-gaz-48603.php4",
+  "auteur": "",
+  "resume": "Face à l'électrification massive des usages portée par l'Union européenne et la France, la filière des gaz renouvelables défend sa complémentarité dans le mix énergétique pour atteindre la neutralité carbone en 2050.",
+  "pub": "2026-10-05",
+  "ts": 1791214677.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Le conflit se durcit entre le RN, France renouvelables et le Ser",
+  "lien": "https://www.greenunivers.com/2026/10/le-conflit-se-durcit-entre-france-renouvelables-le-ser-et-le-rn-435027/",
+  "auteur": "Paul Messad",
+  "resume": "France renouvelables a annulé la participation du RN à son congrès de jeudi prochain 8 octobre, révèle Politico. La décision a été prise en conseil d’administration jeudi dernier 1er octobre, selon nos informations. Le syndicat pointe les « L’article Le conflit se durcit entre […]",
+  "pub": "2026-10-05",
+  "ts": 1791212852.0,
+  "vu": "2026-10-06"
+ },
+ {
+  "source": "Enerplan",
+  "titre": "Loi d’urgence agricole : mesures pour le solaire",
+  "lien": "https://www.enerplan.asso.fr/loi-durgence-agricole-mesures-pour-le-solaire/",
+  "auteur": "Marlène CHALVIN",
+  "resume": "",
+  "pub": "2026-10-05",
+  "ts": 1791210531.0,
+  "vu": "2026-10-06"
+ },
+ {
   "source": "Actu-Environnement",
   "titre": "Budget 2027 : les acteurs de la transition énergétique montent au créneau",
   "lien": "https://www.actu-environnement.com/ae/news/budget-2027-transition-energetique-alerte-48604.php4",
@@ -16,8 +306,18 @@
   "auteur": "Batiactu",
   "resume": "ADAPTATION. Isolation, protections solaires, ventilation naturelle… Un livre blanc vient d'être publié par le Syndicat des entreprises de génie climatique et couverture plomberie. Il regroupe les réflexions de nombreux acteurs du Bâtiment qui proposent des solutions pour […]",
   "pub": "2026-10-05",
-  "ts": 1791209593.0,
+  "ts": 1791209579.0,
   "vu": "2026-10-05"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "En procédure d’insolvabilité, l’Allemand Enerparc attire plus de 100 investisseurs potentiels",
+  "lien": "https://www.pv-magazine.fr/2026/10/05/en-procedure-dinsolvabilite-lallemand-enerparc-attire-plus-de-100-investisseurs-potentiels/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Plus de 100 investisseurs ont manifesté leur intérêt pour le développeur solaire allemand Enerparc, actuellement en procédure d’insolvabilité. Des premières offres ont déjà été soumises et une première transaction est visée pour décembre. La cession pourrait inclure des […]",
+  "pub": "2026-10-05",
+  "ts": 1791208800.0,
+  "vu": "2026-10-06"
  },
  {
   "source": "Enerplan",
@@ -30,6 +330,16 @@
   "vu": "2026-10-05"
  },
  {
+  "source": "L'EnerGeek",
+  "titre": "Stellantis brevète un système pour larguer la batterie en feu d’un véhicule électrique",
+  "lien": "https://lenergeek.com/2026/10/05/stellantis-brevete-systeme-batterie-feu/",
+  "auteur": "Cédric Bonnefoy",
+  "resume": "Stellantis a breveté un système permettant d'éjecter la batterie haute tension d'un véhicule électrique en cas d'emballement thermique. Le dispositif, validé par l'USPTO en juin 2026, propose une déconnexion en deux phases : largage de la batterie de plusieurs centaines de […]",
+  "pub": "2026-10-05",
+  "ts": 1791205914.0,
+  "vu": "2026-10-06"
+ },
+ {
   "source": "Futura Sciences",
   "titre": "AliExpress : cette double remise limitée fait chuter le prix du realme 14 Pro+ 5G sous les 270 euros",
   "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-smartphones-aliexpress-cette-double-remise-limitee-fait-chuter-prix-realme-14-pro-5g-sous-270-euros-11459/",
@@ -38,6 +348,16 @@
   "pub": "2026-10-05",
   "ts": 1791205200.0,
   "vu": "2026-10-05"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Le Brésil dispose de 56 GW de capacité de raccordement disponible pour les enchères de batteries",
+  "lien": "https://www.pv-magazine.fr/2026/10/05/le-bresil-dispose-de-56-gw-de-capacite-de-raccordement-disponible-pour-les-encheres-de-batteries/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Le Brésil dispose de plus de 56 GW de capacité de raccordement encore disponible pour les projets de stockage par batteries participant aux enchères de réserve de capacité de décembre, selon une analyse des données du réseau de transport. Cette capacité disponible est jusqu’à […]",
+  "pub": "2026-10-05",
+  "ts": 1791205200.0,
+  "vu": "2026-10-06"
  },
  {
   "source": "pv magazine France",
@@ -1348,135 +1668,5 @@
   "pub": "2026-09-26",
   "ts": 1790404664.0,
   "vu": "2026-09-26"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Quel est le meilleur ordinateur portable pour un étudiant en 2026 ?",
-  "lien": "https://www.futura-sciences.com/conso/guides-achat/guides-pc-tablettes-meilleur-ordinateur-portable-etudiant-2026-1612/",
-  "auteur": "la rédaction, Futura",
-  "resume": "Un ordinateur portable étudiant doit suivre le rythme des cours sans alourdir le sac ni réclamer une prise à chaque pause. Autonomie, poids, mémoire, stockage et compatibilité logicielle font toute la différence pour choisir un modèle adapté à son cursus et capable de tenir […]",
-  "pub": "2026-09-25",
-  "ts": 1790353812.0,
-  "vu": "2026-09-26"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Souscription record et prix bas attendus aux derniers appels d’offres solaires",
-  "lien": "https://www.greenunivers.com/2026/09/souscription-record-et-prix-bas-attendus-aux-derniers-appels-doffres-solaires-434169/",
-  "auteur": "Paul Messad",
-  "resume": "C’est la cohue en temps de disette. Les résultats de la 9e session de l’appel d’offres photovoltaïques « sol » (PPE2 PV Sol) sont attendus pour le tout début octobre. Plusieurs sources rapportent que le niveau de souscription pourrait atteindre un record, entre L’article […]",
-  "pub": "2026-09-25",
-  "ts": 1790351066.0,
-  "vu": "2026-09-26"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "L’agenda de la transition énergétique",
-  "lien": "https://www.greenunivers.com/2026/09/lagenda-de-la-transition-energetique-281-431464/",
-  "auteur": "GreenUnivers",
-  "resume": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique […]",
-  "pub": "2026-09-25",
-  "ts": 1790350256.0,
-  "vu": "2026-09-04"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Éoliennes du Causse d'Aumelas&#8239;: les mis en cause sont relaxés",
-  "lien": "https://www.actu-environnement.com/ae/news/eoliennes-causse-aumelas-relaxe-especes-protegees-48572.php4",
-  "auteur": "",
-  "resume": "Par une décision du 22 septembre 2026, la cour d'appel de Montpellier a infirmé le jugement du tribunal correctionnel de Montpellier du 7 avril 2025 qui avait condamné EDF Renouvelables, son ancien PDG, et neuf de ses filiales, pour destruction ...",
-  "pub": "2026-09-25",
-  "ts": 1790347789.0,
-  "vu": "2026-09-26"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Les documents de la semaine",
-  "lien": "https://www.greenunivers.com/2026/09/les-documents-de-la-semaine-381215/",
-  "auteur": "GreenUnivers",
-  "resume": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de […]",
-  "pub": "2026-09-25",
-  "ts": 1790344237.0,
-  "vu": "2026-09-04"
- },
- {
-  "source": "Batiactu",
-  "titre": "La filière des énergies renouvelables en faveur de la mise en place d'un \"bouclier énergétique\"",
-  "lien": "https://www.batiactu.com/edito/filiere-energies-renouvelables-faveur-mise-place-un-75454.php",
-  "auteur": "Batiactu",
-  "resume": "PRÉSIDENTIELLE 2027. Le syndicat de la filière des énergies renouvelables (SER) présente 27 propositions, parmi lesquelles la mise en place d'un \"bouclier énergétique universel\".",
-  "pub": "2026-09-25",
-  "ts": 1790342388.0,
-  "vu": "2026-09-26"
- },
- {
-  "source": "pv magazine",
-  "titre": "EWS reports 14% higher winter wheat yield at Austrian agrivoltaic site",
-  "lien": "https://www.pv-magazine.com/2026/09/25/ews-reports-14-higher-winter-wheat-yield-at-austrian-agrivoltaic-site/",
-  "auteur": "Emiliano Bellini",
-  "resume": "Austrian agrivoltaics provider EWS has reported a 14% increase in winter wheat yield at its Sonnenfeld research site in Bruck an der Leitha compared with a control area without PV modules. The company attributes the result partly to shading and changes in the microclimate […]",
-  "pub": "2026-09-25",
-  "ts": 1790340015.0,
-  "vu": "2026-09-26"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Longi établit un record mondial à 28,29 % pour une cellule solaire au silicium à jonction unique",
-  "lien": "https://www.pv-magazine.fr/2026/09/25/longi-etablit-un-record-mondial-a-2829-pour-une-cellule-solaire-au-silicium-a-jonction-unique/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Le résultat a été confirmé par l’Institut de recherche sur l’énergie solaire de Hamelin (ISFH), en Allemagne.",
-  "pub": "2026-09-25",
-  "ts": 1790337600.0,
-  "vu": "2026-09-26"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Une nouvelle centrale d’ombrières photovoltaïques à Meyreuil",
-  "lien": "https://www.pv-magazine.fr/2026/09/25/une-nouvelle-centrale-dombrieres-photovoltaiques-a-meyreuil/",
-  "auteur": "Francois Puthod",
-  "resume": "Le développeur Solarhona et la commune de Meyreuil (13) ont inauguré, mardi dernier, une nouvelle centrale d’ombrières photovoltaïques, d’une puissance de 376 kW, sur le parking du stade municipal.",
-  "pub": "2026-09-25",
-  "ts": 1790330400.0,
-  "vu": "2026-09-25"
- },
- {
-  "source": "pv magazine France",
-  "titre": "En Allemagne, des modules photovoltaïques de seconde vie transformés en installations solaires pour balcons",
-  "lien": "https://www.pv-magazine.fr/2026/09/25/en-allemagne-des-modules-photovoltaiques-de-seconde-vie-transformes-en-installations-solaires-pour-balcons/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Un projet de réemploi mené à Kassel, en Allemagne, a permis de réutiliser 300 modules photovoltaïques usagés pour créer 150 installations solaires destinées aux balcons, avec une tarification à plusieurs niveaux visant à améliorer leur accessibilité. Âgés de 13 ans, les panneaux […]",
-  "pub": "2026-09-25",
-  "ts": 1790326800.0,
-  "vu": "2026-09-25"
- },
- {
-  "source": "pv magazine France",
-  "titre": "À Lyon, le photovoltaïque rentre dans le troisième âge avec optimisme",
-  "lien": "https://www.pv-magazine.fr/2026/09/25/a-lyon-le-photovoltaique-rentre-dans-le-troisieme-age-avec-optimisme/",
-  "auteur": "Francois Puthod",
-  "resume": "Événement organisé par POwR Connect, le 22 septembre à Lyon, Heroes day a positivement mis en lumière la nécessité pour les acteurs du solaire de changer de paradigme.",
-  "pub": "2026-09-25",
-  "ts": 1790323200.0,
-  "vu": "2026-09-25"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Websol sécurise un terrain pour une usine de cellules et modules solaires de 4 GW en Inde",
-  "lien": "https://www.pv-magazine.fr/2026/09/25/websol-securise-un-terrain-pour-une-usine-de-cellules-et-modules-solaires-de-4-gw-en-inde/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Websol Energy System a obtenu 21,9 hectares de terrain au Bengale-Occidental pour construire une nouvelle usine de fabrication solaire. Le site disposera d’une capacité de production annuelle de 4 GW de cellules photovoltaïques et de 4 GW de modules, avec un développement prévu […]",
-  "pub": "2026-09-25",
-  "ts": 1790321400.0,
-  "vu": "2026-09-25"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Neoen lance la construction de trois nouveaux parcs solaires en France",
-  "lien": "https://www.pv-magazine.fr/2026/09/25/neoen-lance-la-construction-de-trois-nouveaux-parcs-solaires-en-france/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Neoen lance la construction de trois nouveaux parcs solaires en France, représentant une puissance cumulée de 87 MWc. Parmi eux, la centrale solaire BA 217, développée sur une ancienne base militaire dans l’Essonne, deviendra à sa mise en service la plus grande installation […]",
-  "pub": "2026-09-25",
-  "ts": 1790317800.0,
-  "vu": "2026-09-25"
  }
 ]
