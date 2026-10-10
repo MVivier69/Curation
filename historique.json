@@ -10,6 +10,36 @@
   "vu": "2026-10-06"
  },
  {
+  "source": "pv magazine",
+  "titre": "Sunbooster secures European patent for bifacial photovoltaic fences",
+  "lien": "https://www.pv-magazine.com/2026/10/10/sunbooster-secures-european-patent-for-bifacial-photovoltaic-fences/",
+  "auteur": "Emiliano Bellini",
+  "resume": "Austrian company Sunbooster has secured a European patent for its bifacial solar fence technology, now protected in 18 EU member states. The company is expanding into France, where it has completed its first 3.7 kW installation using vertically mounted PV strips with a reported […]",
+  "pub": "2026-10-10",
+  "ts": 1791621000.0,
+  "vu": "2026-10-10"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Pourquoi les développeurs se ruent sur les derniers appels d’offres solaires",
+  "lien": "https://www.greenunivers.com/2026/10/solaire-les-developpeurs-se-ruent-sur-les-derniers-appels-doffres-435643/",
+  "auteur": "Paul Messad",
+  "resume": "Les résultats de deux sessions majeures d’appels d’offres pour les centrales solaires au sol et en toitures ont été publiés aujourd’hui. Ils sont exceptionnels par la participation des compétiteurs, par les prix qu’ils ont proposés et… par les dommages collatéraux qui se […]",
+  "pub": "2026-10-09",
+  "ts": 1791563629.0,
+  "vu": "2026-10-10"
+ },
+ {
+  "source": "Actu-Environnement",
+  "titre": "La cour administrative d'appel de Versailles valide un projet de parc éolien dans le Loiret",
+  "lien": "https://www.actu-environnement.com/ae/news/cour-appel-versailles-parc-eolien-loiret-48641.php4",
+  "auteur": "",
+  "resume": "Par une décision du 24 septembre 2026, la cour administrative d'appel de Versailles a rejeté la requête de l'association Vents rageurs du Gâtinais qui lui demandait l'annulation de l'arrêté du préfet du Loiret en date du 2 novembre 2023 autorisa...",
+  "pub": "2026-10-09",
+  "ts": 1791553990.0,
+  "vu": "2026-10-10"
+ },
+ {
   "source": "pv magazine France",
   "titre": "À Maurice, GreenYellow met deux centrales solaires en service pour Innodis",
   "lien": "https://www.pv-magazine.fr/2026/10/09/a-maurice-greenyellow-met-deux-centrales-solaires-en-service-pour-innodis/",
@@ -61,10 +91,10 @@
  },
  {
   "source": "GreenUnivers",
-  "titre": "Petites toitures solaires : une participation record, un prix faible à l’appel d’offres",
+  "titre": "Appel d’offres solaire 100-500 kW : Irisolaris en tête, participation record, prix faible",
   "lien": "https://www.greenunivers.com/2026/10/petites-toitures-solaires-une-participation-record-un-prix-faible-a-lappel-doffres-435518/",
   "auteur": "GreenUnivers",
-  "resume": "La liste complète des projets lauréats de la deuxième session de l’appel d’offres dit « simplifié » pour le soutien public aux toitures photovoltaïques de 100 à 500 kW de puissance a été rendue publique aujourd’hui par la Direction générale de l’énergie et du climat. Elle est […]",
+  "resume": "Article complété en cours de journée le 09/10/2026 – La liste complète des projets lauréats de la deuxième session de l’appel d’offres dit « simplifié » pour le soutien public aux toitures photovoltaïques de 100 à 500 kW de puissance a été rendue publique aujourd’hui par la […]",
   "pub": "2026-10-09",
   "ts": 1791538775.0,
   "vu": "2026-10-09"
@@ -74,7 +104,7 @@
   "titre": "Appel d’offres solaire : des résultats historiques pour la 9e session « centrales au sol »",
   "lien": "https://www.greenunivers.com/2026/10/appel-doffres-solaire-des-resultats-historiques-pour-la-9e-session-centrales-au-sol-435505/",
   "auteur": "GreenUnivers",
-  "resume": "Quelque 731 dossiers ont été déposés pour un total de… 5,3 GWc (et non pas 8,3 GWc comme annoncé dans le premier document des autorités) soit presque 5 fois la puissance appelée. Du jamais vu et de très loin. Pas moins de 2,8 GW se situaient sur des terrains agricoles. In fine […]",
+  "resume": "Article complété en cours de journée le 09/10/2026 – Quelque 731 dossiers ont été déposés pour un total de… 5,3 GWc (et non pas 8,3 GWc comme annoncé dans le premier document des autorités) soit presque 6 fois la puissance appelée. Du jamais vu et de très loin. Pas moins de 2,8 […]",
   "pub": "2026-10-09",
   "ts": 1791537417.0,
   "vu": "2026-10-09"
@@ -1667,356 +1697,6 @@
   "resume": "Regardless of the sharp U-turn in federal energy policy, General Motors is on track to manufacture EV batteries based on an LMR formula that delivers improved performance at a lower cost.",
   "pub": "2026-09-30",
   "ts": 1790739584.0,
-  "vu": "2026-09-30"
- },
- {
-  "source": "Transitions & Énergies",
-  "titre": "Renouvelables intermittents: le système électrique espagnol au bord du gouffre",
-  "lien": "https://www.transitionsenergies.com/renouvelables-intermittents-systeme-electrique-espagnole-bord-gouffre/",
-  "auteur": "La rédaction",
-  "resume": "La politique énergétique espagnole, qui privilégie à outrance les renouvelables intermittents (éolien et solaire photovoltaïque), met le pays dans une situation de plus en plus intenable. Elle fragilise et déstabilise le système électrique qui a connu en avril 2025 un […]",
-  "pub": "2026-09-29",
-  "ts": 1790724749.0,
-  "vu": "2026-09-30"
- },
- {
-  "source": "Enerzine",
-  "titre": "Un nouveau nano-revêtement polymère inspiré du cartilage pour prolonger considérablement la durée de vie des batteries",
-  "lien": "https://www.enerzine.com/un-nouveau-nano-revetement-polymere-inspire-du-cartilage-pour-prolonger-considerablement-la-duree-de-vie-des-batteries/195836-2026-09",
-  "auteur": "La rédaction",
-  "resume": "Une équipe de recherche dirigée par l’Université des sciences et technologies de Hong Kong (HKUST) a mis au point un nanorevêtement biomimétique susceptible de prolonger considérablement la durée de vie des batteries utilisées dans les smartphones, les véhicules électriques (VE) […]",
-  "pub": "2026-09-29",
-  "ts": 1790719800.0,
-  "vu": "2026-09-30"
- },
- {
-  "source": "négaWatt",
-  "titre": "Quels freins à la transition énergétique ? Idées reçues sur les énergies renouvelables",
-  "lien": "https://negawatt.org/Quels-freins-a-la-transition-energetique-Idees-recues-sur-les-energies",
-  "auteur": "Catherine",
-  "resume": "Dans le cadre d'une conférence débat - Agenda",
-  "pub": "2026-09-29",
-  "ts": 1790708400.0,
-  "vu": "2026-08-20"
- },
- {
-  "source": "Enerzine",
-  "titre": "Le train à batterie arrive en France, une avancée qui met le diesel au défi",
-  "lien": "https://www.enerzine.com/train-batterie-france-avancee-diesel/195888-2026-09",
-  "auteur": "La rédaction",
-  "resume": "Depuis fin juillet, un TER sans moteur diesel circule entre Avignon et Carpentras. Une première française qui montre que le train à batterie ne reste pas dans les cartons au stade de projet mais qu’il transporte désormais des voyageurs. 📌 L’essentiel en 3 points Oubliez le […]",
-  "pub": "2026-09-29",
-  "ts": 1790700600.0,
-  "vu": "2026-09-30"
- },
- {
-  "source": "Enerzine",
-  "titre": "BYD vise 2027 pour sa batterie solide, avec une première série limitée",
-  "lien": "https://www.enerzine.com/byd-batterie-solide-2027/195882-2026-09",
-  "auteur": "La rédaction",
-  "resume": "BYD prévoit de mettre sur la route un premier véhicule équipé d’une batterie tout-solide en 2027. L’échéance, déjà évoquée dès 2025, a été confirmée en septembre 2026 par Stella Li, vice-présidente exécutive du constructeur. Elle ne marque toutefois pas le début d’une diffusion […]",
-  "pub": "2026-09-29",
-  "ts": 1790698800.0,
-  "vu": "2026-09-30"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Campagne présidentielle, CEE, TotalEnergies… : les coulisses du colloque du Ser (1)",
-  "lien": "https://www.greenunivers.com/2026/09/campagne-presidentielle-cee-totalenergies-les-coulisses-du-colloque-du-ser-434348/",
-  "auteur": "GreenUnivers",
-  "resume": "Les énergies renouvelables sont « un amortisseur de crises ». A l’ouverture du colloque annuel du Syndicat des énergies renouvelables (Ser) organisé ce jour et pour la première fois à la Cité des sciences et de l’industrie à Paris, Jules Nyssen, président de la puissance […]",
-  "pub": "2026-09-29",
-  "ts": 1790697831.0,
-  "vu": "2026-09-30"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "A Paris, la manifestation mobilise moins qu’en février",
-  "lien": "https://www.greenunivers.com/2026/09/a-paris-la-manifestation-mobilise-moins-quen-fevrier-434385/",
-  "auteur": "GreenUnivers",
-  "resume": "Les salariés des EnR électriques se sont réunis ce mardi 29 septembre sur le parvis de la Cité des sciences au nord de Paris. Là où, au même moment, le plus gros syndicat professionnel du secteur, le Syndicat des énergies renouvelables tenait son colloque annuel, le dernier […]",
-  "pub": "2026-09-29",
-  "ts": 1790694368.0,
-  "vu": "2026-09-30"
- },
- {
-  "source": "Enerplan",
-  "titre": "Le nouveau cycle européen Heat Auction IF26 (enchère de chaleur), plus favorable au solaire thermique",
-  "lien": "https://www.enerplan.asso.fr/le-nouveau-cycle-europeen-heat-auction-if26-enchere-de-chaleur-plus-favorable-au-solaire-thermique/",
-  "auteur": "Marlène CHALVIN",
-  "resume": "",
-  "pub": "2026-09-29",
-  "ts": 1790693964.0,
-  "vu": "2026-09-30"
- },
- {
-  "source": "Enerplan",
-  "titre": "QualiPV module Batterie, bientôt une nouvelle qualification pour les installateurs après la création du référentiel pédagogique",
-  "lien": "https://www.enerplan.asso.fr/qualipv-module-batterie-bientot-une-nouvelle-qualification-pour-les-installateurs-apres-la-creation-du-referentiel-pedagogique/",
-  "auteur": "Marlène CHALVIN",
-  "resume": "",
-  "pub": "2026-09-29",
-  "ts": 1790692842.0,
-  "vu": "2026-09-30"
- },
- {
-  "source": "Enerplan",
-  "titre": "Microfissures sur panneaux PV bifaciaux : premiers retours d’expérience",
-  "lien": "https://www.enerplan.asso.fr/microfissures-sur-panneaux-pv-bifaciaux-premiers-retours-dexperience/",
-  "auteur": "Marlène CHALVIN",
-  "resume": "",
-  "pub": "2026-09-29",
-  "ts": 1790691941.0,
-  "vu": "2026-09-30"
- },
- {
-  "source": "Enerplan",
-  "titre": "Difficultés d’instruction des projets photovoltaïques dans le Gers: Enerplan interpelle les services préfectoraux",
-  "lien": "https://www.enerplan.asso.fr/difficultes-dinstruction-des-projets-photovoltaiques-dans-le-gers-enerplan-interpelle-les-services-prefectoraux/",
-  "auteur": "Marlène CHALVIN",
-  "resume": "",
-  "pub": "2026-09-29",
-  "ts": 1790690305.0,
-  "vu": "2026-09-30"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Sunrock obtient un financement de 110 M€ pour soutenir sa croissance solaire en France",
-  "lien": "https://www.pv-magazine.fr/2026/09/29/sunrock-obtient-un-financement-de-110-me-pour-soutenir-sa-croissance-solaire-en-france/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "L’opération a été réalisée auprès de Crédit Agricole Corporate and Investment Bank (CA-CIB) et se compose d’un prêt à terme de 50 millions d'euros, assorti d'une option d'extension (accordéon) pouvant aller jusqu'à 50 millions d'euros supplémentaires.",
-  "pub": "2026-09-29",
-  "ts": 1790686800.0,
-  "vu": "2026-09-30"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Électricité : de nouveaux produits de marché pour valoriser le photovoltaïque sous OA",
-  "lien": "https://www.actu-environnement.com/ae/news/photovoltaique-produits-marche-terme-edf-oa-48583.php4",
-  "auteur": "",
-  "resume": "En 2027, EDF OA va pouvoir vendre de nouveaux produits à terme pour valoriser l'électricité produite sous obligation d'achat. L'objectif est de mieux couvrir le profil de production du solaire.",
-  "pub": "2026-09-29",
-  "ts": 1790686682.0,
-  "vu": "2026-09-30"
- },
- {
-  "source": "pv magazine France",
-  "titre": "SeeYouSun sécurise 30 millions d’euros pour 122 nouvelles centrales photovoltaïques",
-  "lien": "https://www.pv-magazine.fr/2026/09/29/seeyousun-securise-30-millions-deuros-pour-122-nouvelles-centrales-solaires/",
-  "auteur": "Francois Puthod",
-  "resume": "Le producteur finalise cinq financements représentant près de 30 millions d’euros de prêts long terme. Ils portent sur 122 centrales photovoltaïques pour une puissance cumulée de plus de 30 MWc.",
-  "pub": "2026-09-29",
-  "ts": 1790685000.0,
-  "vu": "2026-09-29"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Un nouveau projet solaire flottant de 35 MWc en phase de construction en France",
-  "lien": "https://www.pv-magazine.fr/2026/09/29/un-nouveau-projet-solaire-flottant-de-35-mwc-en-phase-de-construction-en-france/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Développé par l'IPP français Neoen, le parc sera installé sur un ancien lac de carrière dans la Marne. Pour sa réalisation, Neoen s’appuie sur un groupement EPC composé d’Equans, mandataire, et de Ciel & Terre pour la partie flottante, qui doit s'adapter aux contraintes […]",
-  "pub": "2026-09-29",
-  "ts": 1790683200.0,
-  "vu": "2026-09-29"
- },
- {
-  "source": "Révolution Énergétique",
-  "titre": "Arnaques aux panneaux solaires et éoliennes domestiques : 60 victimes attendent ce procès avec impatience",
-  "lien": "https://www.revolution-energetique.com/actus/arnaques-aux-panneaux-solaires-et-eoliennes-domestiques-60-victimes-attendent-ce-proces-avec-impatience/",
-  "auteur": "Kevin CHAMPEAU",
-  "resume": "Les salariés d’une entreprise du sud-ouest de la France sont jugés pour avoir escroqué 60 personnes, auxquelles ils auraient prétexté vendre et installer des éoliennes […] L’article Arnaques aux panneaux solaires et éoliennes domestiques : 60 victimes attendent ce procès avec […]",
-  "pub": "2026-09-29",
-  "ts": 1790682908.0,
-  "vu": "2026-09-29"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Primes à l'incorporation sur le plastique recyclé&#8239;: le Conseil d'État retoque l'arrêté",
-  "lien": "https://www.actu-environnement.com/ae/news/conseil-etat-arrete-primes-plastique-recycle-rep-48582.php4",
-  "auteur": "",
-  "resume": "Par un arrêt du 25 septembre 2026, le Conseil d'État a annulé partiellement, à la demande de la société SEB France, l'arrêté du 5 septembre 2025 relatif aux contributions financières versées par les producteurs soumis à certaines filières de res...",
-  "pub": "2026-09-29",
-  "ts": 1790678339.0,
-  "vu": "2026-09-29"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "Aucun appel d’offres en vue : Enerplan dénonce une politique solaire anti-économique, anti-sociale et anti-climatique",
-  "lien": "https://www.lechodusolaire.fr/aucun-appel-doffres-en-vue-enerplan-denonce-une-politique-solaire-anti-economique-anti-sociale-et-anti-climatique/",
-  "auteur": "Frédéric Fassot",
-  "resume": "Le président d’Enerplan, Daniel Bour, a ouvert le 23 septembre à Paris la 9e Université de l’autoconsommation photovoltaïque par une charge contre la politique solaire du gouvernement. Selon des annonces faites à la filière, qu’il dit « pas officiellement actées », aucun nouvel […]",
-  "pub": "2026-09-29",
-  "ts": 1790673429.0,
-  "vu": "2026-09-29"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "Été caniculaire : la production solaire française a progressé de 21%",
-  "lien": "https://www.lechodusolaire.fr/ete-caniculaire-la-production-solaire-francaise-a-progresse-de-21/",
-  "auteur": "F. Fassot",
-  "resume": "Le photovoltaïque a produit 15,1 TWh en France de juin à août 2026, contre 12,5 TWh sur la même période de 2025, selon les premières analyses du fonctionnement du système électrique au cours de l’été publiées le 21 septembre par RTE. La progression, de 21%, tient à la croissance […]",
-  "pub": "2026-09-29",
-  "ts": 1790673329.0,
-  "vu": "2026-09-29"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "Budget 2027 : les filières de la chaleur renouvelable demandent le maintien du Fonds chaleur à 800 millions d’euros",
-  "lien": "https://www.lechodusolaire.fr/budget-2027-les-filieres-de-la-chaleur-renouvelable-demandent-le-maintien-du-fonds-chaleur-a-800-millions-deuros/",
-  "auteur": "F. Fassot",
-  "resume": "Les sept organisations du Club de la Chaleur, dont Enerplan et le Syndicat des énergies renouvelables (SER), ont appelé le 23 septembre le gouvernement à maintenir le Fonds chaleur à 800 millions d’euros au moins en 2027. Les arbitrages du projet de loi de finances sont en […]",
-  "pub": "2026-09-29",
-  "ts": 1790673241.0,
-  "vu": "2026-09-29"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "L’Allemagne a produit dès septembre plus d’électricité solaire que sur toute l’année 2025",
-  "lien": "https://www.lechodusolaire.fr/lallemagne-a-produit-des-septembre-plus-delectricite-solaire-que-sur-toute-lannee-2025/",
-  "auteur": "F. Fassot",
-  "resume": "Au 27 septembre, les installations photovoltaïques allemandes avaient produit 90,2 TWh depuis le début de l’année, soit davantage que sur l’ensemble de 2025 (90,0 TWh). C’est ce qu’indique la fédération allemande du solaire, le BSW-Solar, qui a fait de cette date son « Solar Day […]",
-  "pub": "2026-09-29",
-  "ts": 1790673148.0,
-  "vu": "2026-09-29"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "Hello Watt rachète le surplus solaire des particuliers 4 c€/kWh en pilotant leur injection",
-  "lien": "https://www.lechodusolaire.fr/hello-watt-rachete-le-surplus-solaire-des-particuliers-4-ce-kwh-en-pilotant-leur-injection/",
-  "auteur": "F. Fassot",
-  "resume": "Hello Watt a lancé le 22 septembre une offre de « rachat piloté » du surplus des installations solaires des particuliers, rémunéré 4 c€/kWh, contre 1,1 c€/kWh pour le tarif d’obligation d’achat d’EDF OA depuis le 1er juin. En contrepartie, l’entreprise suspend l’injection de ses […]",
-  "pub": "2026-09-29",
-  "ts": 1790673125.0,
-  "vu": "2026-09-29"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "Longi porte à 28,29% le record de rendement des cellules solaires en silicium cristallin",
-  "lien": "https://www.lechodusolaire.fr/longi-porte-a-2829-le-record-de-rendement-des-cellules-solaires-en-silicium-cristallin/",
-  "auteur": "F. Fassot",
-  "resume": "Le Chinois Longi a porté à 28,29% le record mondial de rendement de conversion des cellules solaires en silicium cristallin, avec sa cellule à contacts arrière hybride interdigités (HIBC). Certifié par l’Institut de recherche sur l’énergie solaire de Hamelin (ISFH), en […]",
-  "pub": "2026-09-29",
-  "ts": 1790673082.0,
-  "vu": "2026-09-29"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "Newheat va construire pour Agrial la plus grande centrale solaire thermique de France",
-  "lien": "https://www.lechodusolaire.fr/newheat-va-construire-pour-agrial-la-plus-grande-centrale-solaire-thermique-de-france/",
-  "auteur": "F. Fassot",
-  "resume": "Newheat va construire à Herbignac (Loire-Atlantique) une centrale solaire thermique de 18,5 MWth destinée au site laitier d’Agrial, présentée par les deux partenaires comme la plus grande de France. Conçue, financée et exploitée par Newheat dans le cadre d’un contrat de […]",
-  "pub": "2026-09-29",
-  "ts": 1790673055.0,
-  "vu": "2026-09-29"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "Neoen lance la construction de la plus grande centrale solaire d’Île-de-France et de deux parcs agrivoltaïques",
-  "lien": "https://www.lechodusolaire.fr/neoen-lance-la-construction-de-la-plus-grande-centrale-solaire-dile-de-france-et-de-deux-parcs-agrivoltaiques/",
-  "auteur": "F. Fassot",
-  "resume": "Neoen a lancé cet été la construction de trois parcs solaires en France, d’une puissance cumulée de 87 MWc, dont une centrale de 41 MWc sur des terrains de la base militaire de Brétigny-sur-Orge (Essonne), appelée à devenir la plus grande d’Île-de-France. Les deux autres, dans […]",
-  "pub": "2026-09-29",
-  "ts": 1790673040.0,
-  "vu": "2026-09-29"
- },
- {
-  "source": "L'Écho du Solaire",
-  "titre": "Émeraude Solaire retenue par les Chambres d’agriculture de Bretagne et des Pays de la Loire pour les projets solaires des agriculteurs",
-  "lien": "https://www.lechodusolaire.fr/emeraude-solaire-retenue-par-les-chambres-dagriculture-de-bretagne-et-des-pays-de-la-loire-pour-les-projets-solaires-des-agriculteurs/",
-  "auteur": "F. Fassot",
-  "resume": "Les Chambres d’agriculture de Bretagne et des Pays de la Loire ont retenu Émeraude Solaire, parmi 21 candidatures, comme partenaire de l’appel à manifestation d’intérêt lancé pour accompagner et sécuriser les projets photovoltaïques des agriculteurs des deux régions, notamment […]",
-  "pub": "2026-09-29",
-  "ts": 1790672917.0,
-  "vu": "2026-09-29"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Des modules photovoltaïques européens sans verre pour les véhicules, les écrans antibruit et les bateaux",
-  "lien": "https://www.pv-magazine.fr/2026/09/29/des-modules-photovoltaiques-europeens-sans-verre-pour-les-vehicules-les-ecrans-antibruit-et-les-bateaux/",
-  "auteur": "Marie Beyer",
-  "resume": "Un nouveau projet européen, doté de 7,27 millions d’euros, vise à remplacer l’architecture des modules en verre par des structures en composites renforcés de fibres, capables d’intégrer des cellules photovoltaïques sur des structures courbes ou complexes pour les véhicules, les […]",
-  "pub": "2026-09-29",
-  "ts": 1790672400.0,
-  "vu": "2026-09-29"
- },
- {
-  "source": "pv magazine",
-  "titre": "Scientists propose solar cell taxonomy based on absorber integration",
-  "lien": "https://www.pv-magazine.com/2026/09/29/scientists-propose-solar-cell-taxonomy-based-on-absorber-integration/",
-  "auteur": "Emiliano Bellini",
-  "resume": "Researchers in Spain have proposed a new photovoltaic taxonomy that replaces the conventional generation-based approach with a classification based on absorber integration and dominant physical mechanisms. The framework divides solar technologies into four groups—wafer-based […]",
-  "pub": "2026-09-29",
-  "ts": 1790670941.0,
-  "vu": "2026-09-29"
- },
- {
-  "source": "pv magazine France",
-  "titre": "EDF OA fait évoluer ses produits à terme, pour mieux refléter le profil de production photovoltaïque",
-  "lien": "https://www.pv-magazine.fr/2026/09/29/edf-oa-fait-evoluer-ses-produits-a-terme-pour-mieux-refleter-le-profil-de-production-photovoltaique/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "La vente de nouveaux produits à terme vise à mieux refléter le profil de production des installations photovoltaïques, dont la part est croissante dans le périmètre sous obligation d’achat d’EDF OA. La CRE propose aussi la mise en vente, à titre expérimental, de produits « bloc […]",
-  "pub": "2026-09-29",
-  "ts": 1790668800.0,
-  "vu": "2026-09-29"
- },
- {
-  "source": "pv magazine",
-  "titre": "Greece can install 8.6 GW of batteries by 2030",
-  "lien": "https://www.pv-magazine.com/2026/09/29/greece-can-install-8-6-gw-of-batteries-by-2030/",
-  "auteur": "Emiliano Bellini",
-  "resume": "Greece’s solar association, HELAPCO, says the country could install 8.6 GW of battery storage by 2030. Aurora Energy Research, a global consultancy with an office in Greece, offers a more conservative outlook, forecasting up to 5 GW by the end of the decade. pv magazine examines […]",
-  "pub": "2026-09-29",
-  "ts": 1790667099.0,
-  "vu": "2026-09-29"
- },
- {
-  "source": "pv magazine France",
-  "titre": "La Commission européenne ouvre une procédure d’infraction contre 18 États membres sur le partage de l’électricité",
-  "lien": "https://www.pv-magazine.fr/2026/09/29/la-commission-europeenne-ouvre-une-procedure-dinfraction-contre-18-etats-membres-sur-le-partage-de-lelectricite/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Deux tiers des États membres de l’Union européenne font l’objet d’une procédure d’infraction pour ne pas avoir mis en œuvre un nouveau droit permettant de partager de l’électricité renouvelable via le réseau.",
-  "pub": "2026-09-29",
-  "ts": 1790667000.0,
-  "vu": "2026-09-29"
- },
- {
-  "source": "Enerzine",
-  "titre": "Une caméra ordinaire capable de mesurer l’efficacité des cellules solaires",
-  "lien": "https://www.enerzine.com/une-camera-ordinaire-capable-de-mesurer-lefficacite-des-cellules-solaires/195775-2026-09",
-  "auteur": "La rédaction",
-  "resume": "Les caméras du commerce peuvent être puissantes, produisant des images d’un détail exquis qui imitent la réalité. En laboratoire, des caméras spécialement conçues peuvent photographier des objets dans le domaine infrarouge, invisible à l’œil nu. Dans The Journal of Applied […]",
-  "pub": "2026-09-29",
-  "ts": 1790659800.0,
-  "vu": "2026-09-29"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "« Je refuse de finir en maison de retraite » : à 62 ans, elle construit seule un chalet en bois à Córdoba et inspire des centaines de femmes",
-  "lien": "https://lenergeek.com/2026/09/29/je-refuse-de-finir-en-maison-de-retraite-a-62-ans-elle-construit-seule-un-chalet-en-bois-a-cordoba-et-inspire-des-centaines-de-femmes/",
-  "auteur": "Claire Moreau",
-  "resume": "Vendre son appartement en 15 jours pour bâtir seule une maison solaire de 21 m² au milieu des sierras : le pari fou de Carina, après un divorce et un cancer, pour retrouver la nature. L’article « Je refuse de finir en maison de retraite » : à 62 ans, elle construit seule un […]",
-  "pub": "2026-09-29",
-  "ts": 1790659243.0,
-  "vu": "2026-09-29"
- },
- {
-  "source": "Enerzine",
-  "titre": "L’énergie mécanique pourrait aider à transformer la biomasse en carburants et en produits chimiques de valeur",
-  "lien": "https://www.enerzine.com/lenergie-mecanique-pourrait-aider-a-transformer-la-biomasse-en-carburants-et-en-produits-chimiques-de-valeur/195772-2026-09",
-  "auteur": "La rédaction",
-  "resume": "La biomasse issue des résidus agricoles, des déchets forestiers et d’autres sources renouvelables contient un carbone abondant qui peut être converti en carburants et en produits chimiques de valeur. Pourtant, la décomposition de sa structure lignocellulosique complexe exige […]",
-  "pub": "2026-09-29",
-  "ts": 1790658600.0,
-  "vu": "2026-09-29"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Agrivoltaïsme, transition énergétique dans le monde agricole et valorisation durable des exploitations",
-  "lien": "https://lenergeek.com/2026/09/29/agrivoltaisme-transition-energetique-dans-le-monde-agricole-et-valorisation-durable-des-exploitations/",
-  "auteur": "La Rédaction",
-  "resume": "Dans un hameau de Saint-Ouen-en-Belin, en Sarthe, une réunion publique a duré trois heures le 22 septembre. Le sujet, une centrale solaire posée sur des terres agricoles, opposait une exploitante en ... L’article Agrivoltaïsme, transition énergétique dans le monde agricole et […]",
-  "pub": "2026-09-29",
-  "ts": 1790650800.0,
   "vu": "2026-09-30"
  }
 ]
