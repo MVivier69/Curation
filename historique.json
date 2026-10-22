@@ -20,6 +20,76 @@
   "vu": "2026-10-16"
  },
  {
+  "source": "pv magazine France",
+  "titre": "Le Suisse PowerEdge mise sur une batterie de 37 MWh pour diversifier ses revenus en Finlande",
+  "lien": "https://www.pv-magazine.fr/2026/10/22/le-suisse-poweredge-mise-sur-une-batterie-de-37-mwh-pour-diversifier-ses-revenus-en-finlande/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Le Suisse PowerEdge a choisi la plateforme Gridle d’Elisa Industriq pour optimiser et valoriser sur les marchés de l’électricité une batterie de 10 MW / 37 MWh à Pelkosenniemi, dans le nord de la Finlande. Attendue début 2027, l’installation doit combiner participation aux […]",
+  "pub": "2026-10-22",
+  "ts": 1792666800.0,
+  "vu": "2026-10-22"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Solar-assisted CO₂ heat pump achieves 18.7% COP increase as irradiance rises",
+  "lien": "https://www.pv-magazine.com/2026/10/22/solar-assisted-co%e2%82%82-heat-pump-achieves-18-7-cop-increase-as-irradiance-rises/",
+  "auteur": "Lior Kahana",
+  "resume": "Researchers in Italy have tested a 10 kW dual-source heat pump using CO₂ as a refrigerant and air or photovoltaic-thermal collectors as heat sources. The results show that solar operation can improve heating performance under favorable irradiance conditions, while an optimized […]",
+  "pub": "2026-10-22",
+  "ts": 1792663279.0,
+  "vu": "2026-10-22"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Robots et véhicules électriques, l’écran passe au premier plan",
+  "lien": "https://www.enerzine.com/robots-et-vehicules-electriques-lecran-passe-au-premier-plan/197978-2026-10",
+  "auteur": "La rédaction",
+  "resume": "Les annonces se succèdent dans la robotique et la mobilité électrique. Des cellules de palettisation automatisées aux véhicules de service sur batterie, les machines deviennent plus autonomes chaque année. Elles ont pourtant toutes besoin d’un endroit où l’humain reprend la […]",
+  "pub": "2026-10-22",
+  "ts": 1792659300.0,
+  "vu": "2026-10-22"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Une QualiPV Module Batterie pour accompagner l’essor du stockage résidentiel",
+  "lien": "https://www.pv-magazine.fr/2026/10/22/une-qualipv-module-batterie-pour-accompagner-lessor-du-stockage-residentiel/",
+  "auteur": "Francois Puthod",
+  "resume": "Qualit'EnR lance la qualification QualiPV module Batterie, dédiée aux entreprises installant des systèmes de stockage d'électricité par batterie jusqu'à 100 kWh.",
+  "pub": "2026-10-22",
+  "ts": 1792652400.0,
+  "vu": "2026-10-22"
+ },
+ {
+  "source": "Batiactu",
+  "titre": "PV et batteries : une nouvelle qualification Qualit'ENR pour les installateurs",
+  "lien": "https://www.batiactu.com/edito/pv-et-batteries-nouvelle-qualification-qualit-enr-installateurs-75672.php",
+  "auteur": "Batiactu",
+  "resume": "PROFESSION. L'association Qualit'ENR, qui qualifie les entreprises installant des systèmes d'énergies renouvelables, s'est penchée sur le stockage d'électricité photovoltaïque.",
+  "pub": "2026-10-21",
+  "ts": 1792591174.0,
+  "vu": "2026-10-22"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Engie débute la construction de son premier parc solaire avec stockage colocalisé en France",
+  "lien": "https://www.pv-magazine.fr/2026/10/21/engie-debute-la-construction-de-son-premier-parc-solaire-avec-stockage-colocalise-en-france/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "À Saint-Jean-Froidmentel, Engie construit un parc photovoltaïque de 29,8 MWc couplé à un système de stockage de 20 MWh. Les batteries permettront de décaler la restitution de l’électricité produite afin de mieux répondre aux besoins du réseau.",
+  "pub": "2026-10-21",
+  "ts": 1792587600.0,
+  "vu": "2026-10-22"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "TotalEnergies et KKR ajoutent 700 MW solaires aux États-Unis",
+  "lien": "https://www.pv-magazine.fr/2026/10/21/totalenergies-et-kkr-ajoutent-700-mw-solaires-aux-etats-unis/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "TotalEnergies et KKR renforcent leur coentreprise solaire aux États-Unis avec l’ajout de 700 MW de capacités, dans le cadre d’une transaction valorisant les actifs concernés à environ 1,07 milliard d’euros.",
+  "pub": "2026-10-21",
+  "ts": 1792584000.0,
+  "vu": "2026-10-22"
+ },
+ {
   "source": "Actu-Environnement",
   "titre": "Matières fertilisantes : le projet d'arrêté sur l'épandage des flux est en consultation",
   "lien": "https://www.actu-environnement.com/ae/news/matieres-fertilisantes-supports-cultures-projet-arrete-icpe-epandage-consultation-48699.php4",
@@ -1537,36 +1607,6 @@
   "resume": "Un monde de la taille de Jupiter, distant de seulement 7,5 années-lumière, est nuageux, chimiquement complexe et, il s’avère, plus proche de chez nous que quiconque ne l’avait imaginé. À l’aide du télescope spatial James Webb, Brittany Miles, astronome adjointe à l’Observatoire […]",
   "pub": "2026-10-12",
   "ts": 1791778200.0,
-  "vu": "2026-10-12"
- },
- {
-  "source": "CleanTechnica",
-  "titre": "Trump Must Absolutely Love Solar Panels, Because They Help Farmers",
-  "lien": "https://cleantechnica.com/2026/10/11/mammoth-solar-panels-agrivoltaic-us-energy-policy-farmers-diesel/",
-  "auteur": "Tina Casey",
-  "resume": "The agrivoltaic movement combines solar panels with agriculture, providing farmers with new opportunities to improve their financial situation at a time of skyrocketing fuel costs.",
-  "pub": "2026-10-11",
-  "ts": 1791758944.0,
-  "vu": "2026-10-12"
- },
- {
-  "source": "Enerzine",
-  "titre": "Petites batteries, recharge éclair, le vrai prix de la promesse électrique",
-  "lien": "https://www.enerzine.com/petites-batteries-recharge-rapide-promesse-electrique/196853-2026-10",
-  "auteur": "La rédaction",
-  "resume": "Une cathode chinoise promet de charger une batterie à près de 80% en trois minutes. Derrière cette démonstration de laboratoire se joue une bataille bien plus âpre pour l’utilisateur, celle de l’autonomie limitée face à des infrastructures encore disparates. Des chercheurs […]",
-  "pub": "2026-10-11",
-  "ts": 1791708758.0,
-  "vu": "2026-10-11"
- },
- {
-  "source": "CleanTechnica",
-  "titre": "Battery Swap Uses Fewer Batteries Than You Think",
-  "lien": "https://cleantechnica.com/2026/10/10/battery-swap-uses-fewer-batteries-than-you-think/",
-  "auteur": "Christopher Arcus",
-  "resume": "When I wrote an article a while ago about Janus Electric, an electric truck company in Australia that featured diesel semi electric conversions and battery swap, I put it away in my mind, until I happened upon an interview with Janus CEO Ben Hutt. The interviewer asked how much […]",
-  "pub": "2026-10-11",
-  "ts": 1791682898.0,
   "vu": "2026-10-12"
  }
 ]
