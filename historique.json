@@ -21,6 +21,86 @@
  },
  {
   "source": "L'EnerGeek",
+  "titre": "Inde : le charbon bondit de 25,7 % malgré une forte hausse du solaire",
+  "lien": "https://lenergeek.com/2026/11/01/inde-charbon-257-pour-cent-solaire-hydroelectricite-octobre-2026/",
+  "auteur": "La Rédaction",
+  "resume": "En octobre 2026, la production électrique indienne à partir du charbon a progressé de 25,7 % sur un an, tandis que l’hydroélectricité reculait de 26 %. La croissance du solaire ne suffit pas à absorber une demande d’électricité en plein essor, révélant les contraintes du réseau […]",
+  "pub": "2026-11-01",
+  "ts": 1793514823.0,
+  "vu": "2026-11-01"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Saviez-vous que le changement climatique aurait mis fin à la prochaine période glaciaire ?",
+  "lien": "https://www.enerzine.com/saviez-vous-que-le-changement-climatique-aurait-mis-fin-a-la-prochaine-periode-glaciaire/198720-2026-11",
+  "auteur": "La rédaction",
+  "resume": "Des chercheurs de l’université Columbia ont retracé l’histoire de la calotte glaciaire de Barnes, sur l’île de Baffin, au Nunavut, en datant à environ 2 000 ans une reprise de sa croissance. Leurs résultats suggèrent que cette expansion naturelle s’est ensuite arrêtée, un […]",
+  "pub": "2026-11-01",
+  "ts": 1793509800.0,
+  "vu": "2026-11-01"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Solaire en Corse et outre-mer : la CRE ouvre 148,6 MWc à la concurrence pour janvier 2027",
+  "lien": "https://lenergeek.com/2026/11/01/solaire-zni-cre-148-6-mwc-candidatures-janvier-2027-011126-0436/",
+  "auteur": "La Rédaction",
+  "resume": "Le cahier des charges actualisé le 29 octobre prévoit 148,6 MWc de projets photovoltaïques dans six zones non interconnectées, contre 99 MWc lors des précédentes périodes. Les candidatures seront déposées du 4 au 14 janvier 2027, sous le contrôle de la Commission de régulation […]",
+  "pub": "2026-11-01",
+  "ts": 1793500621.0,
+  "vu": "2026-11-01"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Énergies renouvelables : l’Inde cherche 220 milliards de dollars pour tenir son cap de 2030",
+  "lien": "https://lenergeek.com/2026/11/01/inde-220-milliards-dollars-investissements-energies-renouvelables-2030/",
+  "auteur": "La Rédaction",
+  "resume": "New Delhi estime à 220 milliards de dollars les investissements nécessaires pour atteindre 500 GW de capacités électriques non fossiles d’ici 2030. Réseaux, batteries et industrie devront suivre la croissance des installations solaires et éoliennes, sur un marché où Engie […]",
+  "pub": "2026-11-01",
+  "ts": 1793497855.0,
+  "vu": "2026-11-01"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Certificats d’économies d’énergie : les acheteurs soumis à de nouvelles vérifications dès le 1er novembre",
+  "lien": "https://lenergeek.com/2026/10/31/cession-cee-acheteurs-verifications-1er-novembre-2026-decret-945/",
+  "auteur": "La Rédaction",
+  "resume": "À partir du 1er novembre 2026, les acquisitions de certificats d’économies d’énergie entrant dans le nouveau régime devront être accompagnées d’un contrôle documenté du vendeur et d’un formulaire retraçant l’origine des certificats. Le décret du 9 octobre et son arrêté […]",
+  "pub": "2026-10-31",
+  "ts": 1793468293.0,
+  "vu": "2026-11-01"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Trêve hivernale : six exceptions permettent l’expulsion malgré la protection hivernale",
+  "lien": "https://lenergeek.com/2026/10/31/treve-hivernale-locataires-exceptions/",
+  "auteur": "La Rédaction",
+  "resume": "Du 1er novembre 2026 au 31 mars 2027, la trêve hivernale suspend les expulsions locatives et les coupures d'énergie sur l'ensemble du territoire français. Pourtant, six exceptions permettent d'expulser un occupant en plein hiver : relogement assuré, arrêté de mise en sécurité […]",
+  "pub": "2026-10-31",
+  "ts": 1793452680.0,
+  "vu": "2026-11-01"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "BP engrange 8,46 milliards de dollars, mais déprécie lourdement ses actifs solaires et éoliens",
+  "lien": "https://lenergeek.com/2026/10/31/bp-resultats-2026-raffinage-depreciations-solaire-eolien/",
+  "auteur": "La Rédaction",
+  "resume": "Le pétrolier britannique BP a publié le 30 octobre un bénéfice ajusté de 8,46 milliards de dollars au troisième trimestre 2026, porté par le raffinage et le négoce de gaz. Dans le même temps, il a comptabilisé plus de 4 milliards de dollars de dépréciations, principalement liées […]",
+  "pub": "2026-10-31",
+  "ts": 1793450630.0,
+  "vu": "2026-11-01"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Batteries et réseaux : la France relance les projets de métaux critiques jusqu’au 23 février 2027",
+  "lien": "https://lenergeek.com/2026/10/31/metaux-critiques-3-france-2030-batteries-reseaux-appel-projets-2026/",
+  "auteur": "La Rédaction",
+  "resume": "L’État a lancé le 30 octobre le troisième appel à projets « Métaux critiques » de France 2030, consacré à l’extraction, à la transformation et au recyclage sur le territoire français. Pour les chaînes d’approvisionnement des batteries, des réseaux électriques et des technologies […]",
+  "pub": "2026-10-31",
+  "ts": 1793445218.0,
+  "vu": "2026-11-01"
+ },
+ {
+  "source": "L'EnerGeek",
   "titre": "E-méthanol : un projet de 48 000 tonnes par an au Québec vise aussi le marché européen",
   "lien": "https://lenergeek.com/2026/10/31/e-methanol-quebec-greenfield-european-energy-48000-tonnes/",
   "auteur": "La Rédaction",
@@ -1708,145 +1788,5 @@
   "pub": "2026-10-22",
   "ts": 1792652400.0,
   "vu": "2026-10-22"
- },
- {
-  "source": "Batiactu",
-  "titre": "PV et batteries : une nouvelle qualification Qualit'ENR pour les installateurs",
-  "lien": "https://www.batiactu.com/edito/pv-et-batteries-nouvelle-qualification-qualit-enr-installateurs-75672.php",
-  "auteur": "Batiactu",
-  "resume": "PROFESSION. L'association Qualit'ENR, qui qualifie les entreprises installant des systèmes d'énergies renouvelables, s'est penchée sur le stockage d'électricité photovoltaïque.",
-  "pub": "2026-10-21",
-  "ts": 1792591174.0,
-  "vu": "2026-10-22"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Engie débute la construction de son premier parc solaire avec stockage colocalisé en France",
-  "lien": "https://www.pv-magazine.fr/2026/10/21/engie-debute-la-construction-de-son-premier-parc-solaire-avec-stockage-colocalise-en-france/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "À Saint-Jean-Froidmentel, Engie construit un parc photovoltaïque de 29,8 MWc couplé à un système de stockage de 20 MWh. Les batteries permettront de décaler la restitution de l’électricité produite afin de mieux répondre aux besoins du réseau.",
-  "pub": "2026-10-21",
-  "ts": 1792587600.0,
-  "vu": "2026-10-22"
- },
- {
-  "source": "pv magazine France",
-  "titre": "TotalEnergies et KKR ajoutent 700 MW solaires aux États-Unis",
-  "lien": "https://www.pv-magazine.fr/2026/10/21/totalenergies-et-kkr-ajoutent-700-mw-solaires-aux-etats-unis/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "TotalEnergies et KKR renforcent leur coentreprise solaire aux États-Unis avec l’ajout de 700 MW de capacités, dans le cadre d’une transaction valorisant les actifs concernés à environ 1,07 milliard d’euros.",
-  "pub": "2026-10-21",
-  "ts": 1792584000.0,
-  "vu": "2026-10-22"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Matières fertilisantes : le projet d'arrêté sur l'épandage des flux est en consultation",
-  "lien": "https://www.actu-environnement.com/ae/news/matieres-fertilisantes-supports-cultures-projet-arrete-icpe-epandage-consultation-48699.php4",
-  "auteur": "",
-  "resume": "Un cinquième texte vient compléter la série de décrets et arrêtés (déjà publiés ou en consultation) qui constituent le « socle commun » pour les matières fertilisantes et les supports de culture (MFSC) : un projet d'arrêté relatif à l'épandage des...",
-  "pub": "2026-10-21",
-  "ts": 1792577284.0,
-  "vu": "2026-10-21"
- },
- {
-  "source": "pv magazine",
-  "titre": "Türkiye allows higher-powered batteries behind existing grid connections",
-  "lien": "https://www.pv-magazine.com/2026/10/21/turkiye-allows-higher-powered-batteries-behind-existing-grid-connections/",
-  "auteur": "Patrick Jowett",
-  "resume": "New rules boost possibilities for businesses beyond grid-connection allowance for imports, provided controls prevent grid exports and excessive imports.",
-  "pub": "2026-10-21",
-  "ts": 1792576800.0,
-  "vu": "2026-10-21"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "La transition énergétique et un lanceur d’alerte mettent à mal le réseau britannique",
-  "lien": "https://www.greenunivers.com/2026/10/la-transition-energetique-et-un-lanceur-dalerte-mettent-a-mal-le-reseau-britannique-436683/",
-  "auteur": "Jacopo Landi",
-  "resume": "Les équipes du National Energy System Operator (NESO), le gestionnaire du réseau britannique, font face à des « niveaux élevés de stress et de préoccupation », notamment pour maintenir le système à l’équilibre au fur L’article La transition énergétique et un lanceur d’alerte […]",
-  "pub": "2026-10-21",
-  "ts": 1792574795.0,
-  "vu": "2026-10-23"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Agrivoltaïsme : face au durcissement du crédit, de nouveaux financements à inventer",
-  "lien": "https://www.pv-magazine.fr/2026/10/21/agrivoltaisme-face-au-durcissement-du-credit-de-nouveaux-financements-a-inventer/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "La hausse des taux d’intérêt, l’incertitude sur les revenus électriques et les exigences de pérennité agricole compliquent le financement des projets agrivoltaïques. Pour convaincre les banques, la filière doit sécuriser ses contrats et diversifier ses ressources. La […]",
-  "pub": "2026-10-21",
-  "ts": 1792573200.0,
-  "vu": "2026-10-21"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Virya Energy valorisera la flexibilité de son premier électrolyseur",
-  "lien": "https://www.greenunivers.com/2026/10/virya-energy-valorisera-la-flexibilite-de-son-premier-electrolyseur-436507/",
-  "auteur": "Thomas Blosseville",
-  "resume": "Virya Energy va démarrer son premier électrolyseur. Connue en France dans les renouvelables, la filiale de la chaîne de supermarchés Colruyt est aussi positionnée sur L’article Virya Energy valorisera la flexibilité de son premier électrolyseur est apparu en premier sur […]",
-  "pub": "2026-10-21",
-  "ts": 1792572180.0,
-  "vu": "2026-10-23"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Climat : la COP 17 biodiversité débute, les défis restent nombreux",
-  "lien": "https://lenergeek.com/2026/10/21/biodiversite-energetique-cop17-climat/",
-  "auteur": "Cédric Bonnefoy",
-  "resume": "La COP17 biodiversité s'ouvre à Erevan avec près de 200 pays face à un constat critique : les écosystèmes sont des infrastructures essentielles à la transition énergétique mondiale. Quatre ans après Montréal, seuls 18% des terres sont protégées contre l'objectif de 30% pour […]",
-  "pub": "2026-10-21",
-  "ts": 1792570001.0,
-  "vu": "2026-10-21"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Avis de marchés publics dans le PV en France",
-  "lien": "https://www.pv-magazine.fr/2026/10/21/avis-de-marches-publics-dans-le-pv-en-france-143/",
-  "auteur": "Francois Puthod",
-  "resume": "Retrouvez chaque semaine dans pv magazine les appels d’offres publiés relatifs aux projets photovoltaïques en France.",
-  "pub": "2026-10-21",
-  "ts": 1792569600.0,
-  "vu": "2026-10-21"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Jane sort un nouveau simulateur pour l’autoconsommation",
-  "lien": "https://www.pv-magazine.fr/2026/10/21/autoconsommation-jane-sort-un-nouveau-simulateur/",
-  "auteur": "Francois Puthod",
-  "resume": "Disponible depuis le 1er octobre 2026, l’offre Premium proposée par Jane aide les professionnels à comparer des scénarios d’autoconsommation individuelle et collective à partir de courbes de charge réelles Enedis.",
-  "pub": "2026-10-21",
-  "ts": 1792567800.0,
-  "vu": "2026-10-21"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Un TRVE à 18 heures creuses pour cesser de pénaliser la production d’électricité",
-  "lien": "https://www.greenunivers.com/2026/10/un-trve-a-18-heures-creuses-pour-cesser-de-penaliser-la-production-delectricite-436652/",
-  "auteur": "Jean-Philippe Pié",
-  "resume": "Réduire la production d’électricité solaire pour éviter la cannibalisation, c’est dommage. Moduler l’électronucléaire, idem. Mieux vaut agir sur la consommation, suggère Cédric Philibert. Membre fondateur de l’association Avenirs énergétiques, cet ancien expert de l’AIE a […]",
-  "pub": "2026-10-21",
-  "ts": 1792567380.0,
-  "vu": "2026-10-23"
- },
- {
-  "source": "Enerzine",
-  "titre": "Les renouvelables en tête de l’électricité en 2035 dans le monde selon Statkraft",
-  "lien": "https://www.enerzine.com/les-renouvelables-en-tete-de-lelectricite-en-2035-dans-le-monde-selon-statkraft/197500-2026-10",
-  "auteur": "La rédaction",
-  "resume": "Mardi, l’électricien public norvégien Statkraft a publié la 11e édition de son rapport Green Transition Scenarios, qui prévoit que les renouvelables deviendront la première source d’électricité au monde d’ici 2035. Selon le document, cette trajectoire repose principalement sur […]",
-  "pub": "2026-10-21",
-  "ts": 1792552200.0,
-  "vu": "2026-10-21"
- },
- {
-  "source": "CleanTechnica",
-  "titre": "How Recycled Minerals from GM EV Batteries Are Helping Power New Ones",
-  "lien": "https://cleantechnica.com/2026/10/20/how-recycled-minerals-from-gm-ev-batteries-are-helping-power-new-ones/",
-  "auteur": "Guest Contributor",
-  "resume": "By Melissa Flaherty, Director of Sustainable EV Battery Ecosystem, GM When it comes to EV batteries, most of us start with the same questions: How far can I go on a charge? How long will my battery last? Those are fair questions. But here’s something that might surprise you […]",
-  "pub": "2026-10-21",
-  "ts": 1792544521.0,
-  "vu": "2026-10-21"
  }
 ]
