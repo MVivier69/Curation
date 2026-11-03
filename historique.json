@@ -21,6 +21,236 @@
  },
  {
   "source": "pv magazine France",
+  "titre": "Huawei prévoit des hausses de prix allant de 5 à 15 % sur ses équipements solaires et de stockage",
+  "lien": "https://www.pv-magazine.fr/2026/11/03/huawei-prevoit-des-hausses-de-prix-allant-de-5-a-15-sur-ses-equipements-solaires-et-de-stockage/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "La division énergétique de Huawei a informé ses clients de prochaines augmentations de prix sur ses gammes d’onduleurs photovoltaïques et de systèmes de stockage d’énergie. Le groupe chinois justifie ces hausses par l’augmentation du coût du cuivre, des circuits imprimés et des […]",
+  "pub": "2026-11-03",
+  "ts": 1793710800.0,
+  "vu": "2026-11-03"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Inde : les renouvelables auraient évité plus de 100 milliards de dollars d’importations fossiles, selon l’AIE",
+  "lien": "https://lenergeek.com/2026/11/03/inde-aie-100-milliards-importations-fossiles-renouvelables-2026/",
+  "auteur": "La Rédaction",
+  "resume": "Dans un rapport publié le 3 novembre, l’Agence internationale de l’énergie chiffre les économies d’importation permises par les renouvelables indiennes entre 2011 et 2025. Le pays dépasse désormais 300 GW de capacités renouvelables, mais le développement des réseaux et du […]",
+  "pub": "2026-11-03",
+  "ts": 1793706166.0,
+  "vu": "2026-11-03"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Autoconsommation solaire dans les Alpes : bien choisir son installation en Isère",
+  "lien": "https://lenergeek.com/2026/11/03/autoconsommation-solaire-alpes-installation-isere-031126/",
+  "auteur": "La Rédaction",
+  "resume": "L'Isère réunit des conditions favorables au photovoltaïque, avec un ensoleillement annuel solide dans la vallée du Grésivaudan comme sur les versants bien dégagés. Le relief alpin impose toutefois une lecture fine de chaque toiture. Une installation peut produire davantage grâce […]",
+  "pub": "2026-11-03",
+  "ts": 1793702583.0,
+  "vu": "2026-11-03"
+ },
+ {
+  "source": "Enerplan",
+  "titre": "GT Soren – Passeport produit photovoltaïque",
+  "lien": "https://www.enerplan.asso.fr/gt-soren-passeport-produit-photovoltaique/",
+  "auteur": "Marlène CHALVIN",
+  "resume": "",
+  "pub": "2026-11-03",
+  "ts": 1793701679.0,
+  "vu": "2026-11-03"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "Engie lance la construction de son premier parc solaire avec batteries co-localisées en France",
+  "lien": "https://www.lechodusolaire.fr/engie-lance-la-construction-de-son-premier-parc-solaire-avec-batteries-co-localisees-en-france/",
+  "auteur": "F. Fassot",
+  "resume": "Engie a engagé en septembre la construction du parc du Buisson, sur le site d’une ancienne carrière à Saint-Jean-Froidmentel (Loir-et-Cher). Premier projet co-localisé du groupe en France, il associera une centrale photovoltaïque de 29,8 MWc à un système de stockage par […]",
+  "pub": "2026-11-03",
+  "ts": 1793701454.0,
+  "vu": "2026-11-03"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "BW ESS entre en France en rachetant deux projets de batteries de 400 MWh à Recurrent Energy",
+  "lien": "https://www.lechodusolaire.fr/bw-ess-entre-en-france-en-rachetant-deux-projets-de-batteries-de-400-mwh-a-recurrent-energy/",
+  "auteur": "F. Fassot",
+  "resume": "BW ESS, filiale de stockage d’énergie du groupe BW, a racheté à Recurrent Energy, filiale de Canadian Solar, deux projets de batteries autonomes de 100 MW / 400 MWh chacun, situés dans le Calvados et les Pyrénées-Orientales. L’opération, annoncée le 29 octobre, marque l’entrée […]",
+  "pub": "2026-11-03",
+  "ts": 1793701429.0,
+  "vu": "2026-11-03"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "EnerGaïa dévoile les 12 nominés des Trophées de l’innovation 2026",
+  "lien": "https://www.lechodusolaire.fr/energaia-devoile-les-12-nomines-des-trophees-de-linnovation-2026/",
+  "auteur": "F. Fassot",
+  "resume": "À un mois de sa 20e édition, les 9 et 10 décembre à Montpellier, le Forum EnerGaïa a dévoilé les 12 nominés de ses Trophées de l’innovation, dont neuf concernent le solaire. Quatre prix seront décernés : International, Déployabilité, Écosystème et Circularité. La Région […]",
+  "pub": "2026-11-03",
+  "ts": 1793701271.0,
+  "vu": "2026-11-03"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "Greenvolt va équiper d’ombrières solaires les parkings de 120 magasins Carrefour",
+  "lien": "https://www.lechodusolaire.fr/greenvolt-va-equiper-dombrieres-solaires-les-parkings-de-120-magasins-carrefour/",
+  "auteur": "F. Fassot",
+  "resume": "Le Portugais Greenvolt, par sa filiale Greenvolt Next, a signé un accord avec Carrefour Property, la branche immobilière du groupe Carrefour, pour déployer des ombrières photovoltaïques sur les parkings de 120 magasins détenus en pleine propriété par l’enseigne en France. Le […]",
+  "pub": "2026-11-03",
+  "ts": 1793701215.0,
+  "vu": "2026-11-03"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "Ensol rachète à 5 c€/kWh le surplus de ses clients équipés d’une batterie",
+  "lien": "https://www.lechodusolaire.fr/ensol-rachete-a-5-ce-kwh-le-surplus-de-ses-clients-equipes-dune-batterie/",
+  "auteur": "F. Fassot",
+  "resume": "Ensol lance Ensol SMART, une offre qui garantit un rachat du surplus solaire à 5 c€/kWh aux détenteurs d’une batterie Ensol en abonnement. L’installateur s’appuie sur un logiciel de pilotage développé en interne, qui charge les batteries en heures creuses et revend le surplus en […]",
+  "pub": "2026-11-03",
+  "ts": 1793701199.0,
+  "vu": "2026-11-03"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "Budget 2027 : la TVA réduite des panneaux solaires conditionnée au critère de résilience européen",
+  "lien": "https://www.lechodusolaire.fr/budget-2027-la-tva-reduite-des-panneaux-solaires-conditionnee-au-critere-de-resilience-europeen/",
+  "auteur": "F. Fassot",
+  "resume": "Mise à jour le 3 novembre 2026. Le projet de loi de finances pour 2027 subordonne le taux réduit de TVA applicable aux panneaux photovoltaïques à « la contribution à la résilience et à la durabilité » prévue par le règlement européen pour une industrie « zéro net » (NZIA). Les […]",
+  "pub": "2026-11-03",
+  "ts": 1793700979.0,
+  "vu": "2026-11-03"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "La start-up EDENenergy transforme des batteries de trottinettes usagées en stockage pour l’industrie",
+  "lien": "https://www.lechodusolaire.fr/la-start-up-edenenergy-transforme-des-batteries-de-trottinettes-usagees-en-stockage-pour-lindustrie/",
+  "auteur": "F. Fassot",
+  "resume": "Fondée par trois anciens chercheurs du Fraunhofer ISE, la start-up fribourgeoise EDENenergy a livré mi-octobre à un client son premier stockage stationnaire de 70 kWh, assemblé à partir de 112 batteries de trottinettes électriques usagées. Une électronique de puissance […]",
+  "pub": "2026-11-03",
+  "ts": 1793700881.0,
+  "vu": "2026-11-03"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "SunLib ouvre son abonnement solaire aux collectivités, sans investissement initial",
+  "lien": "https://www.lechodusolaire.fr/sunlib-ouvre-son-abonnement-solaire-aux-collectivites-sans-investissement-initial/",
+  "auteur": "F. Fassot",
+  "resume": "SunLib propose aux collectivités son abonnement solaire, qui leur permet d’équiper mairies, écoles ou gymnases sans investissement initial ni emprunt. Elles paient une mensualité calculée selon la puissance installée et la durée de l’abonnement, jusqu’à 25 ans. L’offre va de […]",
+  "pub": "2026-11-03",
+  "ts": 1793700843.0,
+  "vu": "2026-11-03"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Le bac à sable réglementaire, laboratoire du raccordement du solaire et du stockage de demain (1/7)",
+  "lien": "https://www.pv-magazine.fr/2026/11/03/bac-a-sable-reglementaire-le-laboratoire-discret-du-raccordement-du-solaire-et-du-stockage-de-demain-1-7/",
+  "auteur": "Marie Beyer",
+  "resume": "Alors que la filière photovoltaïque française évolue dans un cadre de soutien plus sélectif et un marché plus concurrentiel, le dispositif de « bac à sable » réglementaire continue de faire avancer les sujets qui détermineront la rentabilité des projets de demain : capacité de […]",
+  "pub": "2026-11-03",
+  "ts": 1793700000.0,
+  "vu": "2026-11-03"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "La Nouvelle-Écosse lance un appel d’offres ouvert à toutes les technologies pour remplacer ses centrales à charbon",
+  "lien": "https://www.pv-magazine.fr/2026/11/03/la-nouvelle-ecosse-lance-un-appel-doffres-ouvert-a-toutes-les-technologies-pour-remplacer-ses-centrales-a-charbon/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Le gestionnaire du réseau électrique de la province canadienne de Nouvelle-Écosse évaluera les propositions de batteries, de centrales hydroélectriques à pompage et d’autres technologies, parallèlement à un appel d’offres distinct pour des centrales au gaz, afin de déterminer la […]",
+  "pub": "2026-11-03",
+  "ts": 1793696400.0,
+  "vu": "2026-11-03"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "BYD : pourquoi la batterie de la U9 n’a pas pris feu après le crash",
+  "lien": "https://lenergeek.com/2026/11/03/batterie-electrique-securite-crash-haute-tension-2026/",
+  "auteur": "La Rédaction",
+  "resume": "Le 2 novembre 2026, la Yangwang U9 Xtreme de BYD, supercar électrique de 2977 chevaux valorisée à 3 millions de dollars, s'est écrasée à haute vitesse sur un circuit chinois. L'essieu arrière s'est détaché, la carrosserie détruite, mais la batterie n'a ni fumé ni pris feu. Cet […]",
+  "pub": "2026-11-03",
+  "ts": 1793695063.0,
+  "vu": "2026-11-03"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "[Vu de Chine] JA Solar creuse ses pertes, Tongwei signe 1 GW d’accords commerciaux en Australie",
+  "lien": "https://www.pv-magazine.fr/2026/11/03/vu-de-chine-ja-solar-creuse-ses-pertes-tongwei-signe-1-gw-daccords-commerciaux-en-australie/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Le fabricant chinois JA Solar a enregistré une perte nette de 3,64 milliards de yuans (environ 465 M€) sur les neuf premiers mois de 2026, tandis que Tongwei a conclu des accords de coopération portant sur 1 GW de modules photovoltaïques avec trois distributeurs australiens […]",
+  "pub": "2026-11-03",
+  "ts": 1793691000.0,
+  "vu": "2026-11-03"
+ },
+ {
+  "source": "Transitions & Énergies",
+  "titre": "En Allemagne, le calme plat (« Dunkelflaute ») fait s’envoler les prix de l’électricité",
+  "lien": "https://www.transitionsenergies.com/allemagne-calme-plat-dunkelflaute-fait-envoler-prix-electricite/",
+  "auteur": "La rédaction",
+  "resume": "L’Allemagne connait son premier épisode prolongé en cette fin d'année de faible production éolienne et solaire lié à un phénomène météorologique baptisé « Dunkelflaute » ou calme plat. Un temps frais, couvert et quasiment dépourvu de vent qui réduit de moitié la production […]",
+  "pub": "2026-11-03",
+  "ts": 1793664896.0,
+  "vu": "2026-11-03"
+ },
+ {
+  "source": "Connaissance des Énergies",
+  "titre": "Énergie : les jeunes « plus ouverts à la transition » et « davantage exposés à la précarité »",
+  "lien": "https://www.connaissancedesenergies.org/electrification-des-usages-pas-une-priorite-pour-plus-de-la-moitie-des-francais",
+  "auteur": "mael-dancette",
+  "resume": "Le médiateur national de l’énergie a publié ce 3 novembre la 20ᵉ édition de son baromètre énergie-info. Ce dernier met notamment « en évidence une tension entre l’adhésion au principe de la transition énergétique et les contraintes économiques qui en freinent la mise en œuvre ».",
+  "pub": "2026-11-03",
+  "ts": 1793664000.0,
+  "vu": "2026-11-03"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "TotalEnergies investit davantage dans les renouvelables américains malgré le recul des aides",
+  "lien": "https://lenergeek.com/2026/11/03/totalenergies-renouvelables-etats-unis-investissements-novembre-2026/",
+  "auteur": "La Rédaction",
+  "resume": "Patrick Pouyanné a indiqué le 2 novembre que TotalEnergies renforçait ses investissements dans les projets renouvelables américains, profitant du retrait de certains développeurs. Le groupe français mise sur des actifs à construire malgré le calendrier resserré des crédits […]",
+  "pub": "2026-11-02",
+  "ts": 1793663188.0,
+  "vu": "2026-11-03"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Des chercheurs explorent l’utilisation du stockage d’énergie thermique pour les centrales nucléaires",
+  "lien": "https://www.enerzine.com/des-chercheurs-du-cater-explorent-lutilisation-du-stockage-denergie-thermique-pour-les-centrales-nucleaires/198599-2026-11",
+  "auteur": "La rédaction",
+  "resume": "Les centrales nucléaires sont conçues pour produire de l’électricité de manière régulière 24 heures sur 24. Mais désormais que les centrales nucléaires partagent le réseau électrique avec des sources d’énergie renouvelable qui fluctuent selon la météo et l’heure de la journée […]",
+  "pub": "2026-11-02",
+  "ts": 1793661000.0,
+  "vu": "2026-11-03"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Transition énergétique : TotalEnergies alerte sur le retard des réseaux dans ses scénarios 2026",
+  "lien": "https://lenergeek.com/2026/11/02/totalenergies-energy-outlook-2026-reseaux-electrification-scenarios/",
+  "auteur": "La Rédaction",
+  "resume": "Le nouvel Energy Outlook de TotalEnergies présente trois trajectoires énergétiques jusqu'en 2060. Même avec une transition renforcée, le groupe projette plus de 2 °C de réchauffement et souligne les contraintes de réseaux qui freinent l'électrification. L’article Transition […]",
+  "pub": "2026-11-02",
+  "ts": 1793646917.0,
+  "vu": "2026-11-03"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Plan social chez BayWa r.e. France : l’entreprise précise les contours de sa réorganisation",
+  "lien": "https://www.pv-magazine.fr/2026/11/02/plan-social-chez-baywa-r-e-france-lentreprise-precise-les-contours-de-sa-reorganisation/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Confronté au durcissement du marché français des énergies renouvelables, BayWa r.e. France engage une réorganisation qui pourrait se traduire par une réduction nette de 19 postes. Le développeur entend recentrer ses activités de prospection et de développement sur les projets […]",
+  "pub": "2026-11-02",
+  "ts": 1793634900.0,
+  "vu": "2026-11-02"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Transition énergétique : Bruxelles prolonge jusqu’au 10 novembre les candidatures à son conseil d’investisseurs",
+  "lien": "https://lenergeek.com/2026/11/02/bruxelles-etic-candidatures-prolongees-10-novembre-2026-investissement-energie/",
+  "auteur": "La Rédaction",
+  "resume": "La Commission européenne laisse une semaine supplémentaire aux organisations financières et aux acteurs de l’énergie pour rejoindre son nouveau conseil consultatif sur l’investissement. Les candidatures sont désormais attendues le 10 novembre 2026, mais cette instance […]",
+  "pub": "2026-11-02",
+  "ts": 1793632580.0,
+  "vu": "2026-11-03"
+ },
+ {
+  "source": "pv magazine France",
   "titre": "Une toiture et trois ombrières pour une centrale solaire de montagne en ACC",
   "lien": "https://www.pv-magazine.fr/2026/11/02/une-toiture-et-trois-ombrieres-pour-une-centrale-solaire-de-montagne-en-acc/",
   "auteur": "Francois Puthod",
@@ -37,16 +267,6 @@
   "resume": "Le producteur français Neoen sécurise 1,05 Md€ de financements par dette auprès de 13 établissements bancaires pour cinq actifs renouvelables en Australie, représentant 1,2 GW de capacités éoliennes, solaires et de stockage. Depuis 2024, le producteur français a obtenu plus de […]",
   "pub": "2026-11-02",
   "ts": 1793628000.0,
-  "vu": "2026-11-02"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Plan social chez BayWa r.e. France : l’entreprise précise les contours de sa réorganisation",
-  "lien": "https://www.pv-magazine.fr/2026/11/02/plan-social-chez-baywa-r-e-france-lentreprise-precise-les-contours-de-sa-reorganisation/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Confronté au durcissement du marché français des énergies renouvelables, BayWa r.e. France engage une réorganisation qui pourrait se traduire par une réduction nette de 19 postes. Le développeur entend recentrer ses activités de prospection et de développement sur les projets […]",
-  "pub": "2026-11-02",
-  "ts": 1793624400.0,
   "vu": "2026-11-02"
  },
  {
@@ -1010,6 +1230,16 @@
   "vu": "2026-10-28"
  },
  {
+  "source": "INES",
+  "titre": "Le panneau photovoltaïque léger STYKON®, haut rendement d’HELIUP certifié !",
+  "lien": "https://www.ines-solaire.org/news/le-panneau-photovoltaique-leger-stykon-haut-rendement-dheliup-certifie/",
+  "auteur": "",
+  "resume": "",
+  "pub": "2026-10-27",
+  "ts": 1793113510.0,
+  "vu": "2026-11-03"
+ },
+ {
   "source": "GreenUnivers",
   "titre": "Giga Storage (InfraVia) finance une nouvelle batterie géante, en Allemagne",
   "lien": "https://www.greenunivers.com/2026/10/giga-storage-infravia-finance-une-nouvelle-batterie-geante-en-allemagne-436989/",
@@ -1578,235 +1808,5 @@
   "pub": "2026-10-24",
   "ts": 1792821691.0,
   "vu": "2026-10-24"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "« La prochaine glaciation avait bien commencé » : une découverte révèle pourquoi tout s'est arrêté",
-  "lien": "https://www.futura-sciences.com/planete/actualites/glaciation-prochaine-glaciation-avait-bien-commence-decouverte-revele-tout-arrete-138789/",
-  "auteur": "Morgane Gillard, Rédactrice",
-  "resume": "Et si la prochaine glaciation avait déjà commencé, avant que tout ne bascule ? En étudiant les vestiges d'une immense calotte glaciaire au Canada, des scientifiques ont découvert un retournement inattendu qui pourrait bouleverser notre compréhension de l'évolution du climat […]",
-  "pub": "2026-10-23",
-  "ts": 1792778587.0,
-  "vu": "2026-10-24"
- },
- {
-  "source": "CleanTechnica",
-  "titre": "What Can Grid Flexibility Actually Do Here?",
-  "lien": "https://cleantechnica.com/2026/10/23/what-can-grid-flexibility-do-here/",
-  "auteur": "Michael Barnard",
-  "resume": "Grid flexibility is not one resource or one number. A new open TFIE Strategy report maps how batteries, demand, networks, interconnection and other resources change value with location, duration and operating conditions.",
-  "pub": "2026-10-23",
-  "ts": 1792776509.0,
-  "vu": "2026-10-24"
- },
- {
-  "source": "Enerzine",
-  "titre": "Hyundai Ioniq 3, une compacte électrique qui vise près de 500 kilomètres d’autonomie",
-  "lien": "https://www.enerzine.com/hyundai-ioniq-3-autonomie-batteries-recharge/198094-2026-10",
-  "auteur": "La rédaction",
-  "resume": "Focus aujourd’hui sur la Ioniq 3 de Hyundai, une voiture électrique compacte conçue en Europe et fabriquée en Turquie. Deux batteries sont proposées, avec une autonomie annoncée supérieure à 344 ou 497 kilomètres selon la version. La marque mise sur un habitacle spacieux, une […]",
-  "pub": "2026-10-23",
-  "ts": 1792776300.0,
-  "vu": "2026-10-24"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Appel d’offres solaire au sol : EDF a-t-il cassé les prix ?",
-  "lien": "https://www.greenunivers.com/2026/10/appel-doffres-solaire-au-sol-edf-a-t-il-casse-les-prix-436738/",
-  "auteur": "Jean-Philippe Pié",
-  "resume": "Article complété le 26/10/2026 – Enquête – Que s’est-il passé lors de l’appel d’offres qui a attribué, il y a deux semaines, un soutien financier public de 61,33€/MWh en moyenne à 125 centrales photovoltaïques au sol représentant 931 MW de puissance ? Sa première bizarrerie : le […]",
-  "pub": "2026-10-23",
-  "ts": 1792769958.0,
-  "vu": "2026-10-24"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Peu de chances de voir des projets éoliens à l’appel d’offres « neutre »",
-  "lien": "https://www.greenunivers.com/2026/10/peu-de-chances-de-voir-des-projets-eoliens-a-lappel-doffres-neutre-436737/",
-  "auteur": "Jacopo Landi",
-  "resume": "L’appel d’offres « technologiquement neutre » clos le 16 octobre dernier semble destiné encore une fois à voir les projets solaires remporter la plupart du volume. Différents développeurs L’article Peu de chances de voir des projets éoliens à l’appel d’offres « neutre » est […]",
-  "pub": "2026-10-23",
-  "ts": 1792769497.0,
-  "vu": "2026-10-24"
- },
- {
-  "source": "Enerplan",
-  "titre": "PLF 2027 – Art. 82 – Remise en cause du S21",
-  "lien": "https://www.enerplan.asso.fr/plf-2027-art-82-remise-en-cause-du-s21/",
-  "auteur": "Marlène CHALVIN",
-  "resume": "",
-  "pub": "2026-10-23",
-  "ts": 1792765952.0,
-  "vu": "2026-10-24"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Baromètre du solaire : prix des installations en hausse et essor du pilotage énergétique",
-  "lien": "https://www.pv-magazine.fr/2026/10/23/barometre-du-solaire-prix-des-installations-en-hausse-et-essor-du-pilotage-energetique/",
-  "auteur": "Francois Puthod",
-  "resume": "Revolt.eco publie la seconde édition de son Baromètre du solaire. Consacrée au troisième trimestre 2026, elle intègre un nouvel indicateur sur la proportion de projets PV, avec ou sans pilotage énergétique.",
-  "pub": "2026-10-23",
-  "ts": 1792762200.0,
-  "vu": "2026-10-24"
- },
- {
-  "source": "Enerzine",
-  "titre": "Déchet nucléaire : à plus de 400 mètres sous terre, la Finlande autorise le stockage du siècle",
-  "lien": "https://www.enerzine.com/onkalo-finlande-autorisation-stockage-nucleaire/198074-2026-10",
-  "auteur": "La rédaction",
-  "resume": "Le gouvernement finlandais vient d’accorder l’autorisation d’exploiter Onkalo, le premier dépôt géologique définitif de combustible nucléaire usé au monde à l’organisme spécialisée et certifiée Posiva Oy. Le site est taillé dans la roche d’Olkiluoto, mais aucune date précise n’a […]",
-  "pub": "2026-10-23",
-  "ts": 1792761716.0,
-  "vu": "2026-10-24"
- },
- {
-  "source": "pv magazine France",
-  "titre": "mylight150 fait entrer la batterie résidentielle dans son modèle de flexibilité",
-  "lien": "https://www.pv-magazine.fr/2026/10/23/mylight150-fait-entrer-la-batterie-residentielle-dans-son-modele-de-flexibilite/",
-  "auteur": "Marie Beyer",
-  "resume": "mylight150 lance une offre qui connecte la batterie physique du foyer à son stockage virtuel et la rémunère pour sa flexibilité. Le fournisseur lance en parallèle une borne de recharge triphasée de 22 kW qui crédite chaque kWh rechargé en mode solaire.",
-  "pub": "2026-10-23",
-  "ts": 1792760400.0,
-  "vu": "2026-10-24"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Sunnigoo N7 Pro : gagnez en mobilité à petit prix avec cette trottinette électrique à moins de 145 €",
-  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-velos-trottinettes-sunnigoo-n7-pro-gagnez-mobilite-petit-prix-cette-trottinette-electrique-moins-145-11634/",
-  "auteur": "Mallory Delicourt, Journaliste",
-  "resume": "Avec son moteur de 350 W, sa batterie amovible et ses pneus pleins, la Sunnigoo N7 Pro propose une solution de déplacement compacte pour les trajets urbains. Dans la jungle des trottinette électrique, ce modèle se distingue en offrant un bon rapport qualité-prix et un coût […]",
-  "pub": "2026-10-23",
-  "ts": 1792760400.0,
-  "vu": "2026-10-24"
- },
- {
-  "source": "Enerzine",
-  "titre": "SOMFY intègre des batteries lithium remanufacturées dans ses moteurs",
-  "lien": "https://www.enerzine.com/somfy-integre-des-batteries-lithium-remanufacturees-dans-ses-moteurs/198066-2026-10",
-  "auteur": "La rédaction",
-  "resume": "SOMFY et VoltR ont annoncé l’intégration de batteries lithium remanufacturées françaises dans des moteurs SONESSE® 28 destinés aux stores intérieurs, utilisés depuis début 2026, après des prototypes réalisés dès l’été 2023. Chaque année, des millions de batteries lithium […]",
-  "pub": "2026-10-23",
-  "ts": 1792757400.0,
-  "vu": "2026-10-24"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Osborn Metals, un cas d’école de la décarbonation par l’électrification [3/4]",
-  "lien": "https://www.greenunivers.com/2026/10/osborn-metals-un-cas-decole-de-la-decarbonation-par-lelectrification-3-436433/",
-  "auteur": "GreenUnivers",
-  "resume": "GreenUnivers publie une série de quatre articles sur la décarbonation chez les industriels. Quels secteurs sont les plus porteurs ? Que proposent les financeurs ? Comment les producteurs d’énergies renouvelables peuvent s’organiser pour profiter de ce relais de croissance qui […]",
-  "pub": "2026-10-23",
-  "ts": 1792756812.0,
-  "vu": "2026-10-24"
- },
- {
-  "source": "pv magazine France",
-  "titre": "La région espagnole de Castille-et-León prévoit une taxe sur les centrales solaires au sol dès 2027",
-  "lien": "https://www.pv-magazine.fr/2026/10/23/la-region-espagnole-de-castille-et-leon-prevoit-une-taxe-sur-les-centrales-solaires-au-sol-des-2027/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "La région espagnole de Castille-et-León prévoit d’étendre sa taxe sur l’impact environnemental aux installations photovoltaïques au sol à partir de 2027. L’association solaire espagnole UNEF critique cette proposition, estimant que les projets photovoltaïques sont déjà soumis à […]",
-  "pub": "2026-10-23",
-  "ts": 1792756800.0,
-  "vu": "2026-10-24"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "LGV Bordeaux-Toulouse : rejet de la demande de suspension d'un arrêté portant autorisation environnementale",
-  "lien": "https://www.actu-environnement.com/ae/news/lgv-bordeaux-toulouse-suspension-autorisation-environnementale-48716.php4",
-  "auteur": "",
-  "resume": "Par une ordonnance du 14 octobre 2026, le juge des référés du tribunal administratif de Bordeaux a refusé de suspendre l'arrêté du 5 février 2026 délivrant une autorisation environnement pour les investigations préalables à la construction de la n...",
-  "pub": "2026-10-23",
-  "ts": 1792752911.0,
-  "vu": "2026-10-23"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Bonus écologique des véhicules électriques : l'arrêté relatif au calcul du score environnemental est publié",
-  "lien": "https://www.actu-environnement.com/ae/news/bonus-ecologique-score-environnemental-vehicules-electriques-48714.php4",
-  "auteur": "",
-  "resume": "L'arrêté relatif à la méthodologie de calcul du score environnemental et à la valeur de score minimale à atteindre pour l'éligibilité au bonus écologique pour les voitures particulières neuves électriques est paru au Journal officiel. Cet arrêté m...",
-  "pub": "2026-10-23",
-  "ts": 1792747535.0,
-  "vu": "2026-10-23"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "L’agenda de la transition énergétique",
-  "lien": "https://www.greenunivers.com/2026/10/lagenda-de-la-transition-energetique-281-431464/",
-  "auteur": "GreenUnivers",
-  "resume": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique […]",
-  "pub": "2026-10-23",
-  "ts": 1792746000.0,
-  "vu": "2026-10-02"
- },
- {
-  "source": "pv magazine France",
-  "titre": "[AgriVoltaics Industry Forum Europe 2026] Agrivoltaïsme, le défi du passage à l’échelle",
-  "lien": "https://www.pv-magazine.fr/2026/10/23/agrivoltaics-industry-forum-europe-2026-agrivoltaisme-le-defi-du-passage-a-lechelle/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Entre maintien des rendements agricoles, production d’électricité et rentabilité des investissements, les projets agrivoltaïques doivent concilier des exigences multiples. Réunis les 13 et 14 octobre à Bordeaux à l’occasion de l’AgriVoltaics Industry Forum Europe 2026, les […]",
-  "pub": "2026-10-23",
-  "ts": 1792746000.0,
-  "vu": "2026-10-23"
- },
- {
-  "source": "pv magazine France",
-  "titre": "JinkoSolar dévoile un module solaire résidentiel de 510 W affichant un rendement de 25,52 % et garanti 40 ans",
-  "lien": "https://www.pv-magazine.fr/2026/10/23/jinkosolar-devoile-un-module-solaire-residentiel-de-510-w-affichant-un-rendement-de-2552-et-garanti-40-ans/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Le fabricant chinois JinkoSolar a présenté un module solaire résidentiel entièrement noir de 510 W, reposant sur sa nouvelle technologie de cellules TAC. Ce panneau à double vitrage affiche un rendement annoncé de 25,52 %, une densité de puissance d’environ 255 W/m² et une […]",
-  "pub": "2026-10-23",
-  "ts": 1792742400.0,
-  "vu": "2026-10-23"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Appel d’offres du Rwanda pour un projet de solaire flottant de 200 MW associé à 800 MWh de batteries",
-  "lien": "https://www.pv-magazine.fr/2026/10/23/appel-doffres-du-rwanda-pour-un-projet-de-solaire-flottant-de-200-mw-associe-a-800-mwh-de-batteries/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Un appel d’offres est ouvert au Rwanda pour la construction d’une centrale solaire flottante de 200 MW couplée à un système de stockage par batteries de 800 MWh. La date limite de dépôt des candidatures pour la phase de préqualification est fixée au 12 novembre.",
-  "pub": "2026-10-23",
-  "ts": 1792740600.0,
-  "vu": "2026-10-23"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Le groupe agricole RAGT inaugure une centrale photovoltaïque en autoconsommation sur son site d’Albi",
-  "lien": "https://www.pv-magazine.fr/2026/10/23/le-groupe-agricole-ragt-inaugure-une-centrale-photovoltaique-en-autoconsommation-sur-son-site-dalbi/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Le groupe agricole RAGT a mis en service une première centrale solaire en toiture à Albi, dans le Tarn. Développée par Tenergie, l’installation produira plus de 600 MWh d’électricité par an, dont 90 % seront autoconsommés. Deux autres projets photovoltaïques sont à l’étude, dans […]",
-  "pub": "2026-10-23",
-  "ts": 1792737000.0,
-  "vu": "2026-10-23"
- },
- {
-  "source": "Révolution Énergétique",
-  "titre": "6 GW de batteries : ce pays européen est champion du monde du stockage électrochimique",
-  "lien": "https://www.revolution-energetique.com/actus/6-gw-de-batteries-ce-pays-europeen-est-champion-du-monde-du-stockage-electrochimique/",
-  "auteur": "Hector PIETRANI",
-  "resume": "En deux ans à peine, la Bulgarie et ses 6,4 millions d’habitants ont raccordé presque 6 GW de batteries, soit près d’un quart de la […] L’article 6 GW de batteries : ce pays européen est champion du monde du stockage électrochimique est apparu en premier sur Révolution […]",
-  "pub": "2026-10-23",
-  "ts": 1792736297.0,
-  "vu": "2026-10-23"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Les chercheurs découvrent une sophistication mathématique inattendue dans le calendrier maya, bien plus avancée qu'on ne le pensait",
-  "lien": "https://www.futura-sciences.com/sciences/actualites/civilisation-maya-chercheurs-decouvrent-sophistication-mathematique-inattendue-calendrier-maya-bien-plus-avancee-quon-ne-pensait-w2t8-138692/",
-  "auteur": "Morgane Gillard, Rédactrice",
-  "resume": "Une équipe internationale de chercheurs vient de lever le voile sur un mystère vieux de plusieurs siècles : comment les Mayas parvenaient-ils à prédire les éclipses solaires avec une telle exactitude ? En réexaminant le célèbre codex de Dresde, les scientifiques ont découvert […]",
-  "pub": "2026-10-23",
-  "ts": 1792735200.0,
-  "vu": "2026-10-23"
- },
- {
-  "source": "Transitions & Énergies",
-  "titre": "Le mythe de l’efficacité de l’autoritarisme",
-  "lien": "https://www.transitionsenergies.com/le-mythe-efficacite-autoritarisme/",
-  "auteur": "La rédaction",
-  "resume": "La transition énergétique est devenue l’argument ultime de la tentation autocratique. Les populistes de tous bords affirment que les institutions actuelles sont défaillantes et qu’un nouveau départ nécessite une main ferme et surtout sans entraves… Une petite musique qui ne […]",
-  "pub": "2026-10-23",
-  "ts": 1792719832.0,
-  "vu": "2026-10-23"
  }
 ]
