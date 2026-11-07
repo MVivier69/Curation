@@ -20,6 +20,76 @@
   "vu": "2026-10-16"
  },
  {
+  "source": "L'EnerGeek",
+  "titre": "Copropriété : isolation, chauffage, ventilation, quels travaux financés par les aides ?",
+  "lien": "https://lenergeek.com/2026/11/07/travaux-energie-copropriete-isolation/",
+  "auteur": "La Rédaction",
+  "resume": "Isolation des parois, remplacement des systèmes de chauffage, VMC performante, énergies renouvelables : les aides publiques financent un large éventail de travaux en copropriété. Mais atteindre les seuils de 35 % ou 50 % de gain énergétique exige des combinaisons techniques […]",
+  "pub": "2026-11-07",
+  "ts": 1794043860.0,
+  "vu": "2026-11-07"
+ },
+ {
+  "source": "Révolution Énergétique",
+  "titre": "Le géant des énergies renouvelables BayWa r.e. réduit ses effectifs pour se maintenir à flot",
+  "lien": "https://www.revolution-energetique.com/actus/le-geant-des-energies-renouvelables-baywa-r-e-reduit-ses-effectifs-pour-se-maintenir-a-flot/",
+  "auteur": "Kevin CHAMPEAU",
+  "resume": "L’avenir des énergies renouvelables en France est teinté de doutes et d’instabilités, et cette situation a des conséquences directes sur les entreprises du secteur. Aujourd’hui, […] L’article Le géant des énergies renouvelables BayWa r.e. réduit ses effectifs pour se maintenir à […]",
+  "pub": "2026-11-07",
+  "ts": 1794036423.0,
+  "vu": "2026-11-07"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Renouvelables : l’AIE prévoit 43 % de l’électricité mondiale en 2031, mais alerte sur les réseaux",
+  "lien": "https://lenergeek.com/2026/11/07/aie-renouvelables-2031-reseaux-solaire-novembre-2026/",
+  "auteur": "La Rédaction",
+  "resume": "Dans son rapport du 6 novembre, l’AIE prévoit une forte progression des énergies renouvelables d’ici 2031. Le solaire domine, tandis que les difficultés de raccordement et de stockage pourraient freiner leur intégration. L’article Renouvelables : l’AIE prévoit 43 % de […]",
+  "pub": "2026-11-07",
+  "ts": 1794020956.0,
+  "vu": "2026-11-07"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Turquie : un plan énergétique de 500 milliards de dollars pour électrifier le pays d’ici 2040",
+  "lien": "https://lenergeek.com/2026/11/07/turquie-plan-energie-2040-500-milliards-electrification-novembre-2026/",
+  "auteur": "La Rédaction",
+  "resume": "La Turquie présente un plan énergétique de 500 milliards de dollars à l’horizon 2040, avec 175 GW de solaire et d’éolien visés. Réseaux, financement et calendrier restent décisifs. L’article Turquie : un plan énergétique de 500 milliards de dollars pour électrifier le pays d’ici […]",
+  "pub": "2026-11-06",
+  "ts": 1794006932.0,
+  "vu": "2026-11-07"
+ },
+ {
+  "source": "CleanTechnica",
+  "titre": "As Jackery Inventory Sells Out, Are Portable Batteries Set To Take Off?",
+  "lien": "https://cleantechnica.com/2026/11/06/as-jackery-inventory-sells-out-are-portable-batteries-set-to-take-off/",
+  "auteur": "Larry Evans",
+  "resume": "I recently wrote reviews of the new Jackery HomePower 1000 Plus v2 and Explorer 100D. A few days later, a connection with Jackery messaged me that their Black Friday/Cyber Monday products had largely sold out. Just three days after launching on November 1. This includes 1000 […]",
+  "pub": "2026-11-06",
+  "ts": 1793982152.0,
+  "vu": "2026-11-07"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Les batteries sodium-ion se rapprochent de la parité des coûts avec le LFP",
+  "lien": "https://www.pv-magazine.fr/2026/11/06/les-batteries-sodium-ion-se-rapprochent-de-la-parite-des-couts-avec-le-lfp/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Les batteries sodium-ion se rapprochent de la parité des coûts au niveau des cellules avec la technologie lithium-fer-phosphate (LFP), tandis que les accords d’approvisionnement conclus dans le monde dépassent déjà 70 GWh. Malgré un coût initial plus élevé, elles pourraient […]",
+  "pub": "2026-11-06",
+  "ts": 1793977200.0,
+  "vu": "2026-11-07"
+ },
+ {
+  "source": "Batiactu",
+  "titre": "Bouygues : une rentabilité opérationnelle portée par les activités énergie et construction",
+  "lien": "https://www.batiactu.com/edito/bouygues-un-resultat-net-part-groupe-plus-que-divise-75803.php",
+  "auteur": "Batiactu",
+  "resume": "RÉSULTATS FINANCIERS. Le géant français a partagé son bilan arrêté au troisième trimestre 2026. Si son résultat net a drastiquement diminué du fait de la dépréciation de TF1, le groupe a pu compter sur ses activités relatives à l'énergie et Construction pour améliorer son […]",
+  "pub": "2026-11-06",
+  "ts": 1793975293.0,
+  "vu": "2026-11-07"
+ },
+ {
   "source": "pv magazine France",
   "titre": "Revolta installe sa première batterie résidentielle sodium-ion de 10 kWh en Allemagne",
   "lien": "https://www.pv-magazine.fr/2026/11/06/revolta-installe-sa-premiere-batterie-residentielle-sodium-ion-de-10-kwh-en-allemagne/",
@@ -1717,226 +1787,6 @@
   "resume": "La Commission de régulation de l’énergie a rendu un avis favorable sur un projet d’arrêté encadrant les travaux inscrits aux schémas de raccordement des énergies renouvelables dans les zones non interconnectées. Le seuil proposé de 1 million d’euros par mégawatt servirait à […]",
   "pub": "2026-10-28",
   "ts": 1793157071.0,
-  "vu": "2026-10-28"
- },
- {
-  "source": "Enerzine",
-  "titre": "La centrale solaire du centre routier des 3 Cardinaux inaugurée à Bordeaux-Bacalan",
-  "lien": "https://www.enerzine.com/la-centrale-solaire-du-centre-routier-des-3-cardinaux-inauguree-a-bordeaux-bacalan/198643-2026-10",
-  "auteur": "La rédaction",
-  "resume": "Bordeaux Métropole, Néomix et GreenYellow ont inauguré ce mardi la centrale photovoltaïque du centre routier des 3 Cardinaux, à Bordeaux-Bacalan. Le site, dédié au stationnement des poids lourds en transit, accueille une installation de 3,65 MWc sur 22 000 m² d’ombrières. Une […]",
-  "pub": "2026-10-27",
-  "ts": 1793123400.0,
-  "vu": "2026-10-28"
- },
- {
-  "source": "CleanTechnica",
-  "titre": "Future Cleantech Architects Has a Shipping Factsheet Worth Reading",
-  "lien": "https://cleantechnica.com/2026/10/27/shipping-factsheet-future-cleantech-architects/",
-  "auteur": "Michael Barnard",
-  "resume": "Shipping decarbonization presents policymakers with a bewildering range of choices. Batteries, biofuels, methanol, ammonia, hydrogen, wind assistance, shore power, nuclear propulsion and onboard carbon capture all compete for attention, despite serving very different vessel […]",
-  "pub": "2026-10-27",
-  "ts": 1793123389.0,
-  "vu": "2026-10-28"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Suppression de CEE pour les PAC et révision de tarifs solaires au menu du CSE",
-  "lien": "https://www.greenunivers.com/2026/10/suppression-de-cee-pour-les-pac-et-revision-de-tarifs-solaires-au-menu-du-cse-437038/",
-  "auteur": "Paul Messad",
-  "resume": "Document — Le prochain Conseil supérieur de l’énergie se réunira le 5 novembre en visioconférence pour cause de grève générale en France. Ses membres examineront neuf textes, dont une proposition de suppression de fiche de certificats d’économie d’énergie (CEE) et une révision […]",
-  "pub": "2026-10-27",
-  "ts": 1793119436.0,
-  "vu": "2026-10-28"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Un plan social et une réorganisation des activités chez BayWa France",
-  "lien": "https://www.greenunivers.com/2026/10/un-plan-social-et-une-reorganisation-des-activites-chez-baywa-france-436943/",
-  "auteur": "Paul Messad",
-  "resume": "Exclusif – La filiale française de la branche renouvelable du groupe allemand Baywa, Baywa r.e., a annoncé la semaine dernière à ses salariés le lancement d’une procédure pour un plan de sauvegarde de l’emploi (PSE). Selon nos informations, confirmées par la direction, L’article […]",
-  "pub": "2026-10-27",
-  "ts": 1793115740.0,
-  "vu": "2026-10-28"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Solaire : les raccordements français reculent de 15,6 % au troisième trimestre",
-  "lien": "https://lenergeek.com/2026/10/27/solaire-raccordements-recul-156-troisieme-trimestre-2026/",
-  "auteur": "La Rédaction",
-  "resume": "La France a raccordé moins de puissance photovoltaïque entre juillet et septembre 2026 qu’un an auparavant, selon les données sectorielles publiées le 26 octobre. Dans le même temps, la production solaire des neuf premiers mois dépasse déjà celle de toute l’année 2025 […]",
-  "pub": "2026-10-27",
-  "ts": 1793114199.0,
-  "vu": "2026-10-28"
- },
- {
-  "source": "INES",
-  "titre": "Le panneau photovoltaïque léger STYKON®, haut rendement d’HELIUP certifié !",
-  "lien": "https://www.ines-solaire.org/news/le-panneau-photovoltaique-leger-stykon-haut-rendement-dheliup-certifie/",
-  "auteur": "",
-  "resume": "",
-  "pub": "2026-10-27",
-  "ts": 1793113510.0,
-  "vu": "2026-11-03"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Giga Storage (InfraVia) finance une nouvelle batterie géante, en Allemagne",
-  "lien": "https://www.greenunivers.com/2026/10/giga-storage-infravia-finance-une-nouvelle-batterie-geante-en-allemagne-436989/",
-  "auteur": "Jacopo Landi",
-  "resume": "Détenu depuis 2024 par le français InfraVia, le développeur de projets de stockage par batterie néerlandais fait encore parler de lui pour une batterie XXL. Après avoir bouclé le financement d’un projet L’article Giga Storage (InfraVia) finance une nouvelle batterie géante, en […]",
-  "pub": "2026-10-27",
-  "ts": 1793113435.0,
-  "vu": "2026-10-28"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Ingrid Capacity et Alpiq préparent jusqu’à 500 MW de projets de stockage par batteries dans les pays nordiques",
-  "lien": "https://www.pv-magazine.fr/2026/10/27/ingrid-capacity-et-alpiq-preparent-jusqua-500-mw-de-projets-de-stockage-par-batteries-dans-les-pays-nordiques/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "L’exploitant suédois de systèmes de stockage d’énergie par batteries Ingrid Capacity et l’énergéticien suisse Alpiq ont conclu un accord pour étudier des contrats d’achat à long terme associés à des projets de stockage représentant jusqu’à 500 MW dans les pays du nord de […]",
-  "pub": "2026-10-27",
-  "ts": 1793113200.0,
-  "vu": "2026-10-28"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Renouvelables : l’IRENA prévoit moins de nouvelles capacités en 2026, freinées par les réseaux",
-  "lien": "https://lenergeek.com/2026/10/27/irena-renouvelables-2026-moins-nouvelles-capacites-reseaux/",
-  "auteur": "La Rédaction",
-  "resume": "Après un record de 692 gigawatts installés en 2025, le rythme mondial des nouvelles capacités renouvelables pourrait fléchir en 2026. Le directeur général de l’IRENA pointe les limites des réseaux électriques, particulièrement en Chine, ainsi que les obstacles commerciaux […]",
-  "pub": "2026-10-27",
-  "ts": 1793111610.0,
-  "vu": "2026-10-28"
- },
- {
-  "source": "Révolution Énergétique",
-  "titre": "Intelligence artificielle : il faudra des mini réacteurs nucléaires pour faire baisser les émissions de CO2",
-  "lien": "https://www.revolution-energetique.com/actus/intelligence-artificielle-il-faudra-des-mini-reacteurs-nucleaires-pour-faire-baisser-les-emissions-de-co2/",
-  "auteur": "Kevin CHAMPEAU",
-  "resume": "La croissance spectaculaire des énergies renouvelables ne suffit pas à enrayer les besoins énergétiques de l’intelligence artificielle, qui devrait engendrer une hausse des émissions de […] L’article Intelligence artificielle : il faudra des mini réacteurs nucléaires pour faire […]",
-  "pub": "2026-10-27",
-  "ts": 1793111151.0,
-  "vu": "2026-10-28"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "CEE : un dispositif clé de la transition énergétique sous pression politique",
-  "lien": "https://www.actu-environnement.com/ae/news/certificats-economies-energie-cee-transition-energetique-hellio-sonergia-fncrr-thermasol-48730.php4",
-  "auteur": "",
-  "resume": "Face aux critiques, les acteurs du secteur défendent les certificats d'économies d'énergie (CEE) qui constituent un levier financier indispensable pour accompagner la politique de transition énergétique, et ils s'engagent pour l'efficacité du disp...",
-  "pub": "2026-10-27",
-  "ts": 1793109701.0,
-  "vu": "2026-10-28"
- },
- {
-  "source": "pv magazine France",
-  "titre": "TCL SunPower lance en France un panneau solaire à contacts arrière de 505 W avec un rendement de 24,7 %",
-  "lien": "https://www.pv-magazine.fr/2026/10/27/tcl-sunpower-lance-en-france-un-panneau-solaire-a-contacts-arriere-de-505-w-avec-un-rendement-de-247/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Le fabricant assortit ses panneaux d’une garantie de 40 ans couvrant le produit, la puissance de sortie et les services associés. Le taux maximal de dégradation annuel annoncé est de 0,25 %.",
-  "pub": "2026-10-27",
-  "ts": 1793109600.0,
-  "vu": "2026-10-28"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Ensol achète le surplus solaire à 5 centimes par kilowattheure",
-  "lien": "https://www.pv-magazine.fr/2026/10/27/ensol-achete-le-surplus-solaire-a-5-centimes-par-kilowattheure/",
-  "auteur": "Francois Puthod",
-  "resume": "À condition d’être équipé d’une batterie en abonnement, Ensol garantit un achat d’excédent à 5 c€/kWh, soit le prix de reprise le plus élevé proposé à ce jour sur le marché résidentiel français.",
-  "pub": "2026-10-27",
-  "ts": 1793106000.0,
-  "vu": "2026-10-28"
- },
- {
-  "source": "Batiactu",
-  "titre": "Pac hybride et CEE : un projet d'arrêté mis en consultation",
-  "lien": "https://www.batiactu.com/edito/pac-hybride-et-cee-un-projet-arrete-mis-consultation-75712.php",
-  "auteur": "Batiactu",
-  "resume": "ÉLECTRIFICATION. Les pompes à chaleur hybrides individuelles devraient bientôt ne plus pouvoir être soutenues lors des rénovations énergétiques.",
-  "pub": "2026-10-27",
-  "ts": 1793098499.0,
-  "vu": "2026-10-27"
- },
- {
-  "source": "pv magazine",
-  "titre": "Creating value in the turmoil: Electric mobility supporting solar and storage",
-  "lien": "https://www.pv-magazine.com/2026/10/27/creating-value-in-the-turmoil-electric-mobility-supporting-solar-and-storage/",
-  "auteur": "Emiliano Bellini",
-  "resume": "Europe’s energy transition is accelerating as solar power, battery storage, and electric vehicles converge into an integrated system, with EV batteries increasingly providing grid flexibility through vehicle-to-grid technology. The profitability of solar and storage will […]",
-  "pub": "2026-10-27",
-  "ts": 1793092500.0,
-  "vu": "2026-10-27"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Quatre innovations qui pourraient réduire de 22 % le Capex des centrales solaires de grande puissance",
-  "lien": "https://www.pv-magazine.fr/2026/10/27/quatre-innovations-dans-la-construction-pourraient-reduire-de-22-le-capex-des-centrales-solaires-de-grande-puissance/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Selon une étude de Lightsource bp, la combinaison du battage automatisé des fondations, de panneaux solaires à structure en acier, de systèmes de fixation des modules sans boulons et du préassemblage sur site pourrait également réduire jusqu’à 30 % le temps d’installation des […]",
-  "pub": "2026-10-27",
-  "ts": 1793091600.0,
-  "vu": "2026-10-27"
- },
- {
-  "source": "pv magazine",
-  "titre": "Ever heard of anticipatory solastalgia? It could affect agrivoltaics acceptance",
-  "lien": "https://www.pv-magazine.com/2026/10/27/ever-heard-of-anticipatory-solastalgia-it-could-affect-agrivoltaics-acceptance/",
-  "auteur": "Emiliano Bellini",
-  "resume": "A new study finds that anticipatory solastalgia, or distress over expected changes to familiar landscapes, can undermine public acceptance of agrivoltaics. Perceived environmental and economic benefits, trust in experts, and fair decision-making processes are associated with […]",
-  "pub": "2026-10-27",
-  "ts": 1793091600.0,
-  "vu": "2026-10-27"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Technologies propres : l’Asie du Sud-Est pourrait dépasser 80 milliards de dollars de marché en 2035",
-  "lien": "https://lenergeek.com/2026/10/27/asie-sud-est-technologies-propres-aie-marche-80-milliards-2035/",
-  "auteur": "La Rédaction",
-  "resume": "Le marché des technologies propres en Asie du Sud-Est pourrait plus que tripler d’ici 2035, selon un scénario de l’Agence internationale de l’énergie. La montée des batteries et des véhicules électriques ouvre des perspectives industrielles, mais accentue les enjeux de […]",
-  "pub": "2026-10-27",
-  "ts": 1793086327.0,
-  "vu": "2026-10-27"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Gritt Robotics mise sur la robotique assistée par l’IA pour pallier la pénurie de main-d’œuvre dans le solaire",
-  "lien": "https://www.pv-magazine.fr/2026/10/27/gritt-robotics-mise-sur-la-robotique-assistee-par-lia-pour-pallier-la-penurie-de-main-doeuvre-dans-le-solaire/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "L’entreprise californienne collabore avec plusieurs grands acteurs de l’ingénierie, de l’approvisionnement et de la construction (EPC) afin d’installer six millions de panneaux solaires au cours des deux prochaines années.",
-  "pub": "2026-10-27",
-  "ts": 1793086200.0,
-  "vu": "2026-10-27"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Électricité : Singapour valide sous conditions un corridor renouvelable de 1,3 GW entre trois pays",
-  "lien": "https://lenergeek.com/2026/10/27/singapour-corridor-electricite-renouvelable-vietnam-malaisie-13-gw-2026/",
-  "auteur": "La Rédaction",
-  "resume": "Singapour a donné son accord conditionnel à un projet d'importation d'électricité renouvelable reliant le Vietnam, la Malaisie et la cité-État. Prévu à l'horizon 2035, ce corridor de 1,3 GW associerait éolien en mer, solaire et stockage, avec plusieurs étapes réglementaires et […]",
-  "pub": "2026-10-27",
-  "ts": 1793061219.0,
-  "vu": "2026-10-27"
- },
- {
-  "source": "Transitions & Énergies",
-  "titre": "Le bois ne profite pas vraiment de l’augmentation des tarifs du gaz",
-  "lien": "https://www.transitionsenergies.com/bois-profite-pas-augmentation-tarifs-gaz/",
-  "auteur": "La rédaction",
-  "resume": "En dépit de l’envolée des prix du gaz et du fioul et contrairement à la crise énergétique de 2022 née de l’invasion de l’Ukraine, étonnamment les Français ne se ruent pas sur la source d’énergie la moins chère, le bois, qui en outre a le mérite d'être renouvelable. Pourtant […]",
-  "pub": "2026-10-27",
-  "ts": 1793059662.0,
-  "vu": "2026-10-27"
- },
- {
-  "source": "Connaissance des Énergies",
-  "titre": "Panneaux solaires : pourquoi il faut (aussi) ajuster les tarifs de réseau pour les autoconsommateurs",
-  "lien": "https://www.connaissancedesenergies.org/tribune-actualite-energies/panneaux-solaires-pourquoi-il-faut-aussi-ajuster-les-tarifs-de-reseau-pour-les-autoconsommateurs",
-  "auteur": "dominique-finon",
-  "resume": "La croissance exponentielle du nombre d’installations photovoltaïques (PV) individuelles ou décentralisées (ombrières, sur toiture) pose des problèmes croissants aux réseaux de distribution. Le PV diffus sollicite surtout ces réseaux en créant des flux inversés imprévus et des […]",
-  "pub": "2026-10-27",
-  "ts": 1793059200.0,
   "vu": "2026-10-28"
  }
 ]
