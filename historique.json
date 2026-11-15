@@ -10,6 +10,76 @@
   "vu": "2026-10-06"
  },
  {
+  "source": "Futura Sciences",
+  "titre": "Aurores boréales en Norvège : ce spectacle incroyable cache un phénomène encore plus étonnant !",
+  "lien": "https://www.futura-sciences.com/planete/actualites/tresor-aurores-boreales-ce-mysterieux-phenomene-embrase-t-il-nuits-norvege-131299/",
+  "auteur": "Guillaume Josse, CEO, fondateur de Futura",
+  "resume": "Chaque hiver, les aurores boréales transforment le ciel de Norvège en une fresque mouvante d’émeraude et de pourpre. Derrière cette danse hypnotique se cache pourtant un phénomène scientifique d’une puissance vertigineuse : la rencontre entre les tempêtes solaires et le champ […]",
+  "pub": "2026-11-15",
+  "ts": 1794732357.0,
+  "vu": "2026-11-15"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Batterie du Galaxy A56 5G : comment lire les 44 h 34 et les 2 000 cycles de son étiquette",
+  "lien": "https://lenergeek.com/2026/11/15/batterie-samsung-galaxy-a56-5g-autonomie-etiquette-cycles/",
+  "auteur": "La Rédaction",
+  "resume": "Combien de temps le téléphone tient-il entre deux prises ? Comment sa batterie vieillit-elle ? Sur l’étiquette européenne du Galaxy A56 5G, chaque question a son chiffre et son propre protocole de mesure. L’article Batterie du Galaxy A56 5G : comment lire les 44 h 34 et les 2 […]",
+  "pub": "2026-11-15",
+  "ts": 1794731924.0,
+  "vu": "2026-11-15"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Une coupure de courant prolongée ? La station électrique portable EcoFlow DELTA 3 Max vous protège",
+  "lien": "https://www.enerzine.com/coupure-courant-prolongee-station-electrique-portable-ecoflow-delta3-max-protege/200512-2026-11",
+  "auteur": "La rédaction",
+  "resume": "Lors d’une coupure de courant prolongé à domicile ou lors d’un séjour loin du réseau électrique, les petites batteries externes atteignent rapidement leurs limites. Dès qu’il s’agit d’alimenter un petit réfrigérateur, une bouilloire, un micro-ondes ou des appareils […]",
+  "pub": "2026-11-15",
+  "ts": 1794723000.0,
+  "vu": "2026-11-15"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "À Maurice, le solaire gagne du terrain mais la part des renouvelables recule",
+  "lien": "https://lenergeek.com/2026/11/14/maurice-electricite-solaire-part-renouvelables-bilan-2025/",
+  "auteur": "La Rédaction",
+  "resume": "En 2025, les panneaux photovoltaïques mauriciens ont produit 52,8 GWh de plus qu’en 2024. Le recul de l’hydraulique a absorbé une partie de ce gain, tandis que les centrales au fioul et au diesel ont fourni près de la moitié de l’électricité du pays. L’article À Maurice, le […]",
+  "pub": "2026-11-14",
+  "ts": 1794696178.0,
+  "vu": "2026-11-15"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "La batterie domestique AURA 5000 doit rester éteinte en attendant un nouveau câble",
+  "lien": "https://lenergeek.com/2026/11/14/growatt-aura-5000-batterie-cable-remplacement/",
+  "auteur": "La Rédaction",
+  "resume": "Growatt dit avoir identifié la cause des surchauffes signalées sur sa batterie de stockage. Dans son avis du 13 novembre, le fabricant annonce des câbles de remplacement gratuits d’ici à la fin décembre et trois mois de garantie supplémentaires. L’article La batterie domestique […]",
+  "pub": "2026-11-14",
+  "ts": 1794688800.0,
+  "vu": "2026-11-15"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "À Saint-Avold, le deuxième parc de batteries peut restituer 65 mégawatts pendant deux heures",
+  "lien": "https://lenergeek.com/2026/11/14/saint-avold-deuxieme-parc-batteries-65-mw-deux-heures/",
+  "auteur": "La Rédaction",
+  "resume": "Sur le site de la centrale Émile-Huchet, en Moselle, deux parcs de batteries totalisent désormais 100 mégawatts. Le plus récent peut emmagasiner une partie de la production solaire de la journée pour la restituer au réseau le soir. L’article À Saint-Avold, le deuxième parc de […]",
+  "pub": "2026-11-14",
+  "ts": 1794685224.0,
+  "vu": "2026-11-15"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "En Allemagne, le tarif de rachat du solaire pourrait rester garanti jusqu’à 25 kW",
+  "lien": "https://lenergeek.com/2026/11/14/allemagne-solaire-toitures-25-kw-compromis-tarif-injection/",
+  "auteur": "La Rédaction",
+  "resume": "Le projet du gouvernement allemand prévoyait de supprimer la rémunération fixe des nouvelles installations. Les spécialistes de l’énergie de la coalition se sont entendus pour la maintenir sur les petites toitures. Le compromis doit encore franchir l’étape parlementaire […]",
+  "pub": "2026-11-14",
+  "ts": 1794681600.0,
+  "vu": "2026-11-15"
+ },
+ {
   "source": "pv magazine",
   "titre": "UNSW develops three-minute lithium-ion battery health test",
   "lien": "https://www.pv-magazine.com/2026/11/14/unsw-develops-three-minute-lithium-ion-battery-health-test/",
@@ -1448,195 +1518,5 @@
   "pub": "2026-11-05",
   "ts": 1793858381.0,
   "vu": "2026-11-05"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Comment les renouvelables se mobilisent contre la révision des tarifs solaires",
-  "lien": "https://www.greenunivers.com/2026/11/comment-les-renouvelables-se-mobilisent-contre-la-revision-des-tarifs-solaires-437868/",
-  "auteur": "Paul Messad",
-  "resume": "En commission fin octobre, les députés ont supprimé l’article 82 du projet de loi de finances, qui prévoyait la révision rétroactive des tarifs S6, S10 et surtout S21 sur les toitures solaires de 300 à 500 kWc. La filière a gagné une première bataille, mais pas la guerre. Malgré […]",
-  "pub": "2026-11-04",
-  "ts": 1793811821.0,
-  "vu": "2026-11-05"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Après les élections américaines, les valeurs des renouvelables progressent en Bourse",
-  "lien": "https://lenergeek.com/2026/11/04/midterms-americaines-renouvelables-bourse-4-novembre-2026/",
-  "auteur": "La Rédaction",
-  "resume": "La victoire démocrate aux élections de mi-mandat américaines s'accompagne le 4 novembre d'une réaction contrastée des marchés. Les valeurs des énergies renouvelables sont favorisées, mais aucun changement de politique énergétique n'est encore acté. L’article Après les élections […]",
-  "pub": "2026-11-04",
-  "ts": 1793806800.0,
-  "vu": "2026-11-05"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Décarbonation de l’industrie, un relais de croissance pour les EnR [Dossier]",
-  "lien": "https://www.greenunivers.com/2026/11/decarbonation-de-lindustrie-un-relais-de-croissance-pour-les-enr-dossier-437754/",
-  "auteur": "GreenUnivers",
-  "resume": "Quel est le potentiel du marché de la décarbonation de l’industrie ? Et comment prendre la vague ? C’est ce que GreenUnivers a voulu identifier dans une enquête en quatre volets. Sur le papier, le débouché paraît évident pour les producteurs d’énergies renouvelables alors que […]",
-  "pub": "2026-11-04",
-  "ts": 1793805933.0,
-  "vu": "2026-11-05"
- },
- {
-  "source": "Batiactu",
-  "titre": "Dispositifs solaires et CEE : une fiche bonifiée… puis supprimée",
-  "lien": "https://www.batiactu.com/edito/dispositifs-solaires-et-cee-fiche-bonifiee-puis-supprimee-75779.php",
-  "auteur": "Batiactu",
-  "resume": "AIDES. Le gouvernement a supprimé une fiche d'opération standardisée qui avait récemment bénéficié d'une bonification.",
-  "pub": "2026-11-04",
-  "ts": 1793804699.0,
-  "vu": "2026-11-05"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Une offre intégrée associant stockage d’énergie, valorisation sur les marchés de l’électricité et solution de financement",
-  "lien": "https://www.pv-magazine.fr/2026/11/04/une-offre-integree-associant-stockage-denergie-valorisation-sur-les-marches-de-lelectricite-et-solution-de-financement/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Face à la volatilité des prix de l’électricité, Saft entend faciliter l’accès des industriels au stockage par batteries. Avec son offre EnerShift, le fabricant propose un accompagnement couvrant le financement, le déploiement et le pilotage des installations, ainsi que la […]",
-  "pub": "2026-11-04",
-  "ts": 1793804400.0,
-  "vu": "2026-11-05"
- },
- {
-  "source": "pv magazine France",
-  "titre": "L’Allemagne attribue 288 MW de capacités PV en toiture à un prix moyen de 96,70 €/MWh",
-  "lien": "https://www.pv-magazine.fr/2026/11/04/lallemagne-attribue-288-mw-de-capacites-pv-en-toiture-a-un-prix-moyen-de-9670-e-mwh/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "La dernière procédure d’appel d’offres allemande consacrée au photovoltaïque en toiture a reçu 177 propositions, représentant une puissance totale de 347 MW. Au final, 108 projets, totalisant 208 MW, ont été retenus.",
-  "pub": "2026-11-04",
-  "ts": 1793802600.0,
-  "vu": "2026-11-05"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Au Mans, Radiant ressuscite la centrale solaire à concentration",
-  "lien": "https://www.greenunivers.com/2026/11/au-mans-radiant-ressuscite-la-centrale-solaire-a-concentration-437771/",
-  "auteur": "Jean-Philippe Pié",
-  "resume": "Reportage – « Ils ont vraiment construit très vite cette centrale », se réjouit Maxime Brousse, spécialiste de l’énergie au start-up studio Hexa. Après avoir misé 500 000€ l’année dernière sur la jeune pousse du solaire Radiant, l’investisseur assistait ce matin au Mans […]",
-  "pub": "2026-11-04",
-  "ts": 1793801955.0,
-  "vu": "2026-11-05"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Le télescope spatial James-Webb confirme un âge extraordinaire pour la comète interstellaire 3I/Atlas",
-  "lien": "https://www.futura-sciences.com/sciences/actualites/3i-atlas-telescope-spatial-james-webb-confirme-age-extraordinaire-comete-interstellaire-3i-atlas-139055/",
-  "auteur": "Laurent Sacco, Journaliste scientifique",
-  "resume": "Les objets interstellaires qui traversent le Système solaire sont fascinants. Ils nous permettent d'imaginer, dans un futur proche, des missions avec des retours d'échantillons qui viendraient donc d'autres systèmes stellaires et planétaires. En attendant, les observations du […]",
-  "pub": "2026-11-04",
-  "ts": 1793801613.0,
-  "vu": "2026-11-05"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Loup : vers un nouvel assouplissement des tirs et du nombre de spécimens prélevables",
-  "lien": "https://www.actu-environnement.com/ae/news/loup-assouplissement-tirs-prelevement-arrete-48766.php4",
-  "auteur": "",
-  "resume": "Le ministère de la Transition écologique soumet à la consultation du public jusqu'au 22 novembre prochain deux projets d'arrêtés relatifs au loup pris en application de la loi d'urgence agricole promulguée le 18 août dernier. Cette dernière a renf...",
-  "pub": "2026-11-04",
-  "ts": 1793800973.0,
-  "vu": "2026-11-04"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Etats-Unis : les élections de mi-mandat confortent les renouvelables en Bourse",
-  "lien": "https://www.greenunivers.com/2026/11/etats-unis-les-elections-de-mi-mandat-confortent-les-renouvelables-en-bourse-437778/",
-  "auteur": "Paul Messad",
-  "resume": "La loi de la pompe. Les républicains ont perdu cette nuit les élections des midterms au profit des démocrates, désormais majoritaire au Congrès. La résultante L’article Etats-Unis : les élections de mi-mandat confortent les renouvelables en Bourse est apparu en premier sur […]",
-  "pub": "2026-11-04",
-  "ts": 1793800744.0,
-  "vu": "2026-11-04"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Engie met en service 450 MW de capacité solaire en Inde",
-  "lien": "https://www.pv-magazine.fr/2026/11/04/engie-met-en-service-450-mw-de-capacite-solaire-en-inde/",
-  "auteur": "Francois Puthod",
-  "resume": "L’énergéticien français ajoute 450 MW de capacité solaire opérationnelle à son portefeuille avec la mise en service des projets de Khaba (Rajasthan) et de Khavda (Gujarat), qui seront valorisés dans le cadre de PPA.",
-  "pub": "2026-11-04",
-  "ts": 1793797200.0,
-  "vu": "2026-11-04"
- },
- {
-  "source": "Energy-Storage.news",
-  "titre": "Could BESS move towards LMFP battery chemistry?",
-  "lien": "https://www.energy-storage.news/could-bess-move-towards-lmfp-battery-chemistry/",
-  "auteur": "Liam Critchley",
-  "resume": "What is LMFP battery chemistry, and why is interest growing in it as a possible alternative to LFP batteries in battery energy storage system (BESS) applications?",
-  "pub": "2026-11-04",
-  "ts": 1793792704.0,
-  "vu": "2026-11-04"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Batteries et postes électriques en zone agricole : la compatibilité sans mode d’emploi",
-  "lien": "https://www.pv-magazine.fr/2026/11/04/batteries-et-postes-electriques-en-zone-agricole-la-compatibilite-sans-mode-demploi/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Emprise clôturée, parcelle ou exploitation ? En un an, les juridictions administratives de Lille, Nantes, Rennes et Orléans ont apporté des réponses divergentes à une même question : à quelle échelle apprécier la compatibilité d’une centrale de stockage avec l’activité agricole […]",
-  "pub": "2026-11-04",
-  "ts": 1793786400.0,
-  "vu": "2026-11-04"
- },
- {
-  "source": "Enerplan",
-  "titre": "Déplafonnement des primes : arrêté publié",
-  "lien": "https://www.enerplan.asso.fr/deplafonnement-des-primes-arrete-publie/",
-  "auteur": "Marlène CHALVIN",
-  "resume": "",
-  "pub": "2026-11-04",
-  "ts": 1793785179.0,
-  "vu": "2026-11-04"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Avis de marchés publics dans le PV en France",
-  "lien": "https://www.pv-magazine.fr/2026/11/04/avis-de-marches-publics-dans-le-pv-en-france-145/",
-  "auteur": "Francois Puthod",
-  "resume": "Retrouvez chaque semaine dans pv magazine les appels d’offres publiés relatifs aux projets photovoltaïques en France.",
-  "pub": "2026-11-04",
-  "ts": 1793782800.0,
-  "vu": "2026-11-04"
- },
- {
-  "source": "INES",
-  "titre": "Collectivités : tour d'horizon pour comprendre, financer et réussir vos projets photovoltaïques",
-  "lien": "https://www.ines-solaire.org/agenda/tour-dhorizon-pour-comprendre-financer-et-reussir-vos-projets-photovoltaiques/",
-  "auteur": "",
-  "resume": "",
-  "pub": "2026-11-04",
-  "ts": 1793781654.0,
-  "vu": "2026-11-04"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Solaire résidentiel avec stockage : les onduleurs formateurs de réseau améliorent la stabilité et la rentabilité des installations",
-  "lien": "https://www.pv-magazine.fr/2026/11/04/solaire-residentiel-avec-stockage-les-onduleurs-formateurs-de-reseau-ameliorent-la-stabilite-et-la-rentabilite-des-installations/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Des chercheurs roumains ont montré que les onduleurs formateurs de réseau améliorent la stabilité du réseau électrique, le rétablissement de la tension et de la fréquence ainsi que les capacités d’alimentation de secours des installations solaires résidentielles avec stockage […]",
-  "pub": "2026-11-04",
-  "ts": 1793777400.0,
-  "vu": "2026-11-04"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Électricité renouvelable : la CRE actualise les données de rémunération au pas de quinze minutes",
-  "lien": "https://lenergeek.com/2026/11/04/cre-donnees-complement-remuneration-m0-quinze-minutes-novembre-2026-0837/",
-  "auteur": "La Rédaction",
-  "resume": "La Commission de régulation de l’énergie a actualisé le 3 novembre ses données servant au calcul des compléments de rémunération des producteurs d’électricité renouvelable. Le prix de référence M0 repose désormais sur des périodes de quinze minutes, avec un traitement distinct […]",
-  "pub": "2026-11-04",
-  "ts": 1793774328.0,
-  "vu": "2026-11-04"
- },
- {
-  "source": "Enerzine",
-  "titre": "Alimenter en énergie le vol solaire",
-  "lien": "https://www.enerzine.com/alimenter-en-energie-le-vol-solaire/198986-2026-11",
-  "auteur": "La rédaction",
-  "resume": "Un élégant avion solaire sans pilote qui vole dans l’atmosphère pour surveiller le climat ou suivre les incendies de forêt n’était autrefois qu’une idée. Aujourd’hui, ces aéronefs spécialisés de haute altitude progressent des premières démonstrations de prototypage vers […]",
-  "pub": "2026-11-04",
-  "ts": 1793765400.0,
-  "vu": "2026-11-04"
  }
 ]
