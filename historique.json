@@ -10,8 +10,158 @@
   "vu": "2026-10-06"
  },
  {
+  "source": "Actu-Environnement",
+  "titre": "La chaleur solaire a enfin son plan",
+  "lien": "https://www.actu-environnement.com/ae/news/plan-national-solaire-thermique-deploiement-48802.php4",
+  "auteur": "",
+  "resume": "Après deux ans de travaux, le plan national pour le solaire thermique a enfin été dévoilé. Il vise à accélérer le déploiement de cette solution dans les bâtiments, mais aussi dans les activités économiques consommatrices de chaleur.",
+  "pub": "2026-11-16",
+  "ts": 1794838170.0,
+  "vu": "2026-11-16"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "288 kWc en autoconsommation collective dans le Vaucluse",
+  "lien": "https://www.pv-magazine.fr/2026/11/16/288-kwc-en-autoconsommation-collective-dans-le-vaucluse/",
+  "auteur": "Francois Puthod",
+  "resume": "À Caumont-sur-Durance (Vaucluse), le parking et la toiture d'un bâtiment de stockage accueillent une centrale solaire, dont la production servira à alimenter une boucle d’autoconsommation collective.",
+  "pub": "2026-11-16",
+  "ts": 1794837600.0,
+  "vu": "2026-11-16"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Pour ses Falcon, Dassault préfère les carburants durables à l’hydrogène",
+  "lien": "https://lenergeek.com/2026/11/16/dassault-trappier-hydrogene-carburants-durables-rtl-15-novembre/",
+  "auteur": "La Rédaction",
+  "resume": "Interrogé le 15 novembre sur RTL, Éric Trappier a réaffirmé son scepticisme sur l’avion à hydrogène. Le patron de Dassault privilégie les carburants durables et des appareils moins gourmands, face aux difficultés de stockage et d’intégration de l’hydrogène à bord. L’article Pour […]",
+  "pub": "2026-11-16",
+  "ts": 1794836400.0,
+  "vu": "2026-11-16"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Raccordement EnR et IRVE tertiaire : le casse-tête de la protection des départs pour les installateurs B2B",
+  "lien": "https://www.enerzine.com/raccordement-enr-et-irve-tertiaire-le-casse-tete-de-la-protection-des-departs-pour-les-installateurs-b2b/200537-2026-11",
+  "auteur": "La rédaction",
+  "resume": "Installer des panneaux photovoltaïques en toiture ou des bornes de recharge sur le parking d’une entreprise oblige en pratique à regarder au-delà des circuits à ajouter. Au tableau général basse tension (TGBT), la production locale et les nouveaux usages modifient les conditions […]",
+  "pub": "2026-11-16",
+  "ts": 1794835866.0,
+  "vu": "2026-11-16"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Centres de données et climat : l’ONU exige une électricité propre en plus de la demande de l’IA",
+  "lien": "https://lenergeek.com/2026/11/16/centres-donnees-ia-electricite-propre-climat-cop31/",
+  "auteur": "Aurélie Giraud",
+  "resume": "À la COP31, le 16 novembre 2026, Simon Stiell a demandé aux entreprises de l’intelligence artificielle d’alimenter leurs centres de données avec des énergies renouvelables, sans faire supporter aux autres consommateurs les coûts de leur expansion. Le choix du mode de production […]",
+  "pub": "2026-11-16",
+  "ts": 1794834900.0,
+  "vu": "2026-11-16"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Des batteries domestiques Anker Solix pilotées par Frank Énergie",
+  "lien": "https://www.pv-magazine.fr/2026/11/16/des-batteries-domestiques-anker-solix-pilotees-par-frank-energie/",
+  "auteur": "Francois Puthod",
+  "resume": "En associant leurs expertises, Frank Énergie et Anker Solix entendent faciliter l’accès des particuliers au stockage intelligent de l’énergie et accompagner l’évolution des usages liés à la production solaire.",
+  "pub": "2026-11-16",
+  "ts": 1794834000.0,
+  "vu": "2026-11-16"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "PV and batteries could help cut global power costs by 40% in 2030s",
+  "lien": "https://www.pv-magazine.com/2026/11/16/pv-and-batteries-could-help-cut-global-power-costs-by-40-in-2030s/",
+  "auteur": "Emiliano Bellini",
+  "resume": "A Schneider Electric Research Institute analysis of 40,500 scenarios finds that coordinated investment in distributed solar, battery energy storage and electrified demand could reduce total global electricity system costs by up to 40% in the 2030s, provided technology costs fall […]",
+  "pub": "2026-11-16",
+  "ts": 1794833672.0,
+  "vu": "2026-11-16"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "COMAC réussit le premier vol habité de son avion électrique CE-25A",
+  "lien": "https://lenergeek.com/2026/11/16/batterie-catl-ce-25a-moteurs-electriques-aviation/",
+  "auteur": "Paolo Garoscio",
+  "resume": "Le 14 novembre 2026, COMAC a réussi le premier vol habité de son CE-25A, avion électrique de 19 places équipé de dix moteurs alimentés par des batteries CATL. Cette architecture énergétique inédite valide une rupture technologique dans l'aviation régionale, avec une autonomie de […]",
+  "pub": "2026-11-16",
+  "ts": 1794831027.0,
+  "vu": "2026-11-16"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Allemagne : TotalEnergies battu par Kretinsky pour les centrales à gaz",
+  "lien": "https://lenergeek.com/2026/11/16/centrales-gaz-allemagne-transition/",
+  "auteur": "Cédric Bonnefoy",
+  "resume": "Le milliardaire tchèque Daniel Kretinsky remporte plusieurs contrats stratégiques en Allemagne pour la construction de centrales à gaz de secours, devançant TotalEnergies. Ces installations doivent pallier l'intermittence des renouvelables avant la fermeture du charbon en 2038 […]",
+  "pub": "2026-11-16",
+  "ts": 1794830869.0,
+  "vu": "2026-11-16"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Solar, wind and batteries can deliver firm power at $0.086/kWh, says Ember",
+  "lien": "https://www.pv-magazine.com/2026/11/16/solar-wind-and-batteries-can-deliver-firm-power-at-e78-mwh-says-ember/",
+  "auteur": "Pilar Sánchez Molina",
+  "resume": "An analysis by Ember finds that adding wind power to solar PV and battery storage systems reduces the median cost of meeting 90% of electricity demand from $105/MWh to $86/MWh. The cost could fall further to $52/MWh by 2050, based on the regional cost projections used in the […]",
+  "pub": "2026-11-16",
+  "ts": 1794830747.0,
+  "vu": "2026-11-16"
+ },
+ {
   "source": "Futura Sciences",
-  "titre": "Aurores boréales en Norvège : ce spectacle incroyable cache un phénomène encore plus étonnant !",
+  "titre": "Pre-Black Friday : ce puissant onduleur solaire hybride de 5500 W voit son tarif chuter de 88 € !",
+  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-energie-renouvelable-pre-black-friday-ce-puissant-onduleur-solaire-hybride-5500-w-voit-son-tarif-chuter-88-11852/",
+  "auteur": "Équipe Bons plans, Contenu avec affiliation",
+  "resume": "Réduire sa facture d'électricité ou sécuriser son installation photovoltaïque hors réseau devient nettement plus accessible !",
+  "pub": "2026-11-16",
+  "ts": 1794828606.0,
+  "vu": "2026-11-16"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Électricité : et si votre maison vous aidait à reprendre la main sur votre facture ?",
+  "lien": "https://www.pv-magazine.fr/2026/11/16/electricite-et-si-votre-maison-vous-aidait-a-reprendre-la-main-sur-votre-facture/",
+  "auteur": "Bernadette Geyer",
+  "resume": "Face à la hausse des prix de l’électricité, les Français cherchent à reprendre la maîtrise de leur facture énergétique. L’autoconsommation solaire, associée au stockage par batterie, offre une solution concrète pour mieux valoriser sa production et réduire sa dépendance au […]",
+  "pub": "2026-11-16",
+  "ts": 1794823200.0,
+  "vu": "2026-11-16"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Masdar achève un projet solaire et de stockage par batteries de 875 millions d’euros en Californie",
+  "lien": "https://www.pv-magazine.fr/2026/11/16/masdar-acheve-un-projet-solaire-et-de-stockage-par-batteries-de-875-millions-deuros-en-californie/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Le développeur d’énergies propres basé à Abou Dhabi et son partenaire dans le cadre de leur coentreprise, Terra-Gen, ont mis en service le complexe de Lockhart. Celui-ci ajoute 365 MW de capacité de production solaire et 173,7 MW de stockage d’énergie au réseau électrique […]",
+  "pub": "2026-11-16",
+  "ts": 1794814200.0,
+  "vu": "2026-11-16"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "En Chine, la production hydroélectrique chute de 18,9 % sur un an en octobre",
+  "lien": "https://lenergeek.com/2026/11/16/chine-production-hydroelectrique-octobre-2026/",
+  "auteur": "La Rédaction",
+  "resume": "En octobre, les grands producteurs chinois d’électricité ont enregistré une baisse de 18,9 % de leur production hydraulique sur un an. L’éolien et le solaire progressent chacun de plus de 30 %, mais le volume total d’électricité produit recule de 2,1 %. L’article En Chine, la […]",
+  "pub": "2026-11-16",
+  "ts": 1794810897.0,
+  "vu": "2026-11-16"
+ },
+ {
+  "source": "Transitions & Énergies",
+  "titre": "Les vols de câbles en cuivre sont devenus le fléau des bornes de recharge et des parcs photovoltaïques",
+  "lien": "https://www.transitionsenergies.com/vols-cables-cuivre-fleau-bornes-recharge-parcs-photovoltaiques/",
+  "auteur": "La rédaction",
+  "resume": "Les cours de cuivre battent des records historiques à près de 15.000 dollars la tonne et la crainte grandit dans le monde d’une pénurie d’un métal qui est tout simplement indispensable à la transition énergétique et à l’électrification. Le pétrole du XXIème siècle pour employer […]",
+  "pub": "2026-11-16",
+  "ts": 1794793542.0,
+  "vu": "2026-11-16"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "Aurores boréales en Norvège : derrière cette beauté irréelle se cache une incroyable tempête venue du Soleil !",
   "lien": "https://www.futura-sciences.com/planete/actualites/tresor-aurores-boreales-ce-mysterieux-phenomene-embrase-t-il-nuits-norvege-131299/",
   "auteur": "Guillaume Josse, CEO, fondateur de Futura",
   "resume": "Chaque hiver, les aurores boréales transforment le ciel de Norvège en une fresque mouvante d’émeraude et de pourpre. Derrière cette danse hypnotique se cache pourtant un phénomène scientifique d’une puissance vertigineuse : la rencontre entre les tempêtes solaires et le champ […]",
@@ -1328,195 +1478,5 @@
   "pub": "2026-11-06",
   "ts": 1793939310.0,
   "vu": "2026-11-06"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Réseaux électriques et stockage : Christine Lagarde appelle l’Europe à investir pour résister aux chocs climatiques",
-  "lien": "https://lenergeek.com/2026/11/06/lagarde-bce-reseaux-stockage-resilience-climat-novembre-2026/",
-  "auteur": "La Rédaction",
-  "resume": "Dans une prise de position publiée le 4 novembre, la présidente de la Banque centrale européenne plaide pour des réseaux électriques plus flexibles et une meilleure couverture des catastrophes climatiques. Elle présente ces investissements comme un enjeu de résilience […]",
-  "pub": "2026-11-05",
-  "ts": 1793920532.0,
-  "vu": "2026-11-06"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Au Royaume-Uni, les nouveaux parcs éoliens et solaires devront rémunérer les communautés locales",
-  "lien": "https://lenergeek.com/2026/11/05/royaume-uni-projet-loi-retombees-locales-eolien-solaire-2026/",
-  "auteur": "La Rédaction",
-  "resume": "Le gouvernement britannique a présenté le 4 novembre un projet de loi qui prévoit des avantages obligatoires pour les collectivités accueillant certains nouveaux projets renouvelables. Les montants envisagés diffèrent entre éolien et solaire et devront encore être précisés par […]",
-  "pub": "2026-11-05",
-  "ts": 1793906106.0,
-  "vu": "2026-11-06"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "PPE3 : les objectifs renouvelables votés en régions dépassent globalement la trajectoire nationale",
-  "lien": "https://www.actu-environnement.com/ae/news/ppe3-objectifs-regionaux-renouvelables-trajectoire-48771.php4",
-  "auteur": "",
-  "resume": "Le Syndicat des énergies renouvelables (SER) a publié, ce 5 novembre, son bilan des votes rendus par les comités régionaux de l'énergie (CRé) sur la déclinaison régionale de la troisième programmation pluriannuelle de l'énergie (PPE 3). La somme d...",
-  "pub": "2026-11-05",
-  "ts": 1793896737.0,
-  "vu": "2026-11-06"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Financé par Marguerite, Nexun achète 60 MW agrivoltaïques en France",
-  "lien": "https://www.greenunivers.com/2026/11/finance-par-marguerite-nexun-achete-60-mw-agrivoltaiques-en-france-437923/",
-  "auteur": "GreenUnivers",
-  "resume": "Nexun acquiert 60 MW agrivoltaïques appartenant à « un grand groupe énergétique européen », selon le communiqué de ce développeur. Il précise qu’il s’agit L’article Financé par Marguerite, Nexun achète 60 MW agrivoltaïques en France est apparu en premier sur GreenUnivers .",
-  "pub": "2026-11-05",
-  "ts": 1793894385.0,
-  "vu": "2026-11-06"
- },
- {
-  "source": "Enerplan",
-  "titre": "Réunion de filière PV Sol et agrivoltaïsme ( 5 novembre 2026)",
-  "lien": "https://www.enerplan.asso.fr/sinscrire-a-la-reunion-de-filiere-pv-sol-agrippv-novembre/",
-  "auteur": "Marlène CHALVIN",
-  "resume": "",
-  "pub": "2026-11-05",
-  "ts": 1793887366.0,
-  "vu": "2026-11-05"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Moon Énergie et AFA Solar rejoignent l’accélérateur Solarock",
-  "lien": "https://www.pv-magazine.fr/2026/11/05/moon-energie-et-afa-solar-rejoignent-laccelerateur-solarock/",
-  "auteur": "Francois Puthod",
-  "resume": "Les deux installateurs d’Aquitaine intègrent le réseau Powered by Solorack, un programme inspiré du « business in a box » américain, qui réunit plusieurs installateurs photovoltaïques indépendants.",
-  "pub": "2026-11-05",
-  "ts": 1793887200.0,
-  "vu": "2026-11-05"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Le photovoltaïque a réduit de 17,02 milliards d’euros le coût de l’électricité en Espagne en 18 mois",
-  "lien": "https://www.pv-magazine.fr/2026/11/05/le-photovoltaique-a-reduit-de-1702-milliards-deuros-le-cout-de-lelectricite-en-espagne-en-18-mois/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Selon une étude de l’association espagnole du solaire UNEF, la production photovoltaïque a permis de réduire de 17,02 milliards d’euros les coûts de l’électricité sur le marché de gros espagnol entre janvier 2025 et juin 2026. Sans cette production solaire, les prix moyens […]",
-  "pub": "2026-11-05",
-  "ts": 1793883600.0,
-  "vu": "2026-11-05"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Mois sans tabac : arrêter de fumer pendant 30 jours multiplie les chances de réussir, encore faut-il éviter cette erreur fréquente",
-  "lien": "https://www.futura-sciences.com/sante/actualites/mois-tabac-mois-tabac-arreter-fumer-pendant-30-jours-multiplie-chances-reussir-encore-faut-il-eviter-cette-erreur-frequente-139060/",
-  "auteur": "Destination Santé et Futura",
-  "resume": "Pour la plupart des anciens fumeurs, l'arrêt de la cigarette ne s'est pas fait du jour au lendemain : aux tentatives succèdent les rechutes puis le découragement et le renoncement… par manque d'aide ou par manque de confiance en soi. C'est sur ce double obstacle que s'appuie […]",
-  "pub": "2026-11-05",
-  "ts": 1793881052.0,
-  "vu": "2026-11-05"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Déplafonnement des contrats ENR : les nouveaux prix seuils publiés au Journal officiel",
-  "lien": "https://www.actu-environnement.com/ae/news/prix-seuils-complement-remuneration-enr-arrete-48769.php4",
-  "auteur": "",
-  "resume": "L'arrêté fixant les prix seuils par filière pour le déplafonnement de certains contrats de complément de rémunération des énergies renouvelables (ENR) a été publié au Journal officiel le 4 novembre. Il met en oeuvre le dispositif révisé par la loi...",
-  "pub": "2026-11-05",
-  "ts": 1793877352.0,
-  "vu": "2026-11-05"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Reflex : apprendre les nouveaux risques pour raccorder plus de solaire, plus vite (2/7)",
-  "lien": "https://www.pv-magazine.fr/2026/11/05/reflex-apprendre-les-nouveaux-risques-pour-raccorder-plus-de-solaire-plus-vite-2-7/",
-  "auteur": "Marie Beyer",
-  "resume": "Enedis généralise une méthode qui permet de proposer davantage de capacités de raccordement sur des postes sources saturés, en échange d’écrêtements ponctuels. En 2025, 653 MWh non injectés ont été indemnisés en moyenne à 74 €/MWh : un risque à intégrer dès la conception des […]",
-  "pub": "2026-11-05",
-  "ts": 1793872800.0,
-  "vu": "2026-11-05"
- },
- {
-  "source": "Enerzine",
-  "titre": "Une batterie de 2,77 micromètres mise sur l’étain et le carbone pour limiter les pertes de lithium",
-  "lien": "https://www.enerzine.com/batterie-ultrafine-etain-carbone-lithium/199458-2026-11",
-  "auteur": "La rédaction",
-  "resume": "Des chercheurs de l’université Dongguk, à Séoul, ont conçu une batterie tout solide en couches minces, dite « sans anode », de seulement 2,77 micromètres d’épaisseur. Une couche intermédiaire d’étain et de carbone guide le dépôt du lithium et limite ses pertes au fil des cycles […]",
-  "pub": "2026-11-05",
-  "ts": 1793870572.0,
-  "vu": "2026-11-05"
- },
- {
-  "source": "pv magazine",
-  "titre": "Tokyo tests solar-powered hydrogen production at high-rise office complex",
-  "lien": "https://www.pv-magazine.com/2026/11/05/tokyo-tests-solar-powered-hydrogen-production-at-high-rise-office-complex/",
-  "auteur": "Emiliano Bellini",
-  "resume": "Three Japanese companies are deploying a solar-powered hydrogen production and storage system at a commercial complex in Tokyo. The project combines rooftop photovoltaics, battery storage, hydrogen-absorbing alloys and fuel cells to supply electricity to parts of the building.",
-  "pub": "2026-11-05",
-  "ts": 1793869859.0,
-  "vu": "2026-11-05"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Un chauffe-eau thermodynamique résidentiel avec un coefficient d’efficacité énergétique pouvant atteindre 4",
-  "lien": "https://www.pv-magazine.fr/2026/11/05/un-chauffe-eau-thermodynamique-residentiel-avec-un-coefficient-defficacite-energetique-pouvant-atteindre-4/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "L’entreprise canadienne Jetson Home a présenté un nouveau chauffe-eau thermodynamique résidentiel affichant un coefficient énergétique uniforme (UEF) pouvant atteindre 4,0 et des capacités de stockage comprises entre 189 et 303 litres. Le système intègre un chauffage électrique […]",
-  "pub": "2026-11-05",
-  "ts": 1793869200.0,
-  "vu": "2026-11-05"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Black Month : ce Xiaomi Redmi Note 15 Pro 5G avec capteur 200 MP voit son prix chuter",
-  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-smartphones-black-month-ce-xiaomi-redmi-note-15-pro-5g-capteur-200-mp-voit-son-prix-chuter-11758/",
-  "auteur": "Mohamed El Alami, Rédacteur Web",
-  "resume": "Le Xiaomi Redmi Note 15 Pro 5G fait déjà baisser la facture avant le Black Friday ! Avec son écran AMOLED 120 Hz, son capteur photo de 200 MP et sa batterie généreuse, ce smartphone profite d’une belle remise chez Cdiscount. Une promo qui tombe à pic pour changer de téléphone […]",
-  "pub": "2026-11-05",
-  "ts": 1793869200.0,
-  "vu": "2026-11-05"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Longi dévoile un module solaire à contacts arrière de 690 W affichant un rendement de 25,54 %",
-  "lien": "https://www.pv-magazine.fr/2026/11/05/longi-devoile-un-module-solaire-a-contacts-arriere-de-690-w-affichant-un-rendement-de-2554/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Le fabricant chinois Longi a présenté sa nouvelle série de modules photovoltaïques à contacts arrière Hi-MO X12, dotés d’une feuille conductrice intégrée qui remplace les rubans soudés traditionnels par des circuits en feuille métallique. Selon l’entreprise, cette conception […]",
-  "pub": "2026-11-05",
-  "ts": 1793867400.0,
-  "vu": "2026-11-05"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Cuivre et réseaux électriques : pourquoi l’approvisionnement devient stratégique",
-  "lien": "https://lenergeek.com/2026/11/05/cuivre-reseaux-electriques-approvisionnement-transition-2026-11-05/",
-  "auteur": "La Rédaction",
-  "resume": "Câbles, transformateurs, renouvelables : le cuivre est au cœur de l’électrification. Les projections de l’AIE et les analyses de RTE éclairent les risques et les solutions. L’article Cuivre et réseaux électriques : pourquoi l’approvisionnement devient stratégique est apparu en […]",
-  "pub": "2026-11-05",
-  "ts": 1793865322.0,
-  "vu": "2026-11-05"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Le nouvel état-major de TotalEnergies Renouvelables France",
-  "lien": "https://www.greenunivers.com/2026/11/le-nouvel-etat-major-de-totalenergies-renouvelables-france-437820/",
-  "auteur": "Jacopo Landi",
-  "resume": "*Article modifié le 6/11 suite à des précisions de TotalEnergies sur la direction des EnR en outremer TotalEnergies a fait évoluer son organisation interne cette année, ce qui, pour la branche Integrated Power, a conduit à la création d’équipes par pays, remplaçant L’article Le […]",
-  "pub": "2026-11-05",
-  "ts": 1793864700.0,
-  "vu": "2026-11-05"
- },
- {
-  "source": "pv magazine France",
-  "titre": "BayWa r.e. et la SEM Energies Hauts-de-France s’associent autour du projet agrivoltaïque de Thennes",
-  "lien": "https://www.pv-magazine.fr/2026/11/05/baywa-r-e-et-la-sem-energies-hauts-de-france-sassocient-autour-du-projet-agrivoltaique-de-thennes/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "La SEM Energies Hauts-de-France entre à hauteur de 30 % au capital de Thennes Energies, société portant le projet agrivoltaïque développé par BayWa r.e. dans la Somme. Cette opération constitue la première concrétisation d’un partenariat appelé à se déployer plus largement dans […]",
-  "pub": "2026-11-05",
-  "ts": 1793863800.0,
-  "vu": "2026-11-05"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Fonds Chaleur : pourquoi certaines aides sont suspendues et quels projets restent éligibles",
-  "lien": "https://lenergeek.com/2026/11/05/fonds-chaleur-aides-suspension-pac-solaire-guichets-2026-11-05/",
-  "auteur": "La Rédaction",
-  "resume": "L'ADEME signale la fermeture d'une aide aux pompes à chaleur solaires, tandis que d'autres dispositifs du Fonds Chaleur demeurent affichés ouverts. Voici comment distinguer les guichets. L’article Fonds Chaleur : pourquoi certaines aides sont suspendues et quels projets restent […]",
-  "pub": "2026-11-05",
-  "ts": 1793858381.0,
-  "vu": "2026-11-05"
  }
 ]
