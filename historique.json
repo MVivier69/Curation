@@ -1,5 +1,115 @@
 [
  {
+  "source": "GreenUnivers",
+  "titre": "Emploi : quels profils pour l’électrification ?",
+  "lien": "https://www.greenunivers.com/2026/11/emploi-quels-profils-pour-lelectrification-438766/",
+  "auteur": "Jacopo Landi",
+  "resume": "Réseaux énergétiques, décarbonation industrielle, flexibilité…. tout n’est pas noir pour l’emploi dans la transition énergétique en France. Le développement des L’article Emploi : quels profils pour l’électrification ? est apparu en premier sur GreenUnivers .",
+  "pub": "2026-11-17",
+  "ts": 1794930445.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "Energy-Storage.news",
+  "titre": "US solar’s new makers, batteries for data centres and electrostates vs petrostates: PV Tech Power 46 out now!",
+  "lien": "https://www.energy-storage.news/us-solars-new-makers-batteries-for-data-centres-and-electrostates-vs-petrostates-pv-tech-power-46-out-now/",
+  "auteur": "Ben Willis",
+  "resume": "The latest edition of PV Tech Power is available to download, full of exclusive content for the downstream solar PV and BESS industries.",
+  "pub": "2026-11-17",
+  "ts": 1794928837.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "Actu-Environnement",
+  "titre": "Méthanisation : la justice administrative valide une autorisation d'exploitation dans l'Aveyron",
+  "lien": "https://www.actu-environnement.com/ae/news/methanisation-aveyron-autorisation-exploitation-validee-48809.php4",
+  "auteur": "",
+  "resume": "Par une décision du 5 novembre 2026, la cour administrative d'appel de Toulouse a rejeté la requête dirigée contre les jugements de première instance et contre les arrêtés du préfet de l'Aveyron en date du 18 juillet 2023 et du 16 mai 2025 qui ont...",
+  "pub": "2026-11-17",
+  "ts": 1794925332.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "18 M€ pour 17 projets solaires destinés aux industriels mauriciens",
+  "lien": "https://www.pv-magazine.fr/2026/11/17/18-me-pour-17-projets-solaires-destines-aux-industriels-mauriciens/",
+  "auteur": "Francois Puthod",
+  "resume": "Le producteur français GreenYellow et la banque mauricienne MCB concluent un financement de 18 millions d’euros pour développer plus de 25 MWc de projets photovoltaïques dans l’île de l’océan Indien.",
+  "pub": "2026-11-17",
+  "ts": 1794924000.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "EnBW valide une batterie de 170 MWh à Forbach, en Allemagne",
+  "lien": "https://lenergeek.com/2026/11/17/enbw-batterie-170-mwh-forbach-allemagne-16-novembre-2026/",
+  "auteur": "La Rédaction",
+  "resume": "EnBW a décidé d’ajouter un stockage par batterie à son site hydraulique de Forbach, en Forêt-Noire. La construction est prévue à partir de 2028, pour une mise en service en 2029. L’article EnBW valide une batterie de 170 MWh à Forbach, en Allemagne est apparu en premier sur […]",
+  "pub": "2026-11-17",
+  "ts": 1794922234.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Bouygues construit une centrale solaire hybride en Australie",
+  "lien": "https://www.pv-magazine.fr/2026/11/17/bouygues-construit-une-centrale-solaire-hybride-en-australie/",
+  "auteur": "Francois Puthod",
+  "resume": "Bouygues Construction Australie et Equans Solar & Storage, filiale du groupe français, ont entamé la construction d’une centrale solaire hybride de 176 MWc à Muswellbrook, en Australie.",
+  "pub": "2026-11-17",
+  "ts": 1794922200.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "Cette clôture de jardin à 3 panneaux passe sous les 200 € chez VEVOR avant le Black Friday",
+  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-jardin-cette-cloture-jardin-3-panneaux-passe-sous-200-chez-vevor-avant-black-friday-11867/",
+  "auteur": "Mohamed El Alami, Rédacteur Web",
+  "resume": "Les poubelles et climatiseurs n'ont plus leur place sous les projecteurs ! Avec ses trois panneaux occultants, la clôture de jardin horizontale VEVOR remet de l'ordre dans vos extérieurs. Et à l'approche du Black Friday, ce brise-vue profite d'une remise de 18 % chez VEVOR.",
+  "pub": "2026-11-17",
+  "ts": 1794920440.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Huawei dévoile un système de stockage résidentiel tout-en-un de 20 kW",
+  "lien": "https://www.pv-magazine.fr/2026/11/17/huawei-devoile-un-systeme-de-stockage-residentiel-tout-en-un-de-20-kw/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Huawei a lancé le Luterra S2, un système de stockage d’énergie résidentiel tout-en-un associant des onduleurs hybrides, des batteries lithium-fer-phosphate (LFP) et une gestion énergétique fondée sur l’intelligence artificielle. La gamme propose des puissances d’onduleur […]",
+  "pub": "2026-11-17",
+  "ts": 1794920400.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Pompes à chaleur : les nouvelles bonifications CEE entrent en vigueur ce 17 novembre",
+  "lien": "https://lenergeek.com/2026/11/17/pompe-chaleur-offres-integrees-bonifications-cee-17-novembre-2026/",
+  "auteur": "La Rédaction",
+  "resume": "Un arrêté ouvre un régime spécifique pour les pompes à chaleur air/eau proposées dans certaines offres intégrées sélectionnées par l’ADEME. Il concerne les opérations engagées à partir du 17 novembre, avec des conditions qui vont au-delà du seul choix de l’appareil. L’article […]",
+  "pub": "2026-11-17",
+  "ts": 1794920400.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "Actu-Environnement",
+  "titre": "Fuligule milouin : le Conseil d'État rejette la demande de suspension de sa chasse",
+  "lien": "https://www.actu-environnement.com/ae/news/fuligule-milouin-chasse-conseil-etat-48808.php4",
+  "auteur": "",
+  "resume": "Par une ordonnance du 13 novembre 2026, le juge des référés du Conseil d'État a rejeté la demande de suspension de l'arrêté ministériel du 31 août 2026 qui a autorisé le prélèvement de 5 000 spécimens de fuligules milouins durant la saison de chas...",
+  "pub": "2026-11-17",
+  "ts": 1794918167.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "PAC après 2027 : les filières bio française et allemande réclament un budget environnemental garanti",
+  "lien": "https://lenergeek.com/2026/11/17/pac-bio-budget-environnemental-fnab-bolw-16-novembre-2026/",
+  "auteur": "La Rédaction",
+  "resume": "La FNAB et le BÖLW ont lancé un appel commun le 16 novembre pour préserver des financements environnementaux et rendre obligatoire le soutien au bio. Leur intervention vise une réforme de la PAC encore en négociation, dont le budget définitif n’est pas arrêté. L’article PAC […]",
+  "pub": "2026-11-17",
+  "ts": 1794916800.0,
+  "vu": "2026-11-17"
+ },
+ {
   "source": "négaWatt",
   "titre": "Les énergies renouvelables, entre décarbonation nationale et développement territorial",
   "lien": "https://negawatt.org/Les-energies-renouvelables-entre-decarbonation-nationale-et-developpement",
@@ -8,6 +118,246 @@
   "pub": "2026-11-17",
   "ts": 1794914100.0,
   "vu": "2026-10-06"
+ },
+ {
+  "source": "Enerplan",
+  "titre": "Webinaire Solaire Thermique et industrie suite à Eurosun",
+  "lien": "https://www.enerplan.asso.fr/webinaire-solaire-thermique-et-industrie-suite-a-eurosun/",
+  "auteur": "Marlène CHALVIN",
+  "resume": "",
+  "pub": "2026-11-17",
+  "ts": 1794911772.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Dutch researchers develop LEGO-like solar blocks combining luminescent concentrators and perovskite PV cells",
+  "lien": "https://www.pv-magazine.com/2026/11/17/dutch-researchers-develop-lego-like-solar-blocks-combining-luminescent-concentrators-and-perovskite-pv-cells/",
+  "auteur": "Emiliano Bellini",
+  "resume": "The integration of perovskite PV cells will enable the colourful blocks to convert concentrated light into electricity, with expected efficiencies below 10%. Initial applications will target educational kits, with longer-term potential for building-integrated photovoltaics and […]",
+  "pub": "2026-11-17",
+  "ts": 1794908320.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Un modèle d’intelligence artificielle pour détecter les foyers d’incendie sur les centrales PV",
+  "lien": "https://www.pv-magazine.fr/2026/11/17/un-modele-dintelligence-artificielle-pour-detecter-les-foyers-dincendie-sur-les-centrales-pv/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Développé par des chercheurs du groupe public chinois China Huaneng Group, un système d’apprentissage profond a atteint une précision de détection de 87,4 % sur un jeu de données consacré aux installations photovoltaïques. Il permet également de réduire les fausses alertes […]",
+  "pub": "2026-11-17",
+  "ts": 1794906000.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "Solaire thermique : le plan national vise 10 TWh de chaleur en 2035, contre 1,5 TWh en 2022",
+  "lien": "https://www.lechodusolaire.fr/solaire-thermique-le-plan-national-vise-10-twh-de-chaleur-en-2035-contre-15-twh-en-2022/",
+  "auteur": "F. Fassot",
+  "resume": "Le ministère de la Transition écologique a lancé le 13 novembre le plan d’action national pour la filière solaire thermique, prévu par la troisième programmation pluriannuelle de l’énergie (PPE 3). Il doit porter la production de chaleur solaire de 1,5 TWh en 2022 à 6 TWh en […]",
+  "pub": "2026-11-17",
+  "ts": 1794905646.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "HoloSolis lève plus de 15 millions d’euros et fait entrer Trina Solar à son capital",
+  "lien": "https://www.lechodusolaire.fr/holosolis-leve-plus-de-15-millions-deuros-et-fait-entrer-trina-solar-a-son-capital/",
+  "auteur": "F. Fassot",
+  "resume": "Le futur fabricant de panneaux photovoltaïques HoloSolis a finalisé une levée de fonds de série A de plus de 15 millions d’euros, annoncée le 16 novembre. Quatre investisseurs entrent à son capital : le groupe Crédit Agricole, Algebris, Trina Solar et StarCharge. L’entreprise […]",
+  "pub": "2026-11-17",
+  "ts": 1794905605.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "Les installations solaires mondiales devraient reculer en 2026, pour la première fois depuis 2018",
+  "lien": "https://www.lechodusolaire.fr/les-installations-solaires-mondiales-devraient-reculer-en-2026-pour-la-premiere-fois-depuis-2018/",
+  "auteur": "F. Fassot",
+  "resume": "Après une année record en 2025, les installations solaires dans le monde devraient baisser en 2026 pour la première fois depuis 2018, prévoit le cabinet d’études GlobalData. Il attribue l’essentiel du recul au passage de la Chine à des tarifs fixés par le marché, et attend une […]",
+  "pub": "2026-11-17",
+  "ts": 1794905571.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "Engie et Google étudient l’approvisionnement renouvelable du data center envisagé près de Châteauroux",
+  "lien": "https://www.lechodusolaire.fr/engie-et-google-etudient-lapprovisionnement-renouvelable-du-data-center-envisage-pres-de-chateauroux/",
+  "auteur": "F. Fassot",
+  "resume": "Engie et Google ont signé un protocole d’accord, annoncé le 13 novembre, pour identifier les solutions énergétiques du data center que Google envisage près de Châteauroux (Indre). L’objectif est de faire d’Engie le partenaire privilégié de l’Américain pour la fourniture et la […]",
+  "pub": "2026-11-17",
+  "ts": 1794905504.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "BW ESS s’associe à Wattmen pour développer 500 MW de batteries en France",
+  "lien": "https://www.lechodusolaire.fr/bw-ess-sassocie-a-wattmen-pour-developper-500-mw-de-batteries-en-france/",
+  "auteur": "F. Fassot",
+  "resume": "Deux semaines après son entrée sur le marché français, BW ESS s’associe au développeur lyonnais Wattmen pour constituer en trois ans un portefeuille d’environ 500 MW de batteries autonomes raccordées au réseau de transport. Le partenariat, annoncé le 16 novembre, vise des […]",
+  "pub": "2026-11-17",
+  "ts": 1794905480.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "Atmoce fait tester au feu sa batterie résidentielle très basse tension par le CNPP",
+  "lien": "https://www.lechodusolaire.fr/atmoce-fait-tester-au-feu-sa-batterie-residentielle-tres-basse-tension-par-le-cnpp/",
+  "auteur": "F. Fassot",
+  "resume": "Atmoce publie les résultats d’un essai feu réalisé par le CNPP sur sa batterie résidentielle M-ELV, au lithium-fer-phosphate (LFP) et en très basse tension. Malgré la surchauffe forcée de cellules et l’allumage volontaire des gaz émis, le pack n’a pas connu d’emballement […]",
+  "pub": "2026-11-17",
+  "ts": 1794905460.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "Symphonics lance des contrats d’achat d’électricité solaire qui suivent la consommation des entreprises",
+  "lien": "https://www.lechodusolaire.fr/symphonics-lance-des-contrats-dachat-delectricite-solaire-qui-suivent-la-consommation-des-entreprises/",
+  "auteur": "F. Fassot",
+  "resume": "La start-up française Symphonics, agrégateur et fournisseur d’électricité, propose aux entreprises un contrat d’achat d’électricité de long terme (PPA) construit à partir de leur courbe de consommation, et non du profil de production des centrales. Elle assemble pour cela […]",
+  "pub": "2026-11-17",
+  "ts": 1794905436.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "L’Allemagne va produire pour la première fois 100 TWh de solaire en un an, mais la filière redoute un arrêt des aides",
+  "lien": "https://www.lechodusolaire.fr/lallemagne-va-produire-pour-la-premiere-fois-100-twh-de-solaire-en-un-an-mais-la-filiere-redoute-un-arret-des-aides/",
+  "auteur": "F. Fassot",
+  "resume": "L’Allemagne s’apprête à produire pour la première fois plus de 100 TWh d’électricité solaire en une année civile, annonce la fédération allemande de l’industrie solaire BSW-Solar. Elle alerte en même temps sur un possible arrêt des aides aux nouvelles installations au 1er […]",
+  "pub": "2026-11-17",
+  "ts": 1794905414.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "Frank Énergie va piloter les batteries domestiques d’Anker Solix",
+  "lien": "https://www.lechodusolaire.fr/frank-energie-va-piloter-les-batteries-domestiques-danker-solix/",
+  "auteur": "F. Fassot",
+  "resume": "Le fournisseur d’électricité néerlandais Frank Énergie, spécialiste de la tarification dynamique, s’associe à Anker Solix. Les utilisateurs de batteries domestiques de la marque, dont la nouvelle Solarbank Max AC, pourront confier leur charge, leur décharge et leur réinjection […]",
+  "pub": "2026-11-17",
+  "ts": 1794905391.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "DMEGC Solar développe un cadre en acier qui réduit l’ombrage à l’arrière des panneaux solaires",
+  "lien": "https://www.pv-magazine.fr/2026/11/17/dmegc-solar-developpe-un-cadre-en-acier-qui-reduit-lombrage-a-larriere-des-panneaux-solaires/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "DMEGC Solar introduit une nouvelle architecture de cadre en acier pour ses modules photovoltaïques bifaciaux. Grâce à une structure en forme de S, le fabricant annonce une réduction de 76 % de l'ombrage à l'arrière des panneaux et une meilleure résistance aux contraintes […]",
+  "pub": "2026-11-17",
+  "ts": 1794904200.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "BW ESS s’associe à Wattmen pour développer 500 MW de batteries en France",
+  "lien": "https://www.pv-magazine.fr/2026/11/17/bw-ess-sassocie-a-wattmen-pour-developper-500-mw-de-batteries-en-france/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "BW ESS et le développeur français Wattmen s’associent pour développer un portefeuille d’environ 500 MW de projets de stockage d’énergie par batteries en France au cours des trois prochaines années. Ce partenariat vise à faire émerger des installations de grande puissance, d’au […]",
+  "pub": "2026-11-17",
+  "ts": 1794900600.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Fresnel-based agrivoltaic system redistributes sunlight beneath solar modules to boost crop yields",
+  "lien": "https://www.pv-magazine.com/2026/11/17/fresnel-based-agrivoltaic-system-redistributes-sunlight-beneath-solar-modules-to-boost-crop-yields/",
+  "auteur": "Lior Kahana",
+  "resume": "Indian researchers have developed a Fresnel-based agrivoltaic system that redistributes sunlight beneath solar modules, increasing spearmint biomass by 13% compared with a conventional configuration. The system improves light uniformity without compromising electricity […]",
+  "pub": "2026-11-17",
+  "ts": 1794900218.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "La conception de cathodes hétérogènes guidée par l’IA dope la cinétique des batteries lithium-ion",
+  "lien": "https://www.enerzine.com/la-conception-de-cathodes-heterogenes-guidee-par-lia-dope-la-cinetique-des-batteries-lithium-ion/199830-2026-11",
+  "auteur": "La rédaction",
+  "resume": "La demande de densités énergétiques plus élevées et de capacités de charge plus rapides pour les batteries lithium-ion a poussé les chercheurs à concevoir des électrodes plus épaisses. Cependant, à mesure que l’épaisseur de la cathode augmente, de sévères limitations cinétiques […]",
+  "pub": "2026-11-17",
+  "ts": 1794897000.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Un ingénieur camerounais a conçu un climatiseur solaire en terre cuite qui peut abaisser la température d’une pièce de plus de 20 degrés",
+  "lien": "https://lenergeek.com/2026/11/17/un-ingenieur-camerounais-a-concu-un-climatiseur-solaire-en-terre-cuite-qui-peut-abaisser-la-temperature-dune-piece-de-plus-de-20-degres/",
+  "auteur": "Gabin Laurent",
+  "resume": "25 degrés de moins, zéro électricité, 137 euros : un ingénieur camerounais transforme l'argile et le soleil en climatiseur. Son secret s'inspire d'une technique vieille de plusieurs siècles, encore utilisée au Sahel. L’article Un ingénieur camerounais a conçu un climatiseur […]",
+  "pub": "2026-11-17",
+  "ts": 1794896414.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Solaire : le Groupe Solges Energy en redressement judiciaire",
+  "lien": "https://www.greenunivers.com/2026/11/solaire-le-groupe-solges-energy-en-redressement-judiciaire-438858/",
+  "auteur": "Jacopo Landi",
+  "resume": "Fondé en 2023 et spécialisé dans le développement et l’exploitation de projets photovoltaïques, notamment sur terrains dégradés ou en milieu agricole, le Groupe Solges Energy est désormais L’article Solaire : le Groupe Solges Energy en redressement judiciaire est apparu en […]",
+  "pub": "2026-11-16",
+  "ts": 1794847134.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "Révolution Énergétique",
+  "titre": "Black Friday 2026 : Zendure offre des accessoires indispensables avec ses batteries",
+  "lien": "https://www.revolution-energetique.com/actus/black-friday-2026-zendure-offre-des-accessoires-indispensables-avec-ses-batteries/",
+  "auteur": "Bons Plans",
+  "resume": "Le fabricant de batteries solaires prêtes à brancher Zendure a lancé le 12 novembre sa campagne Black Friday en France. Jusqu’au 7 décembre 2026, cinq […] L’article Black Friday 2026 : Zendure offre des accessoires indispensables avec ses batteries est apparu en premier sur […]",
+  "pub": "2026-11-16",
+  "ts": 1794846971.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Un plan pour le solaire thermique mais sans argent",
+  "lien": "https://www.greenunivers.com/2026/11/un-plan-pour-le-solaire-thermique-mais-sans-argent-438790/",
+  "auteur": "Thomas Blosseville",
+  "resume": "Le plan de relance de la chaleur solaire est enfin publié. Ce plan attendu de longue date, espéré l’an dernier, émerge au terme d’une année largement dominée en France par l’électrification. La question du financement de L’article Un plan pour le solaire thermique mais sans […]",
+  "pub": "2026-11-16",
+  "ts": 1794846461.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "Batiactu",
+  "titre": "Solaire thermique : le plan du gouvernement séduit la filière, mais à certaines conditions",
+  "lien": "https://www.batiactu.com/edito/solaire-thermique-la-priorite-doit-porter-sur-equite-75869.php",
+  "auteur": "Batiactu",
+  "resume": "RENOUVELABLE. CEE, Fonds chaleur : les représentants du solaire thermique demandent au gouvernement un soutien à la hauteur des ambitions du plan national tout juste dévoilé.",
+  "pub": "2026-11-16",
+  "ts": 1794844775.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "Batiactu",
+  "titre": "Le gouvernement dévoile son plan d'action national pour le solaire thermique",
+  "lien": "https://www.batiactu.com/edito/gouvernement-devoile-son-plan-action-national-solaire-75866.php",
+  "auteur": "Batiactu",
+  "resume": "RENOUVELABLES. Le plan national qui doit permettre à la filière du solaire thermique de tenir les objectifs de production de chaleur fixés par la programmation pluriannuelle de l'énergie 3 (PPE3) est lancé.",
+  "pub": "2026-11-16",
+  "ts": 1794843719.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "HoloSolis lève 15 millions d’euros et accueille quatre nouveaux actionnaires",
+  "lien": "https://www.pv-magazine.fr/2026/11/16/holosolis-leve-15-millions-deuros-et-accueille-quatre-nouveaux-actionnaires/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "L’industriel français HoloSolis renforce ses financements avec une levée de fonds de série A de plus de 15 millions d’euros et l’arrivée de quatre nouveaux actionnaires. Une étape supplémentaire pour préparer la construction de sa future usine de panneaux photovoltaïques à […]",
+  "pub": "2026-11-16",
+  "ts": 1794843000.0,
+  "vu": "2026-11-17"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Modules solaires : les prix reculent après le rebond de l’été",
+  "lien": "https://www.greenunivers.com/2026/11/modules-solaires-les-prix-reculent-apres-le-rebond-de-lete-438769/",
+  "auteur": "GreenUnivers",
+  "resume": "Les prix des modules solaires se stabilisent en Europe sur les deux derniers mois, mais restent en forte hausse depuis le début de l’année, de l’ordre de L’article Modules solaires : les prix reculent après le rebond de l’été est apparu en premier sur GreenUnivers .",
+  "pub": "2026-11-16",
+  "ts": 1794840491.0,
+  "vu": "2026-11-17"
  },
  {
   "source": "Actu-Environnement",
@@ -118,6 +468,16 @@
   "pub": "2026-11-16",
   "ts": 1794828606.0,
   "vu": "2026-11-16"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Industrie solaire : HoloSolis accueille quatre nouveaux actionnaires dont deux chinois",
+  "lien": "https://www.greenunivers.com/2026/11/industrie-solaire-holosolis-accueille-quatre-nouveaux-actionnaires-dont-deux-chinois-438735/",
+  "auteur": "Jean-Philippe Pié",
+  "resume": "Porteur depuis 2023 d’un projet d’usine de 5 GW de modules solaires par an en France, Holosolis boucle à 15 M€ sa levée de fonds de type « Serie A ». Quatre actionnaires entrent au capital apportant grosso modo 2,5 M€ chacun : le Crédit Agricole via quatre caisses régionales, la […]",
+  "pub": "2026-11-16",
+  "ts": 1794824869.0,
+  "vu": "2026-11-17"
  },
  {
   "source": "pv magazine France",
@@ -1328,155 +1688,5 @@
   "pub": "2026-11-07",
   "ts": 1794020956.0,
   "vu": "2026-11-07"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Turquie : un plan énergétique de 500 milliards de dollars pour électrifier le pays d’ici 2040",
-  "lien": "https://lenergeek.com/2026/11/07/turquie-plan-energie-2040-500-milliards-electrification-novembre-2026/",
-  "auteur": "La Rédaction",
-  "resume": "La Turquie présente un plan énergétique de 500 milliards de dollars à l’horizon 2040, avec 175 GW de solaire et d’éolien visés. Réseaux, financement et calendrier restent décisifs. L’article Turquie : un plan énergétique de 500 milliards de dollars pour électrifier le pays d’ici […]",
-  "pub": "2026-11-06",
-  "ts": 1794006932.0,
-  "vu": "2026-11-07"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "A qui profitera l’appel d’offres « super neutre » pour 2027 ?",
-  "lien": "https://www.greenunivers.com/2026/11/a-qui-profitera-lappel-doffres-super-neutre-pour-2027-438125/",
-  "auteur": "Paul Messad",
-  "resume": "Pour 2027, les pouvoirs publics ne planchent actuellement que sur un seul appel d’offres destiné aux énergies renouvelables et dans un format inédit « super neutre ». Autrement dit, une compétition où toutes les typologies et les tailles seraient mélangées pour désigner les […]",
-  "pub": "2026-11-06",
-  "ts": 1793983593.0,
-  "vu": "2026-11-08"
- },
- {
-  "source": "CleanTechnica",
-  "titre": "As Jackery Inventory Sells Out, Are Portable Batteries Set To Take Off?",
-  "lien": "https://cleantechnica.com/2026/11/06/as-jackery-inventory-sells-out-are-portable-batteries-set-to-take-off/",
-  "auteur": "Larry Evans",
-  "resume": "I recently wrote reviews of the new Jackery HomePower 1000 Plus v2 and Explorer 100D. A few days later, a connection with Jackery messaged me that their Black Friday/Cyber Monday products had largely sold out. Just three days after launching on November 1. This includes 1000 […]",
-  "pub": "2026-11-06",
-  "ts": 1793982152.0,
-  "vu": "2026-11-07"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "L’agenda de la transition énergétique",
-  "lien": "https://www.greenunivers.com/2026/11/lagenda-de-la-transition-energetique-282-437363/",
-  "auteur": "GreenUnivers",
-  "resume": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique […]",
-  "pub": "2026-11-06",
-  "ts": 1793982015.0,
-  "vu": "2026-11-08"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Les batteries sodium-ion se rapprochent de la parité des coûts avec le LFP",
-  "lien": "https://www.pv-magazine.fr/2026/11/06/les-batteries-sodium-ion-se-rapprochent-de-la-parite-des-couts-avec-le-lfp/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Les batteries sodium-ion se rapprochent de la parité des coûts au niveau des cellules avec la technologie lithium-fer-phosphate (LFP), tandis que les accords d’approvisionnement conclus dans le monde dépassent déjà 70 GWh. Malgré un coût initial plus élevé, elles pourraient […]",
-  "pub": "2026-11-06",
-  "ts": 1793977200.0,
-  "vu": "2026-11-07"
- },
- {
-  "source": "Batiactu",
-  "titre": "Bouygues : une rentabilité opérationnelle portée par les activités énergie et construction",
-  "lien": "https://www.batiactu.com/edito/bouygues-un-resultat-net-part-groupe-plus-que-divise-75803.php",
-  "auteur": "Batiactu",
-  "resume": "RÉSULTATS FINANCIERS. Le géant français a partagé son bilan arrêté au troisième trimestre 2026. Si son résultat net a drastiquement diminué du fait de la dépréciation de TF1, le groupe a pu compter sur ses activités relatives à l'énergie et Construction pour améliorer son […]",
-  "pub": "2026-11-06",
-  "ts": 1793975293.0,
-  "vu": "2026-11-07"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Revolta installe sa première batterie résidentielle sodium-ion de 10 kWh en Allemagne",
-  "lien": "https://www.pv-magazine.fr/2026/11/06/revolta-installe-sa-premiere-batterie-residentielle-sodium-ion-de-10-kwh-en-allemagne/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "La jeune entreprise allemande vient de mettre en service son premier système chez un particulier, dans un lieu inhabituel. D’autres installations pilotes sont prévues dans plusieurs régions du pays au cours des prochaines semaines.",
-  "pub": "2026-11-06",
-  "ts": 1793970000.0,
-  "vu": "2026-11-06"
- },
- {
-  "source": "pv magazine",
-  "titre": "Sodium-ion batteries approach cost parity with LFP, with 70 GWh covered by supply agreements",
-  "lien": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
-  "auteur": "Emiliano Bellini",
-  "resume": "Sodium-ion batteries are approaching cell-level cost parity with LFP technology, with supply agreements exceeding 70 GWh worldwide. Despite higher upfront costs, they could offer a 21% lower total cost of ownership over 20 years, according to Wood Mackenzie.",
-  "pub": "2026-11-06",
-  "ts": 1793968477.0,
-  "vu": "2026-11-06"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Moins de 400 € pour ce Xiaomi 5G à batterie géante ? Amazon frappe fort !",
-  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-smartphones-moins-400-ce-xiaomi-5g-batterie-geante-amazon-frappe-fort-11773/",
-  "auteur": "Mohamed El Alami, Rédacteur Web",
-  "resume": "Amazon donne un coup de frais au prix du Xiaomi Redmi Note 17 Pro 5G ! Avec son grand écran AMOLED 120 Hz, sa batterie généreuse et ses belles capacités photo, ce smartphone Xiaomi a de quoi faire tourner les têtes. Et avec cette remise de 12 %, la facture devient tout de suite […]",
-  "pub": "2026-11-06",
-  "ts": 1793962800.0,
-  "vu": "2026-11-06"
- },
- {
-  "source": "pv magazine France",
-  "titre": "PVKIT 3.0 : un système de fixation réhaussable pour les panneaux solaires sur toitures métalliques",
-  "lien": "https://www.pv-magazine.fr/2026/11/06/pvkit-3-0-un-systeme-de-fixation-rehaussable-pour-les-panneaux-sur-toitures-metalliques/",
-  "auteur": "Francois Puthod",
-  "resume": "Le fabricant américain S-5! présente le PVKIT® 3.0, un système de fixation sans rails pour panneaux solaires sur toitures métalliques, permettant de choisir le meilleur espace entre la toiture et les modules.",
-  "pub": "2026-11-06",
-  "ts": 1793959200.0,
-  "vu": "2026-11-06"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Le Liban lance un appel d’offres pour l’exploitation et la maintenance d’installations solaires",
-  "lien": "https://www.pv-magazine.fr/2026/11/06/le-liban-lance-un-appel-doffres-pour-lexploitation-et-la-maintenance-dinstallations-solaires/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Un appel d’offres est ouvert au Liban pour l’exploitation et la maintenance d’installations solaires situées sur le fleuve de Beyrouth. Les candidats ont jusqu’au 7 janvier 2027 pour soumettre leur offre.",
-  "pub": "2026-11-06",
-  "ts": 1793955600.0,
-  "vu": "2026-11-06"
- },
- {
-  "source": "pv magazine France",
-  "titre": "La NASA installe la dernière aile solaire déployable de la Station spatiale internationale",
-  "lien": "https://www.pv-magazine.fr/2026/11/06/la-nasa-installe-la-derniere-aile-solaire-deployable-de-la-station-spatiale-internationale/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Les astronautes de la NASA ont effectué une sortie dans l’espace de sept heures pour installer et déployer la dernière aile solaire rétractable. Cette opération clôt un programme de modernisation électrique mené sur plusieurs années, qui porte la capacité de production d’énergie […]",
-  "pub": "2026-11-06",
-  "ts": 1793953800.0,
-  "vu": "2026-11-06"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Engie dépasse 10 GW de stockage en service ou en chantier et relève ses ambitions pour 2026",
-  "lien": "https://lenergeek.com/2026/11/06/engie-stockage-10-gw-resultats-neuf-mois-2026/",
-  "auteur": "La Rédaction",
-  "resume": "Dans ses résultats publiés le 5 novembre, Engie annonce plus de 10 GW de stockage électrique en exploitation ou en construction à travers le monde. Le groupe vise désormais le haut de sa fourchette de résultats annuels, porté notamment par ses activités renouvelables et réseaux […]",
-  "pub": "2026-11-06",
-  "ts": 1793949408.0,
-  "vu": "2026-11-06"
- },
- {
-  "source": "Enerzine",
-  "titre": "SEG Solar prévoit 4 GW de cellules solaires HJT à Tomball (USA)",
-  "lien": "https://www.enerzine.com/seg-solar-prevoit-4-gw-de-cellules-solaires-hjt-a-tomball-usa/199109-2026-11",
-  "auteur": "La rédaction",
-  "resume": "SEG Solar a annoncé avoir signé un accord foncier pour construire sur son campus de Tomball, près de Houston, une usine de cellules solaires HJT de 4 GW pour 950 millions de dollars. L’installation, prévue en deux phases de 2 GW pour 2028 et 2029, doit créer plus de 700 emplois […]",
-  "pub": "2026-11-06",
-  "ts": 1793941800.0,
-  "vu": "2026-11-06"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Vous arrêtez de fumer et vous êtes à cran ? Ce n’est pas forcément le manque de nicotine",
-  "lien": "https://www.futura-sciences.com/sante/actualites/mois-tabac-vous-arretez-fumer-vous-etes-cran-ce-nest-pas-forcement-manque-nicotine-139066/",
-  "auteur": "Christelle Cherrier, Rédactrice web",
-  "resume": "Irritabilité, palpitations, nuits agitées… Quand on arrête de fumer, la nicotine est le suspect habituel. Mais elle n’est pas forcément la seule responsable.",
-  "pub": "2026-11-06",
-  "ts": 1793939310.0,
-  "vu": "2026-11-06"
  }
 ]
