@@ -1,5 +1,115 @@
 [
  {
+  "source": "L'EnerGeek",
+  "titre": "Zendure et Sobry : comment ZENKI AI pilote les batteries d’un foyer solaire",
+  "lien": "https://lenergeek.com/2026/11/18/zendure-sobry-comment-zenki-ai-pilote-batteries-foyer-solaire/",
+  "auteur": "Aurélie Giraud",
+  "resume": "Dans le sud de la France, trois unités SolarFlow 2400 AC de Zendure ont été associées à une installation photovoltaïque de 6,6 kWc et à l’offre dynamique de Sobry. Le système ZENKI AI organise la charge et la décharge des batteries selon les prix de l’électricité. L’article […]",
+  "pub": "2026-11-18",
+  "ts": 1795011060.0,
+  "vu": "2026-11-18"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Électricité : pourquoi un prix de marché plus bas peut coûter des milliards à l’État",
+  "lien": "https://lenergeek.com/2026/11/18/electricite-prix-bas-compensation-soutiens-2035-cour-comptes/",
+  "auteur": "Jean-Baptiste Giraud",
+  "resume": "Dans certaines hypothèses étudiées par la Cour des comptes, les soutiens publics aux énergies renouvelables et au biogaz pourraient atteindre 10 à 14 milliards d’euros par an à l’horizon 2035. L’évolution des prix de marché, mais aussi le rythme de l’électrification […]",
+  "pub": "2026-11-18",
+  "ts": 1795008000.0,
+  "vu": "2026-11-18"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "CVE développe une centrale solaire dimensionnée aux besoins énergétiques de Tours Métropole Val de Loire",
+  "lien": "https://www.pv-magazine.fr/2026/11/18/cve-developpe-une-centrale-solaire-dimensionnee-aux-besoins-energetiques-de-tours-metropole-val-de-loire/",
+  "auteur": "Francois Puthod",
+  "resume": "La collectivité tourangelle et le producteur d’EnR ont signé partenariat de 30 ans pour développer une centrale photovoltaïque de 5,16 MWc sur l’ancien site d’enfouissement de La Billette, à Joué-lès-Tours.",
+  "pub": "2026-11-18",
+  "ts": 1795006800.0,
+  "vu": "2026-11-18"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Why AI data centers need storage beyond conventional backup power",
+  "lien": "https://www.pv-magazine.com/2026/11/18/why-ai-data-centers-need-storage-beyond-conventional-backup-power/",
+  "auteur": "Bernadette Geyer",
+  "resume": "As AI workloads introduce sharper power fluctuations, battery storage is moving closer to computing infrastructure. EVE Energy’s AIDC portfolio illustrates how grid-scale systems, high-rate backup cabinets, and rack-level batteries address different operating demands.",
+  "pub": "2026-11-18",
+  "ts": 1794997800.0,
+  "vu": "2026-11-18"
+ },
+ {
+  "source": "Révolution Énergétique",
+  "titre": "Comment calculer son taux d’autoconsommation avant d’installer une batterie solaire ?",
+  "lien": "https://www.revolution-energetique.com/actus/comment-calculer-son-taux-dautoconsommation-avant-dinstaller-une-batterie-solaire/",
+  "auteur": "Contenu sponsorisé",
+  "resume": "Le calcul tient en une ligne : (production − électricité injectée) ÷ production, sur 12 mois, puis mois par mois. La production se lit sur l’onduleur. […] L’article Comment calculer son taux d’autoconsommation avant d’installer une batterie solaire ? est apparu en premier sur […]",
+  "pub": "2026-11-18",
+  "ts": 1794992459.0,
+  "vu": "2026-11-18"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Avis de marchés publics dans le PV en France",
+  "lien": "https://www.pv-magazine.fr/2026/11/18/avis-de-marches-publics-dans-le-pv-en-france-147/",
+  "auteur": "Francois Puthod",
+  "resume": "Retrouvez chaque semaine dans pv magazine les appels d’offres publiés relatifs aux projets photovoltaïques en France.",
+  "pub": "2026-11-18",
+  "ts": 1794992400.0,
+  "vu": "2026-11-18"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "« Voyager 1 s'apprête à franchir un seuil historique : j'allais avoir 8 ans lorsqu'elle a décollé et elle a marqué ma vie »",
+  "lien": "https://www.futura-sciences.com/sciences/actualites/astronomie-voyager-1-apprete-franchir-seuil-historique-jallais-avoir-8-ans-lorsquelle-decolle-elle-marque-vie-139256/",
+  "auteur": "Laurent Sacco, Journaliste scientifique",
+  "resume": "Près d'un demi-siècle après son lancement, Voyager 1 s'apprête à établir un nouveau record historique. Mais l'extraordinaire aventure de cette sonde spatiale ne se mesure pas seulement en milliards de kilomètres. Elle a aussi bouleversé notre vision du Système solaire et marqué […]",
+  "pub": "2026-11-18",
+  "ts": 1794988867.0,
+  "vu": "2026-11-18"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "Austrian company develops 1.2 kW Stirling-based heat and power system to complement solar PV in winter",
+  "lien": "https://www.pv-magazine.com/2026/11/18/austrian-company-develops-1-2-kw-stirling-based-heat-and-power-system-to-complement-solar-pv-in-winter/",
+  "auteur": "Emiliano Bellini",
+  "resume": "Frauscher Motors has integrated a Stirling generator into a wood-pellet heating system to produce electricity during the heating season, when photovoltaic yields are typically lower. The generator can deliver up to 1.2 kW of electrical power, with a reported electrical […]",
+  "pub": "2026-11-18",
+  "ts": 1794988546.0,
+  "vu": "2026-11-18"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Avec 500 MW et 95 % de critère prix, l’AO « super neutre » aiguise la concurrence entre les filières",
+  "lien": "https://www.pv-magazine.fr/2026/11/18/avec-500-mw-et-95-de-critere-prix-lao-super-neutre-aiguise-la-concurrence-entre-les-filieres/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Avec seulement 500 MW ouverts aux filières photovoltaïque, éolienne terrestre et hydroélectrique, la première période de l'appel d'offres « PPE3 Neutre », attendue en janvier 2027, suscite les critiques du secteur renouvelable.",
+  "pub": "2026-11-18",
+  "ts": 1794987000.0,
+  "vu": "2026-11-18"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Réseaux électriques : accord européen pour accélérer les autorisations",
+  "lien": "https://lenergeek.com/2026/11/18/reseaux-electriques-accord-europeen-autorisations-18-novembre-2026/",
+  "auteur": "Paolo Garoscio",
+  "resume": "Le Conseil et le Parlement européen ont trouvé un compromis sur les autorisations des réseaux, des renouvelables et du stockage. Le texte doit encore être adopté avant sa transposition nationale. L’article Réseaux électriques : accord européen pour accélérer les autorisations […]",
+  "pub": "2026-11-18",
+  "ts": 1794977445.0,
+  "vu": "2026-11-18"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "« Les volcans d'Hawaï sont différents » : ils ont mis les scientifiques sur la piste d'un secret enfoui au cœur de la Terre",
+  "lien": "https://www.futura-sciences.com/planete/actualites/terre-volcans-hawai-sont-differents-ils-ont-mis-scientifiques-piste-secret-enfoui-coeur-terre-139285/",
+  "auteur": "Morgane Gillard, Rédactrice",
+  "resume": "Le noyau terrestre renfermerait-il les traces de météorites venues des confins du Système solaire ? En analysant des roches volcaniques hawaïennes, des chercheurs ont identifié une signature isotopique inattendue, qui pourrait révéler l’origine d’une partie du carbone caché dans […]",
+  "pub": "2026-11-17",
+  "ts": 1794938537.0,
+  "vu": "2026-11-18"
+ },
+ {
   "source": "GreenUnivers",
   "titre": "Emploi : quels profils pour l’électrification ?",
   "lien": "https://www.greenunivers.com/2026/11/emploi-quels-profils-pour-lelectrification-438766/",
@@ -1658,35 +1768,5 @@
   "pub": "2026-11-08",
   "ts": 1794103200.0,
   "vu": "2026-11-08"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Copropriété : isolation, chauffage, ventilation, quels travaux financés par les aides ?",
-  "lien": "https://lenergeek.com/2026/11/07/travaux-energie-copropriete-isolation/",
-  "auteur": "La Rédaction",
-  "resume": "Isolation des parois, remplacement des systèmes de chauffage, VMC performante, énergies renouvelables : les aides publiques financent un large éventail de travaux en copropriété. Mais atteindre les seuils de 35 % ou 50 % de gain énergétique exige des combinaisons techniques […]",
-  "pub": "2026-11-07",
-  "ts": 1794043860.0,
-  "vu": "2026-11-07"
- },
- {
-  "source": "Révolution Énergétique",
-  "titre": "Le géant des énergies renouvelables BayWa r.e. réduit ses effectifs pour se maintenir à flot",
-  "lien": "https://www.revolution-energetique.com/actus/le-geant-des-energies-renouvelables-baywa-r-e-reduit-ses-effectifs-pour-se-maintenir-a-flot/",
-  "auteur": "Kevin CHAMPEAU",
-  "resume": "L’avenir des énergies renouvelables en France est teinté de doutes et d’instabilités, et cette situation a des conséquences directes sur les entreprises du secteur. Aujourd’hui, […] L’article Le géant des énergies renouvelables BayWa r.e. réduit ses effectifs pour se maintenir à […]",
-  "pub": "2026-11-07",
-  "ts": 1794036423.0,
-  "vu": "2026-11-07"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Renouvelables : l’AIE prévoit 43 % de l’électricité mondiale en 2031, mais alerte sur les réseaux",
-  "lien": "https://lenergeek.com/2026/11/07/aie-renouvelables-2031-reseaux-solaire-novembre-2026/",
-  "auteur": "La Rédaction",
-  "resume": "Dans son rapport du 6 novembre, l’AIE prévoit une forte progression des énergies renouvelables d’ici 2031. Le solaire domine, tandis que les difficultés de raccordement et de stockage pourraient freiner leur intégration. L’article Renouvelables : l’AIE prévoit 43 % de […]",
-  "pub": "2026-11-07",
-  "ts": 1794020956.0,
-  "vu": "2026-11-07"
  }
 ]
