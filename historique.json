@@ -1,5 +1,125 @@
 [
  {
+  "source": "pv magazine",
+  "titre": "Unigrid looks to fill gaps in lithium-ion storage with effective sodium-ion alternatives",
+  "lien": "https://www.pv-magazine.com/2026/11/21/unigrid-looks-to-fill-gaps-in-lithium-ion-storage-with-effective-sodium-ion-alternatives/",
+  "auteur": "Ryan Kennedy",
+  "resume": "CEO Darren Tan says sodium-ion batteries can compete on safety, performance and price in key market segments.",
+  "pub": "2026-11-21",
+  "ts": 1795249800.0,
+  "vu": "2026-11-21"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Énergies renouvelables : Londres lance des enchères avec un budget symbolique d’une livre",
+  "lien": "https://lenergeek.com/2026/11/21/royaume-uni-encheres-renouvelables-ar8-budget-symbolique-une-livre-2026/",
+  "auteur": "Aurélie Giraud",
+  "resume": "Le Royaume-Uni a ouvert une nouvelle procédure d’achat d’électricité renouvelable. Le budget initial d’une livre sterling n’est qu’un montant provisoire : Londres fixera l’enveloppe réelle après avoir examiné les offres éoliennes et solaires. L’article Énergies renouvelables  […]",
+  "pub": "2026-11-21",
+  "ts": 1795248861.0,
+  "vu": "2026-11-21"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Repenser les anodes en lithium métallique : des réseaux imprimés par sérigraphie surmontent les défis de fabrication et de cyclage",
+  "lien": "https://www.enerzine.com/repenser-les-anodes-en-lithium-metallique-des-reseaux-imprimes-par-serigraphie-surmontent-les-defis-de-fabrication-et-de-cyclage/200742-2026-11",
+  "auteur": "La rédaction",
+  "resume": "Le lithium métallique est considéré comme l’un des matériaux d’anode les plus prometteurs pour les batteries de nouvelle génération, en raison de sa capacité théorique exceptionnellement élevée et de son faible potentiel électrochimique. Cependant, les batteries classiques au […]",
+  "pub": "2026-11-21",
+  "ts": 1795245600.0,
+  "vu": "2026-11-21"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Idris Elba et sa femme Sabrina envisagent de convertir l’île isolée de Sherbro en Sierra Leone en une éco-ville dotée d’éoliennes, d’énergie solaire et d’une connectivité numérique pour 40 000 résidents",
+  "lien": "https://lenergeek.com/2026/11/21/idris-elba-et-sa-femme-sabrina-envisagent-de-convertir-lile-isolee-de-sherbro-en-sierra-leone-en-une-eco-ville-dotee-deoliennes-denergie-solaire-et-dune-connectivite-numerique-pour-40-000-res/",
+  "auteur": "Gabin Laurent",
+  "resume": "Une île oubliée des cartes électriques, 40 000 habitants sans réseau ni internet, et un pari fou d'Idris Elba pour en faire la ville verte de demain. Jusqu'où ira ce rêve ? L’article Idris Elba et sa femme Sabrina envisagent de convertir l’île isolée de Sherbro en Sierra Leone […]",
+  "pub": "2026-11-21",
+  "ts": 1795243800.0,
+  "vu": "2026-11-21"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Un nouvel instrument de l’accélérateur Sirius au Brésil permet d’observer des cellules solaires en fonctionnement",
+  "lien": "https://www.enerzine.com/un-nouvel-instrument-de-laccelerateur-sirius-au-bresil-permet-dobserver-des-cellules-solaires-en-fonctionnement/200758-2026-11",
+  "auteur": "La rédaction",
+  "resume": "Des scientifiques du Centre brésilien de recherche en énergie et matériaux (CNPEM), à Campinas, dans l’État de São Paulo, ont mis au point un instrument pour l’accélérateur de particules Sirius capable d’observer l’intérieur de cellules solaires à l’échelle nanométrique pendant […]",
+  "pub": "2026-11-21",
+  "ts": 1795242000.0,
+  "vu": "2026-11-21"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "EDF rachète en Australie un projet de batterie de 1 GWh, encore loin de sa mise en service",
+  "lien": "https://lenergeek.com/2026/11/21/edf-holloway-batterie-1-gwh-australie-acquisition-projet-2026/",
+  "auteur": "Paolo Garoscio",
+  "resume": "EDF power solutions a acquis le projet Holloway, prévu pour stocker jusqu’à 1 GWh d’électricité en Nouvelle-Galles du Sud. La décision d’investissement définitive n’est attendue que fin 2027. L’article EDF rachète en Australie un projet de batterie de 1 GWh, encore loin de sa […]",
+  "pub": "2026-11-21",
+  "ts": 1795238052.0,
+  "vu": "2026-11-21"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "Arrêter de fumer : une vaste analyse révèle une bonne nouvelle inattendue pour notre cerveau",
+  "lien": "https://www.futura-sciences.com/sante/actualites/mois-tabac-arreter-fumer-vaste-analyse-revele-bonne-nouvelle-inattendue-notre-cerveau-139427/",
+  "auteur": "Christelle Cherrier, Rédactrice web",
+  "resume": "Plus on fume de cigarettes par jour, plus le risque de démence augmente, selon une vaste analyse menée auprès de près de 2,8 millions de personnes. Mais les chercheurs se sont aussi intéressés à ceux qui avaient arrêté de fumer.",
+  "pub": "2026-11-21",
+  "ts": 1795237705.0,
+  "vu": "2026-11-21"
+ },
+ {
+  "source": "Transitions & Énergies",
+  "titre": "Dunkelflaute (calme plat) : pourquoi un temps nuageux et sans vent constitue un défi pour les réseaux électriques qui dépendent des énergies renouvelables",
+  "lien": "https://www.transitionsenergies.com/dunkelflaute-temps-nuageux-sans-vent-un-defi-reseaux-electriques-energies-renouvelables/",
+  "auteur": "La rédaction",
+  "resume": "Il s’agit d’un phénomène météorologique fréquent dans le nord de l’Europe durant la saison froide. Il vient juste de se produire il y a quelques jours. Il est baptisé de son nom allemand Dunkelflaute qui signifie calme plat. Il est très problématique pour les systèmes […]",
+  "pub": "2026-11-21",
+  "ts": 1795228648.0,
+  "vu": "2026-11-21"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Au Portugal, Pracana associe un barrage de 1951 à 90 000 panneaux solaires",
+  "lien": "https://lenergeek.com/2026/11/21/portugal-pracana-barrage-solaire-hydraulique-edp-21-novembre-2026-0033/",
+  "auteur": "Jean-Baptiste Giraud",
+  "resume": "Le complexe de Pracana, achevé par EDP, réunit 41 MW hydroélectriques et 48 MW photovoltaïques sur un même raccordement. L’exploitant prévoit 140 GWh de production annuelle, sans ouvrir un nouveau point de connexion au réseau. L’article Au Portugal, Pracana associe un barrage de […]",
+  "pub": "2026-11-20",
+  "ts": 1795217894.0,
+  "vu": "2026-11-21"
+ },
+ {
+  "source": "Actu-Environnement",
+  "titre": "Le report de la REP au 1er janvier 2027 est acté, le cahier des charges ajusté",
+  "lien": "https://www.actu-environnement.com/ae/news/rep-epro-report-janvier-2027-cahier-charges-48829.php4",
+  "auteur": "",
+  "resume": "C'est officiel. L'arrêté du 3 novembre 2026, publié au Journal officiel du 18 novembre, reporte du 1er juillet 2026 au 1er janvier 2027 le démarrage de la filière de responsabilité élargie des producteurs d'emballages professionnels (REP Epro). La...",
+  "pub": "2026-11-20",
+  "ts": 1795192551.0,
+  "vu": "2026-11-21"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Photovoltaïque : la CRE harmonise le contrat d’accès au réseau des petits producteurs",
+  "lien": "https://lenergeek.com/2026/11/20/photovoltaique-cre-contrat-acces-reseau-petits-producteurs-20-novembre-2026/",
+  "auteur": "Paolo Garoscio",
+  "resume": "Un modèle national de contrat d’accès et d’exploitation au réseau électrique a été approuvé pour les installations de production en basse tension d’au plus 36 kVA. Publiée le 20 novembre, la décision de la CRE encadre les obligations des distributeurs, mais sa mise en œuvre […]",
+  "pub": "2026-11-20",
+  "ts": 1795191687.0,
+  "vu": "2026-11-21"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "Les STEP, les batteries géantes pour réussir la transition énergétique",
+  "lien": "https://www.futura-sciences.com/planete/actualites/transition-energetique-step-batteries-geantes-reussir-transition-energetique-138988/",
+  "auteur": "Thibault Caudron, Journaliste",
+  "resume": "Alors que les énergies solaire et éolienne accentuent les variations de production électrique, le stockage devient un enjeu stratégique. Là où justement les stations de transfert d’énergie par pompage (STEP) offrent une solution éprouvée pour absorber les surplus et répondre aux […]",
+  "pub": "2026-11-20",
+  "ts": 1795188600.0,
+  "vu": "2026-11-21"
+ },
+ {
   "source": "Révolution Énergétique",
   "titre": "Cette entreprise veut remplacer l’eau des STEP pour produire plus d’électricité",
   "lien": "https://www.revolution-energetique.com/actus/cette-entreprise-veut-remplacer-leau-des-step-pour-produire-plus-delectricite/",
@@ -74,7 +194,7 @@
   "titre": "L’avenir du stockage français « se jouera sur le réseau de distribution » [Solmeria]",
   "lien": "https://www.greenunivers.com/2026/11/lavenir-du-stockage-francais-se-jouera-sur-le-reseau-de-distribution-solmeria-439286/",
   "auteur": "Jacopo Landi",
-  "resume": "Si la file d’attente pour raccorder des puissantes batteries directement au réseau de RTE (HTB) donne le vertige, avec L’article L’avenir du stockage français « se jouera sur le réseau de distribution » [Solmeria] est apparu en premier sur GreenUnivers .",
+  "resume": "*Article modifié le 20/11 Si la file d’attente pour raccorder des puissantes batteries directement au réseau de RTE (HTB) donne le vertige, avec L’article L’avenir du stockage français « se jouera sur le réseau de distribution » [Solmeria] est apparu en premier sur GreenUnivers .",
   "pub": "2026-11-20",
   "ts": 1795172547.0,
   "vu": "2026-11-20"
@@ -1638,265 +1758,5 @@
   "pub": "2026-11-11",
   "ts": 1794360033.0,
   "vu": "2026-11-11"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Gaz : le Danemark sécurise ses stocks d’hiver grâce à un appel d’offres plafonné à 50 millions de couronnes",
-  "lien": "https://lenergeek.com/2026/11/11/danemark-stockage-gaz-hiver-appel-offres-50-millions-couronnes-novembre-2026/",
-  "auteur": "La Rédaction",
-  "resume": "Le Danemark a achevé un appel d’offres pour garantir la présence de gaz dans ses deux stockages à l’entrée de l’hiver. L’opération respecte un plafond de 50 millions de couronnes, mais ne garantit pas une baisse des prix. L’article Gaz : le Danemark sécurise ses stocks d’hiver […]",
-  "pub": "2026-11-10",
-  "ts": 1794353440.0,
-  "vu": "2026-11-11"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Éolien en mer et hydrogène : l’Australie et le Danemark signent un partenariat énergétique",
-  "lien": "https://lenergeek.com/2026/11/11/australie-danemark-partenariat-energie-eolien-hydrogene-cop31-2026/",
-  "auteur": "La Rédaction",
-  "resume": "Le Danemark et l’Australie ont signé à la COP31 un partenariat dans l’éolien offshore, le stockage et l’hydrogène renouvelable. L’accord, annoncé le 10 novembre, ouvre une coopération sans contrat ni investissement chiffré à ce stade. L’article Éolien en mer et hydrogène  […]",
-  "pub": "2026-11-10",
-  "ts": 1794353278.0,
-  "vu": "2026-11-11"
- },
- {
-  "source": "négaWatt",
-  "titre": "Plaidoyer pour la transition éolienne et solaire",
-  "lien": "https://negawatt.org/Plaidoyer-pour-la-transition-eolienne-et-solaire",
-  "auteur": "Catherine",
-  "resume": "",
-  "pub": "2026-11-10",
-  "ts": 1794335400.0,
-  "vu": "2026-10-16"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Au Mans, Radiant démontre que la concentration solaire peut décarboner l'industrie",
-  "lien": "https://www.actu-environnement.com/ae/news/demonstrateur-de-production-de-chaleur-industrielle-par-concentration-solaire-inaugure-au-mans-48786.php4",
-  "auteur": "",
-  "resume": "La chaleur représente 75 % des besoins en énergie de l'industrie. Pour en produire avec moins de carbone, la start-up Radiant a développé une solution de concentration solaire pas plus coûteuse que le gaz et facile à intégrer aux installations exi...",
-  "pub": "2026-11-10",
-  "ts": 1794329787.0,
-  "vu": "2026-11-11"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "A quoi ressemble la valorisation d’une batterie sur les marchés",
-  "lien": "https://www.greenunivers.com/2026/11/a-quoi-ressemble-la-valorisation-dune-batterie-sur-les-marches-438199/",
-  "auteur": "Jacopo Landi",
-  "resume": "A première vue incompréhensible, l’animation illustre les calculs et ajustements réalisés en permanence par les logiciels L’article A quoi ressemble la valorisation d’une batterie sur les marchés est apparu en premier sur GreenUnivers .",
-  "pub": "2026-11-10",
-  "ts": 1794326052.0,
-  "vu": "2026-11-11"
- },
- {
-  "source": "Enerzine",
-  "titre": "Le canal de Provence se couvre de panneaux solaires à Saint-Maximin",
-  "lien": "https://www.enerzine.com/canal-provence-panneaux-solaires-saint-maximin/200105-2026-11",
-  "auteur": "La rédaction",
-  "resume": "À Saint-Maximin-la-Sainte-Baume, le canal de Provence transporte de l’eau et produit désormais de l’électricité solaire. La Région Sud et la Société du Canal de Provence (SCP) y présentent une installation photovoltaïque de 71 mètres de long, qui recouvre le canal et ses berges […]",
-  "pub": "2026-11-10",
-  "ts": 1794325800.0,
-  "vu": "2026-11-11"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Fourniture : Frank Energie se renforce dans le stockage pilotable",
-  "lien": "https://www.greenunivers.com/2026/11/fourniture-frank-energie-se-renforce-dans-le-stockage-pilotable-438386/",
-  "auteur": "Jacopo Landi",
-  "resume": "Le fournisseur d’électricité à tarification dynamique Frank Energie annonce un partenariat avec le spécialiste des solutions de stockage d’énergie Anker Solix pour L’article Fourniture : Frank Energie se renforce dans le stockage pilotable est apparu en premier sur GreenUnivers .",
-  "pub": "2026-11-10",
-  "ts": 1794325725.0,
-  "vu": "2026-11-11"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Un projet d’arrêté pour limiter l’impact des batteries et des Step sur le réseau",
-  "lien": "https://www.greenunivers.com/2026/11/un-projet-darrete-pour-limiter-limpact-des-batteries-et-des-step-sur-le-reseau-438359/",
-  "auteur": "Jean-Philippe Pié",
-  "resume": "« Ne matraquez pas le stockage ! », demandait ce matin Géry Lecerf, président de l’Afieg et directeur des affaires publiques d’Alpiq, lors de la 17e rencontre sur les énergies renouvelables organisée à destination des politiques par le cabinet de lobbying M&M Conseil. Géry […]",
-  "pub": "2026-11-10",
-  "ts": 1794325687.0,
-  "vu": "2026-11-11"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Symphonics met au point un contrat de vente directe pour pallier la fin du « S21 »",
-  "lien": "https://www.greenunivers.com/2026/11/symphonics-veut-prendre-le-relais-du-s21-avec-des-ppa-sophistiques-438364/",
-  "auteur": "Jacopo Landi",
-  "resume": "En agrégeant la production de plusieurs petites centrales solaires et le gisement de flexibilité de batteries, Symphonics veut proposer des PPA plus sophistiqués qui correspondraient L’article Symphonics met au point un contrat de vente directe pour pallier la fin du « S21 » est […]",
-  "pub": "2026-11-10",
-  "ts": 1794324794.0,
-  "vu": "2026-11-11"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "Lire notre dossier d'actu \"Flexibiliser le système électrique : un défi à anticiper\"",
-  "lien": "https://www.actu-environnement.com/dossier-actu/flexibilite-systeme-electrique-offre-demande-effacement-consommation-electricite-pilotage-108",
-  "auteur": "",
-  "resume": "Le développement massif des énergies renouvelables et l'électrification de certains usages (mobilité, industrie, chauffage) vont fortement accroître les besoins en flexibilité du système électrique. Moduler l'offre et la demande permet en effet d'...",
-  "pub": "2026-11-10",
-  "ts": 1794323131.0,
-  "vu": "2026-11-11"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Carburant : ce que cache vraiment la baisse de 20 centimes en France",
-  "lien": "https://lenergeek.com/2026/11/10/carburant-gazole-prix-hausse-aie/",
-  "auteur": "Adélaïde Motte",
-  "resume": "Le déstockage de 10 millions de barils de carburant par la France fait baisser le gazole de 20 centimes, mais l'Agence internationale de l'énergie avertit : l'offre mondiale reste structurellement insuffisante. La vraie clé de la stabilisation réside dans les négociations […]",
-  "pub": "2026-11-10",
-  "ts": 1794320057.0,
-  "vu": "2026-11-11"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "COP31 : le monde avance-t-il assez vite pour éviter le pire ? Les derniers chiffres du climat donnent la réponse",
-  "lien": "https://www.futura-sciences.com/planete/actualites/cop31-cop31-monde-avance-t-il-assez-vite-eviter-pire-derniers-chiffres-climat-donnent-reponse-139215/",
-  "auteur": "Nathalie Mayer, Journaliste",
-  "resume": "À l’ouverture de la COP31, les voyants de la transition semblent au vert. Les renouvelables bondissent et les promesses climatiques se multiplient. Pourtant, la science est formelle : les politiques actuelles nous mènent droit vers +2,8 °C. Face à ce grand écart, c’est la […]",
-  "pub": "2026-11-10",
-  "ts": 1794319381.0,
-  "vu": "2026-11-10"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Primes CEE : les critères de précarité énergétique changent le 16 novembre",
-  "lien": "https://lenergeek.com/2026/11/10/cee-precarite-energetique-bonifications-16-novembre-2026/",
-  "auteur": "La Rédaction",
-  "resume": "Un arrêté publié le 10 novembre redéfinit les catégories de revenus utilisées pour les certificats d’économies d’énergie et ajuste plusieurs bonifications. Les nouvelles règles s’appliquent aux opérations engagées à partir du 16 novembre 2026, avec des conséquences pour les […]",
-  "pub": "2026-11-10",
-  "ts": 1794313440.0,
-  "vu": "2026-11-10"
- },
- {
-  "source": "pv magazine",
-  "titre": "Swelect HHV secures ingot growers for 1 GW factory in India",
-  "lien": "https://www.pv-magazine.com/2026/11/10/raana-semiconductors-to-supply-cz12-ingot-growers-to-swelect-hhv-solar/",
-  "auteur": "Uma Gupta",
-  "resume": "Raana Semiconductors will supply CZ12 silicon ingot growers to Swelect HHV Solar Photovoltaics for its 1 GW ingot and wafer manufacturing facility in India. The agreement also covers process optimization, recipe development and technical training.",
-  "pub": "2026-11-10",
-  "ts": 1794312908.0,
-  "vu": "2026-11-10"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Sous le plus grand canyon du Système solaire, Mars tremble encore à 40 kilomètres de profondeur",
-  "lien": "https://www.futura-sciences.com/sciences/actualites/mars-sous-plus-grand-canyon-systeme-solaire-mars-tremble-encore-40-kilometres-profondeur-139189/",
-  "auteur": "Morgane Gillard, Rédactrice",
-  "resume": "Mars est-elle vraiment une planète géologiquement morte ? Peut-être pas. Une nouvelle étude révèle que sous son gigantesque canyon de Valles Marineris, des failles anciennes continueraient de bouger et de provoquer des séismes. Une découverte qui bouscule notre vision de […]",
-  "pub": "2026-11-10",
-  "ts": 1794306570.0,
-  "vu": "2026-11-10"
- },
- {
-  "source": "Enerzine",
-  "titre": "Installer des panneaux solaires en 2026 : quelles aides, à quelles conditions ?",
-  "lien": "https://www.enerzine.com/panneaux-solaires-aides-2026/200035-2026-11",
-  "auteur": "La rédaction",
-  "resume": "Les aides à l’installation de panneaux solaires subsistent, mais leurs conditions se resserrent. La prime à l’autoconsommation a disparu pour les nouvelles demandes de raccordement déposées depuis le 5 juin 2026. En septembre, certains équipements solaires thermiques sont aussi […]",
-  "pub": "2026-11-10",
-  "ts": 1794305561.0,
-  "vu": "2026-11-10"
- },
- {
-  "source": "pv magazine France",
-  "titre": "PV en basse tension : le pilotage à distance entre dans le quotidien des projets (3/7)",
-  "lien": "https://www.pv-magazine.fr/2026/11/10/pv-en-basse-tension-le-pilotage-a-distance-entre-dans-le-quotidien-des-projets-3-7/",
-  "auteur": "Marie Beyer",
-  "resume": "Avec la généralisation de Reflex et la multiplication des contraintes sur le réseau de transport, les installations photovoltaïques en basse tension pourraient devoir accepter une commande à distance. Un changement discret, mais lourd de conséquences pour les développeurs, les […]",
-  "pub": "2026-11-10",
-  "ts": 1794304800.0,
-  "vu": "2026-11-10"
- },
- {
-  "source": "Energy-Storage.news",
-  "titre": "Australia’s Cheaper Home Batteries Program hits 16.8GWh installed capacity",
-  "lien": "https://www.energy-storage.news/australias-cheaper-home-batteries-program-hits-16-8gwh-installed-capacity/",
-  "auteur": "George Heynes",
-  "resume": "Australia's federal Cheaper Home Batteries Program has passed 600,000 home battery storage systems sold, roughly 16.8GWh.",
-  "pub": "2026-11-10",
-  "ts": 1794301858.0,
-  "vu": "2026-11-10"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Avis de marchés publics dans le PV en France",
-  "lien": "https://www.pv-magazine.fr/2026/11/10/avis-de-marches-publics-dans-le-pv-en-france-146/",
-  "auteur": "Francois Puthod",
-  "resume": "Retrouvez chaque semaine dans pv magazine les appels d’offres publiés relatifs aux projets photovoltaïques en France.",
-  "pub": "2026-11-10",
-  "ts": 1794301200.0,
-  "vu": "2026-11-10"
- },
- {
-  "source": "pv magazine France",
-  "titre": "TotalEnergies et Axéréal s’unissent pour développer l’agrivoltaïsme en Centre-Val de Loire",
-  "lien": "https://www.pv-magazine.fr/2026/11/10/totalenergies-et-axereal-sunissent-pour-developper-lagrivoltaisme-en-centre-val-de-loire/",
-  "auteur": "Francois Puthod",
-  "resume": "TotalEnergies et Axéréal s’associent pour développer dans la région des modèles d’agri-énergies adaptés aux réalités agricoles locales. Cette coopération portera notamment sur l’agrivoltaïsme appliqué aux grandes cultures et à l’élevage.",
-  "pub": "2026-11-10",
-  "ts": 1794297600.0,
-  "vu": "2026-11-10"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Corsica Sole lance deux nouvelles collectes participatives en Corse",
-  "lien": "https://www.pv-magazine.fr/2026/11/10/corsica-sole-lance-deux-nouvelles-collectes-participatives-en-corse/",
-  "auteur": "Francois Puthod",
-  "resume": "Corsica Sole ouvre deux campagnes de financement participatif dédiées aux centrales photovoltaïques de Matone, à Aléria, et de Poggio di Nazza, en Haute-Corse.",
-  "pub": "2026-11-10",
-  "ts": 1794295800.0,
-  "vu": "2026-11-10"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Nucléaire : Chooz 2 reconnecté au réseau après quatre mois d’arrêt lié à la Meuse",
-  "lien": "https://lenergeek.com/2026/11/10/chooz-reacteur-2-reconnecte-meuse-novembre-2026/",
-  "auteur": "La Rédaction",
-  "resume": "EDF a reconnecté le 9 novembre 2026 le réacteur n°2 de Chooz, arrêté depuis juillet en raison du faible débit de la Meuse. Une remise en service importante pour la disponibilité électrique, sous contrôle des règles environnementales franco-belges. L’article Nucléaire : Chooz 2 […]",
-  "pub": "2026-11-10",
-  "ts": 1794294964.0,
-  "vu": "2026-11-10"
- },
- {
-  "source": "Révolution Énergétique",
-  "titre": "Son réseau électrique ne suit pas, la Chine réduit la cadence sur les éoliennes et centrales solaires",
-  "lien": "https://www.revolution-energetique.com/actus/son-reseau-electrique-ne-suit-pas-la-chine-reduit-la-cadence-sur-les-eoliennes-et-centrales-solaires/",
-  "auteur": "Kevin CHAMPEAU",
-  "resume": "La transition énergétique est loin d’être un long fleuve tranquille. Après une excellente année 2025 en matière de déploiement de nouvelles capacités de production d’électricité […] L’article Son réseau électrique ne suit pas, la Chine réduit la cadence sur les éoliennes et […]",
-  "pub": "2026-11-10",
-  "ts": 1794293957.0,
-  "vu": "2026-11-10"
- },
- {
-  "source": "Enerzine",
-  "titre": "Envision mise sur le 800 volts pour relier l’IA aux énergies renouvelables",
-  "lien": "https://www.enerzine.com/envision-mise-sur-le-800-volts-pour-relier-lia-aux-energies-renouvelables/199669-2026-11",
-  "auteur": "La rédaction",
-  "resume": "Alimenter directement les infrastructures d’intelligence artificielle avec l’électricité de l’éolien et du solaire, c’est le pari du groupe chinois Envision. L’entreprise a annoncé la mise en service d’un système intégré en courant continu de 800 volts sur son campus Galaxy, à […]",
-  "pub": "2026-11-10",
-  "ts": 1794292200.0,
-  "vu": "2026-11-10"
- },
- {
-  "source": "Enerzine",
-  "titre": "Une expérience soutient une voie prometteuse vers un calcul quantique plus robuste",
-  "lien": "https://www.enerzine.com/une-experience-soutient-une-voie-prometteuse-vers-un-calcul-quantique-plus-robuste/199426-2026-11",
-  "auteur": "La rédaction",
-  "resume": "Une approche permettant de rendre le stockage d’informations en calcul quantique moins sujet aux erreurs est connue sous le nom de calcul quantique topologique. Elle repose sur des états quantiques particuliers qui devraient être plus résistants aux perturbations locales. Des […]",
-  "pub": "2026-11-10",
-  "ts": 1794287400.0,
-  "vu": "2026-11-10"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Pétrole en baisse, charbon en hausse : ce qui explique le recul mondial du CO₂ en 2026",
-  "lien": "https://lenergeek.com/2026/11/10/petrole-charbon-emissions-co2-mondiales-2026/",
-  "auteur": "Jean-Baptiste Giraud",
-  "resume": "Les émissions mondiales de CO₂ fossile pourraient reculer de 0,4 % en 2026. Entre choc pétrolier iranien et renouvelables, les causes de cette baisse sont très différentes. L’article Pétrole en baisse, charbon en hausse : ce qui explique le recul mondial du CO₂ en 2026 est […]",
-  "pub": "2026-11-10",
-  "ts": 1794286200.0,
-  "vu": "2026-11-10"
  }
 ]
