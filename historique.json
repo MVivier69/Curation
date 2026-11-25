@@ -1,5 +1,175 @@
 [
  {
+  "source": "GreenUnivers",
+  "titre": "Le gouvernement compte supprimer les contrats d’achat photovoltaïques « S6 » et « S10 »",
+  "lien": "https://www.greenunivers.com/2026/11/le-gouvernement-compte-supprimer-les-contrats-dachat-photovoltaiques-s6-et-s10-439765/",
+  "auteur": "Paul Messad",
+  "resume": "Une proposition radicale. Parce qu’il n’arrive pas juridiquement à modifier les contrats solaires dits « S6 » et « S10 », le gouvernement propose désormais de les supprimer. Ces contrats, signés entre 2006 et 2010, garantissent un tarif de vente considéré comme trop élevé par […]",
+  "pub": "2026-11-25",
+  "ts": 1795626044.0,
+  "vu": "2026-11-25"
+ },
+ {
+  "source": "Batiactu",
+  "titre": "Appel d'offre, contrat d'achat : le gouvernement veut faire évoluer le soutien au solaire",
+  "lien": "https://www.batiactu.com/edito/appel-offre-contrat-achat-gouvernement-veut-faire-evoluer-75961.php",
+  "auteur": "Batiactu",
+  "resume": "RENOUVELABLE. Le gouvernement travaille sur la publication d'un nouvel appel d'offre dans le cadre de la troisième programmation pluriannuelle de l'énergie (PPE3) ainsi que sur la révision de certains contrats de rachat autour du photovoltaïque.",
+  "pub": "2026-11-25",
+  "ts": 1795625599.0,
+  "vu": "2026-11-25"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Financement participatif : Enerfip propose à ses investisseurs de s’assurer",
+  "lien": "https://www.greenunivers.com/2026/11/financement-participatif-enerfip-propose-a-ses-investisseurs-de-sassurer-439674/",
+  "auteur": "Jacopo Landi",
+  "resume": "Le spécialiste du financement participatif de transition énergétique Enerfip lance une offre d’assurance pour ses investisseurs. Leur capital pourra être remboursé en cas de défaillance des emprunteurs, hors intérêts. La prime payée par les épargnants est calculée en fonction de […]",
+  "pub": "2026-11-25",
+  "ts": 1795617697.0,
+  "vu": "2026-11-25"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Les maires plus convaincus que jamais par le solaire",
+  "lien": "https://www.pv-magazine.fr/2026/11/25/les-maires-plus-convaincus-que-jamais-par-le-solaire/",
+  "auteur": "Francois Puthod",
+  "resume": "A travers une centaine de retours d’expériences et le témoignage d’élus locaux, une étude d’Enerplan et de Tous solaires révèle l’impact positif des projets solaires dans les territoires.",
+  "pub": "2026-11-25",
+  "ts": 1795615200.0,
+  "vu": "2026-11-25"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Naviguer le marché PV africain en 2027 (2/3) : anatomie d’un appel d’offres viable et rentable",
+  "lien": "https://www.pv-magazine.fr/2026/11/25/naviguer-le-marche-pv-africain-en-2027-2-3-anatomie-dun-appel-doffres-viable-et-rentable/",
+  "auteur": "Marie Beyer",
+  "resume": "Si les prix du solaire en Afrique ont fortement chuté, la concrétisation des projets reste un défi majeur, avec de nombreux obstacles entre l’attribution des marchés et la mise en service des centrales. Dans ce deuxième volet de la série réalisée avec l’Alliance solaire […]",
+  "pub": "2026-11-25",
+  "ts": 1795615200.0,
+  "vu": "2026-11-25"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "Black Friday : cette tablette Xiaomi à prix cassé peut remplacer votre ordinateur sur de nombreux usages",
+  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-pc-tablettes-black-friday-cette-tablette-xiaomi-prix-casse-peut-remplacer-votre-ordinateur-nombreux-usages-11952/",
+  "auteur": "Mallory Delicourt, Journaliste",
+  "resume": "La Xiaomi Pad 7 est une tablette tactile qui réunit un grand écran haute définition, une puce performante et une capacité de stockage généreuse. Un appareil polyvalent pour travailler, étudier, regarder des films ou jouer, sans devoir investir dans un modèle haut de gamme. A […]",
+  "pub": "2026-11-25",
+  "ts": 1795615200.0,
+  "vu": "2026-11-25"
+ },
+ {
+  "source": "Révolution Énergétique",
+  "titre": "Ces 3 batteries domestiques prêtes à brancher cassent leurs prix pour le Black Friday",
+  "lien": "https://www.revolution-energetique.com/actus/ces-3-batteries-domestiques-pretes-a-brancher-cassent-leurs-prix-pour-le-black-friday/",
+  "auteur": "Bons Plans",
+  "resume": "Le Black Friday fait baisser le prix de trois batteries domestiques « plug and play » d’environ 2 kWh de capacité sur Amazon. Les EcoFlow […] L’article Ces 3 batteries domestiques prêtes à brancher cassent leurs prix pour le Black Friday est apparu en premier sur Révolution […]",
+  "pub": "2026-11-25",
+  "ts": 1795610885.0,
+  "vu": "2026-11-25"
+ },
+ {
+  "source": "pv magazine",
+  "titre": "German agrivoltaics developer launches free tool for project planning",
+  "lien": "https://www.pv-magazine.com/2026/11/25/german-agrivoltaics-developer-launches-free-tool-for-project-planning/",
+  "auteur": "Brian Publicover",
+  "resume": "Ylektra has introduced an online calculator to help farmers and project developers assess whether category II systems meet key agricultural requirements under DIN SPEC 91434, a German technical specification for agrivoltaics.",
+  "pub": "2026-11-25",
+  "ts": 1795605300.0,
+  "vu": "2026-11-25"
+ },
+ {
+  "source": "Révolution Énergétique",
+  "titre": "Ce tunnel de 17 km qu’EDF veut creuser pour transformer un barrage en système de stockage d’électricité géant",
+  "lien": "https://www.revolution-energetique.com/actus/ce-tunnel-de-17-km-quedf-veut-creuser-pour-transformer-un-barrage-en-systeme-de-stockage-delectricite-geant/",
+  "auteur": "Hugo LARA",
+  "resume": "Dans l’Aveyron, EDF veut relier le lac de Pareloup à l’usine hydroélectrique du Pouget par une galerie de 17 km. Une enveloppe de près d’un […] L’article Ce tunnel de 17 km qu’EDF veut creuser pour transformer un barrage en système de stockage d’électricité géant est apparu en […]",
+  "pub": "2026-11-25",
+  "ts": 1795604370.0,
+  "vu": "2026-11-25"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Prix négatifs de l’électricité en Europe : un signal pour accélérer le stockage et la flexibilité",
+  "lien": "https://www.pv-magazine.fr/2026/11/25/prix-negatifs-de-lelectricite-en-europe-un-signal-pour-accelerer-le-stockage-et-la-flexibilite/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Les prix négatifs de l’électricité sur les marchés de gros constituent un signal d’investissement intéressant pour le stockage par batteries et la flexibilité de la demande en Europe, à condition que leur formation ne soit pas faussée par les dispositifs de soutien ou les […]",
+  "pub": "2026-11-25",
+  "ts": 1795600800.0,
+  "vu": "2026-11-25"
+ },
+ {
+  "source": "Révolution Énergétique",
+  "titre": "Black Friday : la batterie solaire Anker Solarbank 2 Plus chute à 579 € sur Amazon",
+  "lien": "https://www.revolution-energetique.com/actus/anker-solarbank-2-plus-promo-black-friday/",
+  "auteur": "Élise BAKIR",
+  "resume": "Le Black Friday fait tomber la Solarbank 2 E1600 Plus d’Anker à 579 € sur Amazon. Cette batterie de 1,6 kWh embarque son propre micro-onduleur. […] L’article Black Friday : la batterie solaire Anker Solarbank 2 Plus chute à 579 € sur Amazon est apparu en premier sur Révolution […]",
+  "pub": "2026-11-25",
+  "ts": 1795600101.0,
+  "vu": "2026-11-25"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Avis de marchés publics dans le PV en France",
+  "lien": "https://www.pv-magazine.fr/2026/11/25/avis-de-marches-publics-dans-le-pv-en-france-148/",
+  "auteur": "Francois Puthod",
+  "resume": "Retrouvez chaque semaine dans pv magazine les appels d’offres publiés relatifs aux projets photovoltaïques en France.",
+  "pub": "2026-11-25",
+  "ts": 1795597200.0,
+  "vu": "2026-11-25"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "L’IPP Unite lève 20 millions d’euros pour financer deux volières photovoltaïques dans le Loiret",
+  "lien": "https://www.pv-magazine.fr/2026/11/25/lipp-unite-leve-20-millions-deuros-pour-financer-deux-volieres-photovoltaiques-dans-le-loiret/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Unite poursuit le développement de son portefeuille agrivoltaïque avec un nouveau financement de 20 millions d’euros destiné à construire deux volières photovoltaïques de 22 MWc dans le Loiret. Le groupe, qui a récemment mis en service trois installations totalisant 33,7 MWc […]",
+  "pub": "2026-11-25",
+  "ts": 1795595400.0,
+  "vu": "2026-11-25"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Voiture électrique : BYD veut produire en France",
+  "lien": "https://lenergeek.com/2026/11/25/byd-hambach-batteries-production-electrique-france/",
+  "auteur": "La Rédaction",
+  "resume": "BYD, premier producteur mondial de batteries lithium-ion, entre en négociations exclusives pour racheter l'usine de Hambach en Moselle. Cette implantation permettrait au géant chinois d'intégrer verticalement sa production énergétique, des cellules aux véhicules finis, sur le […]",
+  "pub": "2026-11-25",
+  "ts": 1795593300.0,
+  "vu": "2026-11-25"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Deux sociétés d’économie mixte s’associent autour du stockage dans les territoires",
+  "lien": "https://www.pv-magazine.fr/2026/11/25/deux-societes-deconomie-mixte-sassocient-autour-du-stockage-dans-les-territoires/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "La société d'économie mixte locale (SEML) Côte-D’Or Énergies, la SEML Saône-Et-Loire Énergies Renouvelables ont l'intention d'atteindre une capacité de stockage autorisée et raccordable de 10 MVA à l’horizon de fin 2027 en Côte d’Or, en Haute-Saône et en Saône-et-Loire.",
+  "pub": "2026-11-25",
+  "ts": 1795591800.0,
+  "vu": "2026-11-25"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "20,1 % d’efficacité pour les cellules solaires organiques grâce à l’auto-assemblage multicouche",
+  "lien": "https://www.enerzine.com/201-defficacite-pour-les-cellules-solaires-organiques-grace-a-lauto-assemblage-multicouche/201035-2026-11",
+  "auteur": "La rédaction",
+  "resume": "Les cellules solaires organiques suscitent un intérêt croissant car elles sont légères, flexibles et compatibles avec les procédés en solution à bas coût. Bien que leurs rendements se soient nettement améliorés ces dernières années, maintenir des performances élevées lors du […]",
+  "pub": "2026-11-25",
+  "ts": 1795579800.0,
+  "vu": "2026-11-25"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Des ingénieurs adaptent une astuce de la physique des lasers pour délivrer de la chaleur à la demande",
+  "lien": "https://www.enerzine.com/des-ingenieurs-adaptent-une-astuce-de-la-physique-des-lasers-pour-delivrer-de-la-chaleur-a-la-demande/201053-2026-11",
+  "auteur": "La rédaction",
+  "resume": "Lorsqu’un procédé a besoin d’une bouffée de chaleur, un approvisionnement constant peut ne pas suffire. Le stockage de l’énergie thermique et sa délivrance rapide constituent des défis pour des applications telles que la stérilisation, le nettoyage ou le démarrage de systèmes de […]",
+  "pub": "2026-11-25",
+  "ts": 1795576200.0,
+  "vu": "2026-11-25"
+ },
+ {
   "source": "Enerplan",
   "titre": "Le solaire vu par 100 maires",
   "lien": "https://www.enerplan.asso.fr/maires-solaires/",
@@ -51,10 +221,10 @@
  },
  {
   "source": "pv magazine France",
-  "titre": "TVA à 5,5 % sur le solaire : la résistance à la grêle comme critère fiscal ?",
+  "titre": "TVA à 5,5 % sur le solaire : la résistance à la grêle RG5 comme nouveau critère",
   "lien": "https://www.pv-magazine.fr/2026/11/24/tva-a-55-sur-le-solaire-la-resistance-a-la-grele-comme-critere-fiscal/",
   "auteur": "Francois Puthod",
-  "resume": "Un arrêté révisant la TVA à 5,5 % sur les installations photovoltaïques inférieures à 9 kWc devrait être publié prochainement. Il imposerait des panneaux résistant à la grêle RG5 et une installation par un professionnel qualifié.",
+  "resume": "Un arrêté révisant la TVA à 5,5 % sur les installations photovoltaïques inférieures à 9 kWc a été publié le 25 novembre. Il impose des panneaux résistant à la grêle RG5 et une installation par un professionnel qualifié.",
   "pub": "2026-11-24",
   "ts": 1795527000.0,
   "vu": "2026-11-24"
@@ -1598,95 +1768,5 @@
   "pub": "2026-11-15",
   "ts": 1794723000.0,
   "vu": "2026-11-15"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "À Maurice, le solaire gagne du terrain mais la part des renouvelables recule",
-  "lien": "https://lenergeek.com/2026/11/14/maurice-electricite-solaire-part-renouvelables-bilan-2025/",
-  "auteur": "La Rédaction",
-  "resume": "En 2025, les panneaux photovoltaïques mauriciens ont produit 52,8 GWh de plus qu’en 2024. Le recul de l’hydraulique a absorbé une partie de ce gain, tandis que les centrales au fioul et au diesel ont fourni près de la moitié de l’électricité du pays. L’article À Maurice, le […]",
-  "pub": "2026-11-14",
-  "ts": 1794696178.0,
-  "vu": "2026-11-15"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "La batterie domestique AURA 5000 doit rester éteinte en attendant un nouveau câble",
-  "lien": "https://lenergeek.com/2026/11/14/growatt-aura-5000-batterie-cable-remplacement/",
-  "auteur": "La Rédaction",
-  "resume": "Growatt dit avoir identifié la cause des surchauffes signalées sur sa batterie de stockage. Dans son avis du 13 novembre, le fabricant annonce des câbles de remplacement gratuits d’ici à la fin décembre et trois mois de garantie supplémentaires. L’article La batterie domestique […]",
-  "pub": "2026-11-14",
-  "ts": 1794688800.0,
-  "vu": "2026-11-15"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "À Saint-Avold, le deuxième parc de batteries peut restituer 65 mégawatts pendant deux heures",
-  "lien": "https://lenergeek.com/2026/11/14/saint-avold-deuxieme-parc-batteries-65-mw-deux-heures/",
-  "auteur": "La Rédaction",
-  "resume": "Sur le site de la centrale Émile-Huchet, en Moselle, deux parcs de batteries totalisent désormais 100 mégawatts. Le plus récent peut emmagasiner une partie de la production solaire de la journée pour la restituer au réseau le soir. L’article À Saint-Avold, le deuxième parc de […]",
-  "pub": "2026-11-14",
-  "ts": 1794685224.0,
-  "vu": "2026-11-15"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "En Allemagne, le tarif de rachat du solaire pourrait rester garanti jusqu’à 25 kW",
-  "lien": "https://lenergeek.com/2026/11/14/allemagne-solaire-toitures-25-kw-compromis-tarif-injection/",
-  "auteur": "La Rédaction",
-  "resume": "Le projet du gouvernement allemand prévoyait de supprimer la rémunération fixe des nouvelles installations. Les spécialistes de l’énergie de la coalition se sont entendus pour la maintenir sur les petites toitures. Le compromis doit encore franchir l’étape parlementaire […]",
-  "pub": "2026-11-14",
-  "ts": 1794681600.0,
-  "vu": "2026-11-15"
- },
- {
-  "source": "pv magazine",
-  "titre": "UNSW develops three-minute lithium-ion battery health test",
-  "lien": "https://www.pv-magazine.com/2026/11/14/unsw-develops-three-minute-lithium-ion-battery-health-test/",
-  "auteur": "Emiliano Bellini",
-  "resume": "Researchers at the University of New South Wales (UNSW) have developed a prototype that uses electrical pulses and statistical models to assess lithium-ion battery health in under three minutes per cell, with a potential role in sorting retired batteries for reuse or recycling.",
-  "pub": "2026-11-14",
-  "ts": 1794653220.0,
-  "vu": "2026-11-14"
- },
- {
-  "source": "pv magazine",
-  "titre": "Clarifying the CATL Tener Sodium, with new specifications and availability",
-  "lien": "https://www.pv-magazine.com/2026/11/14/clarifying-the-catl-tener-sodium-with-new-specifications-and-availability/",
-  "auteur": "Emiliano Bellini",
-  "resume": "New specs for CATL’s four-hour sodium-ion battery reveal how the company will market the product for cost benefits over LFP-based batteries. International deliveries are due to begin in summer 2027.",
-  "pub": "2026-11-14",
-  "ts": 1794645000.0,
-  "vu": "2026-11-14"
- },
- {
-  "source": "Révolution Énergétique",
-  "titre": "Un million d’euros de préjudice : les vols de câbles se multiplient sur les centrales photovoltaïques",
-  "lien": "https://www.revolution-energetique.com/actus/un-million-deuros-de-prejudice-les-vols-de-cables-se-multiplient-sur-les-centrales-photovoltaiques/",
-  "auteur": "Kevin CHAMPEAU",
-  "resume": "Les centrales photovoltaïques sont plus que jamais la cible des voleurs de métaux, alors que le cours du cuivre approche dangereusement les 14 000 dollars […] L’article Un million d’euros de préjudice : les vols de câbles se multiplient sur les centrales photovoltaïques est […]",
-  "pub": "2026-11-14",
-  "ts": 1794643926.0,
-  "vu": "2026-11-14"
- },
- {
-  "source": "pv magazine",
-  "titre": "Yanhe Technology launches three perovskite solar module technologies into orbit",
-  "lien": "https://www.pv-magazine.com/2026/11/14/yanhe-technology-launches-three-perovskite-solar-module-technologies-into-orbit/",
-  "auteur": "Emiliano Bellini",
-  "resume": "Beijing-based Yanhe Technology has launched three perovskite-based photovoltaic modules into low Earth orbit to assess their performance under space conditions. The mission will test perovskite-silicon tandem, perovskite-CIGS tandem, and flexible single-junction perovskite […]",
-  "pub": "2026-11-14",
-  "ts": 1794641400.0,
-  "vu": "2026-11-14"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Pourquoi un nuage blanc peut s’échapper d’une pompe à chaleur en hiver",
-  "lien": "https://lenergeek.com/2026/11/14/pompe-chaleur-degivrage-vapeur-givre-persistant/",
-  "auteur": "La Rédaction",
-  "resume": "Par temps froid et humide, le ventilateur d’une pompe à chaleur air/eau peut s’arrêter alors que la maison demande encore du chauffage. Pour savoir si l’appareil dégivre normalement, le meilleur indice est ce qui se passe quelques minutes plus tard. L’article Pourquoi un nuage […]",
-  "pub": "2026-11-14",
-  "ts": 1794620426.0,
-  "vu": "2026-11-14"
  }
 ]
