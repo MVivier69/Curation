@@ -1,5 +1,215 @@
 [
  {
+  "source": "GreenUnivers",
+  "titre": "L’agenda de la transition énergétique",
+  "lien": "https://www.greenunivers.com/2026/11/lagenda-de-la-transition-energetique-285-440027/",
+  "auteur": "Paul Messad",
+  "resume": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique […]",
+  "pub": "2026-11-27",
+  "ts": 1795795756.0,
+  "vu": "2026-11-27"
+ },
+ {
+  "source": "Futura Sciences",
+  "titre": "Froid, journées courtes et trajets pénibles : ce vélo électrique à prix cassé peut vous réconcilier avec les déplacements à vélo",
+  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-velos-trottinettes-froid-journees-courtes-trajets-penibles-ce-velo-electrique-prix-casse-peut-vous-reconcilier-deplacements-velo-11995/",
+  "auteur": "Mallory Delicourt, Journaliste",
+  "resume": "Le Cysum X-City est un vélo électrique urbain de 26 pouces qui permet de continuer à pédaler, même lorsque les conditions deviennent moins agréables. Son moteur de 250 W et sa batterie de 48 V apportent un soutien appréciable pour les déplacements réguliers, sans avoir à fournir […]",
+  "pub": "2026-11-27",
+  "ts": 1795791600.0,
+  "vu": "2026-11-27"
+ },
+ {
+  "source": "Batiactu",
+  "titre": "\"Si la transition est bloquée dans les territoires, elle le sera partout\", François Gemenne",
+  "lien": "https://www.batiactu.com/edito/si-transition-est-bloquee-dans-territoires-elle-sera-75977.php",
+  "auteur": "Batiactu",
+  "resume": "RÉNOVATIONS. L'alliance pour la décarbonation du bâtiment, à travers la voix de son président François Gemenne, dénonce la décision du gouvernement d'arrêter plusieurs programmes d'accompagnement à la rénovation énergétique.",
+  "pub": "2026-11-27",
+  "ts": 1795788419.0,
+  "vu": "2026-11-27"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Baromètre du solaire : la batterie gagne du terrain",
+  "lien": "https://www.pv-magazine.fr/2026/11/27/barometre-du-solaire-la-batterie-gagne-du-terrain/",
+  "auteur": "Francois Puthod",
+  "resume": "Revolt.eco publie la troisième édition de son « Baromètre du solaire », l'observatoire mensuel du photovoltaïque résidentiel français, consacrée au mois d'octobre 2026. Il intègre, pour la première fois, des données relatives au stockage physique et virtuel.",
+  "pub": "2026-11-27",
+  "ts": 1795788000.0,
+  "vu": "2026-11-27"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Cette kei car japonaise cache une batterie révolutionnaire",
+  "lien": "https://lenergeek.com/2026/11/27/batterie-lfp-ignis-ev-suzuki-kei-car/",
+  "auteur": "Adélaïde Motte",
+  "resume": "Suzuki dévoile l'Ignis EV, première kei car électrique pour l'Europe dès l'été 2027. Avec sa batterie LFP de 26 kWh, son moteur eAxle intégré de 91 ch et son poids plume de 1 080 kg, elle promet 250 à 280 km d'autonomie WLTP. Son architecture énergétique optimisée et sa recharge […]",
+  "pub": "2026-11-27",
+  "ts": 1795786438.0,
+  "vu": "2026-11-27"
+ },
+ {
+  "source": "Enerzine",
+  "titre": "Une centrale photovoltaïque de 3 000 kWc pour la STEP du Grand Reims",
+  "lien": "https://www.enerzine.com/une-centrale-photovoltaique-de-3-000-kwc-pour-la-step-du-grand-reims/201339-2026-11",
+  "auteur": "La rédaction",
+  "resume": "Dans un communiqué daté du 27 novembre 2026, la communauté urbaine du Grand Reims détaille une centrale photovoltaïque de 3 000 kWc sur le site de sa station d’épuration, dont la conception, la réalisation et la maintenance pendant huit ans ont été confiées à NGE et INITIAL […]",
+  "pub": "2026-11-27",
+  "ts": 1795785300.0,
+  "vu": "2026-11-27"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Une pompe à chaleur résidentielle tout-en-un fonctionnant au propane",
+  "lien": "https://www.pv-magazine.fr/2026/11/27/une-pompe-a-chaleur-residentielle-tout-en-un-fonctionnant-au-propane/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Le fabricant chinois Afore, spécialisé dans les onduleurs et les systèmes de stockage d’énergie, élargit son offre avec une nouvelle gamme de pompes à chaleur air-eau destinée au marché européen. Fonctionnant au propane (R290), ces appareils affichent des puissances calorifiques […]",
+  "pub": "2026-11-27",
+  "ts": 1795784400.0,
+  "vu": "2026-11-27"
+ },
+ {
+  "source": "Actu-Environnement",
+  "titre": "Lire notre dossier d'actu \"Présidentielle 2027 : l'environnement en campagne\"",
+  "lien": "https://www.actu-environnement.com/dossier-actu/dossier-actu-presidentielle-136",
+  "auteur": "",
+  "resume": "Électrification, nucléaire ou renouvelables, factures d'énergie, financement de l'eau, rénovation des logements, normes environnementales : à quelques mois de la présidentielle, fédérations, associations et experts interpellent les candidats. Si l...",
+  "pub": "2026-11-27",
+  "ts": 1795777956.0,
+  "vu": "2026-11-27"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Les cellules solaires tandem pérovskite-silicium accélèrent leur passage à l’industrialisation",
+  "lien": "https://www.pv-magazine.fr/2026/11/27/les-cellules-solaires-tandem-perovskite-silicium-accelerent-leur-passage-a-lindustrialisation/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "Alors que les cellules photovoltaïques classiques en silicium approchent de leur limite théorique de rendement, les fabricants misent sur les technologies tandem associant pérovskite et silicium. L’objectif est d’améliorer la production électrique tout en réduisant les coûts […]",
+  "pub": "2026-11-27",
+  "ts": 1795773600.0,
+  "vu": "2026-11-27"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Les documents de la semaine",
+  "lien": "https://www.greenunivers.com/2026/11/les-documents-de-la-semaine-381215/",
+  "auteur": "GreenUnivers",
+  "resume": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de […]",
+  "pub": "2026-11-27",
+  "ts": 1795772700.0,
+  "vu": "2026-11-08"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "[En images] Keller Pressure intègre 3 488 panneaux solaires mobiles à la façade de son bâtiment industriel",
+  "lien": "https://www.pv-magazine.fr/2026/11/27/en-images-keller-pressure-integre-3-488-panneaux-solaires-mobiles-a-la-facade-de-son-batiment-industriel/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "À Winterthur, en Suisse, Keller Pressure a équipé son nouveau bâtiment de production Diamant d’une façade photovoltaïque verticale de 115 kWc, équipée de panneaux mobiles. Associée à l’installation en toiture, elle doit permettre de produire environ 140 MWh d’électricité par an […]",
+  "pub": "2026-11-27",
+  "ts": 1795770000.0,
+  "vu": "2026-11-27"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "L’Italie attribue 16 GWh de capacités de stockage par batteries lors de son deuxième appel d’offres",
+  "lien": "https://www.pv-magazine.fr/2026/11/27/litalie-attribue-16-gwh-de-capacites-de-stockage-par-batteries-lors-de-son-deuxieme-appel-doffres/",
+  "auteur": "Gwénaëlle Deboutte",
+  "resume": "L’Italie a attribué la totalité des 16 GWh de capacités de stockage par batteries proposés lors de son deuxième appel d’offres dans le cadre du mécanisme d’achat de capacités de stockage d’électricité (MACSE). Les installations sélectionnées devront être opérationnelles en 2029 […]",
+  "pub": "2026-11-27",
+  "ts": 1795768200.0,
+  "vu": "2026-11-27"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "205 000 panneaux solaires pour 210 GWh par an : GreenIT voit grand en Sicile",
+  "lien": "https://lenergeek.com/2026/11/27/greenit-centrale-solaire-assoro-sicile/",
+  "auteur": "Paolo Garoscio",
+  "resume": "GreenIT a annoncé, jeudi 26 novembre 2026, le lancement de la construction d'une centrale photovoltaïque de 131 MWc à Assoro, en Sicile. Le groupe italien compte mettre en service sa plus grande installation solaire d'ici à la fin de l'année 2028. L’article 205 000 panneaux […]",
+  "pub": "2026-11-27",
+  "ts": 1795766460.0,
+  "vu": "2026-11-27"
+ },
+ {
+  "source": "pv magazine France",
+  "titre": "Ombrière solaire : Mecosun obtient un ATEC sur son système MVO",
+  "lien": "https://www.pv-magazine.fr/2026/11/27/ombriere-solaire-mecosun-obtient-un-atec-sur-son-systeme-mvo/",
+  "auteur": "Francois Puthod",
+  "resume": "L’entreprise du groupe Rector Lesage est la première à obtenir un Avis Technique dans la famille « Procédé Photovoltaïque sur ombrière » pour son système d’intégration étanche en aluminium, MVO.",
+  "pub": "2026-11-27",
+  "ts": 1795764600.0,
+  "vu": "2026-11-27"
+ },
+ {
+  "source": "Révolution Énergétique",
+  "titre": "Le monde ne se décarbone pas assez vite selon le dernier rapport de l’Agence internationale de l’énergie",
+  "lien": "https://www.revolution-energetique.com/actus/le-monde-ne-se-decarbone-pas-assez-vite-selon-le-dernier-rapport-de-lagence-internationale-de-lenergie/",
+  "auteur": "Kevin CHAMPEAU",
+  "resume": "L’évolution de la décarbonation du mix électrique fait régulièrement la une de l’actualité mondiale avec un déploiement toujours plus impressionnant d’énergies renouvelables, en particulier en […] L’article Le monde ne se décarbone pas assez vite selon le dernier rapport de […]",
+  "pub": "2026-11-27",
+  "ts": 1795761252.0,
+  "vu": "2026-11-27"
+ },
+ {
+  "source": "Transitions & Énergies",
+  "titre": "Tribune : Éolien et solaire : l’Allemagne a dépensé 500 milliards de dollars pour rester dépendante des énergies fossiles",
+  "lien": "https://www.transitionsenergies.com/tribune-eolien-et-solaire-lallemagne-a-depense-500-milliards-de-dollars-pour-rester-dependante-des-energies-fossiles/",
+  "auteur": "La rédaction",
+  "resume": "La Fédération de l’environnement durable (FED) dénonce le modèle allemand de transition énergétique privilégiant les renouvelables intermittents, éolien et solaire, qui est un échec total et que pourtant la France veut suivre. Après plus de 500 milliards de dollars dépensés […]",
+  "pub": "2026-11-27",
+  "ts": 1795751607.0,
+  "vu": "2026-11-27"
+ },
+ {
+  "source": "L'Écho du Solaire",
+  "titre": "À EnerGaïa, EcoFlow présente OCEAN 2 : une plateforme, trois architectures de secours",
+  "lien": "https://www.lechodusolaire.fr/a-energaia-ecoflow-presente-ocean-2-une-plateforme-trois-architectures-de-secours/",
+  "auteur": "Frédéric Fassot",
+  "resume": "Du secours de toute la maison au couplage AC d’une installation existante, la série OCEAN 2 et sa nouvelle batterie de 8 kWh couvrent les principaux scénarios du résidentiel. À découvrir les 9 et 10 décembre à Montpellier, Hall A4, stand C10. Le stockage résidentiel s’accélère […]",
+  "pub": "2026-11-26",
+  "ts": 1795736311.0,
+  "vu": "2026-11-27"
+ },
+ {
+  "source": "Enerplan",
+  "titre": "GT SOREN : Tri et collecte préservante des panneaux photovoltaïques en vue de leur réemploi",
+  "lien": "https://www.enerplan.asso.fr/gt-soren-tri-et-collecte-preservante-des-panneaux-photovoltaiques-en-vue-de-leur-reemploi/",
+  "auteur": "Marlène CHALVIN",
+  "resume": "",
+  "pub": "2026-11-26",
+  "ts": 1795716738.0,
+  "vu": "2026-11-27"
+ },
+ {
+  "source": "L'EnerGeek",
+  "titre": "Coût des panneaux solaires : ce qui fait varier le budget",
+  "lien": "https://lenergeek.com/2026/11/26/cout-panneaux-solaires-budget-261126/",
+  "auteur": "Stéphanie Haerts",
+  "resume": "Deux maisons voisines peuvent recevoir des devis très différents pour une installation solaire. Rien d’anormal à cela : le prix du photovoltaïque dépend d’une série de paramètres techniques et pratiques propres ... L’article Coût des panneaux solaires : ce qui fait varier le […]",
+  "pub": "2026-11-26",
+  "ts": 1795715438.0,
+  "vu": "2026-11-27"
+ },
+ {
+  "source": "Batiactu",
+  "titre": "Les panneaux solaires en fin de vie, une mine d'or pour les matières premières critiques",
+  "lien": "https://www.batiactu.com/edito/panneaux-solaires-fin-vie-veritable-mine-or-matieres-75971.php",
+  "auteur": "Batiactu",
+  "resume": "RECYCLAGE ET VALORISATION. Le recyclage photovoltaïque permet de valoriser l'ensemble des composants qui constituent ces équipements de production d'énergie renouvelable. Près de Grenoble, une entreprise française a mis en place des technologies de rupture qui permettent de […]",
+  "pub": "2026-11-26",
+  "ts": 1795712339.0,
+  "vu": "2026-11-27"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Raccordements, stockage, pompes à chaleur… : les coulisses du Salon des maires 2026",
+  "lien": "https://www.greenunivers.com/2026/11/raccordements-stockage-pompes-a-chaleur-les-coulisses-du-salon-des-maires-2026-439517/",
+  "auteur": "GreenUnivers",
+  "resume": "Producteurs et constructeurs de centrales d’énergie renouvelables étaient nombreux à exposer et visiter le Salon des maires et des collectivités locales organisé cette semaine à Paris. L’occasion pour la rédaction de GreenUnivers d’échanger avec eux et de publier une sélection […]",
+  "pub": "2026-11-26",
+  "ts": 1795711174.0,
+  "vu": "2026-11-27"
+ },
+ {
   "source": "Actu-Environnement",
   "titre": "L'utilité publique d'un centre pénitentiaire reconnue malgré son impact",
   "lien": "https://www.actu-environnement.com/ae/news/prison-val-de-marne-utilite-publique-terres-agricoles-48857.php4",
@@ -18,6 +228,16 @@
   "pub": "2026-11-26",
   "ts": 1795708149.0,
   "vu": "2026-11-26"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "La résiliation des obligations d’achat bientôt clarifiée pour le biométhane [CSE]",
+  "lien": "https://www.greenunivers.com/2026/11/la-resiliation-des-obligations-dachat-bientot-clarifiee-pour-le-biomethane-cse-439844/",
+  "auteur": "Thomas Blosseville",
+  "resume": "Nouvel ajustement en vue pour la filière biométhane. Un projet d’arrêté prévoit de clarifier les conditions dans lesquels un producteur peut L’article La résiliation des obligations d’achat bientôt clarifiée pour le biométhane [CSE] est apparu en premier sur GreenUnivers .",
+  "pub": "2026-11-26",
+  "ts": 1795707726.0,
+  "vu": "2026-11-27"
  },
  {
   "source": "pv magazine France",
@@ -58,6 +278,26 @@
   "pub": "2026-11-26",
   "ts": 1795705200.0,
   "vu": "2026-11-26"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Storengy veut créer de nouvelles cavités de stockage d’hydrogène",
+  "lien": "https://www.greenunivers.com/2026/11/storengy-veut-creer-de-nouvelles-cavites-de-stockage-dhydrogene-439467/",
+  "auteur": "Thomas Blosseville",
+  "resume": "Storengy prospecte dans l’Est de la France. La filiale d’Engie se donne deux ans pour y choisir un site où éventuellement créer un L’article Storengy veut créer de nouvelles cavités de stockage d’hydrogène est apparu en premier sur GreenUnivers .",
+  "pub": "2026-11-26",
+  "ts": 1795705189.0,
+  "vu": "2026-11-27"
+ },
+ {
+  "source": "GreenUnivers",
+  "titre": "Le stockage par batteries génère des revenus exceptionnels [La Plateforme Verte]",
+  "lien": "https://www.greenunivers.com/2026/11/le-stockage-par-batteries-genere-des-revenus-exceptionnels-a-lheure-actuelle-la-plateforme-verte-439834/",
+  "auteur": "Jean-Philippe Pié",
+  "resume": "Un site de batteries mises en service il y a deux ans « a déjà payé son capex » et profite d’un taux de retour sur investissement « supérieur à 20 % » indique Corentin Baschet, associé du cabinet de conseil Clean Horizon et responsable du groupe de travail sur le stockage de La […]",
+  "pub": "2026-11-26",
+  "ts": 1795702900.0,
+  "vu": "2026-11-27"
  },
  {
   "source": "Actu-Environnement",
@@ -1060,16 +1300,6 @@
   "vu": "2026-11-20"
  },
  {
-  "source": "GreenUnivers",
-  "titre": "Les documents de la semaine",
-  "lien": "https://www.greenunivers.com/2026/11/les-documents-de-la-semaine-381215/",
-  "auteur": "GreenUnivers",
-  "resume": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de […]",
-  "pub": "2026-11-20",
-  "ts": 1795161600.0,
-  "vu": "2026-11-08"
- },
- {
   "source": "Futura Sciences",
   "titre": "Black Friday BLUETTI 2026 : jusqu'à 36 % de réduction sur les solutions d'énergie solaire",
   "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-energie-black-friday-bluetti-2026-jusqua-36-reduction-solutions-energie-solaire-11899/",
@@ -1718,235 +1948,5 @@
   "pub": "2026-11-17",
   "ts": 1794896414.0,
   "vu": "2026-11-17"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Solaire : le Groupe Solges Energy en redressement judiciaire",
-  "lien": "https://www.greenunivers.com/2026/11/solaire-le-groupe-solges-energy-en-redressement-judiciaire-438858/",
-  "auteur": "Jacopo Landi",
-  "resume": "Fondé en 2023 et spécialisé dans le développement et l’exploitation de projets photovoltaïques, notamment sur terrains dégradés ou en milieu agricole, le Groupe Solges Energy est désormais L’article Solaire : le Groupe Solges Energy en redressement judiciaire est apparu en […]",
-  "pub": "2026-11-16",
-  "ts": 1794847134.0,
-  "vu": "2026-11-17"
- },
- {
-  "source": "Révolution Énergétique",
-  "titre": "Black Friday 2026 : Zendure offre des accessoires indispensables avec ses batteries",
-  "lien": "https://www.revolution-energetique.com/actus/black-friday-2026-zendure-offre-des-accessoires-indispensables-avec-ses-batteries/",
-  "auteur": "Bons Plans",
-  "resume": "Le fabricant de batteries solaires prêtes à brancher Zendure a lancé le 12 novembre sa campagne Black Friday en France. Jusqu’au 7 décembre 2026, cinq […] L’article Black Friday 2026 : Zendure offre des accessoires indispensables avec ses batteries est apparu en premier sur […]",
-  "pub": "2026-11-16",
-  "ts": 1794846971.0,
-  "vu": "2026-11-17"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Un plan pour le solaire thermique mais sans argent",
-  "lien": "https://www.greenunivers.com/2026/11/un-plan-pour-le-solaire-thermique-mais-sans-argent-438790/",
-  "auteur": "Thomas Blosseville",
-  "resume": "Le plan de relance de la chaleur solaire est enfin publié. Ce plan attendu de longue date, espéré l’an dernier, émerge au terme d’une année largement dominée en France par l’électrification. La question du financement de L’article Un plan pour le solaire thermique mais sans […]",
-  "pub": "2026-11-16",
-  "ts": 1794846461.0,
-  "vu": "2026-11-17"
- },
- {
-  "source": "Batiactu",
-  "titre": "Solaire thermique : le plan du gouvernement séduit la filière, mais à certaines conditions",
-  "lien": "https://www.batiactu.com/edito/solaire-thermique-la-priorite-doit-porter-sur-equite-75869.php",
-  "auteur": "Batiactu",
-  "resume": "RENOUVELABLE. CEE, Fonds chaleur : les représentants du solaire thermique demandent au gouvernement un soutien à la hauteur des ambitions du plan national tout juste dévoilé.",
-  "pub": "2026-11-16",
-  "ts": 1794844775.0,
-  "vu": "2026-11-17"
- },
- {
-  "source": "Batiactu",
-  "titre": "Le gouvernement dévoile son plan d'action national pour le solaire thermique",
-  "lien": "https://www.batiactu.com/edito/gouvernement-devoile-son-plan-action-national-solaire-75866.php",
-  "auteur": "Batiactu",
-  "resume": "RENOUVELABLES. Le plan national qui doit permettre à la filière du solaire thermique de tenir les objectifs de production de chaleur fixés par la programmation pluriannuelle de l'énergie 3 (PPE3) est lancé.",
-  "pub": "2026-11-16",
-  "ts": 1794843719.0,
-  "vu": "2026-11-17"
- },
- {
-  "source": "pv magazine France",
-  "titre": "HoloSolis lève 15 millions d’euros et accueille quatre nouveaux actionnaires",
-  "lien": "https://www.pv-magazine.fr/2026/11/16/holosolis-leve-15-millions-deuros-et-accueille-quatre-nouveaux-actionnaires/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "L’industriel français HoloSolis renforce ses financements avec une levée de fonds de série A de plus de 15 millions d’euros et l’arrivée de quatre nouveaux actionnaires. Une étape supplémentaire pour préparer la construction de sa future usine de panneaux photovoltaïques à […]",
-  "pub": "2026-11-16",
-  "ts": 1794843000.0,
-  "vu": "2026-11-17"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Modules solaires : les prix reculent après le rebond de l’été",
-  "lien": "https://www.greenunivers.com/2026/11/modules-solaires-les-prix-reculent-apres-le-rebond-de-lete-438769/",
-  "auteur": "GreenUnivers",
-  "resume": "Les prix des modules solaires se stabilisent en Europe sur les deux derniers mois, mais restent en forte hausse depuis le début de l’année, de l’ordre de L’article Modules solaires : les prix reculent après le rebond de l’été est apparu en premier sur GreenUnivers .",
-  "pub": "2026-11-16",
-  "ts": 1794840491.0,
-  "vu": "2026-11-17"
- },
- {
-  "source": "Actu-Environnement",
-  "titre": "La chaleur solaire a enfin son plan",
-  "lien": "https://www.actu-environnement.com/ae/news/plan-national-solaire-thermique-deploiement-48802.php4",
-  "auteur": "",
-  "resume": "Après deux ans de travaux, le plan national pour le solaire thermique a enfin été dévoilé. Il vise à accélérer le déploiement de cette solution dans les bâtiments, mais aussi dans les activités économiques consommatrices de chaleur.",
-  "pub": "2026-11-16",
-  "ts": 1794838170.0,
-  "vu": "2026-11-16"
- },
- {
-  "source": "pv magazine France",
-  "titre": "288 kWc en autoconsommation collective dans le Vaucluse",
-  "lien": "https://www.pv-magazine.fr/2026/11/16/288-kwc-en-autoconsommation-collective-dans-le-vaucluse/",
-  "auteur": "Francois Puthod",
-  "resume": "À Caumont-sur-Durance (Vaucluse), le parking et la toiture d'un bâtiment de stockage accueillent une centrale solaire, dont la production servira à alimenter une boucle d’autoconsommation collective.",
-  "pub": "2026-11-16",
-  "ts": 1794837600.0,
-  "vu": "2026-11-16"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Pour ses Falcon, Dassault préfère les carburants durables à l’hydrogène",
-  "lien": "https://lenergeek.com/2026/11/16/dassault-trappier-hydrogene-carburants-durables-rtl-15-novembre/",
-  "auteur": "La Rédaction",
-  "resume": "Interrogé le 15 novembre sur RTL, Éric Trappier a réaffirmé son scepticisme sur l’avion à hydrogène. Le patron de Dassault privilégie les carburants durables et des appareils moins gourmands, face aux difficultés de stockage et d’intégration de l’hydrogène à bord. L’article Pour […]",
-  "pub": "2026-11-16",
-  "ts": 1794836400.0,
-  "vu": "2026-11-16"
- },
- {
-  "source": "Enerzine",
-  "titre": "Raccordement EnR et IRVE tertiaire : le casse-tête de la protection des départs pour les installateurs B2B",
-  "lien": "https://www.enerzine.com/raccordement-enr-et-irve-tertiaire-le-casse-tete-de-la-protection-des-departs-pour-les-installateurs-b2b/200537-2026-11",
-  "auteur": "La rédaction",
-  "resume": "Installer des panneaux photovoltaïques en toiture ou des bornes de recharge sur le parking d’une entreprise oblige en pratique à regarder au-delà des circuits à ajouter. Au tableau général basse tension (TGBT), la production locale et les nouveaux usages modifient les conditions […]",
-  "pub": "2026-11-16",
-  "ts": 1794835866.0,
-  "vu": "2026-11-16"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Centres de données et climat : l’ONU exige une électricité propre en plus de la demande de l’IA",
-  "lien": "https://lenergeek.com/2026/11/16/centres-donnees-ia-electricite-propre-climat-cop31/",
-  "auteur": "Aurélie Giraud",
-  "resume": "À la COP31, le 16 novembre 2026, Simon Stiell a demandé aux entreprises de l’intelligence artificielle d’alimenter leurs centres de données avec des énergies renouvelables, sans faire supporter aux autres consommateurs les coûts de leur expansion. Le choix du mode de production […]",
-  "pub": "2026-11-16",
-  "ts": 1794834900.0,
-  "vu": "2026-11-16"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Des batteries domestiques Anker Solix pilotées par Frank Énergie",
-  "lien": "https://www.pv-magazine.fr/2026/11/16/des-batteries-domestiques-anker-solix-pilotees-par-frank-energie/",
-  "auteur": "Francois Puthod",
-  "resume": "En associant leurs expertises, Frank Énergie et Anker Solix entendent faciliter l’accès des particuliers au stockage intelligent de l’énergie et accompagner l’évolution des usages liés à la production solaire.",
-  "pub": "2026-11-16",
-  "ts": 1794834000.0,
-  "vu": "2026-11-16"
- },
- {
-  "source": "pv magazine",
-  "titre": "PV and batteries could help cut global power costs by 40% in 2030s",
-  "lien": "https://www.pv-magazine.com/2026/11/16/pv-and-batteries-could-help-cut-global-power-costs-by-40-in-2030s/",
-  "auteur": "Emiliano Bellini",
-  "resume": "A Schneider Electric Research Institute analysis of 40,500 scenarios finds that coordinated investment in distributed solar, battery energy storage and electrified demand could reduce total global electricity system costs by up to 40% in the 2030s, provided technology costs fall […]",
-  "pub": "2026-11-16",
-  "ts": 1794833672.0,
-  "vu": "2026-11-16"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "COMAC réussit le premier vol habité de son avion électrique CE-25A",
-  "lien": "https://lenergeek.com/2026/11/16/batterie-catl-ce-25a-moteurs-electriques-aviation/",
-  "auteur": "Paolo Garoscio",
-  "resume": "Le 14 novembre 2026, COMAC a réussi le premier vol habité de son CE-25A, avion électrique de 19 places équipé de dix moteurs alimentés par des batteries CATL. Cette architecture énergétique inédite valide une rupture technologique dans l'aviation régionale, avec une autonomie de […]",
-  "pub": "2026-11-16",
-  "ts": 1794831027.0,
-  "vu": "2026-11-16"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "Allemagne : TotalEnergies battu par Kretinsky pour les centrales à gaz",
-  "lien": "https://lenergeek.com/2026/11/16/centrales-gaz-allemagne-transition/",
-  "auteur": "Cédric Bonnefoy",
-  "resume": "Le milliardaire tchèque Daniel Kretinsky remporte plusieurs contrats stratégiques en Allemagne pour la construction de centrales à gaz de secours, devançant TotalEnergies. Ces installations doivent pallier l'intermittence des renouvelables avant la fermeture du charbon en 2038 […]",
-  "pub": "2026-11-16",
-  "ts": 1794830869.0,
-  "vu": "2026-11-16"
- },
- {
-  "source": "pv magazine",
-  "titre": "Solar, wind and batteries can deliver firm power at $0.086/kWh, says Ember",
-  "lien": "https://www.pv-magazine.com/2026/11/16/solar-wind-and-batteries-can-deliver-firm-power-at-e78-mwh-says-ember/",
-  "auteur": "Pilar Sánchez Molina",
-  "resume": "An analysis by Ember finds that adding wind power to solar PV and battery storage systems reduces the median cost of meeting 90% of electricity demand from $105/MWh to $86/MWh. The cost could fall further to $52/MWh by 2050, based on the regional cost projections used in the […]",
-  "pub": "2026-11-16",
-  "ts": 1794830747.0,
-  "vu": "2026-11-16"
- },
- {
-  "source": "Futura Sciences",
-  "titre": "Pre-Black Friday : ce puissant onduleur solaire hybride de 5500 W voit son tarif chuter de 88 € !",
-  "lien": "https://www.futura-sciences.com/conso/bons-plans/guides-energie-renouvelable-pre-black-friday-ce-puissant-onduleur-solaire-hybride-5500-w-voit-son-tarif-chuter-88-11852/",
-  "auteur": "Équipe Bons plans, Contenu avec affiliation",
-  "resume": "Réduire sa facture d'électricité ou sécuriser son installation photovoltaïque hors réseau devient nettement plus accessible !",
-  "pub": "2026-11-16",
-  "ts": 1794828606.0,
-  "vu": "2026-11-16"
- },
- {
-  "source": "GreenUnivers",
-  "titre": "Industrie solaire : HoloSolis accueille quatre nouveaux actionnaires dont deux chinois",
-  "lien": "https://www.greenunivers.com/2026/11/industrie-solaire-holosolis-accueille-quatre-nouveaux-actionnaires-dont-deux-chinois-438735/",
-  "auteur": "Jean-Philippe Pié",
-  "resume": "Porteur depuis 2023 d’un projet d’usine de 5 GW de modules solaires par an en France, Holosolis boucle à 15 M€ sa levée de fonds de type « Serie A ». Quatre actionnaires entrent au capital apportant grosso modo 2,5 M€ chacun : le Crédit Agricole via quatre caisses régionales, la […]",
-  "pub": "2026-11-16",
-  "ts": 1794824869.0,
-  "vu": "2026-11-17"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Électricité : et si votre maison vous aidait à reprendre la main sur votre facture ?",
-  "lien": "https://www.pv-magazine.fr/2026/11/16/electricite-et-si-votre-maison-vous-aidait-a-reprendre-la-main-sur-votre-facture/",
-  "auteur": "Bernadette Geyer",
-  "resume": "Face à la hausse des prix de l’électricité, les Français cherchent à reprendre la maîtrise de leur facture énergétique. L’autoconsommation solaire, associée au stockage par batterie, offre une solution concrète pour mieux valoriser sa production et réduire sa dépendance au […]",
-  "pub": "2026-11-16",
-  "ts": 1794823200.0,
-  "vu": "2026-11-16"
- },
- {
-  "source": "pv magazine France",
-  "titre": "Masdar achève un projet solaire et de stockage par batteries de 875 millions d’euros en Californie",
-  "lien": "https://www.pv-magazine.fr/2026/11/16/masdar-acheve-un-projet-solaire-et-de-stockage-par-batteries-de-875-millions-deuros-en-californie/",
-  "auteur": "Gwénaëlle Deboutte",
-  "resume": "Le développeur d’énergies propres basé à Abou Dhabi et son partenaire dans le cadre de leur coentreprise, Terra-Gen, ont mis en service le complexe de Lockhart. Celui-ci ajoute 365 MW de capacité de production solaire et 173,7 MW de stockage d’énergie au réseau électrique […]",
-  "pub": "2026-11-16",
-  "ts": 1794814200.0,
-  "vu": "2026-11-16"
- },
- {
-  "source": "L'EnerGeek",
-  "titre": "En Chine, la production hydroélectrique chute de 18,9 % sur un an en octobre",
-  "lien": "https://lenergeek.com/2026/11/16/chine-production-hydroelectrique-octobre-2026/",
-  "auteur": "La Rédaction",
-  "resume": "En octobre, les grands producteurs chinois d’électricité ont enregistré une baisse de 18,9 % de leur production hydraulique sur un an. L’éolien et le solaire progressent chacun de plus de 30 %, mais le volume total d’électricité produit recule de 2,1 %. L’article En Chine, la […]",
-  "pub": "2026-11-16",
-  "ts": 1794810897.0,
-  "vu": "2026-11-16"
- },
- {
-  "source": "Transitions & Énergies",
-  "titre": "Les vols de câbles en cuivre sont devenus le fléau des bornes de recharge et des parcs photovoltaïques",
-  "lien": "https://www.transitionsenergies.com/vols-cables-cuivre-fleau-bornes-recharge-parcs-photovoltaiques/",
-  "auteur": "La rédaction",
-  "resume": "Les cours de cuivre battent des records historiques à près de 15.000 dollars la tonne et la crainte grandit dans le monde d’une pénurie d’un métal qui est tout simplement indispensable à la transition énergétique et à l’électrification. Le pétrole du XXIème siècle pour employer […]",
-  "pub": "2026-11-16",
-  "ts": 1794793542.0,
-  "vu": "2026-11-16"
  }
 ]
